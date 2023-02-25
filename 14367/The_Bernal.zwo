@@ -1,0 +1,103 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>The Bernal</name>
+    <description>Egan Bernal, the first Colombian to ever win the Tour de France in 2019 and 2021 Giro d'Italia champion, is one of the best climbers of his generation. Today's workout features over/unders, specific efforts that helped shape his fitness to world-champ level. Over/unders are defined as doing 'x' time 'under' FTP, then 'x' time 'over' FTP. We'll also add a cadence twist today—aiming for high cadence during the under and low cadence during the over. Doing this will improve your force production capability.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="ineos2021"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480.00003" PowerLow="0.5" PowerHigh="0.75" pace="1428186484">
+            <textevent timeoffset="0" message="Welcome to the INEOS Grenadiers Virtual Training Camp!"/>
+            <textevent timeoffset="10" message="Let&apos;s get started with an easy warm-up, keep your cadence comfortable."/>
+            <textevent timeoffset="60" message="The INEOS Grenadiers is one of the world&apos;s most successful cycling teams."/>
+            <textevent timeoffset="70" message="The team has a thirst for a good challenge and a pioneering spirit that allows them to keep pushing themselves and the wider sport of cycling forward."/>
+            <textevent timeoffset="120" message="The INEOS Grenadiers Virtual Training Camp gives Zwifters a taste of the training these riders undertake in preparation for their season."/>
+            <textevent timeoffset="130" message="Each workout features a team rider and is tailored to what they would do in their own training."/>
+            <textevent timeoffset="140" message="Today&apos;s workout features Egan Bernal, 2019 Tour de France and 2021 Giro d&apos;Italia champion."/>
+            <textevent timeoffset="150" message="Egan says &apos;My interval ride is designed to test your 1:1 and 2:1 work to rest ratio, helping you to work on your ability to knock out challenging efforts without fully recovering.&apos;"/>
+            <textevent timeoffset="180" message="The workout is a staple in Bernal&apos;s training repertoire: over/unders."/>
+            <textevent timeoffset="190" message="Over/unders are defined as doing &apos;x&apos; time &apos;under&apos; FTP, then &apos;x&apos; time &apos;over&apos; FTP."/>
+            <textevent timeoffset="200" message="We&apos;ll also add a cadence twist today—aiming for high cadence during the under and low cadence during the over."/>
+            <textevent timeoffset="210" message="Doing this will improve your force production capability and ability to work at a wider cadence range."/>
+            <textevent timeoffset="240" message="This workout is perfect for climbers, like Bernal, and is something he&apos;d work on frequently during training camps."/>
+            <textevent timeoffset="250" message="Let&apos;s continue with the warm-up."/>
+            <textevent timeoffset="420" message="Coming up next is a set of primers."/>
+            <textevent timeoffset="430" message="Primers help further prepare the legs for the work ahead."/>
+            <textevent timeoffset="440" message="We&apos;ll do two 30sec hard efforts with 30sec easy efforts in between between."/>
+            <textevent timeoffset="470" message="Ready to go? Aim for a higher cadence for the hard efforts next."/>
+        </Warmup>
+        <IntervalsT Repeat="2" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.15" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="FAST CADENCE HERE!"/>
+            <textevent timeoffset="30" message="Great work. Bring the effort down again and resume a comfortable cadence."/>
+            <textevent timeoffset="60" message="GO GO GO!"/>
+            <textevent timeoffset="90" message="Awesome! Let&apos;s take a little bit to rest up and recover before the main set."/>
+        </IntervalsT>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="2min nice and easy here. Start to narrow your focus and prepare for the day."/>
+            <textevent timeoffset="10" message="These efforts will start off feeling easy, but will challenge you by the end."/>
+            <textevent timeoffset="20" message="I know you&apos;re strong though, just like Bernal, and won&apos;t crack under the pressure."/>
+            <textevent timeoffset="60" message="Egan thinks &apos;Zwift is not only a great platform to prepare for competitions, but also a fantastic recovery tool to help riders safely return from injury.&apos;"/>
+            <textevent timeoffset="90" message="Take a couple deep breaths, let go of any tension in your upper body, and get ready."/>
+            <textevent timeoffset="110" message="Okay, We&apos;re starting off just under FTP and at 90 RPM."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="60.000004" OnPower="0.89999998" OffPower="1.05" pace="1428186484" OverUnder="1" Cadence="90" CadenceResting="75">
+            <textevent timeoffset="0" message="Here we go! This effort should feel comfortable and like a 7/10 perceived effort."/>
+            <textevent timeoffset="10" message="If it doesn&apos;t, you can always adjust your FTP bias up or down."/>
+            <textevent timeoffset="60" message="Great work so far. You should be settled down now and just cruising."/>
+            <textevent timeoffset="90" message="Up next, we&apos;ll surge over FTP, but at 75 RPM."/>
+            <textevent timeoffset="100" message="The low cadence will improve your force production and strength."/>
+            <textevent timeoffset="110" message="Ready?"/>
+            <textevent timeoffset="120" message="Okay, cadence down and power up for 1min."/>
+            <textevent timeoffset="150" message="Halfway! Stay solid here and drive all the force to the pedals."/>
+            <textevent timeoffset="180" message="Great work! Let&apos;s bring the cadence back up again and recover under some pressure."/>
+            <textevent timeoffset="240" message="Deep breaths now...learning how to recover after an effort is a great skill."/>
+            <textevent timeoffset="250" message="And something Bernal is notorious for!"/>
+            <textevent timeoffset="300" message="Slow the cadence down again and remember to stay seated."/>
+            <textevent timeoffset="330" message="Focus on your pedal stroke. Push, scrape, pull, kick."/>
+            <textevent timeoffset="360" message="Excellent! Let&apos;s try to recover again here—just 1 more over to go!"/>
+            <textevent timeoffset="420" message="You&apos;re doing so well today and getting a solid workout in."/>
+            <textevent timeoffset="480" message="Okay, last over effort here—you know the drill!"/>
+            <textevent timeoffset="510" message="Just 30sec to go, keep at it!"/>
+            <textevent timeoffset="530" message="Push for the arch!"/>
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Nice one! That first interval set was no match for you."/>
+            <textevent timeoffset="10" message="Let&apos;s take 5min nice and easy here, then we&apos;ll repeat that once more."/>
+            <textevent timeoffset="60" message="Egan Bernal hails from Colombia and is the first Latin American rider to win the Tour de France."/>
+            <textevent timeoffset="120" message="Other notable wins for Bernal are Paris-Nice and the Tour de Suisse."/>
+            <textevent timeoffset="180" message="He also has off-road chops and podiumed on numerous cross-country MTB championships."/>
+            <textevent timeoffset="240" message="Back to the action! 1min to go here, then we&apos;re repeating that same interval set."/>
+            <textevent timeoffset="290" message="Here we go, starting off with the &apos;under&apos; at around 90 RPM."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="60.000004" OnPower="0.89999998" OffPower="1.05" pace="1428186484" OverUnder="1" Cadence="90" CadenceResting="75">
+            <textevent timeoffset="0" message="You know what to do! Settle back into this quickly."/>
+            <textevent timeoffset="60" message="Keep at it now, you&apos;re looking good so far."/>
+            <textevent timeoffset="90" message="Up next, we&apos;ll do another low cadence surge."/>
+            <textevent timeoffset="100" message="Try to push from your hips and drive all the power to the pedals."/>
+            <textevent timeoffset="110" message="Ready?"/>
+            <textevent timeoffset="120" message="Okay, cadence down and power up for 1min."/>
+            <textevent timeoffset="150" message="There&apos;s halfway! Stay solid here and keep driving all the force to the pedals."/>
+            <textevent timeoffset="180" message="Great work! Let&apos;s bring the cadence back up again and recover under some pressure."/>
+            <textevent timeoffset="240" message="C&apos;mon! This is when Bernal shines—when his competitors are tired."/>
+            <textevent timeoffset="300" message="Slow the cadence down again and remember to stay seated."/>
+            <textevent timeoffset="330" message="Focus on your pedal stroke. Push, scrape, pull, kick."/>
+            <textevent timeoffset="360" message="Alright, let&apos;s try to recover again here—just 1 more over to go!"/>
+            <textevent timeoffset="480" message="Okay, last effort for the day, drill it!"/>
+            <textevent timeoffset="510" message="Just 30sec to go, keep at it!"/>
+            <textevent timeoffset="530" message="Push for the arch!"/>
+        </IntervalsT>
+        <Cooldown Duration="300" PowerLow="0.55000001" PowerHigh="0.34999996" pace="1428186484">
+            <textevent timeoffset="0" message="Woo-hoo! Amazing work there, my friend."/>
+            <textevent timeoffset="10" message="We&apos;ll take some time to cool down now. You earned it!"/>
+            <textevent timeoffset="30" message="Egan&apos;s recovery tip: &apos;When riders are expending thousands of calories through their training programmes..."/>
+            <textevent timeoffset="40" message="it is important to replace them and fuel your body with everything that it needs to recover.&apos;"/>
+            <textevent timeoffset="60" message="Deep breaths here, get yourself back to baseline again."/>
+            <textevent timeoffset="120" message="Be sure to check out the other INEOS Grenadiers Training Camp Workouts."/>
+            <textevent timeoffset="130" message="They&apos;re all available on-demand and will fit any intensity you&apos;re looking for."/>
+            <textevent timeoffset="240" message="Final minute of the day here, thank you for your hard work today!"/>
+            <textevent timeoffset="250" message="I hope you enjoyed the workout and will come back for more soon."/>
+            <textevent timeoffset="290" message="Until next time, Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

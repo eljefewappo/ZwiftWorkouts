@@ -1,0 +1,89 @@
+<workout_file>
+    <author>E.Wappo [Strokers]</author>
+    <name>Grin And Bear It</name>
+    <description>Put on your spelunking helmet, because we're going deep into the pain cave. A series of short, hard efforts will wear you down, before a long mega-effort pushes you to the limit. The only way through is to grin and bear it.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="RECOMMENDABLE"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.5" PowerHigh="0.75" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="Welcome to Grin and Bear it! Let&apos;s go."/>
+            <textevent timeoffset="10" message="Let&apos;s get started with an 8min warmup."/>
+            <textevent timeoffset="20" message="Keep your cadence comfortable around 85 RPM to start."/>
+            <textevent timeoffset="120" message="Do a quick check to make sure you have your fan, fluids, and towel all set."/>
+            <textevent timeoffset="240" message="1min here, then we&apos;ll increase the cadence to 95 RPM and continue the warmup."/>
+            <textevent timeoffset="250" message="Let&apos;s also chat about the plan for today."/>
+            <textevent timeoffset="260" message="We have a hard workout planned for today consisting of 30/30 efforts."/>
+            <textevent timeoffset="270" message="Which finishes with a 5min zone 5 effort to push you to the limit."/>
+            <textevent timeoffset="280" message="This workout serves to improve your ability to repeat hard efforts."/>
+            <textevent timeoffset="290" message="As well as improve your max aerobic power."/>
+        </Warmup>
+        <Ramp Duration="120.00001" PowerLow="0.75" PowerHigh="0.89999998" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="All right, bring the cadence up to 95 RPM now."/>
+            <textevent timeoffset="10" message="And we&apos;ll progress through zone 3."/>
+            <textevent timeoffset="90" message="In 30sec, we&apos;ll increase cadence to 100 RPM and head up to zone 4."/>
+        </Ramp>
+        <Ramp Duration="60.000004" PowerLow="0.89999998" PowerHigh="1" pace="1428186484" Cadence="105">
+            <textevent timeoffset="0" message="Fast feet here!"/>
+            <textevent timeoffset="30" message="30sec, keep the legs spinning quick!"/>
+        </Ramp>
+        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484" Cadence="85">
+            <textevent timeoffset="0" message="Great work! Let&apos;s take 2min easy now before starting the main set."/>
+            <textevent timeoffset="30" message="Deep breaths here, and take a sip of fluid."/>
+            <textevent timeoffset="60" message="All right, in 1min we&apos;ll start the 30/30 efforts."/>
+            <textevent timeoffset="70" message="We&apos;ll start with 10 times, 30sec @105% FTP, with 30sec rest."/>
+            <textevent timeoffset="80" message="Then, we&apos;ll progress to 10 times, 30sec @108% FTP, with 30sec rest."/>
+            <textevent timeoffset="90" message="Before our finale which is 5min steady state @110% FTP!"/>
+            <textevent timeoffset="110" message="Here we go, get ready to increase your cadence a bit for the work efforts."/>
+        </SteadyState>
+        <IntervalsT Repeat="10" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.05" OffPower="0.5" pace="1428186484" Cadence="95" CadenceResting="85">
+            <textevent timeoffset="0" message="Faster cadence here. The 1st handful of these will feel easy."/>
+            <textevent timeoffset="30" message="Good, now lower your cadence a bit and recover."/>
+            <textevent timeoffset="60" message="Back up to 95 RPM again."/>
+            <textevent timeoffset="90" message="And recover at 85 RPM - you get the idea now :-)"/>
+            <textevent timeoffset="120" message="Aim for consistency during the work efforts, and pace yourself early on here."/>
+            <textevent timeoffset="150" message="These feel easy now, but remember we have 20 reps to do before the max aerobic effort."/>
+            <textevent timeoffset="240" message="Great work so far today! Keep hitting these consistently and stay solid."/>
+            <textevent timeoffset="300" message="This is halfway through the 1st set, keep it up!"/>
+            <textevent timeoffset="420" message="Keep your form here - shoulders relaxed, elbows bent slightly, light grip on the bars."/>
+            <textevent timeoffset="540" message="Last one for these! We&apos;ll target an even higher power next."/>
+            <textevent timeoffset="590" message="Get ready to push up to 108% FTP next!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="10" OnDuration="30" OffDuration="30" OnPower="1.0793182" OffPower="0.50204545" pace="1428186484" Cadence="95" CadenceResting="85">
+            <textevent timeoffset="0" message="Same cadence here, but slightly more power! You got this!"/>
+            <textevent timeoffset="30" message="Excellent work! Back down again and recover."/>
+            <textevent timeoffset="120" message="Push it!"/>
+            <textevent timeoffset="150" message="Make sure you&apos;re sipping those fluids today."/>
+            <textevent timeoffset="240" message="Hit it! C&apos;mon, keep the leg speed up and attack these work intervals!"/>
+            <textevent timeoffset="300" message="Halfway through this 2nd set! Awesome work, my friend!"/>
+            <textevent timeoffset="420" message="Just a little more to go before the max aerobic interval."/>
+            <textevent timeoffset="430" message="Start to really prioritize your recovery in between these surges."/>
+            <textevent timeoffset="540" message="Last one, then we&apos;ll put the cherry on top of the day!"/>
+            <textevent timeoffset="570" message="Nicely done. Breathe, take a sip of fluid, and prepare to suffer a bit next."/>
+            <textevent timeoffset="580" message="We&apos;re going to target 90 RPM for the next effort, YOU CAN DO THIS!"/>
+            <textevent timeoffset="590" message="Time to get stronger! Let&apos;s get after it!"/>
+        </IntervalsT>
+        <SteadyState Duration="300" Power="1.1" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="Target 90 RPM here, and stay in control!"/>
+            <textevent timeoffset="30" message="You&apos;ll feel fatigued coming into this interval, which is the point."/>
+            <textevent timeoffset="40" message="This is a great way to develop your ability to suffer more."/>
+            <textevent timeoffset="50" message="As well as improve your max aerobic power."/>
+            <textevent timeoffset="120" message="C&apos;mon! Grin and bear it here!"/>
+            <textevent timeoffset="150" message="Nice work so far! Keep ticking those pedals over and stay in control."/>
+            <textevent timeoffset="180" message="Just 2min to go and we&apos;re DONE! GO GO!"/>
+            <textevent timeoffset="240" message="Last minute and you made it! PUSH IT!"/>
+            <textevent timeoffset="270" message="C&apos;mon! Just 30sec to go!"/>
+            <textevent timeoffset="290" message="GET TO THE ARCH!"/>
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow="0.5" PowerHigh="0.30000001" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="Yeah! Amazing work today, my friend!"/>
+            <textevent timeoffset="10" message="That was a very hard finishing interval, but you handled it well."/>
+            <textevent timeoffset="20" message="You should be proud of yourself for that!"/>
+            <textevent timeoffset="30" message="We&apos;ll spend 5min cooling down now."/>
+            <textevent timeoffset="40" message="Then hop off the bike and start the recovery process."/>
+            <textevent timeoffset="50" message="Enjoy the rest of the cooldown."/>
+            <textevent timeoffset="60" message="And see you next time :-)"/>
+        </Cooldown>
+    </workout>
+</workout_file>

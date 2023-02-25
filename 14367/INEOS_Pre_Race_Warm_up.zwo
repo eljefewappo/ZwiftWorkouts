@@ -1,0 +1,82 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>INEOS Pre-Race Warm-up</name>
+    <description>Let's get in some intensity today! Do this 20min warm-up, then hop into a Zwift race. Make sure you leave about 5min to get into the pre-race pen and get a spot close to the front!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="ineos2021"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.34999996" PowerHigh="0.55000001" pace="1428186484" Cadence="95">
+            <textevent timeoffset="0" message="Welcome to the INEOS Grenadiers Virtual Training Camp!"/>
+            <textevent timeoffset="10" message="Let&apos;s get started with an easy warm-up. Keep your cadence comfortable."/>
+            <textevent timeoffset="60" message="The INEOS Grenadiers is one of the world&apos;s most successful cycling teams."/>
+            <textevent timeoffset="70" message="The team has a thirst for a good challenge and a pioneering spirit that allows them to keep pushing themselves and the wider sport of cycling forward."/>
+            <textevent timeoffset="120" message="The INEOS Grenadiers Virtual Training Camp gives Zwifters a taste of the training these riders undertake in preparation for their season."/>
+            <textevent timeoffset="130" message="Each workout features a team rider and is tailored to what they would do in their own training."/>
+            <textevent timeoffset="140" message="Today&apos;s workout is a warm-up that team riders utilize frequently before races."/>
+            <textevent timeoffset="150" message="It is progressive and hits all the metabolic systems to ensure riders are firing on all cylinders."/>
+            <textevent timeoffset="160" message="This workout is also great to do before a Zwift race any time."/>
+            <textevent timeoffset="170" message="Let&apos;s carry on with this easy starting interval."/>
+            <textevent timeoffset="240" message="Okay, coming up in 1min, we&apos;ll begin progressively stepping up our effort and cadence."/>
+            <textevent timeoffset="250" message="We&apos;ll start off at Zone 1 and progress all the way up to Zone 5."/>
+            <textevent timeoffset="260" message="Get ready to really spin the legs here too, starting at 85 RPM and ending at 110 RPM."/>
+            <textevent timeoffset="290" message="Ready? Let&apos;s start with that 85 RPM."/>
+        </Warmup>
+        <SteadyState Duration="120.00001" Power="0.60000002" pace="1428186484" Cadence="85">
+            <textevent timeoffset="0" message="Stay relaxed here. Release the tension in your shoulders, light grip on the bars, slight bend in the elbows."/>
+            <textevent timeoffset="60" message="So far, so good?"/>
+            <textevent timeoffset="110" message="Okay, let&apos;s lift the cadence to around 95 RPM next."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.69999999" pace="1428186484" Cadence="95">
+            <textevent timeoffset="0" message="Little more pressure on those pedals now."/>
+            <textevent timeoffset="60" message="Use the warm-up to get into &apos;the zone&apos; too—focus!"/>
+            <textevent timeoffset="110" message="Moving up to 100 RPM next!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.85000002" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="Getting a little harder now, but you should still feel in control."/>
+            <textevent timeoffset="60" message="Narrow the focus more. How are you going to perform today?"/>
+            <textevent timeoffset="110" message="Ready to work? Let&apos;s HIT IT next!"/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="1" pace="1428186484" Cadence="105">
+            <textevent timeoffset="0" message="Faster cadence now! Don&apos;t bounce or lurch in the saddle here."/>
+            <textevent timeoffset="60" message="It&apos;s okay to work a little in the warm-up, that&apos;s how you prepare the body!"/>
+            <textevent timeoffset="80" message="Moving up again next! Drive it home!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.1" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="GO GO GO! Get ready to race!"/>
+            <textevent timeoffset="20" message="Get to the arch!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="Excellent work! Let&apos;s recover a bit here."/>
+            <textevent timeoffset="60" message="That ramp was great to warm-up your aerobic and anaerobic system."/>
+            <textevent timeoffset="70" message="The next few reps are going to put the final touches on the legs."/>
+            <textevent timeoffset="80" message="These will be REALLY high power, but only for 6sec."/>
+            <textevent timeoffset="90" message="You can do these seated or standing."/>
+            <textevent timeoffset="110" message="Okay, ready? Get ready for a big increase in power."/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="6.0000005" OffDuration="60.000004" OnPower="1.5" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="GO GO GO!" duration="6"/>
+            <textevent timeoffset="10" message="Hoo wee! Nice effort there!"/>
+            <textevent timeoffset="20" message="Let&apos;s take 1min easy and prep for the next one."/>
+            <textevent timeoffset="50" message="Ready to rock again? This next one will be at higher power!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="6.0000005" OffDuration="60.000004" OnPower="1.75" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="CRUSH IT!" duration="6"/>
+            <textevent timeoffset="10" message="Great! You should feel nicely warmed up by now and ready to take on the world!"/>
+            <textevent timeoffset="20" message="Just 1 more effort to put the final prep in the legs."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="6.0000005" OffDuration="60.000004" OnPower="2" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="DIG DIG DIG!" duration="6"/>
+            <textevent timeoffset="10" message="That&apos;s it! Nothing can stop you now!"/>
+            <textevent timeoffset="20" message="Hang on just a bit longer, and we&apos;ll bring it down to recover."/>
+        </IntervalsT>
+        <Cooldown Duration="102.00001" PowerLow="0.55000001" PowerHigh="0.34999996" pace="1428186484" Cadence="95">
+            <textevent timeoffset="0" message="We&apos;ll take some time to catch your breath, then hop into that race—good luck!"/>
+            <textevent timeoffset="30" message="Be sure to check out the other INEOS Grenadiers Training Camp Workouts."/>
+            <textevent timeoffset="40" message="They&apos;re all available on-demand and will fit any intensity you&apos;re looking for."/>
+            <textevent timeoffset="80" message="I hope you enjoyed the workout and will come back for more soon."/>
+            <textevent timeoffset="92" message="Until next time, Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

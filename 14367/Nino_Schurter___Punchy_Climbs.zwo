@@ -1,0 +1,165 @@
+<workout_file>
+    <author>EljefeWappo</author>
+    <name>Nino Schurter - Punchy Climbs</name>
+    <description>Nino Schurter is arguably the greatest male cross-country mountain bike rider of all time. He completed the 2017 World Cup season with 6 consecutive wins, something no one else has ever achieved before, won the gold medal in mountain biking at the 2016 Olympics, the silver medal at the 2012 Olympics, and the bronze medal at the 2008 Olympics. Surging over threshold and returning to it repeatedly is a crucial skill for any great mountain biker. This workout will help develop that ability.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.6" PowerHigh="0.8" pace="1428186484">
+            <textevent timeoffset="10" message="Hello and welcome to a Nino Schurter inspired workout!"/>
+            <textevent timeoffset="20" message="We&apos;ll chat more about him and today&apos;s workout in just a moment. Let&apos;s focus on the warm up now."/>
+            <textevent timeoffset="120" message="Hopefully, the pedal stroke is starting to feel a bit more fluid. Keep easing into the day."/>
+            <textevent timeoffset="150" message="Awesome work so far! Let&apos;s take a moment to chat about the plan for today."/>
+            <textevent timeoffset="160" message="Nino Schurter is arguably the greatest male cross-country mountain bike rider of all time."/>
+            <textevent timeoffset="170" message=" He completed the 2017 World Cup season with 6 consecutive wins, something no one else has ever achieved before, won the gold medal in mountain biking at the 2016 Olympics, the silver medal in 2012, and the bronze medal in 2008."/>
+            <textevent timeoffset="180" message="Surging over threshold and returning to it repeatedly is a crucial skill for any great mountain biker."/>
+            <textevent timeoffset="190" message="This workout will help develop that ability in the form of &apos;over/unders&apos;."/>
+            <textevent timeoffset="200" message="More specifically, we&apos;ll ride for 2min &apos;under&apos; FTP, then 30sec &apos;over&apos; FTP, 3 times."/>
+            <textevent timeoffset="210" message="Each &apos;over&apos; will become more challenging as the interval elapses, as well as your recovery during the &apos;under&apos; portion."/>
+            <textevent timeoffset="220" message="I know you have it in you though! Let&apos;s carry on with today&apos;s warm up."/>
+        </Warmup>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Beauty! Let&apos;s bring it down easy for 2min now and recover before we begin the main set."/>
+            <textevent timeoffset="10" message="Use this time to have a drink, shake things out, and mentally prepare yourself."/>
+            <textevent timeoffset="90" message="Okay, in 30sec we&apos;re on! We&apos;ll start with the &apos;under&apos; at 95 RPM first."/>
+            <textevent timeoffset="110" message="Start bringing your cadence up to 95 RPM."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.92999995" OffPower="1.08" pace="1428186484" Cadence="95" CadenceResting="80">
+            <textevent timeoffset="0" message="Let&apos;s hit it! Imagine you&apos;re on the flats now approaching a climb."/>
+            <textevent timeoffset="60" message="Good! Steady as you go. This should feel totally comfortable."/>
+            <textevent timeoffset="90" message="In 30sec, we have our 1st &apos;over&apos; and a short &apos;punchy climb&apos;."/>
+            <textevent timeoffset="100" message="We&apos;re going to drop the cadence down slightly to 80 RPM for this 1st set."/>
+            <textevent timeoffset="110" message="Stay seated."/>
+            <textevent timeoffset="120" message="LET&apos;S GO! Drive the pedals over now."/>
+            <textevent timeoffset="140" message="C&apos;MON!"/>
+            <textevent timeoffset="150" message="Well done! Let&apos;s lift the cadence back up now and work on recovery."/>
+            <textevent timeoffset="180" message="Recovering under pressure is something Nino excels at, amongst many other things!"/>
+            <textevent timeoffset="240" message="You are doing well so far! Our next over is just ahead now. Get ready to drop the cadence again."/>
+            <textevent timeoffset="270" message="Drop the cadence and DRIVE IT!"/>
+            <textevent timeoffset="290" message="You got this! PUSH!"/>
+            <textevent timeoffset="300" message="Excellent! Just 1 more rep of those to go. Let&apos;s recover again now."/>
+            <textevent timeoffset="360" message="Breathe... Try to stay relaxed. I know you are hurting now, but push yourself!"/>
+            <textevent timeoffset="410" message="In 10sec, we have our final over of this 1st set. MAKE IT HAPPEN!"/>
+            <textevent timeoffset="420" message="UP UP UP!"/>
+            <textevent timeoffset="440" message="GET TO THE ARCH!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="YES! Amazing work on that 1st set. Those intervals are difficult."/>
+            <textevent timeoffset="10" message="We&apos;re going to take 3min easy between sets today."/>
+            <textevent timeoffset="20" message="And repeat that interval set 2 more times :-)"/>
+            <textevent timeoffset="60" message="Make sure you take a sip of fluids during the recoveries."/>
+            <textevent timeoffset="120" message="Feeling recovered? Great! 1min to go and we&apos;re on again."/>
+            <textevent timeoffset="170" message="Okay, ready? We&apos;re going to start off at 90 RPM again."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.92999995" OffPower="1.15" pace="1428186484" Cadence="95" CadenceResting="100">
+            <textevent timeoffset="0" message="Settle into this quickly - you&apos;ve been here before."/>
+            <textevent timeoffset="60" message="Great! Keep your shoulders relaxed, slight bend in the elbows, and light grip on the bars."/>
+            <textevent timeoffset="90" message="In 30sec, we&apos;re going over again. This time, I want you to RAISE your cadence up to 100+ RPM."/>
+            <textevent timeoffset="120" message="FAST FEET! C&apos;MON!"/>
+            <textevent timeoffset="140" message="Don&apos;t let your cadence drop!"/>
+            <textevent timeoffset="150" message="Lower the cadence down again and let&apos;s carry on."/>
+            <textevent timeoffset="210" message="Does it feel easier - or harder - to recover after a high cadence - or low cadence effort for you?"/>
+            <textevent timeoffset="220" message="Typically, the legs feel better, but the breathing increases a lot for high cadence, and vice-versa for low cadence."/>
+            <textevent timeoffset="230" message="This is due to the different metabolic demands placed on the body at high vs low cadence."/>
+            <textevent timeoffset="260" message="Almost time to bring it back up again!"/>
+            <textevent timeoffset="270" message="GO GO GO!"/>
+            <textevent timeoffset="290" message="SPIN!"/>
+            <textevent timeoffset="300" message="Great effort! Bring it back down again."/>
+            <textevent timeoffset="360" message="Keep focused now. We only have 90sec left for this 2nd set."/>
+            <textevent timeoffset="420" message="CADENCE! LET&apos;S GO!"/>
+            <textevent timeoffset="440" message="PUSH IT ALL THE WAY!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Nice one! That makes 2 down with just 1 to go."/>
+            <textevent timeoffset="10" message="How are you doing? Feeling like this is work at this point is totally normal."/>
+            <textevent timeoffset="20" message="This is how you get stronger though!"/>
+            <textevent timeoffset="30" message="Let&apos;s take it easy for another few minutes before we tackle our finale."/>
+            <textevent timeoffset="90" message="In 2019, Nino became the second man to hold 7 MTB World Cup overall titles."/>
+            <textevent timeoffset="100" message="That&apos;s a pretty amazing accomplishment!"/>
+            <textevent timeoffset="150" message="30sec to go and we are on! Let&apos;s get psyched up again. We start off at 90 RPM."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.92999995" OffPower="1.25" pace="1428186484" Cadence="95" CadenceResting="100">
+            <textevent timeoffset="0" message="Back on! Flying on the flats and approaching our first punchy climb again."/>
+            <textevent timeoffset="60" message="Stay relaxed. Don&apos;t get overly excited in the beginning."/>
+            <textevent timeoffset="100" message="We&apos;re going to drop the cadence down to 75 RPM again for these overs - just like the 1st set."/>
+            <textevent timeoffset="110" message="But, this time I want you to STAND UP for them."/>
+            <textevent timeoffset="120" message="LET&apos;S GO! Stand up and drive it!"/>
+            <textevent timeoffset="140" message="C&apos;MON!"/>
+            <textevent timeoffset="150" message="Well done! Sit back down again and carry on."/>
+            <textevent timeoffset="240" message="This is an amazing effort out of you today! You should be proud!"/>
+            <textevent timeoffset="270" message="Drop the cadence, stand up, and DRIVE IT!"/>
+            <textevent timeoffset="290" message="You got this! PUSH!"/>
+            <textevent timeoffset="300" message="Sit back down again. Recovery becomes so important now in the latter part of this workout. Deep breaths..."/>
+            <textevent timeoffset="360" message="Breathe... Try to stay relaxed. Just 1 more big push and we&apos;re done!"/>
+            <textevent timeoffset="410" message="In 10sec, we have our final over today! BELIEVE!"/>
+            <textevent timeoffset="420" message="STAND UP!"/>
+            <textevent timeoffset="440" message="GET TO THE ARCH!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="YES! Amazing work on that 1st set. Those intervals are difficult."/>
+            <textevent timeoffset="10" message="We&apos;re going to take 3min easy between sets today."/>
+            <textevent timeoffset="20" message="And repeat that interval set 2 more times :-)"/>
+            <textevent timeoffset="60" message="Make sure you take a sip of fluids during the recoveries."/>
+            <textevent timeoffset="120" message="Feeling recovered? Great! 1min to go and we&apos;re on again."/>
+            <textevent timeoffset="170" message="Okay, ready? We&apos;re going to start off at 90 RPM again."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.92999995" OffPower="1.2" pace="1428186484" Cadence="95" CadenceResting="100">
+            <textevent timeoffset="0" message="Back on! Flying on the flats and approaching our first punchy climb again."/>
+            <textevent timeoffset="60" message="Stay relaxed. Don&apos;t get overly excited in the beginning."/>
+            <textevent timeoffset="100" message="We&apos;re going to drop the cadence down to 75 RPM again for these overs - just like the 1st set."/>
+            <textevent timeoffset="110" message="But, this time I want you to STAND UP for them."/>
+            <textevent timeoffset="120" message="LET&apos;S GO! Stand up and drive it!"/>
+            <textevent timeoffset="140" message="C&apos;MON!"/>
+            <textevent timeoffset="150" message="Well done! Sit back down again and carry on."/>
+            <textevent timeoffset="240" message="This is an amazing effort out of you today! You should be proud!"/>
+            <textevent timeoffset="270" message="Drop the cadence, stand up, and DRIVE IT!"/>
+            <textevent timeoffset="290" message="You got this! PUSH!"/>
+            <textevent timeoffset="300" message="Sit back down again. Recovery becomes so important now in the latter part of this workout. Deep breaths..."/>
+            <textevent timeoffset="360" message="Breathe... Try to stay relaxed. Just 1 more big push and we&apos;re done!"/>
+            <textevent timeoffset="410" message="In 10sec, we have our final over today! BELIEVE!"/>
+            <textevent timeoffset="420" message="STAND UP!"/>
+            <textevent timeoffset="440" message="GET TO THE ARCH!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="YES! Amazing work on that 1st set. Those intervals are difficult."/>
+            <textevent timeoffset="10" message="We&apos;re going to take 3min easy between sets today."/>
+            <textevent timeoffset="20" message="And repeat that interval set 2 more times :-)"/>
+            <textevent timeoffset="60" message="Make sure you take a sip of fluids during the recoveries."/>
+            <textevent timeoffset="120" message="Feeling recovered? Great! 1min to go and we&apos;re on again."/>
+            <textevent timeoffset="170" message="Okay, ready? We&apos;re going to start off at 90 RPM again."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.92999995" OffPower="1.15" pace="1428186484" Cadence="95" CadenceResting="100">
+            <textevent timeoffset="0" message="Back on! Flying on the flats and approaching our first punchy climb again."/>
+            <textevent timeoffset="60" message="Stay relaxed. Don&apos;t get overly excited in the beginning."/>
+            <textevent timeoffset="100" message="We&apos;re going to drop the cadence down to 75 RPM again for these overs - just like the 1st set."/>
+            <textevent timeoffset="110" message="But, this time I want you to STAND UP for them."/>
+            <textevent timeoffset="120" message="LET&apos;S GO! Stand up and drive it!"/>
+            <textevent timeoffset="140" message="C&apos;MON!"/>
+            <textevent timeoffset="150" message="Well done! Sit back down again and carry on."/>
+            <textevent timeoffset="240" message="This is an amazing effort out of you today! You should be proud!"/>
+            <textevent timeoffset="270" message="Drop the cadence, stand up, and DRIVE IT!"/>
+            <textevent timeoffset="290" message="You got this! PUSH!"/>
+            <textevent timeoffset="300" message="Sit back down again. Recovery becomes so important now in the latter part of this workout. Deep breaths..."/>
+            <textevent timeoffset="360" message="Breathe... Try to stay relaxed. Just 1 more big push and we&apos;re done!"/>
+            <textevent timeoffset="410" message="In 10sec, we have our final over today! BELIEVE!"/>
+            <textevent timeoffset="420" message="STAND UP!"/>
+            <textevent timeoffset="440" message="GET TO THE ARCH!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="YES! Amazing work on that 1st set. Those intervals are difficult."/>
+            <textevent timeoffset="10" message="We&apos;re going to take 3min easy between sets today."/>
+            <textevent timeoffset="20" message="And repeat that interval set 2 more times :-)"/>
+            <textevent timeoffset="60" message="Make sure you take a sip of fluids during the recoveries."/>
+            <textevent timeoffset="120" message="Feeling recovered? Great! 1min to go and we&apos;re on again."/>
+            <textevent timeoffset="170" message="Okay, ready? We&apos;re going to start off at 90 RPM again."/>
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow="0.55000001" PowerHigh="0.34999996" pace="1428186484">
+            <textevent timeoffset="0" message="Amazing! I think Nino would be proud of that effort for sure."/>
+            <textevent timeoffset="10" message="Let&apos;s take 5min and cool down now. Way to CRUSH the day!"/>
+            <textevent timeoffset="60" message="Slowly bring your cadence down, take some nice deep breaths."/>
+            <textevent timeoffset="120" message="Thank you for working so hard today!"/>
+            <textevent timeoffset="240" message="Make sure you refuel and rehydrate before your next workout."/>
+            <textevent timeoffset="290" message="Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

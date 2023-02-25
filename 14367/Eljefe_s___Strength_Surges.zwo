@@ -1,0 +1,86 @@
+<workout_file>
+    <author>Matt Rowe (Rowe &amp; King)</author>
+    <name>Eljefe's - Strength Surges</name>
+    <description>This session aims to replicate the demands of a mountain bike ride / event. 
+
+Mountain biking generally involves far more variations in effort compared with road riding - so plenty of surges and time spent being over geared!
+
+We touch upon all of these aspects in todays session, as we ramp our effort up at a low cadence to replicate climbing a technical section, picking our way around rocks, before a Z4 effort on a fire road, before heading back in to the forest and up a really steep technical section where once again we are forced to ride at an uncomfortably low cadence, in the saddle! </description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25449997" PowerHigh="0.75449997" pace="1428186484">
+            <textevent timeoffset="5" message="Hello Dirt Destroyers and welcome back."/>
+            <textevent timeoffset="15" message="ERG Mode is not recommended for today&apos; session."/>
+            <textevent timeoffset="25" message="To turn off or toggle between ERG on/off, click the up arrow, or click mouse near the bottom-middle of your screen."/>
+            <textevent timeoffset="35" message="An icon box should pop-up. "/>
+            <textevent timeoffset="45" message="Click the icon that says ERG is ON."/>
+            <textevent timeoffset="35" message="It will change to ERG is OFF. That is when you know that ERG mode is OFF"/>
+            <textevent timeoffset="44" message="Feel free to toggle back and forth if you want ERG assistance on some efforts."/>
+            <textevent timeoffset="60" message="You may be wondering, what the hell is ERG mode anyway? Well, take a guess."/>
+            <textevent timeoffset="65" message="A. Energy Recovery Gradient, B. Latin for &quot;Ergo&quot; which means &quot;Work&quot;, C. Effort to Rise n Grind"/>
+            <textevent timeoffset="80" message="Hopefully you guessed, or knew that it&apos;s B.Latin for &quot;Ergo&quot; which means &quot;Work&quot; "/>
+            <textevent timeoffset="90" message="That still doesn&apos;t explain it I know."/>
+            <textevent timeoffset="95" message="Basically, ERG mode ON means the trainer will automatically adjust the resistance"/>
+            <textevent timeoffset="108" message="With ERG mode OFF you have to select the resistance by changing gears."/>
+            <textevent timeoffset="118" message="Now let&apos;s get back to the workout"/>
+            <textevent timeoffset="125" message="Todays session is 53 minutes long and aims to replicate some of the physical demands of mountain biking."/>
+            <textevent timeoffset="137" message="You will complete 3 blocks, each of which contains some over geared ramped efforts and near max effort."/>
+            <textevent timeoffset="150" message="It&apos;s important to stay composed during the efforts - don&apos;t let your cadence drop too much otherwise you will grind to a halt!"/>
+            <textevent timeoffset="240" message="To start, it’s a standard 10 minute progressive warm up and 10 second activation sprint to get us in the zone, both physically and mentally."/>
+            <textevent timeoffset="500" message="You should be starting to feel sweaty by now and like you are ready to train?"/>
+            <textevent timeoffset="570" message="Nearing the end of the warm up now - your blood will be nice and warm, ready to supply our muscles with oxygen. "/>
+        </Warmup>
+        <SteadyState Duration="60.000004" Power="0.50449997" pace="1428186484">
+            <textevent timeoffset="12" message="A minute to relax &amp; have drink before a &apos;10 second activation sprint&apos;"/>
+        </SteadyState>
+        <SteadyState Duration="10" Power="1.0944999" pace="1428186484"/>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="1428186484">
+            <textevent timeoffset="13" message="2 minutes easy before effort 1"/>
+        </SteadyState>
+        <Ramp Duration="300" PowerLow="0.65449995" PowerHigh="0.90449995" pace="1428186484" Cadence="75">
+            <textevent timeoffset="69" message="We start this effort with a ramp effort at 70rpm, as we wind up through some single track"/>
+            <textevent timeoffset="169" message="The key is to be efficient here - picking off the obstacles, navigating your way up the climb without expending too much energy."/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="0.92449993" pace="1428186484">
+            <textevent timeoffset="74" message="We now pop out on to a Fire Road, where we can really pick up the speed. Settle in to a Zone 4 effort - whatever cadence you feel comfortable at."/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="1.1544999" pace="1428186484" Cadence="65">
+            <textevent timeoffset="25" message="This is a seated effort so your wheel doesn&apos;t spin! Dig deep at this low cadence...it will feel like a grind!"/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="0.40450001" pace="1428186484"/>
+        <Ramp Duration="300" PowerLow="0.65449995" PowerHigh="0.90449995" pace="1428186484" Cadence="75">
+            <textevent timeoffset="117" message="Back in to our ramped effort at 70rpm. Stay composed, keep your head up and try and pedal as smoothly as possible."/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="0.92449993" pace="1428186484">
+            <textevent timeoffset="78" message="We are back on to the Fire Road - ride at your chosen cadence. This will feel strange going from a low cadence back to a more standard cadence."/>
+            <textevent timeoffset="78" message="As your cadence constantly changes in mountain biking, it&apos;s important to get a feel for it in training. Very different to road riding."/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="1.1544999" pace="1428186484" Cadence="65">
+            <textevent timeoffset="15.000086" message="Stay seated so as your wheel doesn&apos;t spin - it&apos;s difficult to produce high power whilst seated, but it&apos;s an important skill!"/>
+            <textevent timeoffset="25.000086" message="Up Up Up! Dig in! This grind in effort will help make you strong!"/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="0.40450001" pace="1428186484"/>
+        <Ramp Duration="300" PowerLow="0.65449995" PowerHigh="0.90449995" pace="1428186484" Cadence="75">
+            <textevent timeoffset="107" message="On to our final ramped effort, again at 70rpm. Sit upright, just as you would IRL."/>
+            <textevent timeoffset="167" message="Concentration is vital all the time in mountain biking as you never know what is around the corner!"/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="0.90449995" pace="1428186484">
+            <textevent timeoffset="16" message="Let&apos;s pick our speed up now, as we start 3 minutes of Zone 4 on a Fire Road!"/>
+            <textevent timeoffset="100" message="This is one example where it is worth trying to get a little lower on your bike, as your speed increases and aerodynamics comes in to play."/>
+            <textevent timeoffset="130" message="Just try and get your head down a little, bending your elbows whilst still keeping your eyes looking forward!"/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="1.1544999" pace="1428186484" Cadence="65">
+            <textevent timeoffset="16" message="Stay seated here to avoid wheel spin! Let&apos;s dig deep, but stay focused."/>
+            <textevent timeoffset="26" message="Keep going all the way to the end of the effort. Awesome work. Grind it out and let&apos;s get strong!"/>
+        </SteadyState>
+        <Cooldown Duration="360.00003" PowerLow="0.55449998" PowerHigh="0.25450003" pace="1428186484">
+            <textevent timeoffset="15.000085" message="Good work - 5 minutes cool down now."/>
+            <textevent timeoffset="70" message="Good work - today&apos;s session will help you adjust to the specific demands of mountain biking"/>
+            <textevent timeoffset="100.00018" message="Being fast isn&apos;t that important in MTB - it&apos;s more about being strong, powerful and explosive."/>
+            <textevent timeoffset="130" message="Sessions like today really help with your ability to navigate and get over tough technical sections."/>
+            <textevent timeoffset="250" message="Important to refuel after this session - carbs, protein and hydrate!"/>
+            <textevent timeoffset="280" message="Make sure you are getting your IRL Mountain Biking in - those skills are not going to to learn themselves."/>
+        </Cooldown>
+    </workout>
+</workout_file>

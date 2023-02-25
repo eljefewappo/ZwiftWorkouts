@@ -1,0 +1,93 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>Lionel Sanders' Green Day Workout</name>
+    <description>Lionel Sanders says 'Green Days are moderately few and far between when you're in the midst of heavy training. So, if you have the luxury of planning your training around how well you have recovered and slept, you definitely want to utilize these green days to do the really hard workouts, like this one!'</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25449997" PowerHigh="0.75449997" pace="1428186484">
+            <textevent timeoffset="0" message="Welcome to the WHOOP Workout Series! Let&apos;s start to warm up."/>
+            <textevent timeoffset="10" message="This series features workouts inspired by Lionel Sanders, EF Pro Cycling, and Tinman Elite Coaching."/>
+            <textevent timeoffset="20" message="Each workout is designed to correspond to your WHOOP Recovery score."/>
+            <textevent timeoffset="30" message="Green day = means you&apos;ve had a high recovery score and are ready for a hard workout."/>
+            <textevent timeoffset="40" message="Yellow day = means you&apos;ve had an ok recovery score and are ready for a moderate workout."/>
+            <textevent timeoffset="50" message="Red day = means you&apos;ve had a low recovery score ready for an easy recovery workout."/>
+            <textevent timeoffset="60" message="Today we are doing one of Lionel Sanders&apos; favorite workouts when his WHOOP tells him it&apos;s a Green day."/>
+            <textevent timeoffset="70" message="Use this 10min warm up to ease into the day and mentally prepare for the work ahead."/>
+            <textevent timeoffset="120" message="Do you have your fluids, fan, and towel all handy?"/>
+            <textevent timeoffset="240" message="Nice work so far here! Keep slowly bringing the effort up as we continue the warm up."/>
+            <textevent timeoffset="300" message="There&apos;s halfway! Let&apos;s chat a little bit about what&apos;s in store for today."/>
+            <textevent timeoffset="310" message="We have a progressive set of VO2 Max intervals for today&apos;s main set."/>
+            <textevent timeoffset="320" message="If you don&apos;t know, VO2 Max is your aerobic ceiling, so these intervals should leave you breathing quiet heavily."/>
+            <textevent timeoffset="330" message="The actual work set will be 3min on, 2min rest, 6 times."/>
+            <textevent timeoffset="340" message="And the &apos;progressive&apos; pieces comes from each interval gradually increasing in intensity from start to finish - ouch!"/>
+            <textevent timeoffset="420" message="This is one of Lionels&apos; favorite training days, learn what he has to say about today&apos;s session..."/>
+            <textevent timeoffset="430" message="These days are moderately few and far between during heavy training."/>
+            <textevent timeoffset="440" message="This session is my bread and butter VO2max session."/>
+            <textevent timeoffset="450" message="If you have the luxury of planning your training around how well you recovered, you definitely want to utilize this kind of workout."/>
+            <textevent timeoffset="460" message="I typically ride for 5min at my VO2max, six times through."/>
+            <textevent timeoffset="470" message="But today we&apos;re going to modify it to 3min."/>
+            <textevent timeoffset="480" message="This type of session is impossible to do on a Red day."/>
+            <textevent timeoffset="490" message="You could do it on a Yellow day, but it&apos;ll probably be overly and unnecessarily taxing."/>
+            <textevent timeoffset="500" message="But if you are recovered really really well, you&apos;ll probably be able to hit the right intensities…."/>
+            <textevent timeoffset="510" message="And not dig yourself a hole."/>
+            <textevent timeoffset="520" message="With that, let&apos;s get ready for the main set."/>
+            <textevent timeoffset="570" message="In 30sec, get ready for a big surge in effort! Keep your cadence high for the work intervals."/>
+            <textevent timeoffset="590" message="Here we go!"/>
+        </Warmup>
+        <SteadyState Duration="180.00002" Power="1.1045001" pace="1428186484">
+            <textevent timeoffset="0" message="GO GO GO!"/>
+            <textevent timeoffset="60" message="Great effort here. Settle down into this now."/>
+            <textevent timeoffset="120" message="1min to go! Keep your cadence up!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="1428186484">
+            <textevent timeoffset="0" message="Great opening effort! These recovery sets are extremely short, so use them well."/>
+            <textevent timeoffset="110" message="Okay, bringing it back up again here! This time just a touch more intensity."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="1.1245" pace="1428186484">
+            <textevent timeoffset="0" message="PUSH IT!"/>
+            <textevent timeoffset="60" message="Stay with it here."/>
+            <textevent timeoffset="120" message="You can do this! Push all the way to the line!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="1428186484">
+            <textevent timeoffset="0" message="Another very quick breather here - deep breaths and have a sip of fluids."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="1.1445" pace="1428186484">
+            <textevent timeoffset="0" message="Back up again here! Aim for the same high cadence as you had for the first one."/>
+            <textevent timeoffset="60" message="Don&apos;t let up now! GO GO GO!"/>
+            <textevent timeoffset="120" message="C&apos;mon! Push through this, my friend!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="1428186484">
+            <textevent timeoffset="0" message="Wow, these are starting to tickle a bit now. Quick rest and we&apos;re back on! :-)"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="1.1645" pace="1428186484">
+            <textevent timeoffset="0" message="Okay, here&apos;s where the workout starts! Embrace your inner Lionel Sanders and make it happen!"/>
+            <textevent timeoffset="60" message="Don&apos;t let up now! Keep driving this forward."/>
+            <textevent timeoffset="120" message="Cadence! Power! Grit!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="1428186484">
+            <textevent timeoffset="0" message="Okay, just 2 more remaining and you&apos;ve done it! Stay with me."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="1.1845" pace="1428186484">
+            <textevent timeoffset="0" message="PUSH YOURSELF!"/>
+            <textevent timeoffset="60" message="Stop staring at the clock! Get this done!"/>
+            <textevent timeoffset="120" message="Last minute, YOU CAN DO THIS!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="1428186484">
+            <textevent timeoffset="0" message="Amazing!! Just 1 more and we&apos;re done!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="1.2045" pace="1428186484">
+            <textevent timeoffset="0" message="Alright, this one is for all the marbles! Make Lionel proud here!"/>
+            <textevent timeoffset="60" message="Don&apos;t let up now! Get stronger!"/>
+            <textevent timeoffset="120" message="Earn the cool down! GO GO GO!"/>
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow="0.75449997" PowerHigh="0.25449997" pace="1428186484">
+            <textevent timeoffset="0" message="Yeah! Incredible work today, my friend! Lionel would be stoked with that effort."/>
+            <textevent timeoffset="60" message="Thanks for joining the WHOOP Green Day Workout with Lionel Sanders!"/>
+            <textevent timeoffset="120" message="If your WHOOP is telling you that your recovery is in the Yellow or Red, be sure to check out Lionel&apos;s workouts for those days."/>
+            <textevent timeoffset="180" message="Don&apos;t forget, we have corresponding run workouts."/>
+            <textevent timeoffset="270" message="Happy training and see you on the next one!"/>
+            <textevent timeoffset="290" message="Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,128 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>The Ganna</name>
+    <description>Filipo Ganna, equally comfortable on the track for a 4min race as he is during a three-week Grand Tour, is known for his ability to generate huge power in the 3–5min range. This range is a great proxy for an athlete's VO2 Max, which is the maximum amount of oxygen your body is able to use during exercise. Today's workout will put you through the paces of a VO2 Max workout, Ganna-style!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="ineos2021"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480.00003" PowerLow="0.5" PowerHigh="0.75" pace="1428186484">
+            <textevent timeoffset="0" message="Welcome to the INEOS Grenadiers Virtual Training Camp!"/>
+            <textevent timeoffset="10" message="Let&apos;s get started with an easy warm-up. Keep your cadence comfortable."/>
+            <textevent timeoffset="60" message="The INEOS Grenadiers is one of the world&apos;s most successful cycling teams."/>
+            <textevent timeoffset="70" message="The team has a thirst for a good challenge and a pioneering spirit that allows them to keep pushing themselves and the wider sport of cycling forward."/>
+            <textevent timeoffset="120" message="The INEOS Grenadiers Virtual Training Camp gives Zwifters a taste of the training these riders undertake in preparation for their season."/>
+            <textevent timeoffset="130" message="Each workout features a team rider and is tailored to what they would do in their own training."/>
+            <textevent timeoffset="180" message="Today&apos;s workout features Filipo Ganna."/>
+            <textevent timeoffset="190" message="Ganna, who is equally comfortable on the track for a 4min race as he is during a three-week Grand Tour,"/>
+            <textevent timeoffset="200" message="is known for his ability to generate huge power in the 3–5min range."/>
+            <textevent timeoffset="210" message="This range is a great proxy for an an athlete&apos;s VO2 Max,"/>
+            <textevent timeoffset="220" message="which is the maximum amount of oxygen your body is able to use during exercise."/>
+            <textevent timeoffset="240" message="Today&apos;s workout will put you through the paces of a VO2 Max workout, Ganna-style!"/>
+            <textevent timeoffset="250" message="Ganna says &apos;This workout follows a pyramid format which sees efforts and rest time ascend in the first block and descend in the second.&apos;"/>
+            <textevent timeoffset="300" message="Great work so far here, just keep easing into the day."/>
+            <textevent timeoffset="420" message="Coming up in 1min, we&apos;ll do two leg primers."/>
+            <textevent timeoffset="430" message="Primers ensure the legs are awake and ready for the hard work ahead."/>
+            <textevent timeoffset="470" message="Ready? Aim for a slightly faster cadence during the hard efforts ahead!"/>
+        </Warmup>
+        <IntervalsT Repeat="2" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.15" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Let&apos;s push it a bit here!"/>
+            <textevent timeoffset="30" message="Very good! Bring the effort and cadence back down to something more comfortable."/>
+            <textevent timeoffset="60" message="Pick it up again!"/>
+            <textevent timeoffset="90" message="Awesome! That&apos;s it for today&apos;s warm-up."/>
+            <textevent timeoffset="100" message="Let&apos;s take some time to recover before the main set."/>
+        </IntervalsT>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="30" message="The five intervals today will push you, and they&apos;re great training for lifting your VO2 Max."/>
+            <textevent timeoffset="40" message="We&apos;ll do them in pyramid-format today, with the 3rd being the longest but &apos;easiest&apos; (yeah right!)."/>
+            <textevent timeoffset="50" message="If you are curious of the exact length and power of each, check out the left side of your screen."/>
+            <textevent timeoffset="60" message="VO2 Max training should be intense but doable. If it feels too challenging..."/>
+            <textevent timeoffset="70" message="...you can lower your FTP bias."/>
+            <textevent timeoffset="100" message="Almost GO TIME! We&apos;re starting off really intensely, but just for 2min—you got this!"/>
+            <textevent timeoffset="110" message="Aim for a faster-than-normal cadence for these efforts. Let&apos;s get it done!"/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="120.00001" OffDuration="180.00002" OnPower="1.2" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="UP UP UP!"/>
+            <textevent timeoffset="30" message="Great work! Keep your cadence up now."/>
+            <textevent timeoffset="60" message="HALFWAY!"/>
+            <textevent timeoffset="90" message="C&apos;mon! Fight the burn in those legs!"/>
+            <textevent timeoffset="110" message="GET TO THE ARCH!"/>
+            <textevent timeoffset="120" message="Excellent! That first rep was no match for your strength :-)"/>
+            <textevent timeoffset="130" message="Catch your breath here and have a drink."/>
+            <textevent timeoffset="180" message="Deep breaths in...and breathe out through pursed lips."/>
+            <textevent timeoffset="240" message="How are you doing? Ready for the next one?"/>
+            <textevent timeoffset="280" message="We&apos;re moving up to 3min this time, but dropping the intensity a bit."/>
+            <textevent timeoffset="290" message="Less intensity? I must have been having a great day when I wrote this workout. Let&apos;s go!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="180.00002" OffDuration="240.00002" OnPower="1.15" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="UP UP!"/>
+            <textevent timeoffset="30" message="Settle down, that extra minute will bite."/>
+            <textevent timeoffset="60" message="We&apos;re cruising now, tap out that rhythm."/>
+            <textevent timeoffset="90" message="Halfway again! NICE!"/>
+            <textevent timeoffset="120" message="Now we&apos;re building over the 1st rep. Make it happen!"/>
+            <textevent timeoffset="170" message="TO THE LINE!"/>
+            <textevent timeoffset="180" message="Woot woot! Another rep down—solid effort there."/>
+            <textevent timeoffset="190" message="Let&apos;s bring that breathing rate down again."/>
+            <textevent timeoffset="240" message="Keep sipping your fluids."/>
+            <textevent timeoffset="360" message="All right! In 1min, we&apos;re tackling the top of this pyramid."/>
+            <textevent timeoffset="370" message="Shake out the upper body and refocus."/>
+            <textevent timeoffset="410" message="4min rep, coming in hot!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="240.00002" OffDuration="300" OnPower="1.1" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Settle into a sustainable cadence quickly here."/>
+            <textevent timeoffset="30" message="Good! You&apos;re back and should be tapping out that familiar rhythm again."/>
+            <textevent timeoffset="60" message="1min down..."/>
+            <textevent timeoffset="120" message="Halfway! Keep your focus laser-tight. Pushing your body to the limit requires it."/>
+            <textevent timeoffset="130" message="It&apos;s also something Ganna is a master at."/>
+            <textevent timeoffset="180" message="C&apos;mon! FINAL MINUTE!"/>
+            <textevent timeoffset="210" message="DIG DIG DIG!"/>
+            <textevent timeoffset="230" message="DON&apos;T LET UP!"/>
+            <textevent timeoffset="240" message="Incredible! It&apos;s all downhill from here, as they say :-)"/>
+            <textevent timeoffset="250" message="Let&apos;s take a nice long recovery."/>
+            <textevent timeoffset="300" message="Ganna is a four-time World Champion in the individual pursuit..."/>
+            <textevent timeoffset="310" message="and has won a total of eight medals at the UCI Track Cycling World Championships."/>
+            <textevent timeoffset="360" message="He also won the men&apos;s individual time trial at the 2020 and 2021 UCI Road World Championships."/>
+            <textevent timeoffset="370" message="Being a world-class athlete in both of those events is no easy feat!"/>
+            <textevent timeoffset="420" message="Ganna loves to train on Zwift because it&apos;s always easy to fit into his day."/>
+            <textevent timeoffset="430" message="He says: &apos;If you&apos;re ever struggling to find time in the day to fit exercise in, Zwift is the perfect answer.&apos;"/>
+            <textevent timeoffset="440" message="&apos;Finding that thirty minutes to train can really boost your serotonin, making you feel happier and healthier.&apos;"/>
+            <textevent timeoffset="480" message="Alright, 1min to go and we&apos;re starting to work back down the pyramid again."/>
+            <textevent timeoffset="530" message="Lift that cadence, almost time to go!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="180.00002" OffDuration="240.00002" OnPower="1.15" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="HIT IT!"/>
+            <textevent timeoffset="30" message="Great work here! Push those legs to their limit!"/>
+            <textevent timeoffset="90" message="Halfway through here!"/>
+            <textevent timeoffset="120" message="Drive it!"/>
+            <textevent timeoffset="170" message="REACH FOR THE ARCH!"/>
+            <textevent timeoffset="180" message="Amazing! That leaves you with just one more interval to do."/>
+            <textevent timeoffset="190" message="Let&apos;s rest up and recover for it."/>
+            <textevent timeoffset="240" message="Stretch out the upper body a bit if you need to. Relax those shoulders."/>
+            <textevent timeoffset="300" message="Ganna also holds the world record for the pursuit..."/>
+            <textevent timeoffset="310" message="with an incredible time of 4min, 1.934sec!"/>
+            <textevent timeoffset="360" message="Okay, 1min to go and we&apos;re CRUSHING the finale—get excited here!"/>
+            <textevent timeoffset="410" message="Let&apos;s do it!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="120.00001" OffDuration="180.00002" OnPower="1.2" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="UP UP UP!"/>
+            <textevent timeoffset="30" message="Great work! Keep your cadence up now."/>
+            <textevent timeoffset="60" message="HALFWAY!"/>
+            <textevent timeoffset="90" message="Get stronger here!"/>
+            <textevent timeoffset="110" message="GET TO THE ARCH!"/>
+            <textevent timeoffset="120" message="Excellent! Way to totally impress today and push yourself."/>
+            <textevent timeoffset="180" message="Catch your breath and have a drink before we start the cool down."/>
+            <textevent timeoffset="210" message="Deep breaths in...and breathe out through pursed lips."/>
+        </IntervalsT>
+        <Cooldown Duration="300" PowerLow="0.55000001" PowerHigh="0.34999996" pace="1428186484">
+            <textevent timeoffset="0" message="Really nice work again today, that workout is not easy."/>
+            <textevent timeoffset="10" message="We&apos;ll take some time to cool down now—you&apos;ve earned it!"/>
+            <textevent timeoffset="60" message="Deep breaths here, get yourself back to baseline again."/>
+            <textevent timeoffset="120" message="Be sure to check out the other INEOS Grenadiers Training Camp Workouts."/>
+            <textevent timeoffset="130" message="They&apos;re all available on-demand and will fit any intensity you&apos;re looking for."/>
+            <textevent timeoffset="240" message="Final minute of the day here, thanks for all your hard work!"/>
+            <textevent timeoffset="250" message="I hope you enjoyed the workout and will come back for more soon."/>
+            <textevent timeoffset="290" message="Until next time, Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

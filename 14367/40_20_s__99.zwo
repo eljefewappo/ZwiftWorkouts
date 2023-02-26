@@ -1,0 +1,74 @@
+<workout_file>
+  <author>EljefeWappo</author>
+  <name>40/20's #99</name>
+  <description>The 40/20 sessions consist of 40sec above your threshold pace, followed by 20sec of rest.
+
+By continually lifting power above what is comfortable, you will improve your ability to recover from hard efforts.
+
+Monitor your heart rate before and after each interval. Has heart rate increased significantly over the course of the efforts?
+
+This is a total of 6 interval sessions, 40 seconds on 20 seconds off, 2 @ 110% FTP, 2 @ 120% FTP, and 2 @ 110% FTP. </description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="EljefeWappo"/>
+    <tag name="Ass Kicker"/>
+    <tag name="> 60min"/>
+  </tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.626" pace="0">
+      <textevent timeoffset="130" message="High rpm in warm up sprints"/>
+    </Warmup>
+    <SteadyState Duration="125" Power="0.50449997" pace="0"/>
+    <IntervalsT Repeat="4" OnDuration="10" OffDuration="50.000004" OnPower="1.7544999" OffPower="0.50449997" pace="0" Cadence="105" CadenceResting="85"/>
+    <SteadyState Duration="180.00002" Power="0.70449996" pace="0" Cadence="100"/>
+    <SteadyState Duration="120.00001" Power="0.50449997" pace="0"/>
+    <SteadyState Duration="300" Power="0.90449995" pace="0" Cadence="100">
+      <textevent timeoffset="195.00002000000018" message="Grip the bars firmly and"/>
+      <textevent timeoffset="195.00002000000018" message="ensure you don't rock your hips."/>
+      <textevent timeoffset="94.00002000000018" message="Looking for steady power..."/>
+      <textevent timeoffset="105.00002000000018" message="No drop off in power"/>
+    </SteadyState>
+    <SteadyState Duration="125" Power="0.50449997" pace="0" Cadence="90"/>
+    <IntervalsT Repeat="5" OnDuration="40" OffDuration="30.000002" OnPower="1.0944999" OffPower="0.55449998" pace="0" Cadence="100" CadenceResting="85">
+      <textevent timeoffset="178.99995400000012" message="Don't forget to drink, oh, yeah, breath also, in through the nose, deep breath"/>
+    </IntervalsT>
+    <SteadyState Duration="180" Power="0.50449997" pace="0" Cadence="90">
+      <textevent timeoffset="70.00004000000013" message="Is starting HR as low as 1st?"/>
+    </SteadyState>
+    <IntervalsT Repeat="5" OnDuration="40" OffDuration="20" OnPower="1.0944999" OffPower="0.55449998" pace="0" Cadence="100" CadenceResting="85">
+      <textevent timeoffset="235.0000399999999" message="How was your finishing HR?"/>
+      <textevent timeoffset="254.99994400000014" message="This one will be a little harder, 120% of your FTP.&#xA;Dig deep"/>
+      <textevent timeoffset="119.99994400000014" message="Don't forget to drink."/>
+    </IntervalsT>
+    <SteadyState Duration="180" Power="0.50449997" pace="0" Cadence="90">
+      <textevent timeoffset="95.0000399999999" message="4 more set to go"/>
+    </SteadyState>
+    <IntervalsT Repeat="5" OnDuration="40" OffDuration="20" OnPower="1.1984999" OffPower="0.55449998" pace="0" Cadence="100" CadenceResting="85">
+      <textevent timeoffset="271.0000399999999" message="What was your peak HR?"/>
+      <textevent timeoffset="251.99994400000014" message="This one will be at 120% of your FTP also&#xA;it sucks, push though it"/>
+      <textevent timeoffset="119.99994400000014" message="Don't forget to drink."/>
+    </IntervalsT>
+    <SteadyState Duration="180" Power="0.50449997" pace="0" Cadence="90"/>
+    <IntervalsT Repeat="5" OnDuration="40" OffDuration="20" OnPower="1.1984999" OffPower="0.55449998" pace="0" Cadence="100" CadenceResting="85">
+      <textevent timeoffset="295.0000399999999" message="How was your finishing HR?"/>
+      <textevent timeoffset="110.99994400000014" message="Don't forget to drink."/>
+    </IntervalsT>
+    <SteadyState Duration="180" Power="0.50449997" pace="0" Cadence="90">
+      <textevent timeoffset="155.0000399999999" message="2 more set to go"/>
+    </SteadyState>
+    <IntervalsT Repeat="5" OnDuration="40" OffDuration="20" OnPower="1.0944999" OffPower="0.55449998" pace="0" Cadence="100" CadenceResting="85">
+      <textevent timeoffset="113.99994400000014" message="Don't forget to drink."/>
+      <textevent timeoffset="194.99994400000014" message="Ok, this is the last one I promise, you did great"/>
+    </IntervalsT>
+    <SteadyState Duration="180" Power="0.50449997" pace="0" Cadence="90">
+      <textevent timeoffset="31.0000399999999" message="What was your peak HR?"/>
+    </SteadyState>
+    <IntervalsT Repeat="5" OnDuration="40" OffDuration="20" OnPower="1.0944999" OffPower="0.55449998" pace="0" Cadence="100" CadenceResting="85"/>
+    <SteadyState Duration="120" Power="0.50449997" pace="0" Cadence="90">
+      <textevent timeoffset="118.0000399999999" message="Cool down"/>
+      <textevent timeoffset="57.882237701172016" message="Get ready cool down is coming up"/>
+    </SteadyState>
+    <Cooldown Duration="300" PowerLow="0.606" PowerHigh="0.426" pace="0"/>
+  </workout>
+</workout_file>

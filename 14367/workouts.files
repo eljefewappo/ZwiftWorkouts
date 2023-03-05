@@ -1,5 +1,68 @@
 <custom_file_directory>
     <custom_file>
+        <name>Depleting_Workout.zwo</name>
+        <time>1678022021</time>
+        <guid>6195</guid>
+        <checksum>21</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>The_Quick_Fix.zwo</name>
+        <time>1678020886</time>
+        <guid>4462</guid>
+        <checksum>193</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Development.zwo</name>
+        <time>0</time>
+        <guid>28281</guid>
+        <checksum>219</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Peak_VO2_Intervals.zwo</name>
+        <time>0</time>
+        <guid>29053</guid>
+        <checksum>64</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Push_the_Pain_Barrier.zwo</name>
+        <time>1677760549</time>
+        <guid>28024</guid>
+        <checksum>170</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Norseman_workout__Geilo.zwo</name>
+        <time>1677756256</time>
+        <guid>10242</guid>
+        <checksum>236</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2max_Short_Intervals.zwo</name>
+        <time>1677756256</time>
+        <guid>20908</guid>
+        <checksum>96</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>40_20_s__2.zwo</name>
+        <time>1677424693</time>
+        <guid>5751</guid>
+        <checksum>49</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>40_20_s__99.zwo</name>
+        <time>1677756256</time>
+        <guid>2226</guid>
+        <checksum>68</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Anna_van_der_Breggen___Road_Race.zwo</name>
         <time>0</time>
         <guid>25823</guid>
@@ -127,9 +190,9 @@
     </custom_file>
     <custom_file>
         <name>Eljefe_s___Sepp_Kuss__Cadence.zwo</name>
-        <time>0</time>
-        <guid>20310</guid>
-        <checksum>141</checksum>
+        <time>1677756256</time>
+        <guid>16566</guid>
+        <checksum>195</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

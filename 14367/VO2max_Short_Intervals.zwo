@@ -1,0 +1,204 @@
+<workout_file>
+    <author>Daniel Plews</author>
+    <name>VO2max Short Intervals</name>
+    <description>This session can be classified as short, high-intensity interval (HIIT) reps. Basically, all repetitions are under 1 minute in duration. Short HIIT sessions are easy to manipulate, allowing you to target different areas of your physiology. And of course, with the recovery being short, the aerobic system plays a pivotal role as well. If you’re looking for a workout to tick all the boxes, this is it! But hold on tight, because it’s not going to be easy.
+    
+    This workout consists of 4x6 minute reps, broken into two rounds of 50 seconds at above FTP and only allows for 10 seconds of recovery. Then you’ll hit it hard for 40 seconds above FTP again with just 20 seconds recovery. And finally, you’ll crush 30 seconds above FTP with 30 seconds recovery to close it out. 
+    
+    For WHOOP users — This workout is ideally done on a Green Recovery day. The short, sharp intervals will help you rack up a solid strain score. If you aren’t well recovered, get some rest and complete this workout on another day.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="ZA"/>
+        <tag name="TRI"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.44999999" PowerHigh="0.80000001" pace="1428186484">
+            <textevent timeoffset="0" message="Welcome back to another session of Zwift Academy Tri!"/>
+            <textevent timeoffset="10" message="It&apos;s Coach Dan Plews here and today we&apos;re completing short intervals."/>
+            <textevent timeoffset="20" message="The intervals in this ride will be short, high intensity and well above a sprint effort."/>
+            <textevent timeoffset="30" message=" These intervals are a great way to work on your aerobic, anaerobic, and neuromuscular systems."/>
+            <textevent timeoffset="45" message="Yup, today&apos;s session is gonna be blood, sweat, and tears :)"/>
+            <textevent timeoffset="60" message="As always, before we begin, we have a progressive warm up to get the body prepared."/>
+            <textevent timeoffset="300" message="To break it down, today will consist of 4 x 6 minute sets."/>
+            <textevent timeoffset="310" message=" Each set will be 50, 40, and 30 seconds of high intensity work with 10, 20, and 30 seconds of recovery. Then we will repeat it twice."/>
+            <textevent timeoffset="320" message="Don&apos;t worry, just follow the on-screen prompts and I&apos;ll guide you through every step of the way."/>
+            <textevent timeoffset="540" message="Good work! Hopefully your legs are feeling a little looser now. If not, that&apos;s ok!"/>
+            <textevent timeoffset="550" message="Before the main set we have a quick prep set to get the body ready!"/>
+            <textevent timeoffset="560" message="We will do 15 second reps close to the power you will hold during the main set."/>
+            <textevent timeoffset="590" message="The first 15 second rep is coming up."/>
+        </Warmup>
+        <IntervalsT Repeat="5" OnDuration="15.000001" OffDuration="45.000004" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="You can do it! Crush this first hard effort. "/>
+            <textevent timeoffset="15" message="Nice work. Take it down and breathe!"/>
+            <textevent timeoffset="60" message="Here we go. Rep 2!"/>
+            <textevent timeoffset="75" message="Nice job! Back down again."/>
+            <textevent timeoffset="120" message="Rep 3, Unlock that power!"/>
+            <textevent timeoffset="135" message="You have 2 more reps. Keep it up!"/>
+            <textevent timeoffset="180" message="Rep 4... Let&apos;s go!"/>
+            <textevent timeoffset="195" message="Awesome! One more of these and then the real fun begins :)"/>
+            <textevent timeoffset="240" message="Last 15 seconds! Keep it smooth and fluid."/>
+            <textevent timeoffset="255" message="You did it! Take some time to recover now :)"/>
+        </IntervalsT>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="5" message="Let&apos;s take a couple of minutes here to prepare our minds for the main set."/>
+            <textevent timeoffset="90" message="30 seconds before the first set of intervals."/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="50.000004" OffDuration="10" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Here we go! Moving up to sprint effort. Try and keep the cadence above 90 rpm during these intervals ."/>
+            <textevent timeoffset="20" message="Great work, you&apos;ve settled in nicely. Halfway through this rep."/>
+            <textevent timeoffset="40" message="Last 10 seconds!"/>
+            <textevent timeoffset="50" message="Take the pressure off as quick as possible. We&apos;re not here for long!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="40" OffDuration="20" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Same as before, find that power quickly. Stay on top of the cadence."/>
+            <textevent timeoffset="20" message="Halfway through this 40 second rep. You&apos;re looking great."/>
+            <textevent timeoffset="30" message="That&apos;s the way, all the way to the end of this rep."/>
+            <textevent timeoffset="40" message="Phew, that&apos;s always a hard one after such a short 10 second recovery. 20 seconds easy here."/>
+            <textevent timeoffset="50" message="10 seconds then we&apos;re back up for 30 seconds."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Let&apos;s go!!"/>
+            <textevent timeoffset="30" message="Easy! We have a 30 second recovery now. This will feel like a lifetime compared to 10 and 20 seconds."/>
+            <textevent timeoffset="50" message="Ok, now we just have to repeat that again before we get a valuable 4 minutes rest."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="50.000004" OffDuration="10" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="And we&apos;re back in! As before, focus on smooth transitions, try to not let the cadence drop too much."/>
+            <textevent timeoffset="25" message="Halfway through this 50 second rep. You&apos;re looking great."/>
+            <textevent timeoffset="50" message="Here comes a very short break. Stay on top of the cadence."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="40" OffDuration="20" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Nice, let&apos;s get back to it."/>
+            <textevent timeoffset="20" message="Halfway!"/>
+            <textevent timeoffset="40" message="Take the pressure off. Try and get your breathing under control."/>
+            <textevent timeoffset="50" message="We have one more 30 second rep and then a BIG recovery."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Last 30 seconds"/>
+            <textevent timeoffset="10" message="Focus on the form, keep the upper body as still as possible."/>
+            <textevent timeoffset="20" message="Ten seconds! GO GO GO!!!"/>
+            <textevent timeoffset="30" message="Good job! Back down again."/>
+        </IntervalsT>
+        <SteadyState Duration="240.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Awesome! That&apos;s the first rep down."/>
+            <textevent timeoffset="10" message="With the recovery being a little longer it really allows us to focus on 1 set at a time."/>
+            <textevent timeoffset="120" message="Focus on your breathing during the recovery. Slow and controlled exhalations will help bring your heart rate back down."/>
+            <textevent timeoffset="210" message="Ok, great work. We&apos;re going to hit round 2 in 30 seconds."/>
+            <textevent timeoffset="230" message="10 seconds, start to bring the cadence up."/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="50.000004" OffDuration="10" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Round 2, back to that high effort."/>
+            <textevent timeoffset="50" message="Great work! You should be getting used to the flow of the session by now."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="40" OffDuration="20" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Taking it back up for 40 seconds."/>
+            <textevent timeoffset="30" message="You are so close to that arch!! You can do it!"/>
+            <textevent timeoffset="40" message="20 seconds recovery and then back to 30 seconds of work."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="That&apos;s the way, bring the power back up for 30 seconds."/>
+            <textevent timeoffset="30" message="Ease it back down for 30 seconds. Then we&apos;re back to the 50 seconds of work."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="50.000004" OffDuration="10" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Let&apos;s get back to it."/>
+            <textevent timeoffset="25" message="You&apos;re looking great!"/>
+            <textevent timeoffset="50" message="A quick break, don&apos;t let the cadence drop too much here."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="40" OffDuration="20" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Take it up!! Find the target power and settle in."/>
+            <textevent timeoffset="30" message="10 seconds to go. Stay controlled all the way to the end."/>
+            <textevent timeoffset="40" message="Good job! 20 seconds easy before the final 30 second rep."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Last 30 seconds for the set."/>
+            <textevent timeoffset="20" message="10 seconds left! "/>
+            <textevent timeoffset="30" message="Well done. 30 seconds before we move into a full 4 minutes of recovery."/>
+        </IntervalsT>
+        <SteadyState Duration="240.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="2 sets down! We&apos;re halfway there."/>
+            <textevent timeoffset="20" message="Focus on breathing during recovery. Slow exhales will bring your heart rate down."/>
+            <textevent timeoffset="200" message="The third block of work is coming up! Unlock your potential and use that strength!"/>
+            <textevent timeoffset="210" message="30 seconds until go time!"/>
+            <textevent timeoffset="230" message="Almost there! Start to bring the cadence up."/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="50.000004" OffDuration="10" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Set 3! As fatigue sets in, really focus on keeping the cadence steady and staying fluid with your pedalling."/>
+            <textevent timeoffset="25" message="Good work, halfway through!"/>
+            <textevent timeoffset="50" message="Nice! 10 seconds, then back up for 40 seconds."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="40" OffDuration="20" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Yeah!"/>
+            <textevent timeoffset="20" message="Halfway through this 40 second interval. You&apos;re looking great."/>
+            <textevent timeoffset="40" message="20 seconds easy here. I know this one is pretty tough!"/>
+            <textevent timeoffset="50" message="10 seconds then we&apos;re back up for 30 seconds."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="30 second effort!"/>
+            <textevent timeoffset="30" message="Well done! Make the most of this recovery. We have one more round through to finish off this 6 minute block."/>
+            <textevent timeoffset="50" message="50 seconds again incoming in 10, 9, 8... :)"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="50.000004" OffDuration="10" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Yeah! I can see you&apos;re starting to enjoy this!"/>
+            <textevent timeoffset="25" message="Stay strong all the way through."/>
+            <textevent timeoffset="50" message="Ease it down, then we&apos;re back for 40sec!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="40" OffDuration="20" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Building it back....."/>
+            <textevent timeoffset="40" message="Nice! 20 seconds before the final 30 seconds hard of this rep."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Press on the pedals and let’s make it happen!"/>
+            <textevent timeoffset="15" message="Halfway!"/>
+            <textevent timeoffset="30" message="Great job!"/>
+            <textevent timeoffset="50" message="You EARNED that recovery!"/>
+        </IntervalsT>
+        <SteadyState Duration="240.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="You made it this far, only one more block!"/>
+            <textevent timeoffset="10" message="Show me you have what it takes to be on the ZA Tri team in this last set!"/>
+            <textevent timeoffset="210" message="Hitting this final set in 30 seconds"/>
+            <textevent timeoffset="230" message="As you approach this final section just take it 1 minute at a time. Don&apos;t think too far ahead."/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="50.000004" OffDuration="10" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Here we go! Unlock your strength here. "/>
+            <textevent timeoffset="25" message="Great work, you&apos;re looking pro!"/>
+            <textevent timeoffset="40" message="Last 10 seconds. Nice and smooth with the pedalling."/>
+            <textevent timeoffset="50" message="Take the pressure off as fast as possible, and stay focused"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="40" OffDuration="20" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Find that power. It&apos;s GO time!"/>
+            <textevent timeoffset="20" message="Halfway through! You&apos;re looking great."/>
+            <textevent timeoffset="40" message="Great job! Keep spinning..."/>
+            <textevent timeoffset="50" message="10 seconds then we&apos;re back up for 30 seconds."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Let&apos;s go!!"/>
+            <textevent timeoffset="30" message="Easy! We have 30 seconds of recovery now. SO much recovery right? :)"/>
+            <textevent timeoffset="50" message="Ok, now we just have to repeat that ONE MORE time!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="50.000004" OffDuration="10" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="For the final time today! Let&apos;s make it happen people!"/>
+            <textevent timeoffset="25" message="Oh yeah! Halfway."/>
+            <textevent timeoffset="50" message="Nice, take some deep breaths."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="40" OffDuration="20" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Here we go, last 40 seconds of the session. This is always the hardest one so stay strong."/>
+            <textevent timeoffset="30" message="10 seconds to go. Stay controlled all the way to the end."/>
+            <textevent timeoffset="40" message="Good job! 20 seconds here before a BIG push for the final 30 seconds."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1799999" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Let&apos;s make this happen!"/>
+            <textevent timeoffset="15" message="Halfway there! Stay on top of the cadence."/>
+            <textevent timeoffset="20" message="10, 9, 8, 7, 6 ,5......"/>
+            <textevent timeoffset="30" message="Wow, that was an amazing effort! Let&apos;s finish off this last 30 seconds before moving into the cool down."/>
+        </IntervalsT>
+        <Cooldown Duration="420.00003" PowerLow="0.75" PowerHigh="0.54999995" pace="1428186484">
+            <textevent timeoffset="0" message="CONGRATS! Great effort and session today! :) "/>
+            <textevent timeoffset="60" message=" Short intervals are great because they can be used to target different areas of your physiology."/>
+            <textevent timeoffset="70" message="A mix of short and long intervals is a great thing to incorporate into your training."/>
+            <textevent timeoffset="80" message="I prefer to start with short and as you get closer to race day increase the length."/>
+            <textevent timeoffset="90" message="Because the longer intervals are more specific to long course tris."/>
+            <textevent timeoffset="380" message="You&apos;re one step closer to graduating Zwift Academy Tri!"/>
+            <textevent timeoffset="390" message="Make sure you are getting in those run workouts too!"/>
+            <textevent timeoffset="400" message="That&apos;s it for today. Well done at finishing that session. See you for the next Zwift Academy Tri workout! :)"/>
+        </Cooldown>
+    </workout>
+</workout_file>

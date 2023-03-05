@@ -1,0 +1,97 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>Norseman workout: Geilo</name>
+    <description>So you think you have what it takes to take on the Norseman Workout Series? 
+Geilo marks the end of the mountain plateau. This is a good place for your support crew to restock on supplies. You will take a right turn and 3 big climbs lie between you and the end of the bike.  
+As you would expect this is another climbing focussed workout. 4 x 10.5 minute climbs that gradually ramp up with the hardest effort at the end of each climb. This is a good workout to focus on smooth pedaling and good posture during seated climbs.
+	Think you have what it takes? Check out all of the Norseman Run and Bike workouts to help you prepare for the Norseman Festival of Climbing July 27th - August 2nd.
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Norseman"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480.00003" PowerLow="0.55449998" PowerHigh="0.75450003" pace="1428186484">
+            <textevent timeoffset="15" message="Welcome to the fourth in this series of Norseman workouts."/>
+            <textevent timeoffset="30" message="We begin the warm up today with a gentle ramp gradually increasing the effort."/>
+            <textevent timeoffset="60" message="Choose your preferred cadence for the entire workout."/>
+            <textevent timeoffset="80" message="Geilo marks the end of the mountain plateau."/>
+            <textevent timeoffset="100" message="This is a good place for your support crew to restock on supplies."/>
+            <textevent timeoffset="120" message="You will take a right turn and 3 big climbs lie between you and the end of the bike."/>
+            <textevent timeoffset="420" message="We are going to finish the warm up with 4 x 20 second efforts just under FTP."/>
+            <textevent timeoffset="440" message="Spin up the cadence during these efforts and ease back during the 40 second rests."/>
+        </Warmup>
+        <IntervalsT Repeat="4" OnDuration="20" OffDuration="40" OnPower="0.90449989" OffPower="0.55449998" pace="1428186484"/>
+        <SteadyState Duration="180.00002" Power="0.50449997" pace="1428186484">
+            <textevent timeoffset="20" message="You should be feeling well warmed up now, 3 minutes easy and then we hit the first climb."/>
+            <textevent timeoffset="140" message="Four climbs coming up, each climb starts at a comfortable effort and ramps up."/>
+            <textevent timeoffset="160" message="Try and stay seated and visualise cresting each climb feeling strong."/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="0.65449995" pace="1428186484">
+            <textevent timeoffset="30" message="The first 4 minutes should be very comfortable."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.81449997" pace="1428186484">
+            <textevent timeoffset="30" message="The slope ramps up a few % here, try to keep the cadence consistent."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.95449996" pace="1428186484">
+            <textevent timeoffset="10" message="2 minutes at this effort, is going to fatigue the legs just enough for the next 1 min 30 to sting a bit."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.0944999" pace="1428186484">
+            <textevent timeoffset="10" message="60 seconds at 110% of FTP is a solid effort, remember to save something for the final ramp coming up next."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.25" pace="1428186484">
+            <textevent timeoffset="10" message="Dig in for 30 seconds, do not let that cadence drop."/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="0.65449995" pace="1428186484">
+            <textevent timeoffset="30" message="Straight into the second climb, no rest but this should feel like active recovery."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.81449997" pace="1428186484">
+            <textevent timeoffset="30" message="Still on the lower slopes but getting more challenging again."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.95449996" pace="1428186484">
+            <textevent timeoffset="10" message="Into the main part of the climb, keep the cadence up, do not let it drop."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.0944999" pace="1428186484">
+            <textevent timeoffset="10" message="Over FTP now, this needs focus."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.25" pace="1428186484">
+            <textevent timeoffset="0" message="Big 30 seconds!"/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="0.65449995" pace="1428186484">
+            <textevent timeoffset="10" message="And back to an easier effort, third climb starts now."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.81449997" pace="1428186484">
+            <textevent timeoffset="30" message="The effort builds again, how are the legs feeling?"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.95449996" pace="1428186484">
+            <textevent timeoffset="10" message="3.5 minutes and you will be over the top."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.0944999" pace="1428186484">
+            <textevent timeoffset="10" message="Dig deep, smooth effort."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.25" pace="1428186484">
+            <textevent timeoffset="0" message="Try and stay seated but no shame in getting out of the saddle."/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="0.65449995" pace="1428186484">
+            <textevent timeoffset="30" message="Last climb, make this a good one."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.81449997" pace="1428186484">
+            <textevent timeoffset="30" message="Not long now, you can see the summit from here."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.95449996" pace="1428186484">
+            <textevent timeoffset="10" message="Keep the focus and keep the cadence consistent."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.0944999" pace="1428186484">
+            <textevent timeoffset="10" message="Just the steep sections to go, so nearly there."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.25" pace="1428186484">
+            <textevent timeoffset="0" message="This is it, last sharp effort and we are into the recovery."/>
+        </SteadyState>
+        <Cooldown Duration="360.00003" PowerLow="0.6045" PowerHigh="0.45450002" pace="1428186484">
+            <textevent timeoffset="0" message="Great session! Those are tough because the rests are still a solid effort."/>
+            <textevent timeoffset="30" message="Looking good for the Festival of Climbing and a chance to win a place to Norseman 2021."/>
+            <textevent timeoffset="300" message="Thank you for joining this Norseman workout."/>
+            <textevent timeoffset="330" message="Keep an eye out for another workout in the Norseman series next week."/>
+        </Cooldown>
+    </workout>
+</workout_file>

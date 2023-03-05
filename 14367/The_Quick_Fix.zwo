@@ -1,0 +1,18 @@
+<workout_file>
+    <author>E.Wappo [Strokers]</author>
+    <name>The Quick Fix</name>
+    <description>Threshold and Vo2 Max! Just to make sure you are being honest and getting in your threshold and Vo2 Max work.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.55000007" PowerHigh="0.87" pace="1428186484"/>
+        <IntervalsT Repeat="6" OnDuration="60.000004" OffDuration="60.000004" OnPower="1.14" OffPower="0.94999993" pace="1428186484" Cadence="115" CadenceResting="80"/>
+        <SteadyState Duration="300" Power="0.72000003" pace="1428186484"/>
+        <IntervalsT Repeat="5" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.94999993" OffPower="1.15" pace="1428186484"/>
+        <SteadyState Duration="300" Power="0.72000003" pace="1428186484"/>
+        <IntervalsT Repeat="5" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.94999993" OffPower="1.15" pace="1428186484"/>
+        <SteadyState Duration="300" Power="0.72000003" pace="1428186484"/>
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="300" OnPower="1.14" OffPower="0.72000003" pace="1428186484"/>
+        <Cooldown Duration="600" PowerLow="0.87" PowerHigh="0.72000003" pace="1428186484"/>
+    </workout>
+</workout_file>

@@ -20,7 +20,7 @@ This is a total of 6 interval sessions, 40 seconds on 20 seconds off, 2 @ 110% F
       <textevent timeoffset="130" message="High rpm in warm up sprints"/>
     </Warmup>
     <SteadyState Duration="125" Power="0.50449997" pace="0"/>
-    <IntervalsT Repeat="4" OnDuration="10" OffDuration="50.000004" OnPower="1.7544999" OffPower="0.50449997" pace="0" Cadence="105" CadenceResting="85"/>
+    <IntervalsT Repeat="5" OnDuration="10" OffDuration="50.000004" OnPower="1.7544999" OffPower="0.50449997" pace="0" Cadence="100" CadenceResting="85"/>
     <SteadyState Duration="180.00002" Power="0.70449996" pace="0" Cadence="100"/>
     <SteadyState Duration="120.00001" Power="0.50449997" pace="0"/>
     <SteadyState Duration="300" Power="0.90449995" pace="0" Cadence="100">

@@ -4,10 +4,11 @@
     <description>This is a simple workout taken from Marco Pinotti's FTP Builder Week6, Day 3, Foundation ride.  This is a great spin of the legs and great on a recovery day.</description>
     <sportType>bike</sportType>
     <tags>
-        <tag name="Easy Ride"/>
-        <tag name="<FTP"/>
-        <tag name="<Copied"/>
-        <tag name="EljefeWappo"/>
+        <tag name=" Easy Ride"/>
+        <tag name="< FTP"/>
+        <tag name="> 60min"/>
+        <tag name=" Copied"/>
+        <tag name=" EljefeWappo"/>
     </tags>
     <workout>
         <Warmup Duration="360.00003" PowerLow="0.5" PowerHigh="0.64999998" pace="1428186484"/>

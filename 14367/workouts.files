@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>FTP_Builder_Wk6,_Day_3.zwo</name>
+        <time>1678108584</time>
+        <guid>18524</guid>
+        <checksum>95</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Strength_Reloaded.zwo</name>
+        <time>1678102138</time>
+        <guid>9358</guid>
+        <checksum>208</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Depleting_Workout.zwo</name>
         <time>1678022021</time>
         <guid>6195</guid>

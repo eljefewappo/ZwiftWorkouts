@@ -1,9 +1,23 @@
 <custom_file_directory>
     <custom_file>
+        <name>Primed_FTP.zwo</name>
+        <time>1678446120</time>
+        <guid>18291</guid>
+        <checksum>24</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Capacity.zwo</name>
+        <time>1678446120</time>
+        <guid>32622</guid>
+        <checksum>189</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>FTP_Builder_Wk6,_Day_3.zwo</name>
-        <time>1678108584</time>
-        <guid>18524</guid>
-        <checksum>95</checksum>
+        <time>1678446120</time>
+        <guid>15892</guid>
+        <checksum>6</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

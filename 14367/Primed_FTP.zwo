@@ -1,0 +1,133 @@
+<workout_file>
+    <author>Zwift Academy Coaches</author>
+    <name>Primed FTP</name>
+    <description>Grabbed from the Zwift Academy Coaches - Improving your Threshold capabilities is essential for every aspect of cycling and endurance sports. Improving your threshold will increase endurance, develop a higher cruising speed, and reduce fatigue. In this workout, we prioritize building this key area of performance. 
+
+	Improving your FTP is not always about doing long intervals that are mentally and physically draining. In this workout, we cheat the system by doing shorter efforts to make big gains. 
+		
+	Improving your ability to perform prolonged intensities around your FTP can be done in several ways. One of the best ways to enhance this is to perform sustained Threshold efforts with an elevated lactate level.
+
+	In this session, we prime your lactate system at the start of each interval by doing a short anaerobic effort, followed by 5min at your FTP. 
+	
+	We start the workout with a 6min effort below your threshold, which helps you engage the larger muscle groups needed for higher Threshold efforts later in the workout.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name=" FTP "/>
+        <tag name="< 60min "/>
+        <tag name="AcademyEljefeWappo"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.40000004" PowerHigh="0.69999999" pace="1428186484">
+            <textevent timeoffset="0" message="Welcome to the Primed FTP workout for the 2020 Zwift Academy!"/>
+            <textevent timeoffset="10" message="We&apos;ll start with a 10min warm up at a comfortable cadence."/>
+            <textevent timeoffset="180" message="So far so good? Nice! Just keep easing into the day here."/>
+            <textevent timeoffset="300" message="Great work so far. That&apos;s halfway through today&apos;s warm up. Let&apos;s chat about the plan for today."/>
+            <textevent timeoffset="310" message="Today is all about lactate, which tends to get a bad rap."/>
+            <textevent timeoffset="320" message="But, it&apos;s really just an energy source for your muscles that is created when you do a hard effort."/>
+            <textevent timeoffset="330" message="The primary goal for today is to check in and see how well you do with shuttling lactate."/>
+            <textevent timeoffset="340" message="This process involves doing a hard initial effort to generate a high lactate concentration."/>
+            <textevent timeoffset="350" message="Which will happen in the form of a 30sec effort at 140% FTP."/>
+            <textevent timeoffset="360" message="Then a steady 5min effort, right at FTP, afterward to see what your lactate combustion rate looks like."/>
+            <textevent timeoffset="370" message="Lactate shuttling is a key quality for making repeated hard surges, but still needing to stick in a group."/>
+            <textevent timeoffset="380" message="And, of course, making the lead pack at the start of a Zwift race."/>
+            <textevent timeoffset="390" message="So, expect today be a good challenge, but you joined Zwift Academy to see what you&apos;re capable of!"/>
+            <textevent timeoffset="400" message="You&apos;re STRONG and you&apos;ve got everything inside you already, train with Zwift Academy to let it out."/>
+            <textevent timeoffset="410" message="Let&apos;s carry on with the warm up."/>
+            <textevent timeoffset="540" message="In 1min, we&apos;ll take it down easy, then continue on with the warm up."/>
+        </Warmup>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Nice work! Let&apos;s take a few minutes and just spin easy now."/>
+            <textevent timeoffset="10" message="We&apos;ll continue to warm up with a 3min ramp effort next."/>
+            <textevent timeoffset="60" message="Use the recovery intervals to take a sip of fluids, and some deep breaths."/>
+            <textevent timeoffset="150" message="Okay, next we have have a 3min ramp effort which will bring us into zone 5."/>
+            <textevent timeoffset="160" message="I want a slightly faster cadence here of 95+ RPM."/>
+            <textevent timeoffset="170" message="Start bringing the cadence up now."/>
+        </SteadyState>
+        <Ramp Duration="180.00002" PowerLow="0.89999998" PowerHigh="1.1" pace="1428186484">
+            <textevent timeoffset="0" message="Let&apos;s go! Starting off at low zone 4 here."/>
+            <textevent timeoffset="60" message="Keep on keeping on now as we push closer to FTP."/>
+            <textevent timeoffset="120" message="Keep your cadence up! Really get those legs ready for the work ahead now."/>
+            <textevent timeoffset="150" message="C&apos;mon! Almost there!"/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Great work! That&apos;s it for today&apos;s warm up."/>
+            <textevent timeoffset="10" message="Let&apos;s continue to spin easy for a few minutes before beginning the main set."/>
+            <textevent timeoffset="90" message="Up next, we have a 6min effort at sweet spot (90% FTP)."/>
+            <textevent timeoffset="100" message="The purpose of this effort is to begin exhausting your slow twitch muscle fibers."/>
+            <textevent timeoffset="110" message="Before starting the primed efforts :-)"/>
+            <textevent timeoffset="150" message="Let&apos;s keep a comfortable cadence for this next effort, and just aim for consistency."/>
+        </SteadyState>
+        <SteadyState Duration="360.00003" Power="0.89999998" pace="1428186484">
+            <textevent timeoffset="0" message="Use this first minute to just feel things out and find your rhythm."/>
+            <textevent timeoffset="60" message="Okay, now settle down and tap out a steady rhythm."/>
+            <textevent timeoffset="120" message="Remember, all we&apos;re doing here is creating a little bit of fatigue in those slow twitch fibers."/>
+            <textevent timeoffset="180" message="That&apos;s halfway! Great work!"/>
+            <textevent timeoffset="300" message="Final minute, keep those shoulders down, elbows bent slightly, and a light grip on the bars."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Awesome! We&apos;ll recover again for just a little bit then begin the &apos;primed&apos; efforts."/>
+            <textevent timeoffset="60" message="Deep breaths here and make sure you&apos;re sipping those fluids."/>
+            <textevent timeoffset="120" message="In 1min, we&apos;re doing a 30sec HARD effort, followed by 5min right at FTP."/>
+            <textevent timeoffset="130" message="So, be sure to spin the gear up before the hard effort to prevent the trainer from bogging down."/>
+            <textevent timeoffset="140" message="Time to Unlock all you got - every body, every level!"/>
+            <textevent timeoffset="170" message="Start spinning the legs up now."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.2" pace="1428186484">
+            <textevent timeoffset="0" message="GO GO GO!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1" pace="1428186484">
+            <textevent timeoffset="0" message="Okay, now right at FTP for 5min."/>
+            <textevent timeoffset="10" message="The burn in the legs is normal, FIGHT through it and Unlock your strong here!"/>
+            <textevent timeoffset="60" message="Keep yourself here now, you can do this!"/>
+            <textevent timeoffset="150" message="C&apos;mon! Already halfway through this. Earn the rest breaks!"/>
+            <textevent timeoffset="240" message="Final minute, show me you can do this!"/>
+            <textevent timeoffset="290" message="Get to the arch!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Woot woot! There&apos;s 1 down and 2 to go. Not so bad, right?"/>
+            <textevent timeoffset="10" message="We&apos;ll take 3min easy between those efforts here."/>
+            <textevent timeoffset="120" message="1 more minute easy, then we&apos;re back to work again. Get ready!"/>
+            <textevent timeoffset="170" message="Start spinning the legs up again..."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.2" pace="1428186484">
+            <textevent timeoffset="0" message="AND, UP UP UP!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1" pace="1428186484">
+            <textevent timeoffset="0" message="Nice! Now let&apos;s hold it right at FTP again."/>
+            <textevent timeoffset="60" message="You&apos;ve already done this once and can do it again!"/>
+            <textevent timeoffset="120" message="2min down already, you&apos;re looking GREAT!"/>
+            <textevent timeoffset="240" message="Last minute here! KEEP GOING!"/>
+            <textevent timeoffset="290" message="PUSH FOR THE ARCH!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="BOOM! Just 1 more to go, my friend. You&apos;re crushing it today."/>
+            <textevent timeoffset="10" message="Let&apos;s use this short rest period well."/>
+            <textevent timeoffset="60" message="Deep breaths...Relax."/>
+            <textevent timeoffset="150" message="Ready or not, it&apos;s almost GO time again!"/>
+            <textevent timeoffset="170" message="All right, let&apos;s bring the cadence up again for this finale!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.2" pace="1428186484">
+            <textevent timeoffset="0" message="DRILL IT!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1" pace="1428186484">
+            <textevent timeoffset="0" message="Keep going now! You can do this!"/>
+            <textevent timeoffset="60" message="Just 4 more minutes of work remaining, make it happen!"/>
+            <textevent timeoffset="150" message="Halfway! Grit those teeth and push through now!"/>
+            <textevent timeoffset="240" message="Final minute of the day, don&apos;t let up now."/>
+            <textevent timeoffset="270" message="GO GO GO!"/>
+            <textevent timeoffset="290" message="FINAL PUSH!"/>
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow="0.55000001" PowerHigh="0.34999996" pace="1428186484">
+            <textevent timeoffset="0" message="You did it! Chapeau!"/>
+            <textevent timeoffset="10" message="Incredible effort today and way to tackle a truly challenging workout."/>
+            <textevent timeoffset="20" message="We&apos;ll take 5min to cool down now, then check this one off the list."/>
+            <textevent timeoffset="120" message="Keep easing off the gas here."/>
+            <textevent timeoffset="240" message="Thank you for showing up, working hard, and putting the effort in today."/>
+            <textevent timeoffset="250" message="Your FTP will thank you :-)"/>
+            <textevent timeoffset="260" message="Be sure to refuel and rehydrate well between sessions."/>
+            <textevent timeoffset="270" message="And good luck with your remaining Zwift Academy workouts, races, and group rides."/>
+            <textevent timeoffset="280" message="You&apos;re one step closer to graduating Zwift Academy!"/>
+            <textevent timeoffset="290" message="Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>8_6_4min_Threshold.zwo</name>
+        <time>1678538135</time>
+        <guid>8875</guid>
+        <checksum>20</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Primed_FTP.zwo</name>
-        <time>1678446120</time>
-        <guid>18291</guid>
-        <checksum>24</checksum>
+        <time>1678538135</time>
+        <guid>9811</guid>
+        <checksum>45</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

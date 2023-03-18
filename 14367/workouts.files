@@ -1,30 +1,23 @@
 <custom_file_directory>
     <custom_file>
-        <name>4_by_6_by_1.zwo</name>
+        <name>21_ons.zwo</name>
         <time>0</time>
-        <guid>28205</guid>
-        <checksum>38</checksum>
+        <guid>10350</guid>
+        <checksum>97</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Five_Bumps_Down.zwo</name>
-        <time>1678876024</time>
-        <guid>4462</guid>
-        <checksum>52</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Beep__Beep__Beep__1.zwo</name>
-        <time>1678876024</time>
-        <guid>8279</guid>
+        <name>40_20s.zwo</name>
+        <time>0</time>
+        <guid>13073</guid>
         <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Sepp_Kuss__Cadence_Efforts.zwo</name>
-        <time>1678703717</time>
-        <guid>13469</guid>
-        <checksum>230</checksum>
+        <name>23_on.zwo</name>
+        <time>0</time>
+        <guid>322</guid>
+        <checksum>176</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -42,24 +35,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>VO2_Capacity.zwo</name>
-        <time>1678446120</time>
-        <guid>32622</guid>
-        <checksum>189</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>FTP_Builder_Wk6,_Day_3.zwo</name>
         <time>1678446120</time>
         <guid>15892</guid>
         <checksum>6</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Strength_Reloaded.zwo</name>
-        <time>1678102138</time>
-        <guid>9358</guid>
-        <checksum>208</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -112,20 +91,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>40_20_s__2.zwo</name>
-        <time>1677424693</time>
-        <guid>5751</guid>
-        <checksum>49</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>40_20_s__99.zwo</name>
-        <time>1677756256</time>
-        <guid>2226</guid>
-        <checksum>68</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Anna_van_der_Breggen___Road_Race.zwo</name>
         <time>0</time>
         <guid>25823</guid>
@@ -158,13 +123,6 @@
         <time>1676822807</time>
         <guid>645</guid>
         <checksum>249</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>40_20_s__1.zwo</name>
-        <time>1676822807</time>
-        <guid>545</guid>
-        <checksum>221</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -351,5 +309,14 @@
     </custom_file>
     <deleted_files>
         <hash>4286771810</hash>
+        <hash>770156823</hash>
+        <hash>4011582789</hash>
+        <hash>3805711137</hash>
+        <hash>2033635786</hash>
+        <hash>2973623046</hash>
+        <hash>4068190484</hash>
+        <hash>3694056133</hash>
+        <hash>3401418224</hash>
+        <hash>1377250841</hash>
     </deleted_files>
 </custom_file_directory>

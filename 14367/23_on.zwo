@@ -17,8 +17,9 @@
       <textevent timeoffset="400" message="Finishing up the warm up"/>
     </Warmup>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="68">
-      <textevent timeoffset="0" message="1st session 2 Repeats  1min ON 1min OFF"/>
-      <textevent timeoffset="15" message="85% FTP ON"/>
+      <textevent timeoffset="0" message="1st session"/>
+      <textevent timeoffset="10" message="2 Repeats  1min ON 1min OFF"/>
+      <textevent timeoffset="25" message="85% FTP ON"/>
       <textevent timeoffset="65" message="50% FTP OFF"/>
       <textevent timeoffset="121" message="Last one, stay strong"/>
     </IntervalsT>

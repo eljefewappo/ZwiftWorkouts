@@ -17,13 +17,17 @@
       <textevent timeoffset="400" message="Finishing up the warm up"/>
     </Warmup>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="68">
-      <textevent timeoffset="0" message="1st session 2 Repeats  1min ON 1min OFF"/>
-      <textevent timeoffset="15" message="85% FTP ON"/>
+      <textevent timeoffset="0" message="1st session"/>
+      <textevent timeoffset="10" message="2 Repeats  1min ON 1min OFF"/>
+      <textevent timeoffset="25" message="85% FTP ON"/>
       <textevent timeoffset="65" message="50% FTP OFF"/>
       <textevent timeoffset="121" message="Last one, stay strong"/>
     </IntervalsT>
     <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.9" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
-    <textevent timeoffset="0" message="2nd session 3 Repeat2  1min ON 1min OFF"/>
+    <textevent timeoffset="0" message="2nd session"/>
+     <textevent timeoffset="10" message="3 Repeat2  1min ON 1min OFF"/>
+     <textevent timeoffset="61" message="OFF Power for 1 minute"/>
+     <textevent timeoffset="121" message="Here comes the power "/>
       <textevent timeoffset="3" message="2"/>
     </IntervalsT>
     <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
@@ -36,6 +40,8 @@
     </IntervalsT>
     <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1.148" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
     <textevent timeoffset="0" message="5th session 3 Repeat2  1min ON 1min OFF"/>
+    <textevent timeoffset="30" message="This is the hardest session"/>
+    <textevent timeoffset="30" message="Down hill from here"/>
       <textevent timeoffset="18" message="5"/>
     </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.096" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">

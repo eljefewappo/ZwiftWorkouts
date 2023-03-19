@@ -1,6 +1,6 @@
 <workout_file>
   <author>Eljefe Wappo</author>
-  <name>23 On</name>
+  <name>23 palindromes</name>
   <description>23 interval sessions ...</description>
   <sportType>bike</sportType>
   <durationType>time</durationType>
@@ -14,6 +14,7 @@
       <textevent timeoffset="30" message="Starting at 50% FTP going to 75% FTP"/>
       <textevent timeoffset="40" message="Comfortable cadence"/>
       <textevent timeoffset="50" message="Ease into it"/>
+      <textevent timeoffset="70" message="Get to a happy place"/>
       <textevent timeoffset="400" message="Finishing up the warm up"/>
     </Warmup>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="68">

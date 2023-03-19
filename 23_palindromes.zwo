@@ -1,0 +1,122 @@
+<workout_file>
+  <author>Eljefe Wappo</author>
+  <name>23 palindromes</name>
+  <description>23 interval sessions ...</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="Recovery"/>
+    <tag name="Intervals"/>
+  </tags>
+  <workout>
+    <Warmup Duration="420" PowerLow="0.498" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="Coming up is a 7 minute warm up"/>
+      <textevent timeoffset="30" message="Starting at 50% FTP going to 75% FTP"/>
+      <textevent timeoffset="40" message="Comfortable cadence"/>
+      <textevent timeoffset="50" message="Ease into it"/>
+      <textevent timeoffset="70" message="Get to a happy place"/>
+      <textevent timeoffset="400" message="Finishing up the warm up"/>
+    </Warmup>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="68">
+      <textevent timeoffset="0" message="Session No. 1"/>
+      <textevent timeoffset="10" message="2 Repeats  1min ON 1min OFF"/>
+      <textevent timeoffset="15" message="85% FTP ON, 50% FTP OFF"/>
+      <textevent timeoffset="20" message="90 RPM's On, 65 RPM Off "/>
+      <textevent timeoffset="30" message="30 Seconds left, keep at it"/>
+      <textevent timeoffset="60" message="1 minute off the power"/>
+      <textevent timeoffset="70" message="Easy cadence"/>
+      <textevent timeoffset="90" message="30 Seconds left spin easy "/>
+      <textevent timeoffset="120" message="Last hard session, stay strong"/>
+      <textevent timeoffset="150" message="30 Seconds"/>
+      <textevent timeoffset="180" message="Last easy spin, spin easy target is 60RPM's"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.9" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+     <textevent timeoffset="0" message="Session No. 2"/>
+     <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+     <textevent timeoffset="20" message="1min ON 1min OFF"/>
+     <textevent timeoffset="60" message="Go Easy"/>
+     <textevent timeoffset="120" message="Back on, get the RPM's up"/>
+     <textevent timeoffset="180" message="Go easy"/>
+     <textevent timeoffset="240" message="Back on, get the RPM's up"/>
+     <textevent timeoffset="300" message="Go easy"/>
+     <textevent timeoffset="320" message="Last Intervals"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+      <textevent timeoffset="0" message="Session No. 3"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="20" message="1min ON 1min OFF"/>
+      <textevent timeoffset="60" message="Go Easy"/>
+      <textevent timeoffset="120" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="180" message="Go easy"/>
+      <textevent timeoffset="240" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="300" message="Go easy"/>
+      <textevent timeoffset="320" message="Last Intervals"/>
+    </IntervalsT>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.096" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+      <textevent timeoffset="0" message="Session No. 4"/>
+      <textevent timeoffset="15" message="This task will have 2 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="20" message="1min ON 1min OFF"/>
+      <textevent timeoffset="60" message="Go Easy"/>
+      <textevent timeoffset="120" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="180" message="Go easy"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1.148" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+      <textevent timeoffset="0" message="Session No. 5"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="20" message="1min ON 1min OFF"/>
+      <textevent timeoffset="30" message="This is the hardest session"/>
+      <textevent timeoffset="45" message="Down hill from here"/>
+      <textevent timeoffset="60" message="Go Easy"/>
+      <textevent timeoffset="120" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="180" message="Go easy"/>
+      <textevent timeoffset="240" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="300" message="Go easy"/>
+      <textevent timeoffset="320" message="Last Intervals"/>
+    </IntervalsT>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.096" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+      <textevent timeoffset="0" message="Session No. 6"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="20" message="1min ON 1min OFF"/>
+      <textevent timeoffset="60" message="Go Easy"/>
+      <textevent timeoffset="120" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="180" message="Go easy"/>
+      <textevent timeoffset="240" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="300" message="Go easy"/>
+      <textevent timeoffset="320" message="Last Intervals"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+      <textevent timeoffset="0" message="Session No. 7"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="20" message="1min ON 1min OFF"/>
+      <textevent timeoffset="60" message="Go Easy"/>
+      <textevent timeoffset="120" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="180" message="Go easy"/>
+      <textevent timeoffset="240" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="300" message="Go easy"/>
+      <textevent timeoffset="320" message="Last Intervals"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.9" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+      <textevent timeoffset="0" message="Session No. 8"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="20" message="1min ON 1min OFF"/>
+      <textevent timeoffset="60" message="Go Easy"/>
+      <textevent timeoffset="120" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="180" message="Go easy"/>
+      <textevent timeoffset="240" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="300" message="Go easy"/>
+      <textevent timeoffset="320" message="Last Intervals"/>
+    </IntervalsT>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+      <textevent timeoffset="0" message="Session No. 9"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="20" message="1min ON 1min OFF"/>
+      <textevent timeoffset="60" message="Go Easy"/>
+      <textevent timeoffset="120" message="Back on, get the RPM's up"/>
+      <textevent timeoffset="180" message="Go easy"/>
+      <textevent timeoffset="240" message="Back on, get the RPM's up"/>
+    </IntervalsT>
+    <Cooldown Duration="420" PowerLow="0.75" PowerHigh="0.502" pace="0">
+      <textevent timeoffset="0" message="Start that 7min Cool Down"/>
+    </Cooldown>
+  </workout>
+</workout_file>

@@ -1,0 +1,34 @@
+<workout_file>
+  <author/>
+  <name>25 palindromes</name>
+  <description/>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="Intervals"/>
+  </tags>
+  <workout>
+    <Warmup Duration="295" PowerLow="0.406" PowerHigh="0.75" pace="0"/>
+    <textevent timeoffset="0" message="Warm up"/>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="0.852" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 1"/>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="0.944" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 2"/>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="1.048" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 3"/>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="1.156" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 4"/>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="1.248" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 5"/>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="1.156" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 6"/>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="1.048" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 7"/>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="0.944" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 8"/>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.496" OffPower="0.852" pace="0" Cadence="68" CadenceResting="93"/>
+      <textevent timeoffset="0" message="Session No. 9"/>
+    <Cooldown Duration="305" PowerLow="0.75" PowerHigh="0.502" pace="0"/>
+      <textevent timeoffset="0" message="Cool Down...."/>
+  </workout>
+</workout_file>

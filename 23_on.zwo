@@ -1,0 +1,68 @@
+<workout_file>
+  <author>Eljefe Wappo</author>
+  <name>23 palindromes</name>
+  <description>23 interval sessions ...</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="Recovery"/>
+    <tag name="Intervals"/>
+  </tags>
+  <workout>
+    <Warmup Duration="420" PowerLow="0.498" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="Coming up is a 7 minute warm up"/>
+      <textevent timeoffset="30" message="Starting at 50% FTP going to 75% FTP"/>
+      <textevent timeoffset="40" message="Comfortable cadence"/>
+      <textevent timeoffset="50" message="Ease into it"/>
+      <textevent timeoffset="70" message="Get to a happy place"/>
+      <textevent timeoffset="400" message="Finishing up the warm up"/>
+    </Warmup>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="68">
+      <textevent timeoffset="0" message="1st session"/>
+      <textevent timeoffset="10" message="2 Repeats  1min ON 1min OFF"/>
+      <textevent timeoffset="25" message="85% FTP ON"/>
+      <textevent timeoffset="65" message="50% FTP OFF"/>
+      <textevent timeoffset="121" message="Last one, stay strong"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.9" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+    <textevent timeoffset="0" message="2nd session"/>
+     <textevent timeoffset="10" message="3 Repeat2  1min ON 1min OFF"/>
+     <textevent timeoffset="61" message="OFF Power for 1 minute"/>
+     <textevent timeoffset="121" message="Here comes the power "/>
+      <textevent timeoffset="3" message="2"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+    <textevent timeoffset="0" message="3rd session 3 Repeat2  1min ON 1min OFF"/>
+      <textevent timeoffset="9" message="3"/>
+    </IntervalsT>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.096" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+    <textevent timeoffset="0" message="4th session 2 Repeat2  1min ON 1min OFF"/>
+      <textevent timeoffset="9" message="4"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1.148" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+    <textevent timeoffset="0" message="5th session 3 Repeat2  1min ON 1min OFF"/>
+    <textevent timeoffset="30" message="This is the hardest session"/>
+    <textevent timeoffset="30" message="Down hill from here"/>
+      <textevent timeoffset="18" message="5"/>
+    </IntervalsT>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.096" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+    <textevent timeoffset="0" message="5th session 2 Repeat2  1min ON 1min OFF"/>
+      <textevent timeoffset="6" message="6"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+    <textevent timeoffset="0" message="6th session 3 Repeat2  1min ON 1min OFF"/>
+      <textevent timeoffset="0" message="7"/>
+    </IntervalsT>
+    <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.9" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+    <textevent timeoffset="0" message="7th session 3 Repeat2  1min ON 1min OFF"/>
+      <textevent timeoffset="6" message="8"/>
+    </IntervalsT>
+    <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
+    <textevent timeoffset="0" message="8th session 2 Repeat2  1min ON 1min OFF"/>
+      <textevent timeoffset="9" message="9"/>
+    </IntervalsT>
+    <Cooldown Duration="420" PowerLow="0.75" PowerHigh="0.502" pace="0">
+      <textevent timeoffset="0" message="Start that 7min Cool Down"/>
+    </Cooldown>
+  </workout>
+</workout_file>

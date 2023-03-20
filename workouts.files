@@ -35,6 +35,13 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
+        <name>23_on.zwo</name>
+        <time>0</time>
+        <guid>322</guid>
+        <checksum>176</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>8_6_4min_Threshold.zwo</name>
         <time>1678703717</time>
         <guid>24267</guid>

@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>mega_vo2_max.zwo</name>
+        <time>0</time>
+        <guid>2650</guid>
+        <checksum>155</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>21_ons.zwo</name>
         <time>0</time>
         <guid>10350</guid>

@@ -4,7 +4,7 @@
     <description>Luke Rowe, one of the most respected team captains in the peloton, is a versatile rider. He has found success in grand tours, Classics, and on the track. Riders like Luke Rowe never crack under the pressure, and after today, neither will you!</description>
     <sportType>bike</sportType>
     <tags>
-        <tag name="ineos2021"/>
+        <tag name="Ineos 2021"/>
     </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.30000001" PowerHigh="0.5" pace="1428186484">

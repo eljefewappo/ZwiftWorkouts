@@ -4,7 +4,7 @@
     <description>Michal Kwiatkowski is a powerhouse cyclist who has a huge range of abilities that helps win races. Sprinting, time trialing, climbing—he can do it all! Today's workout is a great example of what it takes to win a race that comes down to a finishing sprint. Get ready to give it your all in the final 15sec!</description>
     <sportType>bike</sportType>
     <tags>
-        <tag name="ineos2021"/>
+        <tag name="Ineos 2021"/>
     </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.30000001" PowerHigh="0.5" pace="1428186484">

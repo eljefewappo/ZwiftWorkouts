@@ -15,7 +15,8 @@
     <sportType>bike</sportType>
     <tags>
         <tag name="Zwift"/>
-        <tag name="Academy"/>
+        <tag name="Eljefe Wappo Academy"/>
+        <tag name="VO2"/>
     </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.40000004" PowerHigh="0.69999999" pace="1428186484">

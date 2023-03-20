@@ -4,7 +4,11 @@
   <description>Based on the Wout van Aert's VO2 Max plan</description>
   <sportType>bike</sportType>
   <durationType>time</durationType>
-  <tags/>
+  <tags>
+    <tag name="Zwift"/>
+    <tag name="Eljefe Wappo Academy"/>
+    <tag name="VO2"/>
+  </tags>
   <workout>
     <Warmup Duration="420" PowerLow="0.5" PowerHigh="0.75" pace="0">
       <textevent timeoffset="0" message="Here comes the warm up"/>

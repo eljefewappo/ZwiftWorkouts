@@ -4,7 +4,7 @@
     <description>Let's get in some intensity today! Do this 20min warm-up, then hop into a Zwift race. Make sure you leave about 5min to get into the pre-race pen and get a spot close to the front!</description>
     <sportType>bike</sportType>
     <tags>
-        <tag name="ineos2021"/>
+        <tag name="Ineos 2021"/>
     </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.34999996" PowerHigh="0.55000001" pace="1428186484" Cadence="95">

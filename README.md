@@ -2,4 +2,6 @@
 Eljefe's workouts for the Zwift 
 
 
-this is a test which branch
+Started to put the workouts in Git to track the changes
+Created a soft link to the repo
+`ln -s /Users/richp/Work/ZwiftWorkouts 14367`

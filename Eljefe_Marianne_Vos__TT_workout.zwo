@@ -5,7 +5,9 @@
     We will be doing a nice little warm up and then getting into 4, 4 minute blocks just into zone 5.
     </description>
     <sportType>bike</sportType>
-    <tags/>
+    <tags>
+        <tag name="Jumbo Visma"/>
+    </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.45000002" PowerHigh="0.65000004" pace="1428186484">
             <textevent timeoffset="0" message="Welcome to another workout with Zwift&apos;s Pro Training Camp."/>

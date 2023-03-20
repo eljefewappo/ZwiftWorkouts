@@ -4,7 +4,7 @@
     <description>Today's workout comes to us from Team Jumbo-Visma and is a workout that will sting a bit, but is the type of workout that is shown to increase a rider's threshold. VO2 efforts sit within Zone 5 which is the zone that impacts aerobic capacity. Today we will do 6x2 minute efforts that will keep you right in this zone.</description>
     <sportType>bike</sportType>
     <tags>
-        <tag name="zprotraining"/>
+        <tag name="Jumbo Visma"/>
     </tags>
     <workout>
         <Warmup Duration="480.00003" PowerLow="0.5" PowerHigh="0.64999998" pace="1428186484">

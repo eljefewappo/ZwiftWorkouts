@@ -1,5 +1,26 @@
 <custom_file_directory>
     <custom_file>
+        <name>25_palindromes.zwo</name>
+        <time>0</time>
+        <guid>6184</guid>
+        <checksum>15</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>23_palindromes.zwo</name>
+        <time>0</time>
+        <guid>9051</guid>
+        <checksum>70</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>mega_vo2_max.zwo</name>
+        <time>0</time>
+        <guid>2650</guid>
+        <checksum>155</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>21_ons.zwo</name>
         <time>0</time>
         <guid>10350</guid>
@@ -318,5 +339,6 @@
         <hash>3694056133</hash>
         <hash>3401418224</hash>
         <hash>1377250841</hash>
+        <hash>1060499197</hash>
     </deleted_files>
 </custom_file_directory>

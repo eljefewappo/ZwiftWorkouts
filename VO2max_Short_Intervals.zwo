@@ -8,8 +8,8 @@
     For WHOOP users — This workout is ideally done on a Green Recovery day. The short, sharp intervals will help you rack up a solid strain score. If you aren’t well recovered, get some rest and complete this workout on another day.</description>
     <sportType>bike</sportType>
     <tags>
-        <tag name="ZA"/>
-        <tag name="TRI"/>
+        <tag name="Eljefe Wappo Academy"/>
+        <tag name="VO2"/>
     </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.44999999" PowerHigh="0.80000001" pace="1428186484">

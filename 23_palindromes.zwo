@@ -12,10 +12,10 @@
     <Warmup Duration="420" PowerLow="0.498" PowerHigh="0.75" pace="0">
       <textevent timeoffset="0" message="Coming up is a 7 minute warm up"/>
       <textevent timeoffset="30" message="Starting at 50% FTP going to 75% FTP"/>
-      <textevent timeoffset="40" message="Comfortable cadence"/>
-      <textevent timeoffset="50" message="Ease into it"/>
+      <textevent timeoffset="30" message="Comfortable cadence"/>
+      <textevent timeoffset="30" message="Ease into it"/>
       <textevent timeoffset="70" message="Get to a happy place"/>
-      <textevent timeoffset="400" message="Finishing up the warm up"/>
+      <textevent timeoffset="400" message="Coming to the end of the warm up"/>
     </Warmup>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="68">
       <textevent timeoffset="0" message="Session No. 1"/>
@@ -32,7 +32,7 @@
     </IntervalsT>
     <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.9" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
      <textevent timeoffset="0" message="Session No. 2"/>
-     <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+     <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
      <textevent timeoffset="20" message="1min ON 1min OFF"/>
      <textevent timeoffset="60" message="Go Easy"/>
      <textevent timeoffset="120" message="Back on, get the RPM's up"/>
@@ -43,7 +43,7 @@
     </IntervalsT>
     <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
       <textevent timeoffset="0" message="Session No. 3"/>
-      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
       <textevent timeoffset="20" message="1min ON 1min OFF"/>
       <textevent timeoffset="60" message="Go Easy"/>
       <textevent timeoffset="120" message="Back on, get the RPM's up"/>
@@ -54,7 +54,7 @@
     </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.096" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
       <textevent timeoffset="0" message="Session No. 4"/>
-      <textevent timeoffset="15" message="This task will have 2 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="15" message="This task will have 2 Intervals, or 6 minutes for this segment"/>
       <textevent timeoffset="20" message="1min ON 1min OFF"/>
       <textevent timeoffset="60" message="Go Easy"/>
       <textevent timeoffset="120" message="Back on, get the RPM's up"/>
@@ -62,7 +62,7 @@
     </IntervalsT>
     <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1.148" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
       <textevent timeoffset="0" message="Session No. 5"/>
-      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
       <textevent timeoffset="20" message="1min ON 1min OFF"/>
       <textevent timeoffset="30" message="This is the hardest session"/>
       <textevent timeoffset="45" message="Down hill from here"/>
@@ -75,7 +75,7 @@
     </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.096" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
       <textevent timeoffset="0" message="Session No. 6"/>
-      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
       <textevent timeoffset="20" message="1min ON 1min OFF"/>
       <textevent timeoffset="60" message="Go Easy"/>
       <textevent timeoffset="120" message="Back on, get the RPM's up"/>
@@ -86,7 +86,7 @@
     </IntervalsT>
     <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
       <textevent timeoffset="0" message="Session No. 7"/>
-      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
       <textevent timeoffset="20" message="1min ON 1min OFF"/>
       <textevent timeoffset="60" message="Go Easy"/>
       <textevent timeoffset="120" message="Back on, get the RPM's up"/>
@@ -97,7 +97,7 @@
     </IntervalsT>
     <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.9" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
       <textevent timeoffset="0" message="Session No. 8"/>
-      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
       <textevent timeoffset="20" message="1min ON 1min OFF"/>
       <textevent timeoffset="60" message="Go Easy"/>
       <textevent timeoffset="120" message="Back on, get the RPM's up"/>
@@ -108,7 +108,7 @@
     </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.856" OffPower="0.5" pace="0" Cadence="90" CadenceResting="65">
       <textevent timeoffset="0" message="Session No. 9"/>
-      <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segmant"/>
+      <textevent timeoffset="15" message="This one will have 2 Intervals, or 6 minutes for this segment"/>
       <textevent timeoffset="20" message="1min ON 1min OFF"/>
       <textevent timeoffset="60" message="Go Easy"/>
       <textevent timeoffset="120" message="Back on, get the RPM's up"/>

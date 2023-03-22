@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>27_in_9.zwo</name>
+        <time>0</time>
+        <guid>2756</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>25_palindromes.zwo</name>
         <time>0</time>
         <guid>6184</guid>
@@ -21,24 +28,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>21_ons.zwo</name>
-        <time>0</time>
-        <guid>10350</guid>
-        <checksum>97</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>40_20s.zwo</name>
         <time>0</time>
         <guid>13073</guid>
         <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>23_on.zwo</name>
-        <time>0</time>
-        <guid>322</guid>
-        <checksum>176</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -339,6 +332,8 @@
         <hash>3694056133</hash>
         <hash>3401418224</hash>
         <hash>1377250841</hash>
+        <hash>1060499197</hash>
+        <hash>1732078329</hash>
         <hash>1060499197</hash>
     </deleted_files>
 </custom_file_directory>

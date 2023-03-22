@@ -1,5 +1,5 @@
 <workout_file>
-  <author/>
+  <author>Eljefe Wappo<author/>
   <name>27on_in_9</name>
   <description> quick intervals<description/>
   <sportType>bike</sportType>
@@ -7,6 +7,7 @@
   <tags>
     <tag name="Intervals"/>
     <tag name="Rehab"/>
+    <tag name="Recovery"/>
   </tags>
   <workout>
     <Warmup Duration="300" PowerLow="0.406" PowerHigh="0.75" pace="0">

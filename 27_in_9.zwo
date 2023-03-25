@@ -1,16 +1,15 @@
 <workout_file>
-  <author>Eljefe Wappo<author/>
-  <name>27on_in_9</name>
-  <description> quick intervals<description/>
-  <sportType>bike</sportType>
-  <durationType>time</durationType>
-  <tags>
-    <tag name="Intervals"/>
-    <tag name="Rehab"/>
-    <tag name="Recovery"/>
-  </tags>
-  <workout>
-    <Warmup Duration="300" PowerLow="0.406" PowerHigh="0.75" pace="0">
+    <author/>
+    <name>27on_in_9</name>
+    <description> quick intervals<description/>
+    <sportType>bike</sportType>
+    <durationType>time</durationType>
+    <tags>
+        <tag name="Intervals"/>
+        <tag name="Rehab"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.406" PowerHigh="0.75" pace="0">
       <textevent timeoffset="0" message="Ok, here we go, 27 in 9 "/>
       <textevent timeoffset="54" message="Each segment will have 3 intervals "/>
       <textevent timeoffset="65" message="3 Off, and 3 On "/>

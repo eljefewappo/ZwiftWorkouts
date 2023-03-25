@@ -1,0 +1,68 @@
+<workout_file>
+  <author>E.Wappo [Strokers]</author>
+  <name>27's don't work</name>
+  <description>This will keep you going for 1 hour 50 min</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.5" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="5 minutes of warm up"/>
+    </Warmup>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="0.75" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.50204545" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="0.85" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="0.95" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1.05" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1.15" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1.25" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1.35" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1.25" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1.15" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1.05" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="0.95" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="0.85" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="0.75" OffPower="0.50204545" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="4 x (1 minute on + 30 seconds off) "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.5" pace="0" Cadence="63"/>
+    <Cooldown Duration="420" PowerLow="0.75" PowerHigh="0.5" pace="0"/>
+        <textevent timeoffset="0" message="You did it, great "/>
+    </Cooldown>
+  </workout>
+</workout_file>

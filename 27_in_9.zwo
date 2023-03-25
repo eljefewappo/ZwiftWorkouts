@@ -1,0 +1,58 @@
+<workout_file>
+    <author/>
+    <name>27on_in_9</name>
+    <description> quick intervals<description/>
+    <sportType>bike</sportType>
+    <durationType>time</durationType>
+    <tags>
+        <tag name="Intervals"/>
+        <tag name="Rehab"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.406" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="Ok, here we go, 27 in 9 "/>
+      <textevent timeoffset="54" message="Each segment will have 3 intervals "/>
+      <textevent timeoffset="65" message="3 Off, and 3 On "/>
+      <textevent timeoffset="120" message="We are doing things a little differently this time. starting with the Off Power, and then the On Power intervals"/>
+      <textevent timeoffset="207" message="In the spirit of balance everything will be mirrored "/>
+      <textevent timeoffset="265" message="30 seconds left"/>
+    </Warmup>
+    <SteadyState Duration="60" Power="0.568" pace="0">
+      <textevent timeoffset="0" message="1 min easy"/>
+    </SteadyState>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="0.852" pace="0" Cadence="68" CadenceResting="93">
+      <textevent timeoffset="0" message="Here we go!  Segment Number 1"/>
+      <textevent timeoffset="15" message="30 seconds easy"/>
+      <textevent timeoffset="28" message="Get ready here we go"/>  
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="0.944" pace="0" Cadence="68" CadenceResting="93">
+      <textevent timeoffset="48" message="Segment 2"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="1.048" pace="0" Cadence="68" CadenceResting="93"/>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="1.156" pace="0" Cadence="68" CadenceResting="93"/>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="1.248" pace="0" Cadence="68" CadenceResting="93"/>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="1.156" pace="0" Cadence="68" CadenceResting="93"/>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="1.048" pace="0" Cadence="68" CadenceResting="93"/>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="0.944" pace="0" Cadence="68" CadenceResting="93"/>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="0.496" OffPower="0.852" pace="0" Cadence="68" CadenceResting="93"/>
+    <SteadyState Duration="60" Power="0.568" pace="0"/>
+      <textevent timeoffset="0" message="1 min easy"/>
+    <Cooldown Duration="270" PowerLow="0.75" PowerHigh="0.502" pace="0"/>
+  </workout>
+</workout_file>

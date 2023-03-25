@@ -22,9 +22,66 @@
     </custom_file>
     <custom_file>
         <name>21_ons.zwo</name>
+        <name>27_s_don_t_work_copy.zwo</name>
         <time>0</time>
-        <guid>10350</guid>
-        <checksum>97</checksum>
+        <guid>14106</guid>
+        <checksum>31</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_s_don_t_work.zwo</name>
+        <time>1679746281</time>
+        <guid>28354</guid>
+        <checksum>72</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27s.zwo</name>
+        <time>0</time>
+        <guid>29057</guid>
+        <checksum>138</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>32_UPs.zwo</name>
+        <time>1679660085</time>
+        <guid>28205</guid>
+        <checksum>53</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_palindromes.zwo</name>
+        <time>0</time>
+        <guid>8276</guid>
+        <checksum>244</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_in_9.zwo</name>
+        <time>0</time>
+        <guid>2756</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>25_palindromes.zwo</name>
+        <time>0</time>
+        <guid>6184</guid>
+        <checksum>15</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>23_palindromes.zwo</name>
+        <time>1679479636</time>
+        <guid>23770</guid>
+        <checksum>246</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>mega_vo2_max.zwo</name>
+        <time>1679479636</time>
+        <guid>9993</guid>
+        <checksum>36</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -36,9 +93,9 @@
     </custom_file>
     <custom_file>
         <name>23_on.zwo</name>
-        <time>0</time>
-        <guid>322</guid>
-        <checksum>176</checksum>
+        <time>1679654280</time>
+        <guid>17225</guid>
+        <checksum>10</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -50,9 +107,9 @@
     </custom_file>
     <custom_file>
         <name>Primed_FTP.zwo</name>
-        <time>1678538135</time>
-        <guid>9811</guid>
-        <checksum>45</checksum>
+        <time>1679479636</time>
+        <guid>31951</guid>
+        <checksum>237</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -78,16 +135,16 @@
     </custom_file>
     <custom_file>
         <name>VO2_Development.zwo</name>
-        <time>0</time>
-        <guid>28281</guid>
-        <checksum>219</checksum>
+        <time>1679479636</time>
+        <guid>26498</guid>
+        <checksum>65</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Peak_VO2_Intervals.zwo</name>
-        <time>0</time>
-        <guid>29053</guid>
-        <checksum>64</checksum>
+        <time>1679479636</time>
+        <guid>28270</guid>
+        <checksum>166</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -106,9 +163,9 @@
     </custom_file>
     <custom_file>
         <name>VO2max_Short_Intervals.zwo</name>
-        <time>1677756256</time>
-        <guid>20908</guid>
-        <checksum>96</checksum>
+        <time>1679479636</time>
+        <guid>28205</guid>
+        <checksum>205</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -148,9 +205,9 @@
     </custom_file>
     <custom_file>
         <name>HIT_45sec__1.zwo</name>
-        <time>1678703717</time>
-        <guid>12722</guid>
-        <checksum>129</checksum>
+        <time>1679479636</time>
+        <guid>20310</guid>
+        <checksum>148</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -232,16 +289,16 @@
     </custom_file>
     <custom_file>
         <name>Eljefe_s___Sepp_Kuss__Cadence.zwo</name>
-        <time>1677756256</time>
-        <guid>16566</guid>
-        <checksum>195</checksum>
+        <time>1679479636</time>
+        <guid>16584</guid>
+        <checksum>205</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Eljefe_Marianne_Vos__TT_workout.zwo</name>
-        <time>0</time>
-        <guid>20534</guid>
-        <checksum>10</checksum>
+        <time>1679479636</time>
+        <guid>132</guid>
+        <checksum>9</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -281,9 +338,9 @@
     </custom_file>
     <custom_file>
         <name>The_Wringer.zwo</name>
-        <time>0</time>
-        <guid>29237</guid>
-        <checksum>118</checksum>
+        <time>1679479636</time>
+        <guid>27901</guid>
+        <checksum>132</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -302,9 +359,9 @@
     </custom_file>
     <custom_file>
         <name>Eljefe__sWout_van_Aert__VO2_Max.zwo</name>
-        <time>0</time>
-        <guid>17787</guid>
-        <checksum>189</checksum>
+        <time>1679479636</time>
+        <guid>27410</guid>
+        <checksum>199</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -340,5 +397,8 @@
         <hash>3401418224</hash>
         <hash>1377250841</hash>
         <hash>1060499197</hash>
+        <hash>1732078329</hash>
+        <hash>3452141918</hash>
+        <hash>1724797338</hash>
     </deleted_files>
 </custom_file_directory>

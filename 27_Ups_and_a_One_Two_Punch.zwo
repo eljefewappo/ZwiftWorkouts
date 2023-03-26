@@ -4,6 +4,8 @@
   <description/>
   <sportType>bike</sportType>
   <durationType>time</durationType>
+  <tags>
+      <tag name="60min"/>
   <tags/>
   <workout>
     <Warmup Duration="300" PowerLow="0.5" PowerHigh="0.75" pace="0">
@@ -13,12 +15,20 @@
       <textevent timeoffset="0" message="Rapid fire"/>
     </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="0.75" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63">
-      <textevent timeoffset="3" message="it starts easy"/>
+      <textevent timeoffset="0" message="It starts easy"/>
     </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="0.85" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="85% FTP"/>
+    </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="0.95" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="95% FTP"/>
+    </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="Ok, now we are at FTP"/>
+    </IntervalsT>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.15" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+      <textevent timeoffset="0" message="Over FTP, 115%"/>
+    </IntervalsT>
     <SteadyState Duration="60" Power="0.5" pace="0"/>
     <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.25" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
     <SteadyState Duration="60" Power="0.5" pace="0"/>

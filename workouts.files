@@ -1,45 +1,9 @@
 <custom_file_directory>
     <custom_file>
-        <name>25_palindromes.zwo</name>
-        <time>0</time>
-        <guid>6184</guid>
-        <checksum>15</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>23_palindromes.zwo</name>
-        <time>0</time>
-        <guid>9051</guid>
-        <checksum>70</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>mega_vo2_max.zwo</name>
-        <time>0</time>
-        <guid>2650</guid>
-        <checksum>155</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>21_ons.zwo</name>
-        <name>27_s_don_t_work_copy.zwo</name>
-        <time>0</time>
-        <guid>14106</guid>
-        <checksum>31</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>27_s_don_t_work.zwo</name>
-        <time>1679746281</time>
-        <guid>28354</guid>
-        <checksum>72</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>27s.zwo</name>
-        <time>0</time>
-        <guid>29057</guid>
-        <checksum>138</checksum>
+        <name>25___more_palindromes.zwo</name>
+        <time>1679834128</time>
+        <guid>18679</guid>
+        <checksum>157</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -50,52 +14,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>27_palindromes.zwo</name>
-        <time>0</time>
-        <guid>8276</guid>
-        <checksum>244</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>27_in_9.zwo</name>
         <time>0</time>
         <guid>2756</guid>
         <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>25_palindromes.zwo</name>
-        <time>0</time>
-        <guid>6184</guid>
-        <checksum>15</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>23_palindromes.zwo</name>
-        <time>1679479636</time>
-        <guid>23770</guid>
-        <checksum>246</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>mega_vo2_max.zwo</name>
-        <time>1679479636</time>
-        <guid>9993</guid>
-        <checksum>36</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>40_20s.zwo</name>
-        <time>0</time>
-        <guid>13073</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>23_on.zwo</name>
-        <time>1679654280</time>
-        <guid>17225</guid>
-        <checksum>10</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -106,24 +28,129 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Primed_FTP.zwo</name>
+        <name>27_s_don_t_work.zwo</name>
+        <time>1679834128</time>
+        <guid>25051</guid>
+        <checksum>31</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>The_Kwiatkowski.zwo</name>
+        <time>0</time>
+        <guid>2756</guid>
+        <checksum>92</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Men_s_Team_Workout.zwo</name>
+        <time>0</time>
+        <guid>26498</guid>
+        <checksum>244</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Norseman_workout__Geilo.zwo</name>
+        <time>1677756256</time>
+        <guid>10242</guid>
+        <checksum>236</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>The_Bernal.zwo</name>
+        <time>0</time>
+        <guid>24542</guid>
+        <checksum>105</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Lionel_Sanders__Green_Day_Workout.zwo</name>
+        <time>0</time>
+        <guid>5897</guid>
+        <checksum>233</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Eljefe_s___Sepp_Kuss__Cadence.zwo</name>
         <time>1679479636</time>
+        <guid>16584</guid>
+        <checksum>205</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Sweet_Spot_12.zwo</name>
+        <time>1676822807</time>
+        <guid>9051</guid>
+        <checksum>20</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>INEOS_Pre_Race_Warm_up.zwo</name>
+        <time>0</time>
+        <guid>2326</guid>
+        <checksum>132</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Beep__Beep__Beep_.zwo</name>
+        <time>0</time>
         <guid>31951</guid>
-        <checksum>237</checksum>
+        <checksum>58</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>FTP_Builder_Wk6,_Day_3.zwo</name>
-        <time>1678446120</time>
-        <guid>15892</guid>
-        <checksum>6</checksum>
+        <name>Ivan_Garcia_Cortina__Sprinter.zwo</name>
+        <time>0</time>
+        <guid>14899</guid>
+        <checksum>134</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Depleting_Workout.zwo</name>
-        <time>1678022021</time>
-        <guid>6195</guid>
-        <checksum>21</checksum>
+        <name>The_McCarthy_Special.zwo</name>
+        <time>0</time>
+        <guid>4745</guid>
+        <checksum>58</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Tempo_with_accelerations__1.zwo</name>
+        <time>1676822807</time>
+        <guid>31156</guid>
+        <checksum>80</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Push_the_Pain_Barrier.zwo</name>
+        <time>1677760549</time>
+        <guid>28024</guid>
+        <checksum>170</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Carlos_Verona__Climber_1.zwo</name>
+        <time>1677331985</time>
+        <guid>14285</guid>
+        <checksum>43</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Test.zwo</name>
+        <time>0</time>
+        <guid>1883</guid>
+        <checksum>213</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>The_Wringer.zwo</name>
+        <time>1679479636</time>
+        <guid>27901</guid>
+        <checksum>132</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>23_on.zwo</name>
+        <time>1679654280</time>
+        <guid>17225</guid>
+        <checksum>10</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -141,38 +168,17 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Peak_VO2_Intervals.zwo</name>
+        <name>HIT_45sec__1.zwo</name>
         <time>1679479636</time>
-        <guid>28270</guid>
-        <checksum>166</checksum>
+        <guid>20310</guid>
+        <checksum>148</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Push_the_Pain_Barrier.zwo</name>
-        <time>1677760549</time>
-        <guid>28024</guid>
-        <checksum>170</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Norseman_workout__Geilo.zwo</name>
-        <time>1677756256</time>
-        <guid>10242</guid>
-        <checksum>236</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>VO2max_Short_Intervals.zwo</name>
+        <name>Primed_FTP.zwo</name>
         <time>1679479636</time>
-        <guid>28205</guid>
-        <checksum>205</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Anna_van_der_Breggen___Road_Race.zwo</name>
-        <time>0</time>
-        <guid>25823</guid>
-        <checksum>48</checksum>
+        <guid>31951</guid>
+        <checksum>237</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -183,9 +189,44 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Carlos_Verona__Climber_1.zwo</name>
-        <time>1677331985</time>
-        <guid>14285</guid>
+        <name>Step_By_Step.zwo</name>
+        <time>0</time>
+        <guid>2711</guid>
+        <checksum>146</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Nino_Schurter___Punchy_Climbs.zwo</name>
+        <time>1677339995</time>
+        <guid>4571</guid>
+        <checksum>54</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_palindromes.zwo</name>
+        <time>0</time>
+        <guid>8276</guid>
+        <checksum>244</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>40_20s.zwo</name>
+        <time>0</time>
+        <guid>13073</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>HIT_45sec__2.zwo</name>
+        <time>1676822807</time>
+        <guid>645</guid>
+        <checksum>249</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Carlos_Verona__Climber.zwo</name>
+        <time>0</time>
+        <guid>1772</guid>
         <checksum>43</checksum>
         <deleted>false</deleted>
     </custom_file>
@@ -197,171 +238,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>HIT_45sec__2.zwo</name>
-        <time>1676822807</time>
-        <guid>645</guid>
-        <checksum>249</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>HIT_45sec__1.zwo</name>
-        <time>1679479636</time>
-        <guid>20310</guid>
-        <checksum>148</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Tempo_with_accelerations__1.zwo</name>
-        <time>1676822807</time>
-        <guid>31156</guid>
-        <checksum>80</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Sweet_Spot_12.zwo</name>
-        <time>1676822807</time>
-        <guid>9051</guid>
-        <checksum>20</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>The_Rowe.zwo</name>
+        <name>Grin_And_Bear_It.zwo</name>
         <time>0</time>
-        <guid>322</guid>
-        <checksum>152</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Test.zwo</name>
-        <time>0</time>
-        <guid>1883</guid>
-        <checksum>213</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>INEOS_Pre_Race_Warm_up.zwo</name>
-        <time>0</time>
-        <guid>2326</guid>
-        <checksum>132</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Nino_Schurter___Punchy_Climbs.zwo</name>
-        <time>1677339995</time>
-        <guid>4571</guid>
-        <checksum>54</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Lionel_Sanders__Green_Day_Workout.zwo</name>
-        <time>0</time>
-        <guid>5897</guid>
-        <checksum>233</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>The_Ganna.zwo</name>
-        <time>0</time>
-        <guid>22572</guid>
-        <checksum>56</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>The_Bernal.zwo</name>
-        <time>0</time>
-        <guid>24542</guid>
-        <checksum>105</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>The_Kwiatkowski.zwo</name>
-        <time>0</time>
-        <guid>2756</guid>
-        <checksum>92</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Beep__Beep__Beep_.zwo</name>
-        <time>0</time>
-        <guid>31951</guid>
-        <checksum>58</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Eljefe_s___Sepp_Kuss__Cadence.zwo</name>
-        <time>1679479636</time>
-        <guid>16584</guid>
-        <checksum>205</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Eljefe_Marianne_Vos__TT_workout.zwo</name>
-        <time>1679479636</time>
-        <guid>132</guid>
-        <checksum>9</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Carlos_Verona__Climber.zwo</name>
-        <time>0</time>
-        <guid>1772</guid>
-        <checksum>43</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Step_By_Step.zwo</name>
-        <time>0</time>
-        <guid>2711</guid>
-        <checksum>146</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Men_s_Team_Workout.zwo</name>
-        <time>0</time>
-        <guid>26498</guid>
-        <checksum>244</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Ivan_Garcia_Cortina__Sprinter.zwo</name>
-        <time>0</time>
-        <guid>14899</guid>
-        <checksum>134</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Pre_Training_Plan.zwo</name>
-        <time>0</time>
-        <guid>3164</guid>
-        <checksum>137</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>The_Wringer.zwo</name>
-        <time>1679479636</time>
-        <guid>27901</guid>
-        <checksum>132</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>The_McCarthy_Special.zwo</name>
-        <time>0</time>
-        <guid>4745</guid>
-        <checksum>58</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Annemiek_Van_Vleuten__All_rounder.zwo</name>
-        <time>0</time>
-        <guid>7548</guid>
-        <checksum>97</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Eljefe__sWout_van_Aert__VO2_Max.zwo</name>
-        <time>1679479636</time>
-        <guid>27410</guid>
-        <checksum>199</checksum>
+        <guid>15981</guid>
+        <checksum>214</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -372,10 +252,31 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Grin_And_Bear_It.zwo</name>
+        <name>Anna_van_der_Breggen___Road_Race.zwo</name>
         <time>0</time>
-        <guid>15981</guid>
-        <checksum>214</checksum>
+        <guid>25823</guid>
+        <checksum>48</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Annemiek_Van_Vleuten__All_rounder.zwo</name>
+        <time>0</time>
+        <guid>7548</guid>
+        <checksum>97</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27s.zwo</name>
+        <time>0</time>
+        <guid>29057</guid>
+        <checksum>138</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>The_Rowe.zwo</name>
+        <time>0</time>
+        <guid>322</guid>
+        <checksum>152</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -385,20 +286,98 @@
         <checksum>156</checksum>
         <deleted>false</deleted>
     </custom_file>
+    <custom_file>
+        <name>25_palindromes.zwo</name>
+        <time>0</time>
+        <guid>6184</guid>
+        <checksum>15</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Eljefe_Marianne_Vos__TT_workout.zwo</name>
+        <time>1679479636</time>
+        <guid>132</guid>
+        <checksum>9</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Eljefe__sWout_van_Aert__VO2_Max.zwo</name>
+        <time>1679479636</time>
+        <guid>27410</guid>
+        <checksum>199</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>mega_vo2_max.zwo</name>
+        <time>1679479636</time>
+        <guid>9993</guid>
+        <checksum>36</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2max_Short_Intervals.zwo</name>
+        <time>1679479636</time>
+        <guid>28205</guid>
+        <checksum>205</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Pre_Training_Plan.zwo</name>
+        <time>0</time>
+        <guid>3164</guid>
+        <checksum>137</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Depleting_Workout.zwo</name>
+        <time>1678022021</time>
+        <guid>6195</guid>
+        <checksum>21</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>23_palindromes.zwo</name>
+        <time>1679479636</time>
+        <guid>23770</guid>
+        <checksum>246</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Peak_VO2_Intervals.zwo</name>
+        <time>1679479636</time>
+        <guid>28270</guid>
+        <checksum>166</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>FTP_Builder_Wk6,_Day_3.zwo</name>
+        <time>1678446120</time>
+        <guid>15892</guid>
+        <checksum>6</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>The_Ganna.zwo</name>
+        <time>0</time>
+        <guid>22572</guid>
+        <checksum>56</checksum>
+        <deleted>false</deleted>
+    </custom_file>
     <deleted_files>
-        <hash>4286771810</hash>
         <hash>770156823</hash>
-        <hash>4011582789</hash>
-        <hash>3805711137</hash>
+        <hash>1060499197</hash>
+        <hash>1377250841</hash>
+        <hash>1724797338</hash>
+        <hash>1732078329</hash>
         <hash>2033635786</hash>
         <hash>2973623046</hash>
-        <hash>4068190484</hash>
-        <hash>3694056133</hash>
         <hash>3401418224</hash>
-        <hash>1377250841</hash>
-        <hash>1060499197</hash>
-        <hash>1732078329</hash>
         <hash>3452141918</hash>
-        <hash>1724797338</hash>
+        <hash>3694056133</hash>
+        <hash>3805711137</hash>
+        <hash>4011582789</hash>
+        <hash>4068190484</hash>
+        <hash>4286771810</hash>
+        <hash>1980296422</hash>
     </deleted_files>
 </custom_file_directory>

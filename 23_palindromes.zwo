@@ -6,6 +6,7 @@
     <tags>
         <tag name="RECOVERY"/>
         <tag name="INTERVALS"/>
+        <tag name="60min"/>
     </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.498" PowerHigh="0.75" pace="1428186484">

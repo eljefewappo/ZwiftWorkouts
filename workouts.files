@@ -1,16 +1,44 @@
 <custom_file_directory>
     <custom_file>
+        <name>1_Template.zwo</name>
+        <time>0</time>
+        <guid>9233</guid>
+        <checksum>41</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_Ups_and_a_Big_FU2.zwo</name>
+        <time>0</time>
+        <guid>27202</guid>
+        <checksum>235</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>0_Template.zwo</name>
+        <time>0</time>
+        <guid>2756</guid>
+        <checksum>93</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_Ups_and_a_Big_Finge.zwo</name>
+        <time>0</time>
+        <guid>6690</guid>
+        <checksum>106</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_Ups_and_a_One_Two_Punch.zwo</name>
+        <time>0</time>
+        <guid>7525</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>25___more_palindromes.zwo</name>
         <time>1679834128</time>
         <guid>18679</guid>
         <checksum>157</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>32_UPs.zwo</name>
-        <time>1679660085</time>
-        <guid>28205</guid>
-        <checksum>53</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -147,13 +175,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>23_on.zwo</name>
-        <time>1679654280</time>
-        <guid>17225</guid>
-        <checksum>10</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>The_Quick_Fix.zwo</name>
         <time>1678020886</time>
         <guid>4462</guid>
@@ -182,13 +203,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Annemiek_Van_Vleuten__All_rounder_1.zwo</name>
-        <time>1677331985</time>
-        <guid>8012</guid>
-        <checksum>97</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Step_By_Step.zwo</name>
         <time>0</time>
         <guid>2711</guid>
@@ -200,13 +214,6 @@
         <time>1677339995</time>
         <guid>4571</guid>
         <checksum>54</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>27_palindromes.zwo</name>
-        <time>0</time>
-        <guid>8276</guid>
-        <checksum>244</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -263,13 +270,6 @@
         <time>0</time>
         <guid>7548</guid>
         <checksum>97</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>27s.zwo</name>
-        <time>0</time>
-        <guid>29057</guid>
-        <checksum>138</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -379,5 +379,11 @@
         <hash>4068190484</hash>
         <hash>4286771810</hash>
         <hash>1980296422</hash>
+        <hash>918767192</hash>
+        <hash>1369722437</hash>
+        <hash>472203023</hash>
+        <hash>775490171</hash>
+        <hash>807096419</hash>
+        <hash>2504369490</hash>
     </deleted_files>
 </custom_file_directory>

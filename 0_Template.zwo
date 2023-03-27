@@ -1,0 +1,41 @@
+<workout_file>
+    <author>E.Wappo [Strokers]</author>
+    <name>0_Template</name>
+    <description>Description</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="CustomTag"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.25204545" PowerHigh="0.75204545" pace="633">
+            <textevent timeoffset="103" message="Warmup"/>
+        </Warmup>
+        <SteadyState Duration="300" Power="0.50204545" pace="633">
+            <textevent timeoffset="148" message="Zone 1"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.65204543" pace="633">
+            <textevent timeoffset="144" message="Zone 2"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.81113636" pace="633">
+            <textevent timeoffset="148" message="Zone 3"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.95204544" pace="633">
+            <textevent timeoffset="132" message="Zone 4"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1.0975" pace="633">
+            <textevent timeoffset="124" message="Zone 5"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1.2520455" pace="633" Cadence="85">
+            <textevent timeoffset="146" message="Zone 6"/>
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" OnPower="0.75204545" OffPower="0.50204545" pace="633">
+            <textevent timeoffset="211" message="Interval"/>
+        </IntervalsT>
+        <FreeRide Duration="300" FlatRoad="0" Cadence="85">
+            <textevent timeoffset="131" message="Free Red"/>
+        </FreeRide>
+        <Cooldown Duration="285" PowerLow="0.75204545" PowerHigh="0.25204545" pace="633">
+            <textevent timeoffset="139" message="Cool Down"/>
+        </Cooldown>
+    </workout>
+</workout_file>

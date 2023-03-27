@@ -106,6 +106,7 @@
     <Cooldown Duration="330" PowerLow="0.75" PowerHigh="0.446" pace="0">
       <textevent timeoffset="1" message="Cool down, you earned it, great job"/>
       <textevent timeoffset="165" message="Keep spinning down"/>
+      <textevent timeoffset="300" message="Thanks for riding with us today!"/>
     </Cooldown>
   </workout>
 </workout_file>

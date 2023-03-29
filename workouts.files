@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>27_Ups_and_a_Big_Finger.zwo</name>
+        <time>0</time>
+        <guid>6690</guid>
+        <checksum>106</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>1_Template.zwo</name>
         <time>0</time>
         <guid>9233</guid>
@@ -8,23 +15,23 @@
     </custom_file>
     <custom_file>
         <name>27_Ups_and_a_Big_FU2.zwo</name>
-        <time>0</time>
-        <guid>27202</guid>
-        <checksum>235</checksum>
+        <time>1680088475</time>
+        <guid>20534</guid>
+        <checksum>124</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>0_Template.zwo</name>
-        <time>0</time>
-        <guid>2756</guid>
-        <checksum>93</checksum>
+        <time>1680088475</time>
+        <guid>28844</guid>
+        <checksum>94</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>27_Ups_and_a_Big_Finger.zwo</name>
-        <time>0</time>
-        <guid>6690</guid>
-        <checksum>106</checksum>
+        <time>1680088475</time>
+        <guid>28647</guid>
+        <checksum>33</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -36,9 +43,9 @@
     </custom_file>
     <custom_file>
         <name>25___more_palindromes.zwo</name>
-        <time>1679834128</time>
-        <guid>18679</guid>
-        <checksum>157</checksum>
+        <time>1680088475</time>
+        <guid>6441</guid>
+        <checksum>62</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -57,9 +64,9 @@
     </custom_file>
     <custom_file>
         <name>27_s_don_t_work.zwo</name>
-        <time>1679834128</time>
-        <guid>25051</guid>
-        <checksum>31</checksum>
+        <time>1680088475</time>
+        <guid>25507</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -337,9 +344,9 @@
     </custom_file>
     <custom_file>
         <name>23_palindromes.zwo</name>
-        <time>1679479636</time>
-        <guid>23770</guid>
-        <checksum>246</checksum>
+        <time>1680088475</time>
+        <guid>23801</guid>
+        <checksum>27</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

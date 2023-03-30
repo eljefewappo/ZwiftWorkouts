@@ -24,7 +24,7 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="0.85000002" OffPower="0.60000002" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="0" message="Two intervals at 75% FTP"/>
+            <textevent timeoffset="0" message="Two intervals at 85% FTP"/>
             <textevent timeoffset="100" message="Two down"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
@@ -32,7 +32,7 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <IntervalsT Repeat="3" OnDuration="60" OffDuration="30" OnPower="0.94999999" OffPower="0.59600002" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="0" message="Three intervals at 85% FTP"/>
+            <textevent timeoffset="0" message="Three intervals at 95% FTP"/>
             <textevent timeoffset="230" message="Three down"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
@@ -40,7 +40,7 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1" OffPower="0.59600002" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="0" message="Four intervals at 95% FTP"/>
+            <textevent timeoffset="0" message="Four intervals at 100% FTP"/>
             <textevent timeoffset="320" message="Four down"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
@@ -48,7 +48,7 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.15" OffPower="0.64999998" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="0" message="Two intervals at 105% FTP"/>
+            <textevent timeoffset="0" message="Two intervals at 115% FTP"/>
             <textevent timeoffset="100" message="Five down"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
@@ -56,7 +56,7 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <SteadyState Duration="120" Power="1.35" pace="1428186484" Cadence="93">
-            <textevent timeoffset="0" message="Big push, 1 minute at 120% FTP"/>
+            <textevent timeoffset="0" message="Big push, 1 minute at 135% FTP"/>
             <textevent timeoffset="10" message="This is the hard one"/>
             <textevent timeoffset="20" message="Keep digging deep"/>
             <textevent timeoffset="30" message="Keep pushing 1/4 done"/>
@@ -78,7 +78,7 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.15" OffPower="0.64999998" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="0" message="Two intervals at 105% FTP"/>
+            <textevent timeoffset="0" message="Two intervals at 115% FTP"/>
             <textevent timeoffset="90" message="One more to come"/>
             <textevent timeoffset="150" message="Six down"/>
         </IntervalsT>
@@ -87,7 +87,7 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="1" OffPower="0.59600002" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="1" message="Four intervals at 95% FTP"/>
+            <textevent timeoffset="1" message="Four intervals at 100% FTP"/>
             <textevent timeoffset="320" message="Seven down"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
@@ -95,7 +95,7 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <IntervalsT Repeat="3" OnDuration="60" OffDuration="30" OnPower="0.94999999" OffPower="0.59600002" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="1" message="Three intervals at 85% FTP"/>
+            <textevent timeoffset="1" message="Three intervals at 95% FTP"/>
             <textevent timeoffset="230" message="Eight down"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
@@ -103,13 +103,13 @@
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
         <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="0.85000002" OffPower="0.60000002" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="1" message="Two intervals at 75% FTP"/>
+            <textevent timeoffset="1" message="Two intervals at 85% FTP"/>
             <textevent timeoffset="150" message="Nine down"/>
             <textevent timeoffset="165" message="This was the last one"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
             <textevent timeoffset="1" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
-            <textevent timeoffset="30" message="30 seconds left, great work"/>
+            <textevent timeoffset="30" message="30 seconds left "/>
         </SteadyState>
         <Cooldown Duration="330" PowerLow="0.75" PowerHigh="0.44600001" pace="1428186484">
             <textevent timeoffset="1" message="Cool down, you earned it, great job"/>

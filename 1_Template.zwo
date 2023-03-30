@@ -1,0 +1,73 @@
+<workout_file>
+    <author>E.Wappo [Strokers]</author>
+    <name>1_Template</name>
+    <description>Description</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="CustomTag"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.25204545" PowerHigh="0.75204545" pace="633">
+            <textevent timeoffset="103" message="Warmup"/>
+        </Warmup>
+        <SteadyState Duration="300" Power="0.50204545" pace="633">
+            <textevent timeoffset="0" message="Zone 1"/>
+            <textevent timeoffset="10" message="Zone 1"/>
+            <textevent timeoffset="20" message="Zone 1"/>
+            <textevent timeoffset="30" message="Zone 1"/>
+            <textevent timeoffset="40" message="Zone 1"/>
+            <textevent timeoffset="50" message="Zone 1"/>
+            <textevent timeoffset="60" message="Zone 1"/>
+            <textevent timeoffset="70" message="Zone 1"/>
+            <textevent timeoffset="80" message="Zone 1"/>
+            <textevent timeoffset="90" message="Zone 1"/>
+            <textevent timeoffset="100" message="Zone 1"/>
+            <textevent timeoffset="110" message="Zone 1"/>
+            <textevent timeoffset="120" message="Zone 1"/>
+            <textevent timeoffset="130" message="Zone 1"/>
+            <textevent timeoffset="140" message="Zone 1"/>
+            <textevent timeoffset="150" message="Zone 1"/>
+            <textevent timeoffset="160" message="Zone 1"/>
+            <textevent timeoffset="170" message="Zone 1"/>
+            <textevent timeoffset="180" message="Zone 1"/>
+            <textevent timeoffset="190" message="Zone 1"/>
+            <textevent timeoffset="200" message="Zone 1"/>
+            <textevent timeoffset="210" message="Zone 1"/>
+            <textevent timeoffset="220" message="Zone 1"/>
+            <textevent timeoffset="230" message="Zone 1"/>
+            <textevent timeoffset="240" message="Zone 1"/>
+            <textevent timeoffset="250" message="Zone 1"/>
+            <textevent timeoffset="260" message="Zone 1"/>
+            <textevent timeoffset="270" message="Zone 1"/>
+            <textevent timeoffset="280" message="Zone 1"/>
+            <textevent timeoffset="290" message="Zone 1"/>
+            <textevent timeoffset="292" message="Zone 1"/>
+            <textevent timeoffset="298" message="Zone 1"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.65204543" pace="633">
+            <textevent timeoffset="144" message="Zone 2"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.81113636" pace="633">
+            <textevent timeoffset="148" message="Zone 3"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.95204544" pace="633">
+            <textevent timeoffset="132" message="Zone 4"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1.0975" pace="633">
+            <textevent timeoffset="124" message="Zone 5"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1.2520455" pace="633" Cadence="85">
+            <textevent timeoffset="146" message="Zone 6"/>
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" OnPower="0.75204545" OffPower="0.50204545" pace="633">
+            <textevent timeoffset="211" message="Interval"/>
+        </IntervalsT>
+        <FreeRide Duration="300" FlatRoad="0" Cadence="85">
+            <textevent timeoffset="131" message="Free Red"/>
+        </FreeRide>
+        <Cooldown Duration="285" PowerLow="0.75204545" PowerHigh="0.25204545" pace="633">
+            <textevent timeoffset="139" message="Cool Down"/>
+        </Cooldown>
+    </workout>
+</workout_file>
+                                                                        

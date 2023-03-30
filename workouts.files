@@ -1,5 +1,26 @@
 <custom_file_directory>
     <custom_file>
+        <name>30_Ups_Big_Finger.zwo</name>
+        <time>0</time>
+        <guid>1630</guid>
+        <checksum>102</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_Ups_and_a_Big_Finge.zwo</name>
+        <time>0</time>
+        <guid>6690</guid>
+        <checksum>106</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_Ups_and_a_Big_Finger2.zwo</name>
+        <time>0</time>
+        <guid>9606</guid>
+        <checksum>33</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>27_Ups_and_a_Big_Finger.zwo</name>
         <time>0</time>
         <guid>6690</guid>

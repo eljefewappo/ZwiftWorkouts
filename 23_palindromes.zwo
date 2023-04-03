@@ -35,9 +35,9 @@
             <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
             <textevent timeoffset="20" message="1min ON 1min OFF"/>
             <textevent timeoffset="60" message="Go Easy"/>
-            <textevent timeoffset="120" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="120" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="180" message="Go easy"/>
-            <textevent timeoffset="240" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="240" message="Back on the gas,, get the RPM&apos;s up"/>
             <textevent timeoffset="300" message="Go easy"/>
             <textevent timeoffset="320" message="Last Intervals"/>
         </IntervalsT>
@@ -46,18 +46,18 @@
             <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
             <textevent timeoffset="20" message="1min ON 1min OFF"/>
             <textevent timeoffset="60" message="Go Easy"/>
-            <textevent timeoffset="120" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="120" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="180" message="Go easy"/>
-            <textevent timeoffset="240" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="240" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="300" message="Go easy"/>
             <textevent timeoffset="320" message="Last Intervals"/>
         </IntervalsT>
         <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.096" OffPower="0.5" pace="1428186484" Cadence="90" CadenceResting="65">
             <textevent timeoffset="0" message="Session No. 4"/>
-            <textevent timeoffset="15" message="This task will have 2 Intervals, or 6 minutes for this segment"/>
+            <textevent timeoffset="15" message="This task will have 2 Intervals, or 4 minutes for this segment"/>
             <textevent timeoffset="20" message="1min ON 1min OFF"/>
             <textevent timeoffset="60" message="Go Easy"/>
-            <textevent timeoffset="120" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="120" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="180" message="Go easy"/>
         </IntervalsT>
         <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1.148" OffPower="0.5" pace="1428186484" Cadence="90" CadenceResting="65">
@@ -65,11 +65,11 @@
             <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
             <textevent timeoffset="20" message="1min ON 1min OFF"/>
             <textevent timeoffset="30" message="This is the hardest session"/>
-            <textevent timeoffset="45" message="Down hill from here"/>
             <textevent timeoffset="60" message="Go Easy"/>
-            <textevent timeoffset="120" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="120" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="180" message="Go easy"/>
-            <textevent timeoffset="240" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="185" message="Down hill from here"/>
+            <textevent timeoffset="240" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="300" message="Go easy"/>
             <textevent timeoffset="320" message="Last Intervals"/>
         </IntervalsT>
@@ -78,9 +78,9 @@
             <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
             <textevent timeoffset="20" message="1min ON 1min OFF"/>
             <textevent timeoffset="60" message="Go Easy"/>
-            <textevent timeoffset="120" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="120" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="180" message="Go easy"/>
-            <textevent timeoffset="240" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="240" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="300" message="Go easy"/>
             <textevent timeoffset="320" message="Last Intervals"/>
         </IntervalsT>
@@ -89,9 +89,9 @@
             <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
             <textevent timeoffset="20" message="1min ON 1min OFF"/>
             <textevent timeoffset="60" message="Go Easy"/>
-            <textevent timeoffset="120" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="120" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="180" message="Go easy"/>
-            <textevent timeoffset="240" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="240" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="300" message="Go easy"/>
             <textevent timeoffset="320" message="Last Intervals"/>
         </IntervalsT>
@@ -100,20 +100,20 @@
             <textevent timeoffset="15" message="This one will have 3 Intervals, or 6 minutes for this segment"/>
             <textevent timeoffset="20" message="1min ON 1min OFF"/>
             <textevent timeoffset="60" message="Go Easy"/>
-            <textevent timeoffset="120" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="120" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="180" message="Go easy"/>
-            <textevent timeoffset="240" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="240" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="300" message="Go easy"/>
             <textevent timeoffset="320" message="Last Intervals"/>
         </IntervalsT>
         <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.85600001" OffPower="0.5" pace="1428186484" Cadence="90" CadenceResting="65">
             <textevent timeoffset="0" message="Session No. 9"/>
-            <textevent timeoffset="15" message="This one will have 2 Intervals, or 6 minutes for this segment"/>
+            <textevent timeoffset="15" message="This one will have 2 Intervals, or 4 minutes for this segment"/>
             <textevent timeoffset="20" message="1min ON 1min OFF"/>
             <textevent timeoffset="60" message="Go Easy"/>
-            <textevent timeoffset="120" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="120" message="Back on the gas, get the RPM&apos;s up"/>
             <textevent timeoffset="180" message="Go easy"/>
-            <textevent timeoffset="240" message="Back on, get the RPM&apos;s up"/>
+            <textevent timeoffset="240" message="Back on the gas, get the RPM&apos;s up"/>
         </IntervalsT>
         <Cooldown Duration="420" PowerLow="0.75" PowerHigh="0.50199997" pace="1428186484">
             <textevent timeoffset="0" message="Start that 7min Cool Down"/>

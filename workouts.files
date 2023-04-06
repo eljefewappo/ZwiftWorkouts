@@ -1,16 +1,16 @@
 <custom_file_directory>
     <custom_file>
         <name>13___5___5_Long.zwo</name>
-        <time>1680435951</time>
-        <guid>2320</guid>
-        <checksum>176</checksum>
+        <time>1680784025</time>
+        <guid>7863</guid>
+        <checksum>5</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>AAAA.zwo</name>
-        <time>0</time>
-        <guid>6184</guid>
-        <checksum>142</checksum>
+        <name>5min_Even_Up.zwo</name>
+        <time>1680784111</time>
+        <guid>28020</guid>
+        <checksum>70</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -22,9 +22,9 @@
     </custom_file>
     <custom_file>
         <name>13_by_5_by_5.zwo</name>
-        <time>1680435951</time>
-        <guid>20310</guid>
-        <checksum>182</checksum>
+        <time>1680784025</time>
+        <guid>21240</guid>
+        <checksum>167</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -400,9 +400,9 @@
     </custom_file>
     <custom_file>
         <name>23_palindromes.zwo</name>
-        <time>1680088475</time>
-        <guid>23801</guid>
-        <checksum>27</checksum>
+        <time>1680784025</time>
+        <guid>11192</guid>
+        <checksum>186</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

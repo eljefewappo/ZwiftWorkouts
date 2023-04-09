@@ -28,24 +28,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>5min_Even_Up.zwo</name>
-        <time>1680784111</time>
-        <guid>28020</guid>
-        <checksum>70</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>13_by_5_by_5_comments.zwo</name>
         <time>0</time>
         <guid>31951</guid>
         <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>13_by_5_by_5.zwo</name>
-        <time>1680784025</time>
-        <guid>21240</guid>
-        <checksum>167</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -81,13 +67,6 @@
         <time>0</time>
         <guid>6690</guid>
         <checksum>106</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>1_Template.zwo</name>
-        <time>0</time>
-        <guid>9233</guid>
-        <checksum>41</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -470,5 +449,8 @@
         <hash>807096419</hash>
         <hash>2504369490</hash>
         <hash>385221645</hash>
+        <hash>1022247363</hash>
+        <hash>2954645802</hash>
+        <hash>716655755</hash>
     </deleted_files>
 </custom_file_directory>

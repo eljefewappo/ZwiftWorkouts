@@ -42,20 +42,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>13_by_6_by_6.zwo</name>
-        <time>1681052819</time>
-        <guid>21296</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>16_Ups_and_a_pyramid.zwo</name>
-        <time>0</time>
-        <guid>6184</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>30_Ups_Big_Finger.zwo</name>
         <time>1680298757</time>
         <guid>23570</guid>
@@ -77,31 +63,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>27_Ups_and_a_One_Two_Punch.zwo</name>
-        <time>0</time>
-        <guid>7525</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>27_in_9.zwo</name>
-        <time>0</time>
-        <guid>2756</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>8_6_4min_Threshold.zwo</name>
         <time>1678703717</time>
         <guid>24267</guid>
         <checksum>196</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>27_s_don_t_work.zwo</name>
-        <time>1680088475</time>
-        <guid>25507</guid>
-        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -211,5 +176,10 @@
         <hash>3533261164</hash>
         <hash>1418038104</hash>
         <hash>2414179380</hash>
+        <hash>379280168</hash>
+        <hash>2054527264</hash>
+        <hash>1086120784</hash>
+        <hash>110538249</hash>
+        <hash>615101611</hash>
     </deleted_files>
 </custom_file_directory>

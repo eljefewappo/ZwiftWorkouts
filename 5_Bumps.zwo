@@ -1,0 +1,90 @@
+<workout_file>
+  <author/>
+  <name>5 Bumps</name>
+  <description> 5 * 6 minute intervals </description/>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="420" PowerLow="0.446" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="Warm up, 7 minutes"/>
+    </Warmup>
+    <SteadyState Duration="120" Power="0.60" pace="0" Cadence="63">
+      <textevent timeoffset="1" message="Relax, spin easy, two minutes"/>
+    </SteadyState>
+    <IntervalsT Repeat="4" OnDuration="30" OffDuration="60" OnPower="1.296" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="0" message="Four quick sprints to get the heart ❤️ going "/>
+      <textevent timeoffset="80" message="Number 2 coming up"/>
+      <textevent timeoffset="91" message="Two, Go, Go, Go, on the gas"/>
+      <textevent timeoffset="195" message="Three"/>
+      <textevent timeoffset="282" message="Four"/>
+    </IntervalsT>
+    <SteadyState Duration="120" Power="0.60" pace="0" Cadence="63">
+      <textevent timeoffset="1" message="Drink water"/>
+      <textevent timeoffset="90" message="Last 30 seconds"/>
+    </SteadyState>
+    <SteadyState Duration="360" Power="1.153" pace="0" Cadence="93">
+      <textevent timeoffset="1" message="Six minutes at 115% FTP"/>
+      <textevent timeoffset="300" message="1 minute left"/>
+    </SteadyState>
+    <SteadyState Duration="120" Power="0.60" pace="0" Cadence="63">
+      <textevent timeoffset="1" message="Relax, easy spin, get a dink, 2 min will go by fast"/>
+      <textevent timeoffset="90" message="Last 30 seconds"/>
+    </SteadyState>
+    <SteadyState Duration="360" Power="1.505" pace="0" Cadence="93">
+      <textevent timeoffset="1" message="Six minutes at 150% FTP"/>
+      <textevent timeoffset="300" message="30 seconds left"/>
+    </SteadyState>
+    <SteadyState Duration="120" Power="0.605" pace="0" Cadence="63">
+      <textevent timeoffset="1" message="Relax, easy spin, get a dink, 2 min will go by fast"/>
+      <textevent timeoffset="90" message="Last 30 seconds"/>
+    </SteadyState>
+    <SteadyState Duration="360" Power="1.145" pace="0" Cadence="93">
+      <textevent timeoffset="1" message="Six minutes at 115% FTP"/>
+      <textevent timeoffset="180" message="Halfway through this shit..."/>
+      <textevent timeoffset="300" message="1 minute left"/>
+    </SteadyState>
+    <SteadyState Duration="120" Power="0.60" pace="0" Cadence="63">
+      <textevent timeoffset="1" message="Relax, easy spin, get a dink, 2 min will go by fast"/>
+      <textevent timeoffset="90" message="Last 30 seconds"/>
+    </SteadyState>
+    <SteadyState Duration="360" Power="1.505" pace="0" Cadence="93">
+      <textevent timeoffset="1" message="Six minutes at 150% FTP"/>
+      <textevent timeoffset="300" message="1 minute left"/>
+      <textevent timeoffset="258" message="Almost over just 30 seconds of suck left"/>
+    </SteadyState>
+    <SteadyState Duration="120" Power="0.60" pace="0" Cadence="63">
+      <textevent timeoffset="1" message="Relax, easy spin, get a dink, 2 min will go by fast"/>
+      <textevent timeoffset="90" message="Last 30 seconds"/>
+    </SteadyState>
+    <SteadyState Duration="360" Power="1.145" pace="0" Cadence="93">
+      <textevent timeoffset="1" message="Six minutes at 115% FTP"/>
+      <textevent timeoffset="300" message="1 minute left"/>
+    </SteadyState>
+    <SteadyState Duration="120" Power="0.60" pace="0" Cadence="63">
+      <textevent timeoffset="1" message="Relax, easy spin, get a dink, 2 min will go by fast"/>
+      <textevent timeoffset="90" message="Last 30 seconds"/>
+    </SteadyState>
+    <IntervalsT Repeat="4" OnDuration="30" OffDuration="60" OnPower="1.296" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="1" message="Four on Four off, 30 seconds on the power 1 minute off"/>
+      <textevent timeoffset="91" message="Two"/>
+      <textevent timeoffset="180" message="Three"/>
+      <textevent timeoffset="270" message="Four"/>
+    </IntervalsT>
+    <SteadyState Duration="120" Power="0.60" pace="0" Cadence="63">
+      <textevent timeoffset="1" message="Last one, great job, this was hard"/>
+      <textevent timeoffset="90" message="Last 30 seconds"/>
+    </SteadyState>
+    <Cooldown Duration="420" PowerLow="0.75" PowerHigh="0.446" pace="0">
+      <textevent timeoffset="1" message="Cool down"/>
+      <textevent timeoffset="60" message="1 minute down"/>
+      <textevent timeoffset="120" message="2 minutes down"/>
+      <textevent timeoffset="180" message="3 minutes down"/>
+      <textevent timeoffset="240" message="4 minutes down"/>
+      <textevent timeoffset="300" message="5 minutes down"/>
+      <textevent timeoffset="360" message="6 minutes down"/>
+      <textevent timeoffset="365" message="Last minutes"/>
+      <textevent timeoffset="410" message="Great work"/>
+    </Cooldown>
+  </workout>
+</workout_file>

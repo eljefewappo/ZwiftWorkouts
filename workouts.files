@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>27_Ups_and_a_Little_Finger.zwo</name>
+        <time>0</time>
+        <guid>14728</guid>
+        <checksum>90</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_Ups_and_a_Big_FuckYou.zwo</name>
+        <time>0</time>
+        <guid>2756</guid>
+        <checksum>128</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>20_Up_Ass_Kicker.zwo</name>
         <time>1681052819</time>
         <guid>10557</guid>
@@ -49,24 +63,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>27_Ups_and_a_Big_Finger2.zwo</name>
-        <time>1681052819</time>
-        <guid>6685</guid>
-        <checksum>35</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>27_Ups_and_a_Big_Finger.zwo</name>
         <time>0</time>
         <guid>6690</guid>
         <checksum>106</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>27_Ups_and_a_Big_FU2.zwo</name>
-        <time>1681052819</time>
-        <guid>17562</guid>
-        <checksum>128</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -209,5 +209,7 @@
         <hash>230143481</hash>
         <hash>1929995534</hash>
         <hash>3533261164</hash>
+        <hash>1418038104</hash>
+        <hash>2414179380</hash>
     </deleted_files>
 </custom_file_directory>

@@ -1,0 +1,26 @@
+<workout_file>
+    <author></author>
+    <name>867-5309 Jenny Short</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="390" PowerLow="0.50199997" PowerHigh="0.75" pace="1428186484"/>
+        <SteadyState Duration="120" Power="0.75199997" pace="1428186484" Cadence="65"/>
+        <IntervalsT Repeat="8" OnDuration="30" OffDuration="30" OnPower="1.002" OffPower="0.49977776" pace="1428186484" Cadence="93" CadenceResting="63"/>
+        <SteadyState Duration="120" Power="0.75199997" pace="1428186484" Cadence="65"/>
+        <IntervalsT Repeat="6" OnDuration="30" OffDuration="30" OnPower="1.056" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63"/>
+        <SteadyState Duration="120" Power="0.75199997" pace="1428186484" Cadence="65"/>
+        <IntervalsT Repeat="7" OnDuration="30" OffDuration="30" OnPower="1" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63"/>
+        <SteadyState Duration="120" Power="0.75199997" pace="1428186484" Cadence="65"/>
+        <IntervalsT Repeat="5" OnDuration="30" OffDuration="30" OnPower="1" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63"/>
+        <SteadyState Duration="120" Power="0.75199997" pace="1428186484" Cadence="65"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" OnPower="1" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63"/>
+        <SteadyState Duration="120" Power="0.75199997" pace="1428186484" Cadence="65"/>
+        <IntervalsT Repeat="10" OnDuration="30" OffDuration="30" OnPower="1.0039999" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63"/>
+        <SteadyState Duration="120" Power="0.75199997" pace="1428186484" Cadence="65"/>
+        <IntervalsT Repeat="9" OnDuration="30" OffDuration="30" OnPower="1.0880001" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63"/>
+        <SteadyState Duration="120" Power="0.75199997" pace="1428186484" Cadence="65"/>
+        <Cooldown Duration="420" PowerLow="0.75" PowerHigh="0.454" pace="1428186484"/>
+    </workout>
+</workout_file>

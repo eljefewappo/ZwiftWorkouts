@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>867-5309_Jenny_short.zwo</name>
+        <time>1681294591</time>
+        <guid>29511</guid>
+        <checksum>77</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>867-5309_Jenny.zwo</name>
         <time>0</time>
         <guid>27843</guid>

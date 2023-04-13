@@ -1,16 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>867-5309_Jenny_Long.zwo</name>
+        <time>0</time>
+        <guid>14728</guid>
+        <checksum>148</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>867-5309_Jenny_short.zwo</name>
         <time>1681294591</time>
         <guid>29511</guid>
         <checksum>77</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>867-5309_Jenny.zwo</name>
-        <time>0</time>
-        <guid>27843</guid>
-        <checksum>139</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -195,5 +195,6 @@
         <hash>1086120784</hash>
         <hash>110538249</hash>
         <hash>615101611</hash>
+        <hash>1135187546</hash>
     </deleted_files>
 </custom_file_directory>

@@ -15,7 +15,7 @@
     <IntervalsT Repeat="8" OnDuration="45" OffDuration="20" OnPower="1.2" OffPower="0.49977776" pace="0" Cadence="93" CadenceResting="63">
       <textevent timeoffset="1" message="Round 1&#xA;8 sessions @120% FTP"/>
     </IntervalsT>
-    <SteadyState Duration="120" Power="0.6959999699999999" pace="0" Cadence="65"/>
+    <SteadyState Duration="120" Power="0.55" pace="0" Cadence="65"/>
     <IntervalsT Repeat="6" OnDuration="45" OffDuration="20" OnPower="1.2" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63">
       <textevent timeoffset="1" message="Round 2&#xA;6 sessions @ 120% FTP"/>
     </IntervalsT>

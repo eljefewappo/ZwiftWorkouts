@@ -1,0 +1,27 @@
+<workout_file>
+  <author/>
+  <name>867-5309 Jenny 30 & 60's</name>
+  <description/>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="390" PowerLow="0.502" PowerHigh="0.75" pace="0"/>
+    <SteadyState Duration="120" Power="0.752" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="8" OnDuration="30" OffDuration="60" OnPower="1.2" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+    <SteadyState Duration="120" Power="0.752" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="6" OnDuration="30" OffDuration="60" OnPower="1.2" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+    <SteadyState Duration="120" Power="0.752" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="7" OnDuration="30" OffDuration="60" OnPower="1.2" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+    <SteadyState Duration="120" Power="0.752" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="5" OnDuration="30" OffDuration="60" OnPower="1.2" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+    <SteadyState Duration="120" Power="0.752" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="3" OnDuration="30" OffDuration="60" OnPower="1.2" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+    <SteadyState Duration="120" Power="0.752" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="10" OnDuration="30" OffDuration="60" OnPower="1.2" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+    <SteadyState Duration="120" Power="0.752" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="9" OnDuration="30" OffDuration="60" OnPower="1.2" OffPower="0.5" pace="0" Cadence="93" CadenceResting="63"/>
+    <SteadyState Duration="120" Power="0.752" pace="0" Cadence="65"/>
+    <Cooldown Duration="420" PowerLow="0.75" PowerHigh="0.454" pace="0"/>
+  </workout>
+</workout_file>

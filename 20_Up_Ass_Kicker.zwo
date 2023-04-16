@@ -1,48 +1,53 @@
 <workout_file>
-    <author>Eljefe Wappo</author>
-    <name>20 Up Ass Kicker</name>
-    <description>Based on the Wout van Aert's VO2 Max plan</description>
-    <sportType>bike</sportType>
-    <tags>
-        <tag name="INTERVALS"/>
-    </tags>
-    <workout>
-        <Warmup Duration="420" PowerLow="0.25" PowerHigh="0.75" pace="1428186484">
-            <textevent timeoffset="0" message="Here comes the warm up"/>
-            <textevent timeoffset="75" message="You have 7 minutes, get the legs spinning"/>
-            <textevent timeoffset="360" message="1 minute to go, get ready"/>
-        </Warmup>
-        <IntervalsT Repeat="5" OnDuration="30" OffDuration="120" OnPower="1.25" OffPower="0.59600002" pace="1428186484">
-            <textevent timeoffset="0" message="Foo"/>
-            <textevent timeoffset="42" message="Foo2"/>
-            <textevent timeoffset="147" message=""/>
-        </IntervalsT>
-        <SteadyState Duration="180" Power="0.847" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="120" Power="1.001" pace="1428186484"/>
-        <SteadyState Duration="60" Power="1.101" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.25" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.294" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.3940001" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.494" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.594" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.494" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.3940001" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.294" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="60" Power="1.25" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="0.60000002" pace="1428186484"/>
-        <SteadyState Duration="60" Power="1.097" pace="1428186484" Cadence="100"/>
-        <SteadyState Duration="120" Power="1.001" pace="1428186484"/>
-        <SteadyState Duration="180" Power="0.847" pace="1428186484" Cadence="95"/>
-        <SteadyState Duration="240" Power="0.56800002" pace="1428186484" Cadence="95"/>
-        <Cooldown Duration="330" PowerLow="0.56999999" PowerHigh="0.25" pace="1428186484"/>
-    </workout>
+  <author>Eljefe Wappo</author>
+  <name>20 Up Ass Kicker</name>
+  <description>Based on the Wout van Aert's VO2 Max plan</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="Intervals"/>
+  </tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.5" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="Here comes the warm up"/>
+      <textevent timeoffset="75" message="You have 5 minutes, get the legs spinning"/>
+      <textevent timeoffset="240" message="1 minute to go, get ready"/>
+    </Warmup>
+    <IntervalsT Repeat="5" OnDuration="30" OffDuration="60" OnPower="1.25" OffPower="0.6" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="0" message="Here we go, 5 repeats @ 125% FTP"/>
+      <textevent timeoffset="162" message="Foo2"/>
+      <textevent timeoffset="290" message="Last repeat, get' er done"/>
+    </IntervalsT>
+    <SteadyState Duration="180" Power="0.85" pace="0" Cadence="93"/>
+    <SteadyState Duration="30" Power="0.55" pace="0" Cadence="65"/>
+    <SteadyState Duration="120" Power="1.001" pace="0" Cadence="93"/>
+    <SteadyState Duration="35" Power="0.55" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.101" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.25" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.294" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.3940001" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.494" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.666" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.494" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.3940001" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.294" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.56800002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.25" pace="0" Cadence="93"/>
+    <SteadyState Duration="120" Power="0.60000002" pace="0" Cadence="65"/>
+    <SteadyState Duration="60" Power="1.097" pace="0" Cadence="93"/>
+    <SteadyState Duration="35" Power="0.55" pace="0" Cadence="65"/>
+    <SteadyState Duration="120" Power="1.001" pace="0" Cadence="93"/>
+    <SteadyState Duration="35" Power="0.55" pace="0" Cadence="65"/>
+    <SteadyState Duration="180" Power="0.847" pace="0" Cadence="93"/>
+    <SteadyState Duration="60" Power="0.55" pace="0" Cadence="65"/>
+    <Cooldown Duration="330" PowerLow="0.75" PowerHigh="0.5" pace="0"/>
+  </workout>
 </workout_file>

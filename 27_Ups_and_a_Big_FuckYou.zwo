@@ -59,13 +59,13 @@
             <textevent timeoffset="1" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
         </SteadyState>
         <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.056" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="1" message="Three intervals at 85% FTP"/>
+            <textevent timeoffset="1" message="Two intervals at 85% FTP"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60000002" pace="1428186484" Cadence="65">
             <textevent timeoffset="1" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
         </SteadyState>
         <IntervalsT Repeat="4" OnDuration="60" OffDuration="30" OnPower="0.94400001" OffPower="0.59600002" pace="1428186484" Cadence="93" CadenceResting="63">
-            <textevent timeoffset="1" message="Two intervals at 75% FTP"/>
+            <textevent timeoffset="1" message="Four intervals at 75% FTP"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60000002" pace="1428186484" Cadence="65">
             <textevent timeoffset="1" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>

@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>Grin_And_Bear_It.zwo</name>
+        <time>0</time>
+        <guid>1883</guid>
+        <checksum>160</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>867-5309_Jenny_Long.zwo</name>
         <time>0</time>
         <guid>14728</guid>

@@ -28,7 +28,7 @@
             <textevent timeoffset="0" message="Fast feet here!"/>
             <textevent timeoffset="30" message="30sec, keep the legs spinning quick!"/>
         </Ramp>
-        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484" Cadence="85">
+        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484" Cadence="70">
             <textevent timeoffset="0" message="Great work! Let&apos;s take 2min easy now before starting the main set."/>
             <textevent timeoffset="30" message="Deep breaths here, and take a sip of fluid."/>
             <textevent timeoffset="60" message="All right, in 1min we&apos;ll start the 30/30 efforts."/>
@@ -37,7 +37,7 @@
             <textevent timeoffset="90" message="Before our finale which is 5min steady state @110% FTP!"/>
             <textevent timeoffset="110" message="Here we go, get ready to increase your cadence a bit for the work efforts."/>
         </SteadyState>
-        <IntervalsT Repeat="10" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.05" OffPower="0.5" pace="1428186484" Cadence="95" CadenceResting="85">
+        <IntervalsT Repeat="10" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.05" OffPower="0.5" pace="1428186484" Cadence="95" CadenceResting="70">
             <textevent timeoffset="0" message="Faster cadence here. The 1st handful of these will feel easy."/>
             <textevent timeoffset="30" message="Good, now lower your cadence a bit and recover."/>
             <textevent timeoffset="60" message="Back up to 95 RPM again."/>
@@ -50,7 +50,7 @@
             <textevent timeoffset="540" message="Last one for these! We&apos;ll target an even higher power next."/>
             <textevent timeoffset="590" message="Get ready to push up to 108% FTP next!"/>
         </IntervalsT>
-        <IntervalsT Repeat="10" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.08" OffPower="0.5" pace="1428186484" Cadence="95" CadenceResting="85">
+        <IntervalsT Repeat="10" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.08" OffPower="0.5" pace="1428186484" Cadence="95" CadenceResting="70">
             <textevent timeoffset="0" message="Same cadence here, but slightly more power! You got this!"/>
             <textevent timeoffset="30" message="Excellent work! Back down again and recover."/>
             <textevent timeoffset="120" message="Push it!"/>
@@ -76,7 +76,7 @@
             <textevent timeoffset="270" message="C&apos;mon! Just 30sec to go!"/>
             <textevent timeoffset="290" message="GET TO THE ARCH!"/>
         </SteadyState>
-        <Cooldown Duration="300" PowerLow="0.5" PowerHigh="0.30000001" pace="1428186484" Cadence="90">
+        <Cooldown Duration="300" PowerLow="0.5" PowerHigh="0.30000001" pace="1428186484" Cadence="70">
             <textevent timeoffset="0" message="Yeah! Amazing work today, my friend!"/>
             <textevent timeoffset="10" message="That was a very hard finishing interval, but you handled it well."/>
             <textevent timeoffset="20" message="You should be proud of yourself for that!"/>

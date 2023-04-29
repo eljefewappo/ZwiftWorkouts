@@ -1,23 +1,9 @@
 <custom_file_directory>
     <custom_file>
         <name>Grin_And_Bear_It.zwo</name>
-        <time>0</time>
-        <guid>1883</guid>
-        <checksum>160</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>867-5309_Jenny_Long.zwo</name>
-        <time>0</time>
-        <guid>14728</guid>
-        <checksum>148</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>867-5309_Jenny_short.zwo</name>
-        <time>1682252387</time>
-        <guid>16566</guid>
-        <checksum>66</checksum>
+        <time>1682771534</time>
+        <guid>29053</guid>
+        <checksum>180</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -134,9 +120,9 @@
     </custom_file>
     <custom_file>
         <name>23_palindromes.zwo</name>
-        <time>1680784025</time>
-        <guid>11192</guid>
-        <checksum>186</checksum>
+        <time>1682771534</time>
+        <guid>545</guid>
+        <checksum>225</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -224,5 +210,6 @@
         <hash>110538249</hash>
         <hash>615101611</hash>
         <hash>1135187546</hash>
+        <hash>2737936952</hash>
     </deleted_files>
 </custom_file_directory>

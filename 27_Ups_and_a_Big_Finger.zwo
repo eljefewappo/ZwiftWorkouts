@@ -47,9 +47,9 @@
             <textevent timeoffset="0" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
-        <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.15" OffPower="0.64999998" pace="1428186484" Cadence="93" CadenceResting="63">
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.1445" OffPower="0.6497826" pace="1428186484" Cadence="93" CadenceResting="63">
             <textevent timeoffset="0" message="Two intervals at 115% FTP"/>
-            <textevent timeoffset="100" message="Five down"/>
+            <textevent timeoffset="100.00002" message="Five down"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
             <textevent timeoffset="0" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
@@ -77,10 +77,10 @@
             <textevent timeoffset="15" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
-        <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.15" OffPower="0.64999998" pace="1428186484" Cadence="93" CadenceResting="63">
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.1545" OffPower="0.60449994" pace="1428186484" Cadence="93" CadenceResting="63">
             <textevent timeoffset="0" message="Two intervals at 115% FTP"/>
-            <textevent timeoffset="90" message="One more to come"/>
-            <textevent timeoffset="150" message="Six down"/>
+            <textevent timeoffset="90.000191" message="One more to come"/>
+            <textevent timeoffset="150.00003" message="Six down"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
             <textevent timeoffset="0" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>

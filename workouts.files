@@ -1,5 +1,61 @@
 <custom_file_directory>
     <custom_file>
+        <name>VO2_Max___4x3_Ramps.zwo</name>
+        <time>1683380855</time>
+        <guid>9031</guid>
+        <checksum>56</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Big_Gear_SST___3x5.zwo</name>
+        <time>1683380855</time>
+        <guid>21636</guid>
+        <checksum>12</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Openers.zwo</name>
+        <time>1683380855</time>
+        <guid>10097</guid>
+        <checksum>102</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>867-5309_Jenny_Long.zwo</name>
+        <time>0</time>
+        <guid>11522</guid>
+        <checksum>148</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>2min_and_a_Big_Finger_2.zwo</name>
+        <time>0</time>
+        <guid>132</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>2min_and_a_Big_Finger_3.zwo</name>
+        <time>1682772144</time>
+        <guid>22706</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>867-5309_Jenny_short.zwo</name>
+        <time>1682252387</time>
+        <guid>16566</guid>
+        <checksum>66</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>27_TheHardWay.zwo</name>
+        <time>1682802929</time>
+        <guid>14106</guid>
+        <checksum>103</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Grin_And_Bear_It.zwo</name>
         <time>1682771534</time>
         <guid>29053</guid>
@@ -106,9 +162,9 @@
     </custom_file>
     <custom_file>
         <name>40_20s.zwo</name>
-        <time>0</time>
-        <guid>13073</guid>
-        <checksum>0</checksum>
+        <time>1682781916</time>
+        <guid>16048</guid>
+        <checksum>199</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -211,5 +267,8 @@
         <hash>615101611</hash>
         <hash>1135187546</hash>
         <hash>2737936952</hash>
+        <hash>1295551000</hash>
+        <hash>1337726659</hash>
+        <hash>3395480600</hash>
     </deleted_files>
 </custom_file_directory>

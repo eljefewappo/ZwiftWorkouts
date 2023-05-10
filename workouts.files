@@ -1,5 +1,40 @@
 <custom_file_directory>
     <custom_file>
+        <name>VO2_Max___3x5_Tabata_Style.zwo</name>
+        <time>1683709865</time>
+        <guid>27454</guid>
+        <checksum>247</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Max___4x3_Ramps_1.zwo</name>
+        <time>1683709865</time>
+        <guid>20297</guid>
+        <checksum>56</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Max_3x3.zwo</name>
+        <time>1683709865</time>
+        <guid>13673</guid>
+        <checksum>188</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Max___4x4__40_20_.zwo</name>
+        <time>1683709865</time>
+        <guid>18875</guid>
+        <checksum>230</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Max___3x4_Tabata_Style.zwo</name>
+        <time>1683709865</time>
+        <guid>13221</guid>
+        <checksum>84</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>VO2_Max___4x3_Ramps.zwo</name>
         <time>1683380855</time>
         <guid>9031</guid>

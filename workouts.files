@@ -1,16 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>Individual_Pursuit.zwo</name>
+        <time>1684317080</time>
+        <guid>24267</guid>
+        <checksum>44</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>VO2_Max___3x5_Tabata_Style.zwo</name>
         <time>1683709865</time>
         <guid>27454</guid>
         <checksum>247</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>VO2_Max___4x3_Ramps_1.zwo</name>
-        <time>1683709865</time>
-        <guid>20297</guid>
-        <checksum>56</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -25,13 +25,6 @@
         <time>1683709865</time>
         <guid>18875</guid>
         <checksum>230</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>VO2_Max___3x4_Tabata_Style.zwo</name>
-        <time>1683709865</time>
-        <guid>13221</guid>
-        <checksum>84</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -305,5 +298,7 @@
         <hash>1295551000</hash>
         <hash>1337726659</hash>
         <hash>3395480600</hash>
+        <hash>3227202354</hash>
+        <hash>1143726148</hash>
     </deleted_files>
 </custom_file_directory>

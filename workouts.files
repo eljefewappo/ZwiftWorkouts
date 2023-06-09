@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>VO2_Max___4x5__40_20_.zwo</name>
+        <time>1686304467</time>
+        <guid>31879</guid>
+        <checksum>32</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Individual_Pursuit.zwo</name>
         <time>1684317080</time>
         <guid>24267</guid>

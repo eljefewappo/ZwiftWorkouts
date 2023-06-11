@@ -12,7 +12,7 @@
             <textevent timeoffset="160" message="Today, we&apos;re going to be focused again on improving your VO2 Max and we&apos;ll be doing this via 40/20 intervals."/>
             <textevent timeoffset="170" message="This means you&apos;ll be doing 40sec of hard work, with 20sec of recovery afterwards."/>
             <textevent timeoffset="180" message="We are going to be repeating that process 4 times, for a total of 4min of work per interval."/>
-            <textevent timeoffset="190" message="And will be aiming for 4 intervals in total, so right around 16min of VO2 Max focused work today."/>
+            <textevent timeoffset="190" message="And will be aiming for 5 intervals in total, so right around 20min of VO2 Max focused work today."/>
             <textevent timeoffset="200" message="Between intervals, we&apos;ll take a 4min recovery at a very easy effort."/>
             <textevent timeoffset="210" message="Sound like a plan? Let&apos;s do it!"/>
             <textevent timeoffset="220" message="REMINDER: You can always adjust the FTP bias via the arrow keys on your keyboard, or the Zwift Companion app."/>
@@ -61,7 +61,7 @@
             <textevent timeoffset="220" message="Awesome work! Hang on for another 20sec, then we&apos;ll rest!"/>
         </IntervalsT>
         <SteadyState Duration="240.00002" Power="0.5" pace="1428186484" Cadence="85">
-            <textevent timeoffset="0" message="Awesome work! That&apos;s 1 down and 3 more to go. Take it down super easy here and recover as best you can."/>
+            <textevent timeoffset="0" message="Awesome work! That&apos;s 1 down and 4 more to go. Take it down super easy here and recover as best you can."/>
             <textevent timeoffset="120" message="Breathe...Make sure to take a few sips of fluid here too."/>
             <textevent timeoffset="210" message="30sec and we&apos;re back up again, get ready to ROCK!"/>
             <textevent timeoffset="230" message="Okay, start spinning the legs up again, we&apos;re aiming for 100 RPM."/>
@@ -76,7 +76,7 @@
             <textevent timeoffset="180" message="DIG DIG DIG!"/>
         </IntervalsT>
         <SteadyState Duration="240.00002" Power="0.5" pace="1428186484" Cadence="85">
-            <textevent timeoffset="0" message="Way to go! That&apos;s 2 down and 2 to go. How are you doing so far?"/>
+            <textevent timeoffset="0" message="Way to go! That&apos;s 2 down and 3 to go. How are you doing so far?"/>
             <textevent timeoffset="120" message="Remember to keep yourself hydrated here. Keep on sipping those fluids."/>
             <textevent timeoffset="210" message="30sec and we&apos;re back to work."/>
             <textevent timeoffset="230" message="Okay, start spinning the legs up again, we&apos;re aiming for 100 RPM."/>
@@ -87,11 +87,11 @@
             <textevent timeoffset="60" message="GO GO GO!"/>
             <textevent timeoffset="100" message="Rest...Breathe..."/>
             <textevent timeoffset="120" message="PUSH PUSH PUSH!"/>
-            <textevent timeoffset="160" message="Take it easy now...Just 1 more to go!"/>
+            <textevent timeoffset="160" message="Take it easy now...Just 2 more to go!"/>
             <textevent timeoffset="180" message="UP UP UP!! DRIVE THE PEDALS!"/>
         </IntervalsT>
         <SteadyState Duration="240.00002" Power="0.5" pace="1428186484" Cadence="85">
-            <textevent timeoffset="0" message="Phew! We&apos;re starting to get there now - Just 1 more interval to go!"/>
+            <textevent timeoffset="0" message="Phew! We&apos;re starting to get there now - Just 2 more intervals to go!"/>
             <textevent timeoffset="120" message="2min easy...Breathe and continue to recover here."/>
             <textevent timeoffset="210" message="30sec and we&apos;re back to work."/>
             <textevent timeoffset="230" message="Get the legs moving again. This is the last bit of work for today, make it happen!"/>

@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>VO2_Max___5*4x4__40_20_.zwo</name>
+        <time>1686735909</time>
+        <guid>6923</guid>
+        <checksum>148</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Max___4*4x4__40_20_.zwo</name>
+        <time>1686735909</time>
+        <guid>31879</guid>
+        <checksum>119</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Anna_van_der_Breggen___Road_Race.zwo</name>
         <time>1686564819</time>
         <guid>1630</guid>
@@ -21,13 +35,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>VO2_Max___4x5__40_20_.zwo</name>
-        <time>1686565042</time>
-        <guid>32511</guid>
-        <checksum>148</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Individual_Pursuit.zwo</name>
         <time>1684317080</time>
         <guid>24267</guid>
@@ -46,13 +53,6 @@
         <time>1683709865</time>
         <guid>13673</guid>
         <checksum>188</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>VO2_Max___4x4__40_20_.zwo</name>
-        <time>1686565042</time>
-        <guid>8200</guid>
-        <checksum>119</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -328,5 +328,7 @@
         <hash>3395480600</hash>
         <hash>3227202354</hash>
         <hash>1143726148</hash>
+        <hash>2218398011</hash>
+        <hash>3521977749</hash>
     </deleted_files>
 </custom_file_directory>

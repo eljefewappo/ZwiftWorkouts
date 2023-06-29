@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>Progressive_11min_Climb.zwo</name>
+        <time>1688034251</time>
+        <guid>7190</guid>
+        <checksum>139</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Peak_VO2_Intervals_Medio.zwo</name>
+        <time>1688034251</time>
+        <guid>4871</guid>
+        <checksum>64</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>VO2_Max___5*4x4__40_20_.zwo</name>
         <time>1686735909</time>
         <guid>6923</guid>

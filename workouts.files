@@ -1,5 +1,26 @@
 <custom_file_directory>
     <custom_file>
+        <name>2x_5x2min__Threshold_Fun.zwo</name>
+        <time>1688224816</time>
+        <guid>9993</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>2x_4x2min__Threshold_Fun.zwo</name>
+        <time>1688217466</time>
+        <guid>12137</guid>
+        <checksum>221</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Peak_VO2_Intervals.zwo</name>
+        <time>1688034251</time>
+        <guid>4871</guid>
+        <checksum>64</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Progressive_11min_Climb.zwo</name>
         <time>1688034251</time>
         <guid>7190</guid>
@@ -8,9 +29,9 @@
     </custom_file>
     <custom_file>
         <name>Peak_VO2_Intervals_Medio.zwo</name>
-        <time>1688034251</time>
-        <guid>4871</guid>
-        <checksum>64</checksum>
+        <time>1688216988</time>
+        <guid>31625</guid>
+        <checksum>50</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

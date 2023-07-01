@@ -1,0 +1,83 @@
+<workout_file>
+    <author>Eljefe.Wappo</author>
+    <name>2x(4x2min) Threshold Fun</name>
+    <description>This workout is designed to give you a solid deposit while working a bit on RPM's and giving you some time in the all important "threshold zone". On the side of higher RPM's here would be advised as staying on top of your gearing for the 100% of threshold efforts will be helpful. If you are reaching a bit for those higher RPM's use the recovery periods to get back in your comfort zone, RPM wise.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.44999996" PowerHigh="0.64999998" pace="1428186484">
+            <textevent timeoffset="0" message="10 minute easy Warmup. This is a great time to think about form - relaxed shoulders, light hands, nice flat back."/>
+            <textevent timeoffset="300" message="Smooth days now."/>
+        </Warmup>
+        <IntervalsT Repeat="5" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.80000001" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Build your RPM&apos;s here, from your normal cadence to quick and smooth."/>
+            <textevent timeoffset="60" message="Relax, your choice of cadence."/>
+            <textevent timeoffset="120" message="Get those legs moving!"/>
+            <textevent timeoffset="180" message="Easy and comfortable. "/>
+            <textevent timeoffset="240" message="You know what to do. Spin"/>
+            <textevent timeoffset="360" message="Up that cadence! "/>
+            <textevent timeoffset="420" message="Smooth. "/>
+        </IntervalsT>
+        <SteadyState Duration="240.00002" Power="0.75" pace="1428186484">
+            <textevent timeoffset="0" message="Great work so far. The legs should be ready for this set of 2 minute builds coming up."/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="0.80000001" pace="1428186484">
+            <textevent timeoffset="0" message="Try and maintain a steady cadence here, even as power increases."/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="0.89999998" pace="1428186484">
+            <textevent timeoffset="0" message="Keep the cadence rolling."/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="1" pace="1428186484">
+            <textevent timeoffset="0" message="Almost there!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="This is a great time to grab a drink."/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="0.80000001" pace="1428186484">
+            <textevent timeoffset="0" message="Now that you know how that feels, here goes #2!"/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="0.89999998" pace="1428186484"/>
+        <SteadyState Duration="40" Power="1" pace="1428186484">
+            <textevent timeoffset="0" message="Keep it rolling!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Nice and easy."/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="0.80000001" pace="1428186484">
+            <textevent timeoffset="0" message="2 down, 2 to go!"/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="0.89999998" pace="1428186484"/>
+        <SteadyState Duration="40" Power="1" pace="1428186484">
+            <textevent timeoffset="0" message="You&apos;ve got this!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Good work."/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="0.80000001" pace="1428186484">
+            <textevent timeoffset="0" message="Last one of these!"/>
+        </SteadyState>
+        <SteadyState Duration="40" Power="0.89999998" pace="1428186484"/>
+        <SteadyState Duration="40" Power="1" pace="1428186484">
+            <textevent timeoffset="0" message="Almost there, 40 seconds left!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="A little extra rest now between sets."/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="0.75" pace="1428186484">
+            <textevent timeoffset="0" message="This isn&apos;t super easy but should give you time to get the heart rate down a tad and get ready for the next round of 2 minuter&apos;s."/>
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="120.00001" OffDuration="60.000004" OnPower="1" OffPower="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Alright, here we go! Stay on top of your gear. Keep those legs moving."/>
+            <textevent timeoffset="120" message="Easy peasy. Good work!"/>
+            <textevent timeoffset="180" message="Let&apos;s get rolling now."/>
+            <textevent timeoffset="300" message="Chill now."/>
+            <textevent timeoffset="360" message="Up, Up, up!."/>
+            <textevent timeoffset="480" message="Easy does it."/>
+            <textevent timeoffset="540" message="Last one now. You got it."/>
+            <textevent timeoffset="640" message="Easy peasy. Good work!"/>
+        </IntervalsT>
+        <Cooldown Duration="480.00003" PowerLow="0.55000001" PowerHigh="0.44999999" pace="1428186484">
+            <textevent timeoffset="0" message="You&apos;re done with the hard work! Cool down time!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

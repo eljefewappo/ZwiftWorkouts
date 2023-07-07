@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>3_3_2min_VO2max.zwo</name>
+        <time>1688551140</time>
+        <guid>20944</guid>
+        <checksum>251</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>2x_5x2min__Threshold_Fun.zwo</name>
         <time>1688224816</time>
         <guid>9993</guid>

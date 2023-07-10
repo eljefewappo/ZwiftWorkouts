@@ -1,0 +1,21 @@
+<workout_file>
+  <author>E.Wappo [Strokers]</author>
+  <name>Recovery</name>
+  <description>Nice easy recovery have hard day on the bike keep the legs spinning</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="420" PowerLow="0.2545" PowerHigh="0.75449997" pace="0"/>
+    <IntervalsT Repeat="4" OnDuration="10" OffDuration="50" OnPower="1.1" OffPower="0.55" pace="0" Cadence="105" CadenceResting="85"/>
+    <Ramp Duration="300" PowerLow="0.498" PowerHigh="0.654" pace="0" Cadence="85"/>
+    <Ramp Duration="300" PowerLow="0.658" PowerHigh="0.498" pace="0" Cadence="85"/>
+    <Ramp Duration="300" PowerLow="0.498" PowerHigh="0.654" pace="0" Cadence="85"/>
+    <Ramp Duration="300" PowerLow="0.658" PowerHigh="0.498" pace="0" Cadence="85"/>
+    <Ramp Duration="300" PowerLow="0.498" PowerHigh="0.654" pace="0" Cadence="85"/>
+    <Ramp Duration="300" PowerLow="0.658" PowerHigh="0.498" pace="0" Cadence="85"/>
+    <Ramp Duration="300" PowerLow="0.498" PowerHigh="0.654" pace="0" Cadence="85"/>
+    <Ramp Duration="300" PowerLow="0.658" PowerHigh="0.498" pace="0" Cadence="85"/>
+    <Cooldown Duration="420" PowerLow="0.65276915" PowerHigh="0.40855733" pace="0"/>
+  </workout>
+</workout_file>

@@ -1,0 +1,62 @@
+<workout_file>
+  <author>Eljefe.Wappo2</author>
+  <name>Sub-Threshold To VO2 Over-Under Mini</name>
+  <description>Building upon the previous Sub-Threshold XX session, this time we are decreasing the time between surges and increasing the number of surges.
+
+By challenging your ability to process lactate at near threshold power,  you will increase your time to exhaustion and increase endurance.
+
+All this is achieved with a 30min steady state effort that dips briefly into the realms of VO2.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.50449997" PowerHigh="0.64999998" pace="0">
+      <textevent timeoffset="5" message="Welcome to another week of Slowtwitch Indoors. With many of you gearing up for your first 70.3, this is a race-specific workout tailored to that distance."/>
+      <textevent timeoffset="65" message="The main block of this workout is a 30min sustained effort at what should be pushing the envelope on your 70.3 pace. From this already challenging - for 56mi - pace, we will surge to 120% of FTP for 30sec."/>
+      <textevent timeoffset="125" message="This is a hard workout that will give an honest evaluation of pacing and threshold."/>
+      <textevent timeoffset="185" message="We start with some base pace cadence work to warm-up. Then some hard surges to get the lactate system working. Then the main block."/>
+      <textevent timeoffset="245" message="Varying cadence during warm up and we will continue to work the cadence goals during this workout."/>
+    </Warmup>
+    <IntervalsT Repeat="8" OnDuration="30" OffDuration="30.000002" OnPower="0.65449995" OffPower="0.80449992" pace="0" Cadence="90" CadenceResting="95">
+      <textevent timeoffset="5" message="So this is just a bit of base-pace over under with cadence targets to get you comfortable."/>
+      <textevent timeoffset="35" message="Stepping it up a bit here. Still warming up"/>
+      <textevent timeoffset="65" message="And down for a bit and down on cadence."/>
+      <textevent timeoffset="455" message="And last little bit of effort here."/>
+    </IntervalsT>
+    <SteadyState Duration="180" Power="0.6045" pace="0" Cadence="85">
+      <textevent timeoffset="5" message="Okay relax here. No cadence target. You should be loose now."/>
+      <textevent timeoffset="65" message="Next bit of work is 3x 15sec at very hard effort to get that system firing."/>
+      <textevent timeoffset="125" message="Just 15sec so wind it up and get that system firing. And it is only three of them."/>
+    </SteadyState>
+    <IntervalsT Repeat="4" OnDuration="15" OffDuration="45" OnPower="1.5545" OffPower="0.55449998" pace="0" CadenceResting="85">
+      <textevent timeoffset="5" message="First one power down. Nice fast cadence. Surge here."/>
+      <textevent timeoffset="20" message="And long rest now. Repeat this two more times."/>
+      <textevent timeoffset="95" message="And next one bring it up..."/>
+    </IntervalsT>
+    <SteadyState Duration="300" Power="0.6045" pace="0" Cadence="85">
+      <textevent timeoffset="5" message="Okay, take some real rest here. Grab a drink. Make sure you have what you need for a solid 30min."/>
+      <textevent timeoffset="65" message="This is a tough block coming up. It is very doable, but it requires focus."/>
+      <textevent timeoffset="125" message="And this is a real test about how honest your pacing goals are."/>
+      <textevent timeoffset="185" message="This type of power - the main 2min efforts - should be very doable at just over 70.3 pace. Your HR should recover even after the surges."/>
+      <textevent timeoffset="245" message="Prepare yourself mentally for a 30min effort. Break it up by intervals. Under, over, repeat..."/>
+    </SteadyState>
+    <IntervalsT Repeat="15" OnDuration="90" OffDuration="30" OnPower="0.91449994" OffPower="1.2045" pace="0" Cadence="90" CadenceResting="95">
+      <textevent timeoffset="5" message="So we start out just under threshold. This is not easy, but it should not feel that hard to start. It is when you really want to really rest later that it becomes hard."/>
+      <textevent timeoffset="125" message="And now we surge. Stay seated here. You can surge out of the bars, but you should be able to sustain this with good cadence and steady power."/>
+      <textevent timeoffset="155" message="The cadence goals here help you to vary cadence with power. But the cadence targets here do not need to be your target on race day. This is higher power than most for 70.3, so if this is higher cadence, that is fine too."/>
+      <textevent timeoffset="305" message="And back down. This should not feel easy, but it should be nice to come back to this power after the surge."/>
+      <textevent timeoffset="425" message="And another surge. This is NOT a sprint; just a surge."/>
+      <textevent timeoffset="900" message="Through halfway. If you are wearing a HRM, you should see your HR stair-stepping up here. It should drop at sub-threshold, but not fully recover."/>
+      <textevent timeoffset="1350" message="Coming into the home stretch now. Almost through. Great work."/>
+      <textevent timeoffset="1625" message="And one of the last surges here. Focus and get it done."/>
+    </IntervalsT>
+    <Cooldown Duration="300" PowerLow="0.55449998" PowerHigh="0.40450001" pace="0">
+      <textevent timeoffset="5" message="Awesome job. Cooling down now. That was a solid effort."/>
+      <textevent timeoffset="65" message="How was pacing? How was HR? How were the cadence targets? Use your answers there to guide your pacing on race day."/>
+      <textevent timeoffset="125" message="If you liked this workout, you can find the basis for it - and more similar workouts - the 4wk FTP Booster plan by Kevin Poulton."/>
+      <textevent timeoffset="185" message="Great job SlowZwifters! This was great preparation for the coming race season."/>
+      <textevent timeoffset="205" message="Thanks again for joining in. Ride On everyone!"/>
+      <textevent timeoffset="225" message="See you next week or at Hilly Vanilli on Thursday!"/>
+    </Cooldown>
+  </workout>
+</workout_file>

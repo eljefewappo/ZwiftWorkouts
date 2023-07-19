@@ -1,0 +1,38 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>Progressive 11min Climb</name>
+    <description>3 climbs of 11 minutes in duration today, but each one is climbed using a different cadence.
+
+Just like a climb outdoors, the required power will increase throughout the 11min.
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="PRL"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.50449997" PowerHigh="0.75449997" pace="1428186484"/>
+        <SteadyState Duration="60.000004" Power="0.55449998" pace="1428186484">
+            <textevent timeoffset="19" message="Target cadence of 85rpm" y="270"/>
+            <textevent timeoffset="20" message="for the first interval." y="290"/>
+        </SteadyState>
+        <SteadyState Duration="360.00003" Power="0.80449992" pace="1428186484" Cadence="85"/>
+        <SteadyState Duration="240.00002" Power="0.95449996" pace="1428186484" Cadence="85"/>
+        <SteadyState Duration="60.000004" Power="1.0545" pace="1428186484" Cadence="85"/>
+        <SteadyState Duration="300" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="199" message="This time we are targeting" y="270"/>
+            <textevent timeoffset="200" message="a cadence of 80rpm." y="290"/>
+        </SteadyState>
+        <SteadyState Duration="360.00003" Power="0.80449992" pace="1428186484" Cadence="80"/>
+        <SteadyState Duration="240.00002" Power="0.95449996" pace="1428186484" Cadence="80"/>
+        <SteadyState Duration="60.000004" Power="1.0545" pace="1428186484" Cadence="80"/>
+        <SteadyState Duration="300" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="200.00012" message="Finally, we are targeting a" y="270"/>
+            <textevent timeoffset="200" message="cadence of 70rpm." y="290"/>
+        </SteadyState>
+        <SteadyState Duration="360.00003" Power="0.80449992" pace="1428186484" Cadence="70"/>
+        <SteadyState Duration="240.00002" Power="0.95449996" pace="1428186484" Cadence="70"/>
+        <SteadyState Duration="60.000004" Power="1.0545" pace="1428186484" Cadence="70"/>
+        <Cooldown Duration="300" PowerLow="0.75449997" PowerHigh="0.50449997" pace="1428186484"/>
+    </workout>
+</workout_file>

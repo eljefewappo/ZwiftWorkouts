@@ -3,7 +3,9 @@
     <name>VO2 Max - 5 * 4x4 (40/20)</name>
     <description>This workout features some more VO2 Max work. Today, we'll be aiming for just a little more VO2 Max time, but also incorporating a 40/20 interval approach which will challenge you for sure! Let's make it happen today! REMINDER: You can always adjust the FTP bias via the arrow keys on your keyboard, or the Zwift Companion app. Once you get over threshold, using a %FTP for workout prescription can get murky, so always adjust as needed.</description>
     <sportType>bike</sportType>
-    <tags/>
+    <tags>
+        <tag name="VO2max"/>
+    </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.39999998" PowerHigh="0.75" pace="544829298">
             <textevent timeoffset="0" message="Welcome to our final VO2 Max focused workout of this plan, I know I know, sad day (yeah right!)."/>

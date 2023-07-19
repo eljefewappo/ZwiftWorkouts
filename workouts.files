@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>Power_Intervals__1.zwo</name>
+        <time>1689764064</time>
+        <guid>10101</guid>
+        <checksum>253</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>High_Cadence_Builds.zwo</name>
+        <time>1689760129</time>
+        <guid>19876</guid>
+        <checksum>183</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Sub-Threshold_To_VO2_Over-Under_Mini.zwo</name>
         <time>1689588550</time>
         <guid>22274</guid>
@@ -183,9 +197,9 @@
     </custom_file>
     <custom_file>
         <name>27_TheHardWay.zwo</name>
-        <time>1682802929</time>
-        <guid>14106</guid>
-        <checksum>103</checksum>
+        <time>1689764064</time>
+        <guid>23675</guid>
+        <checksum>12</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

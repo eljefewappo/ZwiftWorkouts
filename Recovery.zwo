@@ -4,7 +4,9 @@
   <description>Nice easy recovery have hard day on the bike keep the legs spinning</description>
   <sportType>bike</sportType>
   <durationType>time</durationType>
-  <tags/>
+    <tags>
+        <tag name="RECOVERY"/>
+    </tags>
   <workout>
     <Warmup Duration="420" PowerLow="0.2545" PowerHigh="0.75449997" pace="0"/>
     <IntervalsT Repeat="4" OnDuration="10" OffDuration="50" OnPower="1.1" OffPower="0.55" pace="0" Cadence="105" CadenceResting="85"/>

@@ -4,8 +4,8 @@
     <description></description>
     <sportType>bike</sportType>
     <tags>
-        <tag name="INTERVALS"/>
-        <tag name="SELF"/>
+        <tag name="Intervals"/>
+        <tag name="Eljefe"/>
     </tags>
     <workout>
         <Warmup Duration="390" PowerLow="0.454" PowerHigh="0.75" pace="1428186484">

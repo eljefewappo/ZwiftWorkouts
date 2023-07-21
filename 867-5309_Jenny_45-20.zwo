@@ -4,9 +4,9 @@
   <description/>
   <sportType>bike</sportType>
   <durationType>time</durationType>
-  <tags>
-    <tag name="Intervals"/>
-  </tags>
+    <tags>
+        <tag name="Intervals"/>
+    </tags>
   <workout>
     <Warmup Duration="390" PowerLow="0.55" PowerHigh="0.75" pace="0">
       <textevent timeoffset="0" message="Warm up, get ready"/>

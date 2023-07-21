@@ -6,7 +6,10 @@
   <durationType>time</durationType>
   <tags>
     <tag name="Intervals"/>
-  </tags>
+    <tags>
+        <tag name="Intervals"/>
+        <tag name="Eljefe"/>
+    </tags>
   <workout>
     <Warmup Duration="295" PowerLow="0.406" PowerHigh="0.75" pace="0"/>
     <textevent timeoffset="0" message="Warm up"/>

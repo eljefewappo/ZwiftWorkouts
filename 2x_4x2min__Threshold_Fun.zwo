@@ -3,7 +3,10 @@
     <name>2x(4x2min) Threshold Fun</name>
     <description>This workout is designed to give you a solid deposit while working a bit on RPM's and giving you some time in the all important "threshold zone". On the side of higher RPM's here would be advised as staying on top of your gearing for the 100% of threshold efforts will be helpful. If you are reaching a bit for those higher RPM's use the recovery periods to get back in your comfort zone, RPM wise.</description>
     <sportType>bike</sportType>
-    <tags/>
+    <tags>
+        <tag name="Intervals"/>
+        <tag name="Eljefe"/>
+    </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.44999996" PowerHigh="0.64999998" pace="1428186484">
             <textevent timeoffset="0" message="10 minute easy Warmup. This is a great time to think about form - relaxed shoulders, light hands, nice flat back."/>

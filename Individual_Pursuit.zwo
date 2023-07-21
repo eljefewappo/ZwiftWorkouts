@@ -1,0 +1,137 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>Individual Pursuit</name>
+    <description>Dame Sarah Storey, DBE, with a total of fourteen Paralympic gold medals, makes her the most successful female British Paralympian of all time! This workout will take you through what it feels like to tackle the individual pursuit on the track, which Dame Storey is known for. Be ready for a hard start and an even harder finish!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Intervals"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.54999995" PowerHigh="0.75" pace="1428186484">
+            <textevent timeoffset="10" message="Hello and welcome to a Dame Sarah Storey inspired workout!"/>
+            <textevent timeoffset="20" message="We&apos;ll chat more about her and today&apos;s workout in just a moment. Let&apos;s focus on the warm up now."/>
+            <textevent timeoffset="120" message="Hopefully, the pedal stroke is starting to feel a bit more fluid. Keep easing into the day."/>
+            <textevent timeoffset="150" message="Nice work so far, my friend! Let&apos;s take a moment to chat about the plan for today."/>
+            <textevent timeoffset="160" message="As you know, today was inspired by Dame Sarah Storey - the most successful female British Paralympian of all time."/>
+            <textevent timeoffset="170" message="She has a total of 14 gold medals to her name!"/>
+            <textevent timeoffset="180" message="The individual pursuit is a VERY challenging and intense track cycling discipline."/>
+            <textevent timeoffset="190" message="This workout will take you through what it feels like to tackle the individual pursuit on the track."/>
+            <textevent timeoffset="200" message="Be ready for a hard start and an even harder finish!"/>
+            <textevent timeoffset="210" message="Let&apos;s carry on with the warm up."/>
+            <textevent timeoffset="270" message="In 30sec, we&apos;re adding in some more intensity. These efforts will further wake the legs up."/>
+            <textevent timeoffset="290" message="Alright, let&apos;s aim for 90+ RPM for this 1st effort."/>
+        </Warmup>
+        <IntervalsT Repeat="1" OnDuration="15.000001" OffDuration="45.000004" OnPower="0.89999998" OffPower="0.64999998" pace="1428186484" Cadence="90" CadenceResting="85">
+            <textevent timeoffset="0" message="Nothing too serious here, just a bit more effort to warm up further."/>
+            <textevent timeoffset="15" message="Okay great! Lower the effort down again."/>
+            <textevent timeoffset="50" message="Next up, we&apos;re moving up to 100 RPM!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="15.000001" OffDuration="45.000004" OnPower="1" OffPower="0.64999998" pace="1428186484" Cadence="100" CadenceResting="85">
+            <textevent timeoffset="0" message="Slightly more effort and at a faster cadence now!"/>
+            <textevent timeoffset="15" message="Making it look easy! Awesome work!"/>
+            <textevent timeoffset="50" message="Final effort will be at 110 RPM!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="15.000001" OffDuration="45.000004" OnPower="1.1" OffPower="0.64999998" pace="1428186484" Cadence="110" CadenceResting="85">
+            <textevent timeoffset="0" message="FAST FEET!"/>
+            <textevent timeoffset="15" message="Beautiful! Let&apos;s take it easy for a bit now. Take a few deep breaths and have a drink."/>
+        </IntervalsT>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="1428186484" Cadence="85">
+            <textevent timeoffset="0" message="2min easy-peasy here. We&apos;ll carry on with 1 more warm up set next."/>
+            <textevent timeoffset="60" message="In 1min, we have 3 additional sprint efforts to tackle."/>
+            <textevent timeoffset="70" message="Since this workout is so intense, getting some additional warm up is necessary."/>
+            <textevent timeoffset="110" message="Get ready for a big surge in effort next! Aim for 110+ RPM!"/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="15.000001" OffDuration="45.000004" OnPower="1.5" OffPower="0.64999998" pace="1428186484" Cadence="110" CadenceResting="85">
+            <textevent timeoffset="0" message="GO GO GO!"/>
+            <textevent timeoffset="15" message="Excellent! Slow the cadence down again and ease off the gas."/>
+            <textevent timeoffset="60" message="HIT IT!"/>
+            <textevent timeoffset="75" message="Great! The legs should feel nice and loose now - 1 more to go."/>
+            <textevent timeoffset="120" message="PUSH IT!"/>
+            <textevent timeoffset="135" message="Great work! That&apos;s it for today&apos;s warm up."/>
+            <textevent timeoffset="145" message="Let&apos;s take it easy for a bit, then we&apos;ll hit the track for the 1st individual pursuit interval."/>
+        </IntervalsT>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Deep breaths here. Try to lower your heart rate."/>
+            <textevent timeoffset="10" message="Have a sip of fluid here too."/>
+            <textevent timeoffset="60" message="Okay, in 1min we&apos;re CRUSHING our 1st interval."/>
+            <textevent timeoffset="70" message="These are going to start VERY intensely, level off right over FTP, then finish with a sprint effort."/>
+            <textevent timeoffset="80" message="The finishing sprint will be done as a &apos;Free Ride&apos; block, so you&apos;ll be using your gears to decide the power."/>
+            <textevent timeoffset="90" message="If you want a more true experience, get into a hard gear now and slow your cadence down to less than 50 RPM."/>
+            <textevent timeoffset="100" message="Track bikes are fixed gear and getting the gear up to speed, from zero RPM, takes a tremendous amount of power."/>
+            <textevent timeoffset="110" message="Get ready to power the gear up from less than 50 RPM to over 100 RPM over these 30sec!"/>
+        </SteadyState>
+        <Ramp Duration="30.000002" PowerLow="1.02" PowerHigh="1.5" pace="1428186484">
+            <textevent timeoffset="0" message="GO GO GO! Start turning that big gear over and EXPLODE out of the blocks."/>
+            <textevent timeoffset="10" message="Keep increasing your cadence! You should be over 80 RPM now!"/>
+            <textevent timeoffset="20" message="10sec to go! You should be over 90 RPM now!"/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="1.02" pace="1428186484">
+            <textevent timeoffset="0" message="Great! Aim for a cadence of 100-115 RPM for the next 3min now that we&apos;re up to speed."/>
+            <textevent timeoffset="60" message="Push through the burn in your legs! Embrace your inner Dame Sarah Storey!"/>
+            <textevent timeoffset="120" message="1min to go! DIG DIG DIG!"/>
+            <textevent timeoffset="150" message="In 30sec we&apos;re onto our finishing sprint effort."/>
+            <textevent timeoffset="160" message="Remember, this will be done as a &apos;Free Ride&apos; block, so you&apos;ll be using your gears."/>
+            <textevent timeoffset="170" message="Ready..."/>
+        </SteadyState>
+        <FreeRide Duration="20" FlatRoad="1">
+            <textevent timeoffset="0" message="EVERYTHING!"/>
+            <textevent timeoffset="10" message="UP UP UP! SHIFT IF YOU NEED TO!"/>
+        </FreeRide>
+        <SteadyState Duration="240.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Amazing! Way to go with that 1st interval."/>
+            <textevent timeoffset="10" message="We&apos;ll take a 4min recovery between sets."/>
+            <textevent timeoffset="20" message="Take a few deep breaths here, sip some fluids, and relax :-)"/>
+            <textevent timeoffset="120" message="Dame Sarah Storey is an incredible champion."/>
+            <textevent timeoffset="130" message="Aside from her 14 gold medals, she is a 29 time World champion, 21 time European champion..."/>
+            <textevent timeoffset="140" message="and holds 75 world records! With cycling and swimming being her forte."/>
+            <textevent timeoffset="180" message="1min to go and we&apos;re back on the track again."/>
+            <textevent timeoffset="230" message="Get into that big gear again and slow the cadence down..."/>
+        </SteadyState>
+        <Ramp Duration="30.000002" PowerLow="1.02" PowerHigh="1.5" pace="1428186484">
+            <textevent timeoffset="0" message="Let&apos;s go! Get that gear turning over!"/>
+            <textevent timeoffset="10" message="PUSH PUSH! Over 80 RPM now!"/>
+            <textevent timeoffset="20" message="Over 90 RPM! Hang on!"/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="1.02" pace="1428186484">
+            <textevent timeoffset="0" message="Phew! Settle into your quick cadence again - Somewhere between 100-115 RPM."/>
+            <textevent timeoffset="60" message="Don&apos;t get sloppy at this high RPM. Hips locked, shoulders relaxed, all the power going to the pedals."/>
+            <textevent timeoffset="120" message="Just a couple more laps around the track and we&apos;ll sprint to the line!"/>
+            <textevent timeoffset="170" message="Get ready to SPRINT using your gears again!"/>
+        </SteadyState>
+        <FreeRide Duration="20" FlatRoad="1">
+            <textevent timeoffset="0" message="FULL GAS NOW!"/>
+            <textevent timeoffset="10" message="DON&apos;T LET THE CADENCE DROP!"/>
+        </FreeRide>
+        <SteadyState Duration="240.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="That&apos;s how it&apos;s done! Great effort!"/>
+            <textevent timeoffset="10" message="We&apos;ll take 4min easy again before our finale."/>
+            <textevent timeoffset="20" message="Use this time well :-)"/>
+            <textevent timeoffset="120" message="Deep breaths... keep focusing on recovery."/>
+            <textevent timeoffset="180" message="1min to go! I want this interval to be the best one yet :-)"/>
+            <textevent timeoffset="230" message="Ready or not... Get into a big gear and slow that cadence down..."/>
+        </SteadyState>
+        <Ramp Duration="30.000002" PowerLow="1.02" PowerHigh="1.5" pace="1428186484">
+            <textevent timeoffset="0" message="HIT IT! SPIN THE GEAR UP AND GET OFF THE START BLOCKS!"/>
+            <textevent timeoffset="10" message="Over 80 RPM! DRIVE!"/>
+            <textevent timeoffset="20" message="Over 90 RPM now, get ready to settle down!"/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="1.02" pace="1428186484">
+            <textevent timeoffset="0" message="Settle down now. Cadence between 100-115 RPM. DIG!"/>
+            <textevent timeoffset="60" message="It&apos;s okay to feel tired now, but don&apos;t let it beat you! PUSH PUSH!"/>
+            <textevent timeoffset="120" message="1min to go! Make the upcoming sprints’ avg power the highest of the day!"/>
+            <textevent timeoffset="170" message="Ready? BIG POWER HERE!"/>
+        </SteadyState>
+        <FreeRide Duration="20" FlatRoad="1">
+            <textevent timeoffset="0" message="EMPTY THE TANKS!"/>
+            <textevent timeoffset="10" message="ALL THE WAY TO THE ARCH!"/>
+        </FreeRide>
+        <Cooldown Duration="300" PowerLow="0.55000001" PowerHigh="0.34999996" pace="1428186484">
+            <textevent timeoffset="0" message="Amazing! I think Dame Sarah Storey would be proud of that effort for sure."/>
+            <textevent timeoffset="10" message="Let&apos;s take 5min and cool down now. Way to get after it today!"/>
+            <textevent timeoffset="60" message="Slowly bring your cadence down, take some nice deep breaths."/>
+            <textevent timeoffset="120" message="Thank you for working so hard today!"/>
+            <textevent timeoffset="240" message="Make sure you refuel and rehydrate before your next workout."/>
+            <textevent timeoffset="290" message="Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

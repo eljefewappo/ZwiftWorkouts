@@ -4,7 +4,10 @@
   <description> 5 * 6 minute intervals </description/>
   <sportType>bike</sportType>
   <durationType>time</durationType>
-  <tags/>
+    <tags>
+        <tag name="Intervals"/>
+        <tag name="Eljefe"/>
+    </tags>
   <workout>
     <Warmup Duration="420" PowerLow="0.446" PowerHigh="0.75" pace="0">
       <textevent timeoffset="0" message="Warm up, 7 minutes"/>

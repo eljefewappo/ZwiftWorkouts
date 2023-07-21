@@ -1,0 +1,122 @@
+<workout_file>
+    <author>Tanja Erath</author>
+    <name>Tanja Erath - FTP Booster </name>
+    <description>Today's workout features 3 sets of progressive intervals. Tanja says "My FTP Workout is kind of the evergreen of workouts. Almost every minute is filled with a specific plan which makes time fly. It's intense, but not a killer workout. This is my go-to FTP Booster for winter prep, in-between race weeks or mid season break build-up."</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480.00003" PowerLow="0.5" PowerHigh="0.75" pace="1428186484">
+            <textevent timeoffset="0" message="Hello and welcome to FTP Booster, by Tanja Erath!"/>
+            <textevent timeoffset="50" message="Let&apos;s start with a warm up and we&apos;ll chat about what&apos;s in store for today in just a moment."/>
+            <textevent timeoffset="180" message="You&apos;re looking good so far! Keep your cadence comfortable and stay loose."/>
+            <textevent timeoffset="240" message="Okay great work! We&apos;re halfway through today&apos;s warm up. Let&apos;s chat a bit about today&apos;s main set."/>
+            <textevent timeoffset="250" message="Today, we have 3 interval sets that progress from easy to hard."/>
+            <textevent timeoffset="260" message="Tanja says: &apos;My FTP Workout is kind of the evergreen of workouts.&apos;"/>
+            <textevent timeoffset="270" message="&apos;Almost every minute is filled with a specific plan which makes time fly.&apos;"/>
+            <textevent timeoffset="280" message="&apos;This is my go-to FTP Booster for winter prep, in-between race weeks or mid season break built-up.&apos;"/>
+            <textevent timeoffset="290" message="Thanks, Tanja! Let&apos;s continue on with today&apos;s warm up :-)"/>
+            <textevent timeoffset="360" message="2min, then we&apos;ll move into a few high-cadence efforts."/>
+            <textevent timeoffset="450" message="Up next, we&apos;ll do 3 high-cadence efforts at 110 RPM."/>
+            <textevent timeoffset="460" message="High-cadence efforts help to further wake up the legs and prepare them for the work ahead."/>
+            <textevent timeoffset="470" message="Let&apos;s start spinning up the legs now..."/>
+        </Warmup>
+        <IntervalsT Repeat="3" OnDuration="40" OffDuration="20" OnPower="0.85000002" OffPower="0.55000001" pace="1428186484" Cadence="95" CadenceResting="110">
+            <textevent timeoffset="0" message="HIT IT! Don&apos;t bounce in the saddle at this RPM."/>
+            <textevent timeoffset="40" message="Nice work! Now, we&apos;ll take a quick rest and repeat that twice more."/>
+            <textevent timeoffset="60" message="FAST FEET! Remember, no bouncing or lurching in that saddle."/>
+            <textevent timeoffset="100" message="Breathe... 1 more to go!"/>
+            <textevent timeoffset="120" message="GO GO GO!"/>
+        </IntervalsT>
+        <SteadyState Duration="60.000004" Power="0.5" pace="1428186484" Cadence="85">
+            <textevent timeoffset="0" message="Great effort! Let&apos;s take another minute easy, then we&apos;ll finish the warm up with 1 more interval set."/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="0.83375001" pace="1428186484">
+            <textevent timeoffset="0" message="Bring the effort back up and try to find a rhythm that feels comfortable to you."/>
+            <textevent timeoffset="120" message="Great effort so far. You should be totally comfortable here."/>
+            <textevent timeoffset="180" message="1 more minute to go, then we&apos;ll push it for 30sec to put the finishing touches on today&apos;s warm up."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.95160717" pace="1428186484">
+            <textevent timeoffset="0" message="Increase your cadence just a bit now and let&apos;s push for 30sec."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.46589285" pace="1428186484">
+            <textevent timeoffset="10" message="Great! Let&apos;s take a minute easy now before we begin the main set."/>
+            <textevent timeoffset="20" message="Remember, today&apos;s main set consists of 3 progressive intervals which will push you by the end."/>
+            <textevent timeoffset="50" message="Here we go!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.82303572" pace="1428186484">
+            <textevent timeoffset="0" message="Starting off relatively easy before we pick it up."/>
+            <textevent timeoffset="90" message="In 30sec, get ready to push it up to near threshold."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.96589291" pace="1428186484">
+            <textevent timeoffset="0" message="Dig in a little deeper now, this is when these start to burn a bit."/>
+            <textevent timeoffset="90" message="You got this! Get ready to push it over threshold in 30sec."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.0373214" pace="1428186484">
+            <textevent timeoffset="0" message="GET AFTER IT! You can do this!"/>
+            <textevent timeoffset="50" message="Final push coming up next, prepare yourself!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.1444644" pace="1428186484">
+            <textevent timeoffset="0" message="UP UP UP!"/>
+            <textevent timeoffset="50" message="Get to the arch!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.42660713" pace="1428186484">
+            <textevent timeoffset="0" message="Great work! That&apos;s 1 down and 2 to go. We&apos;ll take it easy for a couple of minutes before we turn it back up."/>
+            <textevent timeoffset="10" message="Use this time to have a drink and shake things out."/>
+            <textevent timeoffset="30" message="Let&apos;s learn a bit about the pro who gifted us her workout, Tanja Erath."/>
+            <textevent timeoffset="40" message="Tanja is a German professional cyclist who rides for Team Tibco–Silicon Valley Bank."/>
+            <textevent timeoffset="0" message="Tanja&apos;s pro racing career was launched when she won the 2nd Zwift Academy in 2017."/>
+            <textevent timeoffset="50" message="And, she rode for CANYON//SRAM for 3 years."/>
+            <textevent timeoffset="60" message="Okay, in 1min, we&apos;re back on again. We&apos;ll repeat the same process as before of a steady build and big push at the end."/>
+            <textevent timeoffset="110" message="Get ready to lift the effort again!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.82303572" pace="1428186484">
+            <textevent timeoffset="0" message="Okay, starting off at tempo effort again. This should be comfortable for you."/>
+            <textevent timeoffset="90" message="Get ready to increase the effort again in 30sec."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.96589291" pace="1428186484">
+            <textevent timeoffset="0" message="Back to near threshold again. Focus up and keep driving the pedals."/>
+            <textevent timeoffset="90" message="Ready for our big push again? You are looking GREAT!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.0373214" pace="1428186484">
+            <textevent timeoffset="0" message="Lift the effort and keep your cadence quick! You got this!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.1444644" pace="1428186484">
+            <textevent timeoffset="0" message="DIG DIG! C&apos;MON!"/>
+            <textevent timeoffset="50" message="ALL THE WAY!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.43375" pace="1428186484">
+            <textevent timeoffset="0" message="Beauty! You crushed that one, really awesome effort!"/>
+            <textevent timeoffset="10" message="Let&apos;s take another 2min easy before we begin our finale."/>
+            <textevent timeoffset="60" message="Tanja is a trained medical doctor too! Pretty amazing!"/>
+            <textevent timeoffset="70" message="Some of her favorite races are - Santos Tour Down Under, Lotto Belgium Tour, and the Colorado Classic."/>
+            <textevent timeoffset="90" message="Okay, in 30sec we&apos;re back on for the last interval set, make me proud!"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.82303572" pace="1428186484">
+            <textevent timeoffset="0" message="Right back up to tempo again, settle into the same familiar rhythm."/>
+            <textevent timeoffset="60" message="This last set feeling a bit more difficult is normal due to residual fatigue, keep going!"/>
+            <textevent timeoffset="110" message="Get ready to push it up to threshold."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.96589291" pace="1428186484">
+            <textevent timeoffset="0" message="Let&apos;s make it happen! Make this final set count."/>
+            <textevent timeoffset="60" message="Halfway! GO GO GO!"/>
+            <textevent timeoffset="110" message="Okay, here we go! Make these last 2min of work count!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.0373214" pace="1428186484">
+            <textevent timeoffset="0" message="DIG DIG DIG!"/>
+            <textevent timeoffset="50" message="Get ready for one last big push!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.1444644" pace="1428186484">
+            <textevent timeoffset="0" message="LET&apos;S GO!"/>
+            <textevent timeoffset="50" message="GET TO THE ARCH!"/>
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow="0.64999998" PowerHigh="0.39999998" pace="1428186484">
+            <textevent timeoffset="0" message="Great job! You just trained like a pro!"/>
+            <textevent timeoffset="10" message="We&apos;re going to take 5min and cool down now."/>
+            <textevent timeoffset="60" message="Zwift has partnered with Voxwomen to support their mission to inspire and motivate women who ride."/>
+            <textevent timeoffset="180" message="Check out Voxwomen.com to follow the latest with the women&apos;s pro peloton and sign up for the Monday Briefing powered by Zwift to get the inside line!"/>
+            <textevent timeoffset="290" message="Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

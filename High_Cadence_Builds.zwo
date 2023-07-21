@@ -1,0 +1,184 @@
+<workout_file>
+    <author>Zwift.Wappo</author>
+    <name>High-Cadence Builds</name>
+    <description>This workout is absolutely designed as a recovery workout, but still have some "work" to do with a little RPM focus. The RPM's prescribed may be tough to hit, so work into it, and make sure you can do so without actually riding hard. Again, recovery focused.
+3x9min blocks as 6 times through 30sec low endurance at 90 rpms, 30sec upper endurance at 100 rpms, 30sec tempo at 110 rpms
+take 3min easy spinning between blocks</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Cadence"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.44999996" PowerHigh="0.64999998" pace="1428186484">
+            <textevent timeoffset="0" message="This isn&apos;t going to be a terribly hard workout but it will add up on you by the end. Nice and easy to start."/>
+        </Warmup>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484">
+            <textevent timeoffset="0" message="110 rpms, just 30 seconds here."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, Keep it light."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, It&apos;s tough kinda, right?"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="the hard one, 110 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="Is your shifting hand tired yet?"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="So close, keep it spinning. "/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Alright, good job, and get ready for the next set."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, Keep it rolling now. "/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, good work!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, get some high RPM action!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Rest up! Heading into the last set now."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, spin to win!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, good stuff!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, so close to being finished!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.60000002" pace="1428186484" Cadence="90">
+            <textevent timeoffset="0" message="90 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.69999999" pace="1428186484" Cadence="100">
+            <textevent timeoffset="0" message="100 rpms"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.80000001" pace="1428186484" Cadence="110">
+            <textevent timeoffset="0" message="110 rpms, almost there!"/>
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow="0.55000001" PowerHigh="0.44999999" pace="1428186484">
+            <textevent timeoffset="0" message="Woo hoo!!! Glad that&apos;s over. I&apos;m dizzy."/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,119 @@
+<workout_file>
+  <author>E.Wappo [Strokers]</author>
+  <name>2min On &amp; a Big Finger</name>
+  <description>70min of fun</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="Intervals"/>
+  </tags>
+  <workout>
+    <Warmup Duration="330" PowerLow="0.44999999" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="Warm up"/>
+      <textevent timeoffset="165" message="Getting a bit harder as we ramp up"/>
+      <textevent timeoffset="300" message="30 seconds left"/>
+    </Warmup>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65">
+      <textevent timeoffset="0" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+      <textevent timeoffset="30" message="30 seconds left, great work"/>
+    </SteadyState>
+    <IntervalsT Repeat="6" OnDuration="30" OffDuration="30" OnPower="1.196" OffPower="0.64999998" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="0" message="Get ready 6 hard pushes coming up"/>
+      <textevent timeoffset="10" message="This will really get your muscles firing"/>
+      <textevent timeoffset="330" message="30 seconds left"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65">
+      <textevent timeoffset="30" message="Grab a drink"/>
+    </SteadyState>
+    <IntervalsT Repeat="2" OnDuration="120" OffDuration="30" OnPower="0.85000002" OffPower="0.60000002" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="60" message="60% FTP for 2 minutes, catch your breath, spin easy ~65RPM"/>
+      <textevent timeoffset="90" message="30 seconds left, great work"/>
+      <textevent timeoffset="120" message="Three intervals at 95% FTP"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65">
+      <textevent timeoffset="50" message="Three down"/>
+    </SteadyState>
+    <IntervalsT Repeat="2" OnDuration="120" OffDuration="30" OnPower="0.94999999" OffPower="0.59600002" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="30" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+      <textevent timeoffset="60" message="30 seconds left, great work"/>
+      <textevent timeoffset="90" message="Four intervals at 100% FTP"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="2" OnDuration="120" OffDuration="30" OnPower="1" OffPower="0.59600002" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="50" message="Four down"/>
+      <textevent timeoffset="90" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+      <textevent timeoffset="120" message="30 seconds left, great work"/>
+      <textevent timeoffset="150" message="Two intervals at 115% FTP"/>
+      <textevent timeoffset="250" message="Five down"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65">
+      <textevent timeoffset="30" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+    </SteadyState>
+    <IntervalsT Repeat="2" OnDuration="120" OffDuration="30" OnPower="1.15" OffPower="0.5939999800000001" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="0" message="30 seconds left, great work"/>
+      <textevent timeoffset="30" message="Big push, 1 minute at 135% FTP"/>
+      <textevent timeoffset="40" message="This is the hard one"/>
+      <textevent timeoffset="50" message="Keep digging deep"/>
+      <textevent timeoffset="60" message="Keep pushing 1/4 done"/>
+      <textevent timeoffset="90" message="On the down side"/>
+      <textevent timeoffset="140" message="It will just get easier from here"/>
+      <textevent timeoffset="141" message="9"/>
+      <textevent timeoffset="142" message="8"/>
+      <textevent timeoffset="143" message="7"/>
+      <textevent timeoffset="144" message="6"/>
+      <textevent timeoffset="145" message="5"/>
+      <textevent timeoffset="146" message="4"/>
+      <textevent timeoffset="147" message="3"/>
+      <textevent timeoffset="148" message="2"/>
+      <textevent timeoffset="149" message="1"/>
+      <textevent timeoffset="150" message="Amazing jop with that last session"/>
+      <textevent timeoffset="165" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+      <textevent timeoffset="180" message="30 seconds left, great work"/>
+      <textevent timeoffset="210" message="Two intervals at 115% FTP"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65">
+      <textevent timeoffset="0" message="One more to come"/>
+    </SteadyState>
+    <SteadyState Duration="120" Power="1.35" pace="0" Cadence="93">
+      <textevent timeoffset="0" message="Six down"/>
+      <textevent timeoffset="30" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+      <textevent timeoffset="60" message="30 seconds left, great work"/>
+      <textevent timeoffset="91" message="Four intervals at 100% FTP"/>
+    </SteadyState>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65"/>
+    <IntervalsT Repeat="2" OnDuration="120" OffDuration="30" OnPower="1.15" OffPower="0.6059999800000001" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="230" message="Seven down"/>
+      <textevent timeoffset="271" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65">
+      <textevent timeoffset="0" message="30 seconds left, great work"/>
+      <textevent timeoffset="31" message="Three intervals at 95% FTP"/>
+    </SteadyState>
+    <IntervalsT Repeat="2" OnDuration="120" OffDuration="30" OnPower="1" OffPower="0.59600002" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="200" message="Eight down"/>
+      <textevent timeoffset="241" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+      <textevent timeoffset="270" message="30 seconds left, great work"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65">
+      <textevent timeoffset="1" message="Two intervals at 85% FTP"/>
+    </SteadyState>
+    <IntervalsT Repeat="2" OnDuration="120" OffDuration="30" OnPower="0.94999999" OffPower="0.59600002" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="288" message="Nine down"/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65"/>
+      <textevent timeoffset="1" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+    </SteadyState>
+    <IntervalsT Repeat="2" OnDuration="120" OffDuration="30" OnPower="0.85000002" OffPower="0.60000002" pace="0" Cadence="93" CadenceResting="63">
+      <textevent timeoffset="162" message="30 seconds left "/>
+      <textevent timeoffset="182" message="This was the last set of intervals "/>
+    </IntervalsT>
+    <SteadyState Duration="60" Power="0.65" pace="0" Cadence="65">
+      <textevent timeoffset="1" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
+    </SteadyState>
+    <Cooldown Duration="330" PowerLow="0.75" PowerHigh="0.44600001" pace="0">
+      <textevent timeoffset="1" message="Cool down, you earned it, great job"/>
+      <textevent timeoffset="165" message="Keep spinning down"/>
+      <textevent timeoffset="300" message="Great job today"/>
+    </Cooldown>
+  </workout>
+</workout_file>

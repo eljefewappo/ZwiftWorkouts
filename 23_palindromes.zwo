@@ -5,7 +5,7 @@
     <sportType>bike</sportType>
     <tags>
         <tag name="Intervals"/>
-        <tag name="Eljefe"/>
+        <tag name="Eljefe Wappo Academy"/>
     </tags>
     <workout>
         <Warmup Duration="420" PowerLow="0.498" PowerHigh="0.75" pace="1428186484">

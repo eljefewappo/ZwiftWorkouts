@@ -6,6 +6,7 @@
   <durationType>time</durationType>
       <tags>
         <tag name="VO2max"/>
+        <tag name="Eljefe Wappo Academy"/>
     </tags>
   <workout>
     <Warmup Duration="180.00002" PowerLow="0.44999999" PowerHigh="0.55000001" pace="0" Cadence="90">

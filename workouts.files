@@ -1,16 +1,23 @@
 <custom_file_directory>
     <custom_file>
+        <name>London_Classique.zwo</name>
+        <time>1689935599</time>
+        <guid>5671</guid>
+        <checksum>230</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Power_Intervals__1.zwo</name>
-        <time>1689764064</time>
-        <guid>10101</guid>
-        <checksum>253</checksum>
+        <time>1689935295</time>
+        <guid>22274</guid>
+        <checksum>70</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>High_Cadence_Builds.zwo</name>
-        <time>1689760129</time>
-        <guid>19876</guid>
-        <checksum>183</checksum>
+        <time>1689935295</time>
+        <guid>9606</guid>
+        <checksum>48</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -29,23 +36,16 @@
     </custom_file>
     <custom_file>
         <name>Recovery_2.zwo</name>
-        <time>1689328691</time>
-        <guid>25192</guid>
-        <checksum>57</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Recovery_3.zwo</name>
-        <time>1689328835</time>
-        <guid>26235</guid>
-        <checksum>171</checksum>
+        <time>1689935295</time>
+        <guid>9051</guid>
+        <checksum>230</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Recovery.zwo</name>
-        <time>1689155637</time>
-        <guid>24052</guid>
-        <checksum>127</checksum>
+        <time>1689935295</time>
+        <guid>11097</guid>
+        <checksum>44</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -71,9 +71,9 @@
     </custom_file>
     <custom_file>
         <name>Peak_VO2_Intervals.zwo</name>
-        <time>1688034251</time>
-        <guid>4871</guid>
-        <checksum>64</checksum>
+        <time>1689935295</time>
+        <guid>14106</guid>
+        <checksum>28</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -85,23 +85,23 @@
     </custom_file>
     <custom_file>
         <name>Peak_VO2_Intervals_Medio.zwo</name>
-        <time>1688216988</time>
-        <guid>31625</guid>
-        <checksum>50</checksum>
+        <time>1689935295</time>
+        <guid>9444</guid>
+        <checksum>14</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>VO2_Max___5*4x4__40_20_.zwo</name>
-        <time>1686735909</time>
-        <guid>6923</guid>
-        <checksum>148</checksum>
+        <time>1689935295</time>
+        <guid>31879</guid>
+        <checksum>147</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>VO2_Max___4*4x4__40_20_.zwo</name>
-        <time>1686735909</time>
-        <guid>31879</guid>
-        <checksum>119</checksum>
+        <time>1689935295</time>
+        <guid>25317</guid>
+        <checksum>118</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -113,9 +113,9 @@
     </custom_file>
     <custom_file>
         <name>Tanja_Erath___FTP_Booster_.zwo</name>
-        <time>1686564819</time>
-        <guid>22460</guid>
-        <checksum>13</checksum>
+        <time>1689935295</time>
+        <guid>12997</guid>
+        <checksum>63</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -134,23 +134,23 @@
     </custom_file>
     <custom_file>
         <name>VO2_Max___3x5_Tabata_Style.zwo</name>
-        <time>1683709865</time>
-        <guid>27454</guid>
-        <checksum>247</checksum>
+        <time>1689935295</time>
+        <guid>322</guid>
+        <checksum>246</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>VO2_Max_3x3.zwo</name>
-        <time>1683709865</time>
-        <guid>13673</guid>
-        <checksum>188</checksum>
+        <time>1689935295</time>
+        <guid>28281</guid>
+        <checksum>187</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>VO2_Max___4x3_Ramps.zwo</name>
-        <time>1683380855</time>
-        <guid>9031</guid>
-        <checksum>56</checksum>
+        <time>1689935295</time>
+        <guid>545</guid>
+        <checksum>55</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -323,9 +323,9 @@
     </custom_file>
     <custom_file>
         <name>23_palindromes.zwo</name>
-        <time>1682771534</time>
-        <guid>545</guid>
-        <checksum>225</checksum>
+        <time>1689935295</time>
+        <guid>9036</guid>
+        <checksum>129</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -421,5 +421,6 @@
         <hash>1143726148</hash>
         <hash>2218398011</hash>
         <hash>3521977749</hash>
+        <hash>3557423200</hash>
     </deleted_files>
 </custom_file_directory>

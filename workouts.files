@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>Recovery_Dos.zwo</name>
+        <time>1690027650</time>
+        <guid>22274</guid>
+        <checksum>236</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>London_Classique.zwo</name>
         <time>1689935599</time>
         <guid>5671</guid>
@@ -35,13 +42,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Recovery_2.zwo</name>
-        <time>1689935295</time>
-        <guid>9051</guid>
-        <checksum>230</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Recovery.zwo</name>
         <time>1689935295</time>
         <guid>11097</guid>
@@ -50,9 +50,9 @@
     </custom_file>
     <custom_file>
         <name>3_3_2min_VO2max.zwo</name>
-        <time>1689940183</time>
+        <time>1689940697</time>
         <guid>28168</guid>
-        <checksum>56</checksum>
+        <checksum>193</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -64,9 +64,9 @@
     </custom_file>
     <custom_file>
         <name>2x_4x2min__Threshold_Fun.zwo</name>
-        <time>1689940183</time>
+        <time>1689940697</time>
         <guid>8773</guid>
-        <checksum>197</checksum>
+        <checksum>202</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -197,9 +197,9 @@
     </custom_file>
     <custom_file>
         <name>27_TheHardWay.zwo</name>
-        <time>1689940183</time>
+        <time>1689940697</time>
         <guid>6690</guid>
-        <checksum>235</checksum>
+        <checksum>240</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -232,16 +232,16 @@
     </custom_file>
     <custom_file>
         <name>27_Ups_and_a_Little_Finger.zwo</name>
-        <time>1689940183</time>
+        <time>1689940697</time>
         <guid>10350</guid>
-        <checksum>222</checksum>
+        <checksum>227</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>27_Ups_and_a_Big_FuckYou.zwo</name>
-        <time>1689940183</time>
+        <time>1689940697</time>
         <guid>9233</guid>
-        <checksum>96</checksum>
+        <checksum>101</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -274,9 +274,9 @@
     </custom_file>
     <custom_file>
         <name>30_Ups_Big_Finger.zwo</name>
-        <time>1680298757</time>
-        <guid>23570</guid>
-        <checksum>234</checksum>
+        <time>1689940697</time>
+        <guid>12997</guid>
+        <checksum>239</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -295,9 +295,9 @@
     </custom_file>
     <custom_file>
         <name>8_6_4min_Threshold.zwo</name>
-        <time>1678703717</time>
-        <guid>24267</guid>
-        <checksum>196</checksum>
+        <time>1690027650</time>
+        <guid>1883</guid>
+        <checksum>228</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -309,9 +309,9 @@
     </custom_file>
     <custom_file>
         <name>40_20s.zwo</name>
-        <time>1682781916</time>
-        <guid>16048</guid>
-        <checksum>199</checksum>
+        <time>1689940916</time>
+        <guid>13073</guid>
+        <checksum>76</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -323,16 +323,16 @@
     </custom_file>
     <custom_file>
         <name>23_palindromes.zwo</name>
-        <time>1689940183</time>
+        <time>1689940697</time>
         <guid>14106</guid>
-        <checksum>224</checksum>
+        <checksum>229</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>FTP_Builder_Wk6,_Day_3.zwo</name>
-        <time>1678446120</time>
-        <guid>15892</guid>
-        <checksum>6</checksum>
+        <time>1689940697</time>
+        <guid>18884</guid>
+        <checksum>50</checksum>
         <deleted>false</deleted>
     </custom_file>
     <deleted_files>
@@ -422,5 +422,6 @@
         <hash>2218398011</hash>
         <hash>3521977749</hash>
         <hash>3557423200</hash>
+        <hash>3625642603</hash>
     </deleted_files>
 </custom_file_directory>

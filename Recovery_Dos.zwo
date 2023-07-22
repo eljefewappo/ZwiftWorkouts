@@ -6,6 +6,7 @@
   <durationType>time</durationType>
     <tags>
         <tag name="RECOVERY"/>
+        <tag name="Eljefe Wappo Academy"/>
     </tags>
   <workout>
     <Warmup Duration="300" PowerLow="0.4465" PowerHigh="0.7544999700000001" pace="0">

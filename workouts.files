@@ -1,5 +1,54 @@
 <custom_file_directory>
     <custom_file>
+        <name>Norseman_workout__Eidfjord.zwo</name>
+        <time>1690543588</time>
+        <guid>31363</guid>
+        <checksum>100</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Norseman_workout__Hardangervidda.zwo</name>
+        <time>1690543588</time>
+        <guid>9306</guid>
+        <checksum>52</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Norseman_workout__Imingfjell.zwo</name>
+        <time>1690543588</time>
+        <guid>15084</guid>
+        <checksum>159</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Norseman_workout__Geilo.zwo</name>
+        <time>1690543588</time>
+        <guid>28893</guid>
+        <checksum>236</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30_30sec_Anaerobic__1.zwo</name>
+        <time>1690543588</time>
+        <guid>17770</guid>
+        <checksum>11</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Progressive_11min_Climb_1.zwo</name>
+        <time>1690543007</time>
+        <guid>2341</guid>
+        <checksum>19</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Anaerobic_Capacity_1min___2min.zwo</name>
+        <time>1690538831</time>
+        <guid>17001</guid>
+        <checksum>28</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Recovery_Tres.zwo</name>
         <time>1690194726</time>
         <guid>30832</guid>
@@ -239,9 +288,9 @@
     </custom_file>
     <custom_file>
         <name>27_Ups_and_a_Little_Finger.zwo</name>
-        <time>1689940697</time>
-        <guid>10350</guid>
-        <checksum>227</checksum>
+        <time>1690538608</time>
+        <guid>9429</guid>
+        <checksum>225</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

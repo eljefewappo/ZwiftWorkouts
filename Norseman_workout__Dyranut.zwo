@@ -1,0 +1,122 @@
+<workout_file>
+    <author>Martin Bonnevie-Svendsen</author>
+    <name>Norseman workout: Dyranut</name>
+    <description>So you think you have what it takes to take on the Norseman Workout Series? 
+T1 seems a long time ago. 22 miles of constant climbing and you roll into Dyranut, the first chance to meet your support crew, change bottles and throw on more clothes for the fast, chilly ride along the mountain plateau. 
+This Norseman workout is a high intensity session to boost your aerobic and also anaerobic capacity. This session will help increase your tolerance for bursts of higher power outputs during steep climbs and overtaking your competitors.
+	Think you have what it takes? Check out all of the Norseman Run and Bike workouts to help you prepare for the Norseman Festival of Climbing July 27th - August 2nd. 
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Norseman"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.50449991" PowerHigh="0.72449994" pace="1428186484">
+            <textevent timeoffset="15" message="Welcome to the first in this series of Norseman workouts."/>
+            <textevent timeoffset="30" message="Start pedaling gently to get your legs warm. We will use a progressively harder warmup-routine to get you ready for your intervals"/>
+            <textevent timeoffset="60" message="Choose your preferred cadence for the entire workout."/>
+            <textevent timeoffset="100" message="T1 seems a long time ago."/>
+            <textevent timeoffset="120" message="22 miles of constant climbing and you roll into Dyranut, the first chance to meet your support crew."/>
+            <textevent timeoffset="140" message="Change bottles and throw on more clothes for the fast, chilly ride along the mountain plateau."/>
+            <textevent timeoffset="300" message="Increase your cadence as the effort builds"/>
+            <textevent timeoffset="440" message="Next up we will be doing some 30 second hard efforts to prepare for the main set."/>
+            <textevent timeoffset="470" message="In the main set you will be doing 3 sets of 8 repeats of 30 second high intensity efforts interspersed by 30 seconds at rest."/>
+            <textevent timeoffset="490" message="Each set of 8 is separated by a 5 minute recovery period."/>
+            <textevent timeoffset="510" message="But there is a twist.. "/>
+            <textevent timeoffset="530" message="Each set is started off with 30 second efforts at even higher intensity."/>
+            <textevent timeoffset="550" message="It has been shown that this fast start style of intervals facilitates higher total time spent at high oxygen consumption"/>
+        </Warmup>
+        <IntervalsT Repeat="2" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.2" OffPower="0.5" pace="1428186484">
+            <textevent timeoffset="0" message="Here we go. 30 seconds at 120 percent of FTP. This is the basic intensity for the majority of 30 second efforts."/>
+            <textevent timeoffset="30" message="Now we rest for 30 seconds."/>
+            <textevent timeoffset="60" message="Back to 120% effort."/>
+            <textevent timeoffset="90" message="And another short rest."/>
+        </IntervalsT>
+        <SteadyState Duration="240.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="10" message="Spend the next 4 minutes at low intensity getting your legs ready for the main 3 x interval sets."/>
+            <textevent timeoffset="30" message="Now is the time to focus on the 8 efforts at 120 percent of FTP - with a few efforts at 130 percent."/>
+            <textevent timeoffset="50" message="Keep in mind, the individual ability to maintain work at intensities this close to anaerobic work may vary greatly."/>
+            <textevent timeoffset="70" message="As such, there is no shame in adjusting your target power up or down a few percent by using the + or - button."/>
+            <textevent timeoffset="90" message="Aim for each set of 8 efforts being gradually more challenging."/>
+            <textevent timeoffset="220" message="Get ready, the first set of 8 efforts coming up in 10 seconds"/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.3" OffPower="0.60000002" pace="1428186484">
+            <textevent timeoffset="0" message="Here we go. The first 3 efforts are 130 percent of FTP."/>
+            <textevent timeoffset="30" message="Keep spinning smoothly in the rests between the efforts"/>
+            <textevent timeoffset="60" message="2nd of the fast start efforts - go!"/>
+            <textevent timeoffset="90" message="...and rest"/>
+            <textevent timeoffset="120" message="Keep the cadence consistent during the high intensity efforts"/>
+            <textevent timeoffset="150" message="Rest up for a short time and now the effort drops to 120% for the remaining six intervals."/>
+        </IntervalsT>
+        <IntervalsT Repeat="5" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.2" OffPower="0.60000002" pace="1428186484">
+            <textevent timeoffset="0" message="Pick it back up to 120%"/>
+            <textevent timeoffset="30" message="Nice deep breaths during the rest"/>
+            <textevent timeoffset="60" message="Here we go, spin it up"/>
+            <textevent timeoffset="90" message="...and rest"/>
+            <textevent timeoffset="120" message="3 to go, keep strong"/>
+            <textevent timeoffset="150" message="How are these feeling? 2 to go."/>
+            <textevent timeoffset="180" message="Looking strong!"/>
+            <textevent timeoffset="210" message="Stay focused, just one more left"/>
+            <textevent timeoffset="240" message="Make this last one a good one"/>
+            <textevent timeoffset="270" message="Great effort, now rest"/>
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.5" pace="1428186484">
+            <textevent timeoffset="20" message="Keep your legs turning slowly while drinking and resting"/>
+            <textevent timeoffset="40" message="How did your first set feel? You should have started to feel somewhat tired towards the end, but far from exhausted."/>
+            <textevent timeoffset="290" message="Next set of 8 efforts coming up in 10 seconds"/>
+        </SteadyState>
+        <IntervalsT Repeat="2" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.3" OffPower="0.60000002" pace="1428186484">
+            <textevent timeoffset="0" message="This set kicks off with 2 efforts at 130 percent of FTP"/>
+            <textevent timeoffset="30" message="Keep spinning smoothly in the rests between the efforts"/>
+            <textevent timeoffset="60" message="Final fast effort of this set, keep it up"/>
+            <textevent timeoffset="90" message="Rest up, intervals drop to 120% now"/>
+        </IntervalsT>
+        <IntervalsT Repeat="6" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.2" OffPower="0.60000002" pace="1428186484">
+            <textevent timeoffset="0" message="And we are back down at 120 percent for the rest of this set. Too easy!"/>
+            <textevent timeoffset="30" message="...and rest"/>
+            <textevent timeoffset="0" message="Starting to get that heavy feeling in your legs and feeling out of breath? Good, that is the point, keep it up!"/>
+            <textevent timeoffset="90" message="Nice deep breaths during the rest"/>
+            <textevent timeoffset="120" message="Looking great, keep strong"/>
+            <textevent timeoffset="150" message="...and rest"/>
+            <textevent timeoffset="180" message="3 to go, keep the cadence up"/>
+            <textevent timeoffset="210" message="2 left after this rest"/>
+            <textevent timeoffset="240" message="Dig in and focus on smooth pedaling"/>
+            <textevent timeoffset="270" message="Just one more left in this set"/>
+            <textevent timeoffset="300" message="Make it a good one"/>
+            <textevent timeoffset="330" message="Great effort, two sets down one to go"/>
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.5" pace="1428186484">
+            <textevent timeoffset="20" message="Take a big drink and imagine those cooling Norwegian breezes!"/>
+            <textevent timeoffset="40" message="How was round two? Harder, easier or about the same?"/>
+            <textevent timeoffset="290" message="Only one more set to go, you got this. 10 seconds to go, get ready."/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.3" OffPower="0.60000002" pace="1428186484">
+            <textevent timeoffset="0" message="This set starts with only the single effort at 130 percent of FTP"/>
+            <textevent timeoffset="30" message="7 efforts to go. This is where it gets fun, and where your efforts start paying off!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="7" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.2" OffPower="0.60000002" pace="1428186484">
+            <textevent timeoffset="0" message="And we are back to 120% for the rest of the workout"/>
+            <textevent timeoffset="30" message="...and rest"/>
+            <textevent timeoffset="0" message="Keep it smooth!"/>
+            <textevent timeoffset="90" message="Deep breaths, settle the heart rate"/>
+            <textevent timeoffset="120" message="Keep this strong"/>
+            <textevent timeoffset="150" message="...and rest again"/>
+            <textevent timeoffset="180" message="4 to go, keep the cadence up"/>
+            <textevent timeoffset="210" message="3 left after this rest"/>
+            <textevent timeoffset="240" message="Nearly there, this is where it gets hard"/>
+            <textevent timeoffset="270" message="Just 2 more left in this set"/>
+            <textevent timeoffset="300" message="It never gets easier, you just go faster!"/>
+            <textevent timeoffset="330" message="Great effort, one more rep and then we are done"/>
+            <textevent timeoffset="360" message="This is it! Leave it all out there."/>
+            <textevent timeoffset="390" message="And relax!"/>
+        </IntervalsT>
+        <Cooldown Duration="600" PowerLow="0.64999998" PowerHigh="0.5" pace="1428186484">
+            <textevent timeoffset="0" message="To finish off the session, we will do a 10 minute cool down at low intensity to add to your total volume of work on low glycogen stores."/>
+            <textevent timeoffset="180" message="For future reference, recall how the intensity of today affected your workout execution."/>
+            <textevent timeoffset="360" message="Performing these high intensity short intervals can be useful to develop your ability to produce high power outputs."/>
+            <textevent timeoffset="420" message="3 minutes to go now, nearly done"/>
+            <textevent timeoffset="520" message="Thank you for joining this Norseman workout."/>
+            <textevent timeoffset="560" message="Keep an eye out for another workout in the Norseman series next week."/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,78 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>Norseman workout: Imingfjell</name>
+    <description>So you think you have what it takes to take on the Norseman Workout Series? 
+One climb to go, and it is a long one. The rewards are the big crowds and spectacular scenery at the top of Imingfjell. Once at the top, regroup and keep your focus for the long descent to T2. 
+This session is a long climb, but rather than sit back and pace ourselves up it we are going to alternate efforts every minute or so. Every 8 minutes the intervals get harder. The first half of the session should feel comfortable but by the end you will be glad to be at the top.
+	Think you have what it takes? Check out all of the Norseman Run and Bike workouts to help you prepare for the Norseman Festival of Climbing July 27th - August 2nd.
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Norseman"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480.00003" PowerLow="0.55449998" PowerHigh="0.75450003" pace="1428186484">
+            <textevent timeoffset="15" message="Welcome to the final workout in this Norseman series."/>
+            <textevent timeoffset="30" message="We begin the warm up today with a gentle ramp gradually increasing the effort."/>
+            <textevent timeoffset="60" message="Choose your preferred cadence for the entire workout."/>
+            <textevent timeoffset="80" message="One climb to go, and it is a long one."/>
+            <textevent timeoffset="100" message="The rewards are the big crowds and spectacular scenery at the top of Imingfjell."/>
+            <textevent timeoffset="120" message="Once at the top, regroup and keep your focus for the long descent to T2."/>
+            <textevent timeoffset="420" message="In 60 seconds we have a short rest before heading straight into the main set."/>
+            <textevent timeoffset="440" message="The main set is 7 sets of ascending short intervals."/>
+        </Warmup>
+        <SteadyState Duration="60.000004" Power="0.55449998" pace="1428186484">
+            <textevent timeoffset="15" message="Use this minute to grab a drink, spin the legs and get ready for the long climb."/>
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.85449994" OffPower="0.55449998" pace="1428186484">
+            <textevent timeoffset="10" message="Four efforts at 85% FTP, this should be comfortable, treat it as an extended warm up."/>
+            <textevent timeoffset="130" message="Second effort, keep a good rhythm on the climb."/>
+            <textevent timeoffset="250" message="Two more at this level, keep it smooth."/>
+            <textevent timeoffset="370" message="Fourth and final effort here but we keep rolling as the watts go higher."/>
+        </IntervalsT>
+        <IntervalsT Repeat="4" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.90449989" OffPower="0.50449997" pace="1428186484">
+            <textevent timeoffset="10" message="90% FTP for the next four efforts. Each set of four gets more challenging."/>
+            <textevent timeoffset="130" message="Keep the pressure on the pedals."/>
+            <textevent timeoffset="250" message="This should feel like a 3 or 4% gradient, not too bad."/>
+            <textevent timeoffset="370" message="Final effort at 90% before we raise it to 95%."/>
+        </IntervalsT>
+        <IntervalsT Repeat="4" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.95449996" OffPower="0.50449997" pace="1428186484">
+            <textevent timeoffset="10" message="95% FTP, for 1 minute efforts this should still feel smooth."/>
+            <textevent timeoffset="130" message="Second effort, try to keep a consistent cadence throughout."/>
+            <textevent timeoffset="250" message="How are the legs? This workout is heavily loaded in the second half."/>
+            <textevent timeoffset="370" message="One more here and then the gradient kicks up again."/>
+        </IntervalsT>
+        <IntervalsT Repeat="4" OnDuration="60.000004" OffDuration="60.000004" OnPower="1.0044999" OffPower="0.5" pace="1428186484">
+            <textevent timeoffset="10" message="For these four efforts we are right at FTP. Keep it strong."/>
+            <textevent timeoffset="130" message="Plenty of work at and around FTP is where the gains happen."/>
+            <textevent timeoffset="250" message="Halfway up the climb, feeling good?"/>
+            <textevent timeoffset="370" message="Another good block almost done. Guess what? It gets harder from here."/>
+        </IntervalsT>
+        <IntervalsT Repeat="4" OnDuration="60.000004" OffDuration="60.000004" OnPower="1.0545" OffPower="0.50449997" pace="1428186484">
+            <textevent timeoffset="10" message="Now we are talking. 105% FTP for the intervals, these should start to sting a little."/>
+            <textevent timeoffset="130" message="How is the heart rate, gradually rising?"/>
+            <textevent timeoffset="250" message="Looking strong, keep your focus."/>
+            <textevent timeoffset="370" message="Dig in, last effort at 105%, you can do it."/>
+        </IntervalsT>
+        <IntervalsT Repeat="4" OnDuration="60.000004" OffDuration="60.000004" OnPower="1.1044999" OffPower="0.50449997" pace="1428186484">
+            <textevent timeoffset="10" message="The final set of 60 second efforts and they are challenging."/>
+            <textevent timeoffset="130" message="110% FTP should feel like the climb has got much steeper."/>
+            <textevent timeoffset="250" message="Two to go and then we change it up a little."/>
+            <textevent timeoffset="370" message="Final 60 second effort, make it a good one."/>
+            <textevent timeoffset="440" message="The next efforts are much harder but are only 20 seconds and with more rest."/>
+        </IntervalsT>
+        <IntervalsT Repeat="4" OnDuration="20" OffDuration="100.00001" OnPower="1.3045" OffPower="0.50449997" pace="1428186484">
+            <textevent timeoffset="0" message="Hit these hard!"/>
+            <textevent timeoffset="120" message="Go Go Go!"/>
+            <textevent timeoffset="240" message="Boom! Nearly there."/>
+            <textevent timeoffset="360" message="Leave nothing out there on this final one."/>
+            <textevent timeoffset="390" message="Great work, you did it!"/>
+        </IntervalsT>
+        <Cooldown Duration="600" PowerLow="0.6045" PowerHigh="0.45450002" pace="1428186484">
+            <textevent timeoffset="0" message="That was very good, you looked good throughout."/>
+            <textevent timeoffset="30" message="You are looking good for the Festival of Climbing and a chance to win a place to Norseman 2021."/>
+            <textevent timeoffset="530" message="Thank you for joining this Norseman workout."/>
+            <textevent timeoffset="550" message="And see you in Gaustablikk in 2021 for a post race beer!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,72 @@
+<workout_file>
+  <author>Kevin Poulton</author>
+  <name>Anaerobic Capacity 1min &amp; 2min</name>
+  <description>This is a very high level of intensity that requires mental and physical perseverance. As well as improving your ability to produce sustained power above threshold, AC training will also improve your ability to recover from high intensity efforts and repeat them again and again. With a longer set of hard efforts followed by a series of shorter efforts, you will need to stay focused today!</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="360.00003" PowerLow="0.45000002" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="30" message="We begin the warm up with a gentle aerobic effort."/>
+    </Warmup>
+    <SteadyState Duration="60.000004" Power="0.5" pace="0">
+      <textevent timeoffset="50" message="Now for a 1min high power, effort."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="1.09" pace="0"/>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="109.99999999999994" message="To prepare for the AC efforts we ramp up to a 4min threshold effort now."/>
+    </SteadyState>
+    <Ramp Duration="180.00002" PowerLow="0.5" PowerHigh="0.89999998" pace="0" Cadence="95">
+      <textevent timeoffset="160" message="Nearly at threshold power now."/>
+      <textevent timeoffset="170" message="Time for the 4min threshold effort."/>
+    </Ramp>
+    <SteadyState Duration="240.00002" Power="0.89999998" pace="0" Cadence="100"/>
+    <SteadyState Duration="180.00002" Power="0.5" pace="0">
+      <textevent timeoffset="90" message="5 x 2min efforts followed by 3 x 1min efforts, you will need to stay focused today!"/>
+      <textevent timeoffset="130" message="This is a very high level of intensity that requires mental and physical perseverance."/>
+    </SteadyState>
+    <Ramp Duration="120.00001" PowerLow="1.0599999" PowerHigh="1.2" pace="0" Cadence="95">
+      <textevent timeoffset="20" message="The AC efforts ramp up in power slightly."/>
+    </Ramp>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="30" message="A short recovery will improve your ability to repeat hard efforts."/>
+    </SteadyState>
+    <Ramp Duration="120.00001" PowerLow="1.0599999" PowerHigh="1.2" pace="0" Cadence="95"/>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="100" message="Just 3 more of these 2min efforts to go."/>
+    </SteadyState>
+    <Ramp Duration="120.00001" PowerLow="1.0599999" PowerHigh="1.2" pace="0" Cadence="90">
+      <textevent timeoffset="30" message="Ensure you are holding good form on the bike. No rocking shoulders."/>
+    </Ramp>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="100" message="2 more to go. "/>
+    </SteadyState>
+    <Ramp Duration="120.00001" PowerLow="1.0599999" PowerHigh="1.2" pace="0" Cadence="90">
+      <textevent timeoffset="10" message="Aim to maintain the same cadence throughout the effort."/>
+    </Ramp>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="100" message="Last 2min effort!"/>
+    </SteadyState>
+    <Ramp Duration="120.00001" PowerLow="1.0599999" PowerHigh="1.2" pace="0" Cadence="95"/>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="30" message="Just a short rest."/>
+      <textevent timeoffset="90" message="In the next set, the efforts are shorter, but the power is higher."/>
+    </SteadyState>
+    <Ramp Duration="60.000004" PowerLow="1.21" PowerHigh="1.5" pace="0" Cadence="95">
+      <textevent timeoffset="10" message="Aim to hold a similar cadence to the earlier efforts."/>
+    </Ramp>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="60" message="How did that feel? A little harder?"/>
+      <textevent timeoffset="100" message="Just 2 more efforts to go for the session!"/>
+    </SteadyState>
+    <Ramp Duration="60.000004" PowerLow="1.21" PowerHigh="1.5" pace="0" Cadence="95"/>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="100" message="Last effort. Make it your best! "/>
+    </SteadyState>
+    <Ramp Duration="60.000004" PowerLow="1.21" PowerHigh="1.5" pace="0" Cadence="95"/>
+    <SteadyState Duration="120.00001" Power="0.5" pace="0">
+      <textevent timeoffset="60" message="Well done. That was a big session."/>
+    </SteadyState>
+    <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.45000002" pace="0"/>
+  </workout>
+</workout_file>

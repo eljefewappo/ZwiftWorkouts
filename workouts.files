@@ -1,5 +1,26 @@
 <custom_file_directory>
     <custom_file>
+        <name>Power_Intervals__2.zwo</name>
+        <time>1690635065</time>
+        <guid>7642</guid>
+        <checksum>224</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Norseman_workout__Vasstulan.zwo</name>
+        <time>1690569848</time>
+        <guid>15234</guid>
+        <checksum>109</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Norseman_workout__Dyranut.zwo</name>
+        <time>1690569848</time>
+        <guid>13002</guid>
+        <checksum>117</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Norseman_workout__Eidfjord.zwo</name>
         <time>1690543588</time>
         <guid>31363</guid>
@@ -43,9 +64,9 @@
     </custom_file>
     <custom_file>
         <name>Anaerobic_Capacity_1min___2min.zwo</name>
-        <time>1690538831</time>
-        <guid>17001</guid>
-        <checksum>28</checksum>
+        <time>1690569848</time>
+        <guid>25419</guid>
+        <checksum>36</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -71,9 +92,9 @@
     </custom_file>
     <custom_file>
         <name>Power_Intervals__1.zwo</name>
-        <time>1689935295</time>
-        <guid>22274</guid>
-        <checksum>70</checksum>
+        <time>1690635065</time>
+        <guid>30023</guid>
+        <checksum>213</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

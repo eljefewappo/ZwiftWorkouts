@@ -1,0 +1,79 @@
+<workout_file>
+    <author>Kevin Poulton</author>
+    <name>Power Intervals #2</name>
+    <description>The focus of today's session is to improve your ability to produce power. To be able to turn a big gear faster. By completing high power intervals with slightly less cadence, we increase the torque applied to the crank, boosting muscular endurance power.
+
+Two different sets of work today. The first set involves longer steady efforts, while the second set involves high power shorter efforts. However, both sets open up with a surge interval at lower cadence.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TT Tune Up"/>
+        <tag name="Week 6"/>
+        <tag name="Intervals"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.45000002" PowerHigh="0.75" pace="1428186484">
+            <textevent timeoffset="200" message="Today&apos;s warm up takes you through some low power, 1min efforts."/>
+        </Warmup>
+        <IntervalsT Repeat="2" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.80000001" OffPower="0.5" pace="1428186484"/>
+        <IntervalsT Repeat="2" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.98000002" OffPower="0.5" pace="1428186484"/>
+        <SteadyState Duration="60.000004" Power="0.5" pace="1428186484">
+            <textevent timeoffset="30" message="We start with 2 lower power efforts."/>
+            <textevent timeoffset="40" message="However, they begin with 30sec surge."/>
+            <textevent timeoffset="50" message="Ready for the first effort."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.1" pace="1428186484"/>
+        <Ramp Duration="300" PowerLow="0.60000002" PowerHigh="0.75" pace="1428186484">
+            <textevent timeoffset="20" message="Now into a comfortable aerobic effort."/>
+            <textevent timeoffset="30" message="This will not be a difficult effort. "/>
+            <textevent timeoffset="40" message="The hard work is in the next set!"/>
+        </Ramp>
+        <SteadyState Duration="60.000004" Power="0.5" pace="1428186484">
+            <textevent timeoffset="20" message="Just a short rest and then we repeat the first effort."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.1" pace="1428186484"/>
+        <Ramp Duration="300" PowerLow="0.60000002" PowerHigh="0.75" pace="1428186484"/>
+        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484">
+            <textevent timeoffset="80" message="This time we have a target of 85 RPM for the opening 30sec effort."/>
+            <textevent timeoffset="90" message="Remember to aim for the target RPM and let the smart trainer adjust the power."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.3" pace="1428186484" Cadence="85"/>
+        <Ramp Duration="120.00001" PowerLow="1.21" PowerHigh="1.5" pace="1428186484">
+            <textevent timeoffset="10" message="Self select your cadence now as the power ramps up."/>
+            <textevent timeoffset="110" message="Take note of your finishing HR."/>
+        </Ramp>
+        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484">
+            <textevent timeoffset="100" message="Here we go... next effort"/>
+            <textevent timeoffset="110" message="Remember 85RPM for the opening 30sec."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.3" pace="1428186484" Cadence="85"/>
+        <Ramp Duration="120.00001" PowerLow="1.21" PowerHigh="1.5" pace="1428186484">
+            <textevent timeoffset="110" message="What is your finishing HR? Higher than the 1st effort?"/>
+        </Ramp>
+        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484">
+            <textevent timeoffset="110" message="Just more intervals."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.3" pace="1428186484" Cadence="85"/>
+        <Ramp Duration="120.00001" PowerLow="1.21" PowerHigh="1.5" pace="1428186484"/>
+        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484">
+            <textevent timeoffset="100" message="Last effort now. "/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.3" pace="1428186484" Cadence="85"/>
+        <Ramp Duration="120.00001" PowerLow="1.21" PowerHigh="1.5" pace="1428186484">
+            <textevent timeoffset="110" message="Take note of your finishing HR. How does it compare to the earlier efforts?"/>
+        </Ramp>
+        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484">
+            <textevent timeoffset="30" message="They were hard intervals. Well done."/>
+            <textevent timeoffset="40" message="Now to finish with a steady state effort."/>
+            <textevent timeoffset="50" message="You have depleted your energy stores with the earlier efforts. "/>
+            <textevent timeoffset="60" message="Making the 8min effort a little more difficult than it normally would be."/>
+            <textevent timeoffset="70" message="But this is where the adaptations occur."/>
+        </SteadyState>
+        <SteadyState Duration="480.00003" Power="0.80000001" pace="1428186484">
+            <textevent timeoffset="45" message="Settle into a nice steady effort."/>
+            <textevent timeoffset="60" message="Observe your HR during the effort."/>
+            <textevent timeoffset="70" message="Remind yourself that this is where the magic happens. The previous efforts provide an extra stimulus to the session."/>
+            <textevent timeoffset="450" message="Has your HR increased by much throughout the effort?"/>
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.45000002" pace="1428186484"/>
+    </workout>
+</workout_file>

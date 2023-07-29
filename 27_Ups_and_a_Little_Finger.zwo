@@ -44,7 +44,7 @@
             <textevent timeoffset="0" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
-        <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.056" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63">
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.056" OffPower="0.6" pace="1428186484" Cadence="93" CadenceResting="63">
             <textevent timeoffset="0" message="Two intervals at 105% FTP"/>
         </IntervalsT>
         <SteadyState Duration="60" Power="0.60500002" pace="1428186484" Cadence="65">
@@ -73,7 +73,7 @@
             <textevent timeoffset="15" message="60% FTP for 1 minute, catch your breath, spin easy ~65RPM"/>
             <textevent timeoffset="30" message="30 seconds left, great work"/>
         </SteadyState>
-        <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.056" OffPower="0.5" pace="1428186484" Cadence="93" CadenceResting="63">
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="30" OnPower="1.056" OffPower="0.6" pace="1428186484" Cadence="93" CadenceResting="63">
             <textevent timeoffset="0" message="Two intervals at 105% FTP"/>
             <textevent timeoffset="60" message="One down"/>
             <textevent timeoffset="90" message="One more to come"/>

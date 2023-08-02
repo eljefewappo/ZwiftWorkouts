@@ -1,0 +1,56 @@
+<workout_file>
+    <author>Kevin Poulton</author>
+    <name>30/30sec Anaerobic #1</name>
+    <description>After completing a warm up that includes some high RPM sprints and a short threshold effort, the main sets today include short efforts at VO2max with short recovery. By completing short efforts above threshold you are able to accumulate more time in this area than if completed in longer efforts. The short recovery periods also increase oxygen uptake. Particularly towards the end of the set!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TT Tune Up"/>
+        <tag name="Week 1"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="180.00002" Power="0.5" pace="1428186484">
+            <textevent timeoffset="129" message="High RPM in warm up sprints aiming for 110RPM"/>
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="10" OffDuration="50.000004" OnPower="2" OffPower="0.64999998" pace="1428186484"/>
+        <SteadyState Duration="60.000004" Power="0.5" pace="1428186484">
+            <textevent timeoffset="50" message="Now a little longer in the zone 2 effort."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.75" pace="1428186484"/>
+        <SteadyState Duration="120.00001" Power="0.5" pace="1428186484">
+            <textevent timeoffset="100" message="To complete the warm up we slowly build up to a threshold effort."/>
+        </SteadyState>
+        <Ramp Duration="300" PowerLow="0.5" PowerHigh="0.85000002" pace="1428186484">
+            <textevent timeoffset="280" message="Ready for 5min at threshold."/>
+        </Ramp>
+        <SteadyState Duration="300" Power="0.92000002" pace="1428186484">
+            <textevent timeoffset="150" message="Being just 5min, this should be comfortable for you."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.5" pace="1428186484">
+            <textevent timeoffset="100" message="That completes the warm up."/>
+            <textevent timeoffset="120" message="Now for the main sets of 8x30sec efforts."/>
+            <textevent timeoffset="140" message="Observe your cadence for each 30sec effort. Is it remaining the same for each effort?"/>
+        </SteadyState>
+        <IntervalsT Repeat="8" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.15" OffPower="0.5" pace="1428186484">
+            <textevent timeoffset="40" message="That should have felt comfortable. It&apos;s the multiple efforts that cause the fatigue."/>
+            <textevent timeoffset="340" message="How is your HR responding? Is it gradually increasing?"/>
+            <textevent timeoffset="220" message="Halfway... 4 to go!"/>
+            <textevent timeoffset="410" message="Last effort. Note your max HR at the end."/>
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.5" pace="1428186484">
+            <textevent timeoffset="30" message="A good recovery now before repeating the set."/>
+            <textevent timeoffset="60" message="In the next set, note your HR in comparison to the 1st set."/>
+            <textevent timeoffset="70" message="Is you HR responding the same way?"/>
+            <textevent timeoffset="80" message="Are you completing the efforts at the same cadence?"/>
+            <textevent timeoffset="280" message="Here we go... 2nd set."/>
+        </SteadyState>
+        <IntervalsT Repeat="8" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.15" OffPower="0.5" pace="1428186484">
+            <textevent timeoffset="45" message="How do the legs feel? Any fatigue from the 1st set?"/>
+            <textevent timeoffset="160" message="Is your cadence the same as the 1st set"/>
+            <textevent timeoffset="220" message="Halfway... 4 to go!"/>
+            <textevent timeoffset="410" message="Last effort. Note your max HR at the end."/>
+        </IntervalsT>
+        <Cooldown Duration="300" PowerLow="0.69999999" PowerHigh="0.44999999" pace="1428186484">
+            <textevent timeoffset="30" message="Important to cool down appropriately from a session like this."/>
+        </Cooldown>
+    </workout>
+</workout_file>

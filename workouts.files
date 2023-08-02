@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>Going_Up_The_Zones.zwo</name>
+        <time>1690968670</time>
+        <guid>9493</guid>
+        <checksum>80</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Power_Intervals__2.zwo</name>
         <time>1690635065</time>
         <guid>7642</guid>

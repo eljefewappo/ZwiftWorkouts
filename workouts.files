@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>Base_Builder_Ladder.zwo</name>
+        <time>1691145598</time>
+        <guid>29132</guid>
+        <checksum>67</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Going_Up_The_Zones.zwo</name>
-        <time>1690968670</time>
-        <guid>9493</guid>
-        <checksum>80</checksum>
+        <time>1690974879</time>
+        <guid>6441</guid>
+        <checksum>44</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -57,9 +64,9 @@
     </custom_file>
     <custom_file>
         <name>30_30sec_Anaerobic__1.zwo</name>
-        <time>1690543588</time>
-        <guid>17770</guid>
-        <checksum>11</checksum>
+        <time>1690974879</time>
+        <guid>21243</guid>
+        <checksum>208</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

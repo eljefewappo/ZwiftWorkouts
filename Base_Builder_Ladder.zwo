@@ -1,0 +1,53 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>Base Builder Ladder</name>
+    <description>The title says it all! Sometimes we just have to get some good old fashioned base miles in the tank. This ride is about finding good RPM's and just rolling at a comfortable clip and settling in. Today is a GREAT day to add some free riding after at 55%-70% FTP on the current Zwift course or getting out the door for some fresh air is also a great option.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Gravel Grinder"/>
+        <tag name="Week 1"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.44999996" PowerHigh="0.64999998" pace="1428186484">
+            <textevent timeoffset="0" message="Ok, nice and easy riding here to start just get the legs under you."/>
+            <textevent timeoffset="100" message="Nothing too crazy on tap for today&apos;s ride just some nice smooth building efforts, but still always a good idea to warm up the system a bit."/>
+        </Warmup>
+        <IntervalsT Repeat="4" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.55000001" OffPower="0.80000001" pace="1428186484">
+            <textevent timeoffset="0" message="We&apos;ll start off with some minute RPM builds to kick it off. Build your rpm&apos;s gradually over this one minute from around 70-80 up to 100-110"/>
+            <textevent timeoffset="120" message="80% of threshold isn&apos;t exactly easy, but gives you enough resistance to help in getting the RPM&apos;s up."/>
+            <textevent timeoffset="240" message="Focus on a smooth pedal stroke throughout these builds making sure not to depend just on your down stroke. Smooth circular strokes here!"/>
+            <textevent timeoffset="360" message="Perfect cadence and technique here. "/>
+        </IntervalsT>
+        <SteadyState Duration="60.000004" Power="0.55000001" pace="1428186484"/>
+        <SteadyState Duration="420.00003" Power="0.75" pace="1428186484">
+            <textevent timeoffset="0" message="Ok, rolling into the first longer block build in today&apos;s workout. Nothing too stressful here just smooth riding at 75%."/>
+            <textevent timeoffset="240" message="Let&apos;s not forget to maintain those smooth and efficient RPM&apos;s in these efforts. "/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484"/>
+        <SteadyState Duration="420.00003" Power="0.80000001" pace="1428186484">
+            <textevent timeoffset="0" message="2nd rep going in now, nice and smooth up to 80% of threshold. "/>
+            <textevent timeoffset="240" message="Don&apos;t forget to hydrate throughout this ride, even in a moderate workout that&apos;s of a short duration proper hydration will help in performance and recovery after."/>
+            <textevent timeoffset="300" message="What&apos;s your posture like during these efforts? Hold yourself strong and from your core but relaxed throughout your elbows, shoulder, and neck. "/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Nice and easy now, great work!"/>
+        </SteadyState>
+        <SteadyState Duration="420.00003" Power="0.85000002" pace="1428186484">
+            <textevent timeoffset="0" message="Up, up to 85% now, nice and smooth acceleration up in watts but smooth smooth RPM&apos;s. "/>
+            <textevent timeoffset="60" message="We&apos;ll spend a lot of time in this power zone during a gravel event so get used to it!"/>
+            <textevent timeoffset="210" message="Seriously though, a bulk of the time in a extended gravel race, in my experience, happens here. It&apos;s the athlete that can recover and maintain in this zone that can be dynamic in the end of the event. "/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Easy easy. Nice one. Nice and smooth!"/>
+        </SteadyState>
+        <SteadyState Duration="420.00003" Power="0.89999998" pace="1428186484">
+            <textevent timeoffset="0" message="Ok, last little block for the day! grab a sip of whatever you are drinking and let&apos;s make this one a good one."/>
+            <textevent timeoffset="70" message="Are you still maintaining that good posture and smooth pedal stroke that you had from the first interval? Let&apos;s stay consistent and hold form as long as we can!"/>
+            <textevent timeoffset="320" message="Just a minute to go now, stay on those RPM&apos;s please!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.55000001" pace="1428186484">
+            <textevent timeoffset="0" message="Good job today. Not the hardest workout we&apos;ll do in this block, but certainly one that is important to build off of for your event."/>
+        </SteadyState>
+        <Cooldown Duration="360" PowerLow="0.55000001" PowerHigh="0.44999999" pace="1428186484"/>
+    </workout>
+</workout_file>

@@ -1,5 +1,54 @@
 <custom_file_directory>
     <custom_file>
+        <name>Hill_Sprints.zwo</name>
+        <time>1691248146</time>
+        <guid>12068</guid>
+        <checksum>184</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Tractor_Pulls.zwo</name>
+        <time>1691248146</time>
+        <guid>25302</guid>
+        <checksum>120</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Steeper___Steeper.zwo</name>
+        <time>1691248146</time>
+        <guid>17760</guid>
+        <checksum>226</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Sweetspot_w__steeps.zwo</name>
+        <time>1691248146</time>
+        <guid>16324</guid>
+        <checksum>121</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Vo2max.zwo</name>
+        <time>1691248146</time>
+        <guid>16194</guid>
+        <checksum>143</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Seated___Standing.zwo</name>
+        <time>1691248146</time>
+        <guid>24457</guid>
+        <checksum>6</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Random_lengths.zwo</name>
+        <time>1691248146</time>
+        <guid>3906</guid>
+        <checksum>77</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Base_Builder_Ladder.zwo</name>
         <time>1691238830</time>
         <guid>22274</guid>
@@ -15,9 +64,9 @@
     </custom_file>
     <custom_file>
         <name>Power_Intervals__2.zwo</name>
-        <time>1690635065</time>
-        <guid>7642</guid>
-        <checksum>224</checksum>
+        <time>1691248497</time>
+        <guid>15721</guid>
+        <checksum>186</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -64,9 +113,9 @@
     </custom_file>
     <custom_file>
         <name>30_30sec_Anaerobic__1.zwo</name>
-        <time>1690974879</time>
-        <guid>21243</guid>
-        <checksum>208</checksum>
+        <time>1691248497</time>
+        <guid>15120</guid>
+        <checksum>175</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -106,9 +155,9 @@
     </custom_file>
     <custom_file>
         <name>Power_Intervals__1.zwo</name>
-        <time>1690635065</time>
-        <guid>30023</guid>
-        <checksum>213</checksum>
+        <time>1691248497</time>
+        <guid>6346</guid>
+        <checksum>176</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

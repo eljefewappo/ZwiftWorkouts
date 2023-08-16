@@ -1,51 +1,72 @@
 <custom_file_directory>
     <custom_file>
+        <name>The_Wringer.zwo</name>
+        <time>1692180517</time>
+        <guid>27488</guid>
+        <checksum>118</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Threshold_Development.zwo</name>
+        <time>1691579532</time>
+        <guid>1585</guid>
+        <checksum>174</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Hill_Attacks.zwo</name>
+        <time>1691324231</time>
+        <guid>31156</guid>
+        <checksum>42</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Hill_Sprints.zwo</name>
-        <time>1691248146</time>
-        <guid>12068</guid>
-        <checksum>184</checksum>
+        <time>1691324231</time>
+        <guid>8276</guid>
+        <checksum>56</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Tractor_Pulls.zwo</name>
-        <time>1691248146</time>
-        <guid>25302</guid>
-        <checksum>120</checksum>
+        <time>1691324231</time>
+        <guid>2650</guid>
+        <checksum>243</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Steeper___Steeper.zwo</name>
-        <time>1691248146</time>
-        <guid>17760</guid>
-        <checksum>226</checksum>
+        <time>1691324231</time>
+        <guid>8009</guid>
+        <checksum>95</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Sweetspot_w__steeps.zwo</name>
-        <time>1691248146</time>
-        <guid>16324</guid>
-        <checksum>121</checksum>
+        <time>1691324231</time>
+        <guid>9429</guid>
+        <checksum>245</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Vo2max.zwo</name>
-        <time>1691248146</time>
-        <guid>16194</guid>
-        <checksum>143</checksum>
+        <time>1691324231</time>
+        <guid>6184</guid>
+        <checksum>10</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Seated___Standing.zwo</name>
-        <time>1691248146</time>
-        <guid>24457</guid>
-        <checksum>6</checksum>
+        <time>1691324231</time>
+        <guid>28168</guid>
+        <checksum>132</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Random_lengths.zwo</name>
-        <time>1691248146</time>
-        <guid>3906</guid>
-        <checksum>77</checksum>
+        <time>1691324231</time>
+        <guid>18679</guid>
+        <checksum>204</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

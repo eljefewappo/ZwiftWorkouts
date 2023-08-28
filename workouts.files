@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>The_McCarthy_Special.zwo</name>
+        <time>1693219832</time>
+        <guid>9606</guid>
+        <checksum>110</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>The_Wringer.zwo</name>
-        <time>1692180517</time>
-        <guid>27488</guid>
-        <checksum>118</checksum>
+        <time>1692354551</time>
+        <guid>29527</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>VO2_Blast.zwo</name>
+        <time>1694174894</time>
+        <guid>25009</guid>
+        <checksum>71</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>The_McCarthy_Special.zwo</name>
-        <time>1693219832</time>
+        <time>1693661230</time>
         <guid>9606</guid>
-        <checksum>110</checksum>
+        <checksum>68</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -15,9 +22,9 @@
     </custom_file>
     <custom_file>
         <name>Threshold_Development.zwo</name>
-        <time>1691579532</time>
-        <guid>1585</guid>
-        <checksum>174</checksum>
+        <time>1693661230</time>
+        <guid>9429</guid>
+        <checksum>18</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

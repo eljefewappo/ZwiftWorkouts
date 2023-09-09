@@ -1,0 +1,135 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>Threshold #5</name>
+  <description>Working to raise your threshold power provides many benefits to your MTB riding. The ability to ride faster and recover quicker are just a couple of these gains. 
+
+But when we add the element of leg speed to threshold work, we get another level of MTB specificity to the session.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="Intervals"/>
+  </tags>
+  <workout>
+    <Warmup Duration="180" PowerLow="0.502" PowerHigh="0.85" pace="0">
+      <textevent timeoffset="30" message="Riding at threshold power is a major element of MTB riding."/>
+      <textevent timeoffset="50" message="The higher our cadence during these threshold efforts, the better we can recover."/>
+      <textevent timeoffset="70" message="Better recovery makes it easier to repeat these high intensity efforts."/>
+      <textevent timeoffset="100" message="Today we are working at threshold power, but with the element of high cadence added."/>
+    </Warmup>
+    <SteadyState Duration="60.000004" Power="0.60000002" pace="0"/>
+    <SteadyState Duration="60.000004" Power="0.64999998" pace="0">
+      <textevent timeoffset="30.000020000000006" message="Throughout these warmup steps, aim to pedal at a high cadence."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.81" pace="0">
+      <textevent timeoffset="50.000020000000006" message="Try to hit 100rpm for this next step above threshold."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="1.09" pace="0"/>
+    <SteadyState Duration="60.000004" Power="0.5" pace="0">
+      <textevent timeoffset="50.000020000000006" message="A nice steady state effort to continue the warmup."/>
+    </SteadyState>
+    <SteadyState Duration="90" Power="0.85000002" pace="0">
+      <textevent timeoffset="30.000020000000006" message="This is a lower intensity than the main set today."/>
+      <textevent timeoffset="60.00001999999995" message="But this is a good chance to try different rpm speeds."/>
+    </SteadyState>
+    <SteadyState Duration="30" Power="0.85000002" pace="0" Cadence="100">
+      <textevent timeoffset="0.000019999999949504854" message="Try pedaling at 100rpm for 30sec."/>
+    </SteadyState>
+    <SteadyState Duration="120" Power="0.85000002" pace="0" Cadence="85">
+      <textevent timeoffset="0.000019999999949504854" message="Now bring it down to 85rpm"/>
+      <textevent timeoffset="30.00001999999995" message="What is your preferred cadence?"/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.5" pace="0">
+      <textevent timeoffset="50.00004000000001" message="Another quick minute above threshold to complete the warmup."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="1.1" pace="0">
+      <textevent timeoffset="20.000040000000013" message="Fast pedaling again."/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.5" pace="0">
+      <textevent timeoffset="20.000040000000013" message="That completes the warmup."/>
+      <textevent timeoffset="50.00004000000001" message="Ahead of you, we have 2 sets of work."/>
+      <textevent timeoffset="70.00004000000001" message="In the 1st set we are working just under threshold."/>
+      <textevent timeoffset="90.00004000000001" message="In the 2nd set we are working just above threshold."/>
+      <textevent timeoffset="110.00004000000001" message="But both sets have a target cadence of 95 for the intervals."/>
+      <textevent timeoffset="140.00004" message="This 1st set will be comfortable for you."/>
+      <textevent timeoffset="160.00004" message="Let's get stuck into the work."/>
+    </SteadyState>
+    <SteadyState Duration="300" Power="0.94999999" pace="0" Cadence="95">
+      <textevent timeoffset="10.000040000000126" message="Hit that target cadence of 95rpm."/>
+      <textevent timeoffset="30.000040000000126" message="Let the trainer adjust the power for you."/>
+      <textevent timeoffset="90.00004000000013" message="Is this leg speed challenging for you?"/>
+      <textevent timeoffset="150.00004000000013" message="When we have a MTB course with multiple climbs, generally everyone is good on the 1st climb."/>
+      <textevent timeoffset="170.00004000000013" message="And some people are good on the 2nd climb."/>
+      <textevent timeoffset="190.00004000000013" message="The people that are good on the 3rd climb... "/>
+      <textevent timeoffset="210.00004000000013" message="...are generally those that are able to keep the legs supple with a high cadence on the climbs."/>
+      <textevent timeoffset="270.0000400000001" message="Great work... spin all the way to the top!"/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.5" pace="0">
+      <textevent timeoffset="20.000040000000126" message="That was nice work!"/>
+      <textevent timeoffset="80.00004000000013" message="Now we repeat the effort."/>
+      <textevent timeoffset="140.00004000000013" message="Riding with a high cadence also improves your ability to repeat high intensity efforts."/>
+      <textevent timeoffset="160.00004000000013" message="Here we go with the next fast climb."/>
+    </SteadyState>
+    <SteadyState Duration="300" Power="0.94999999" pace="0" Cadence="95">
+      <textevent timeoffset="10.000040000000126" message="Hit that target cadence of 95rpm."/>
+      <textevent timeoffset="70.00004000000013" message="Settle into a nice rhythm."/>
+      <textevent timeoffset="130.00004000000013" message="Picture yourself flying up a nice smooth dirt trail."/>
+      <textevent timeoffset="190.00004000000013" message="Does the effort feel much different to the previous interval?"/>
+      <textevent timeoffset="210.00004000000013" message="You are showing good recovery!"/>
+      <textevent timeoffset="270.0000400000001" message="Let's race to the top now. Keep the cadence high."/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.5" pace="0">
+      <textevent timeoffset="20.000040000000126" message="That was nice work!"/>
+      <textevent timeoffset="80.00004000000013" message="Now we repeat the effort."/>
+      <textevent timeoffset="140.00004000000013" message="Riding with a high cadence also improves your ability to repeat high intensity efforts."/>
+      <textevent timeoffset="160.00004000000013" message="Here we go with the next fast climb."/>
+    </SteadyState>
+    <SteadyState Duration="300" Power="0.94999999" pace="0" Cadence="95">
+      <textevent timeoffset="10.000040000000126" message="Straight to a cadence of 95rpm."/>
+      <textevent timeoffset="70.0000399999999" message="How are the legs feeling?"/>
+      <textevent timeoffset="90.0000399999999" message="This will complete 15min of threshold work... Nice!"/>
+      <textevent timeoffset="150.0000399999999" message="You can use this same technique when riding the trails outdoors."/>
+      <textevent timeoffset="170.0000399999999" message="Try to hit each climb with a high cadence."/>
+      <textevent timeoffset="240.0000399999999" message="Into the final minute of this 1st block of work."/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.5" pace="0">
+      <textevent timeoffset="30.0000399999999" message="Great work!"/>
+      <textevent timeoffset="60.0000399999999" message="You showed some fast legs there."/>
+      <textevent timeoffset="90.0000399999999" message="In this next block of intervals we increase the target power to above threshold."/>
+      <textevent timeoffset="110.0000399999999" message="But we are nice... so the interval is a little shorter."/>
+      <textevent timeoffset="130.0000399999999" message="But again we have a target cadence of 95rpm."/>
+      <textevent timeoffset="170.0000399999999" message="Let's get started."/>
+    </SteadyState>
+    <SteadyState Duration="120.00001" Power="1.0599999" pace="0" Cadence="95">
+      <textevent timeoffset="10.000039999999899" message="Hit that cadence of 95rpm."/>
+      <textevent timeoffset="70.0000399999999" message="Keep your upper body still and spin the pedals."/>
+      <textevent timeoffset="100.0000399999999" message="This is a fast climb with big power!"/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.5" pace="0">
+      <textevent timeoffset="20.0000399999999" message="Fantastic!"/>
+      <textevent timeoffset="80.0000399999999" message="You handled the increased power nicely!"/>
+      <textevent timeoffset="140.0000399999999" message="Remember that the high cadence is aiding your recovery."/>
+      <textevent timeoffset="160.0000399999999" message="Just 2 more intervals to go."/>
+    </SteadyState>
+    <SteadyState Duration="120.00001" Power="1.0599999" pace="0" Cadence="95">
+      <textevent timeoffset="10.000039999999899" message="Hit that cadence of 95rpm."/>
+      <textevent timeoffset="70.0000399999999" message="Use your core to drive the pedals."/>
+      <textevent timeoffset="100.0000399999999" message="Fast legs all the way to the top!"/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.5" pace="0">
+      <textevent timeoffset="20.0000399999999" message="Fantastic!"/>
+      <textevent timeoffset="140.0000399999999" message="Remember that the high cadence is aiding your recovery."/>
+      <textevent timeoffset="160.0000399999999" message="Into the last interval now. Make it your best one!"/>
+    </SteadyState>
+    <SteadyState Duration="120.00001" Power="1.0599999" pace="0" Cadence="95">
+      <textevent timeoffset="10.000039999999899" message="Hit that cadence of 95rpm."/>
+      <textevent timeoffset="70.0000399999999" message="Use your core to drive the pedals."/>
+      <textevent timeoffset="100.0000399999999" message="Fast legs all the way to the top!"/>
+    </SteadyState>
+    <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.498" pace="0">
+      <textevent timeoffset="30.0000399999999" message="What a great session from you!"/>
+      <textevent timeoffset="60.0000399999999" message="You just completed 21min of high power, high cadence threshold work."/>
+      <textevent timeoffset="90.0000399999999" message="Riding like this in MTB riding will really improve your ability to hit each climb with maximal effort."/>
+      <textevent timeoffset="120.0000399999999" message="Have a good spin down here and be sure to hydrate."/>
+    </Cooldown>
+  </workout>
+</workout_file>

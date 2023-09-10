@@ -1,5 +1,40 @@
 <custom_file_directory>
     <custom_file>
+        <name>Threshold__6.zwo</name>
+        <time>1694351412</time>
+        <guid>11098</guid>
+        <checksum>49</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Threshold__5.zwo</name>
+        <time>1694351412</time>
+        <guid>12660</guid>
+        <checksum>128</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Threshold__4.zwo</name>
+        <time>1694351412</time>
+        <guid>12672</guid>
+        <checksum>16</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Blast_Large.zwo</name>
+        <time>1694266377</time>
+        <guid>1811</guid>
+        <checksum>71</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2_Blast_Medium.zwo</name>
+        <time>1694266377</time>
+        <guid>9233</guid>
+        <checksum>37</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>VO2_Blast.zwo</name>
         <time>1694174894</time>
         <guid>25009</guid>
@@ -22,9 +57,9 @@
     </custom_file>
     <custom_file>
         <name>Threshold_Development.zwo</name>
-        <time>1693661230</time>
-        <guid>9429</guid>
-        <checksum>18</checksum>
+        <time>1694266377</time>
+        <guid>29053</guid>
+        <checksum>65</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -169,16 +204,16 @@
     </custom_file>
     <custom_file>
         <name>Recovery_Tres.zwo</name>
-        <time>1690194726</time>
-        <guid>30832</guid>
-        <checksum>77</checksum>
+        <time>1694266377</time>
+        <guid>19442</guid>
+        <checksum>124</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Recovery_Dos.zwo</name>
-        <time>1690194726</time>
-        <guid>7642</guid>
-        <checksum>117</checksum>
+        <time>1694266377</time>
+        <guid>25823</guid>
+        <checksum>164</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -197,16 +232,16 @@
     </custom_file>
     <custom_file>
         <name>High_Cadence_Builds.zwo</name>
-        <time>1689935295</time>
-        <guid>9606</guid>
-        <checksum>48</checksum>
+        <time>1694266377</time>
+        <guid>15480</guid>
+        <checksum>249</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Sub-Threshold_To_VO2_Over-Under_Mini.zwo</name>
-        <time>1689588550</time>
-        <guid>22274</guid>
-        <checksum>83</checksum>
+        <time>1694266377</time>
+        <guid>23655</guid>
+        <checksum>133</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -218,9 +253,9 @@
     </custom_file>
     <custom_file>
         <name>Recovery.zwo</name>
-        <time>1689935295</time>
-        <guid>11097</guid>
-        <checksum>44</checksum>
+        <time>1694266377</time>
+        <guid>25507</guid>
+        <checksum>91</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -344,9 +379,9 @@
     </custom_file>
     <custom_file>
         <name>867-5309_Jenny_Long.zwo</name>
-        <time>1689940183</time>
-        <guid>9036</guid>
-        <checksum>248</checksum>
+        <time>1694266377</time>
+        <guid>8786</guid>
+        <checksum>107</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -365,44 +400,44 @@
     </custom_file>
     <custom_file>
         <name>867-5309_Jenny_short.zwo</name>
-        <time>1682252387</time>
-        <guid>16566</guid>
-        <checksum>66</checksum>
+        <time>1694266377</time>
+        <guid>6441</guid>
+        <checksum>13</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>27_TheHardWay.zwo</name>
-        <time>1689940697</time>
-        <guid>6690</guid>
-        <checksum>240</checksum>
+        <time>1694266377</time>
+        <guid>9444</guid>
+        <checksum>99</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Grin_And_Bear_It.zwo</name>
-        <time>1682771534</time>
-        <guid>29053</guid>
-        <checksum>180</checksum>
+        <time>1694266377</time>
+        <guid>31156</guid>
+        <checksum>227</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>867-5309_Jenny_30-60.zwo</name>
-        <time>1689940183</time>
-        <guid>22572</guid>
-        <checksum>70</checksum>
+        <time>1694266377</time>
+        <guid>11097</guid>
+        <checksum>185</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>867-5309_Jenny_45-20.zwo</name>
-        <time>1682252387</time>
-        <guid>6437</guid>
-        <checksum>32</checksum>
+        <time>1694266377</time>
+        <guid>14090</guid>
+        <checksum>147</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>867-5309_Jenny_30-30.zwo</name>
-        <time>1682252387</time>
-        <guid>17853</guid>
-        <checksum>0</checksum>
+        <time>1694266377</time>
+        <guid>28354</guid>
+        <checksum>115</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -421,9 +456,9 @@
     </custom_file>
     <custom_file>
         <name>20_Up_Ass_Kicker.zwo</name>
-        <time>1682252387</time>
-        <guid>22304</guid>
-        <checksum>15</checksum>
+        <time>1694266377</time>
+        <guid>28168</guid>
+        <checksum>1</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -435,9 +470,9 @@
     </custom_file>
     <custom_file>
         <name>13_by_5_by_5_Long.zwo</name>
-        <time>0</time>
-        <guid>27740</guid>
-        <checksum>5</checksum>
+        <time>1694266377</time>
+        <guid>19860</guid>
+        <checksum>52</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -470,9 +505,9 @@
     </custom_file>
     <custom_file>
         <name>8_6_4min_Threshold.zwo</name>
-        <time>1690027650</time>
-        <guid>1883</guid>
-        <checksum>228</checksum>
+        <time>1694266377</time>
+        <guid>8773</guid>
+        <checksum>113</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -484,9 +519,9 @@
     </custom_file>
     <custom_file>
         <name>40_20s.zwo</name>
-        <time>1689940916</time>
-        <guid>13073</guid>
-        <checksum>76</checksum>
+        <time>1694266377</time>
+        <guid>8009</guid>
+        <checksum>62</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -498,9 +533,9 @@
     </custom_file>
     <custom_file>
         <name>23_palindromes.zwo</name>
-        <time>1689940697</time>
-        <guid>14106</guid>
-        <checksum>229</checksum>
+        <time>1694266377</time>
+        <guid>18679</guid>
+        <checksum>215</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

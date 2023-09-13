@@ -1,0 +1,24 @@
+# Ignore compiled binaries and object files
+*.o
+*.out
+
+# Ignore build directories and their contents
+/build/
+/dist/
+/node_modules/
+
+# Ignore editor-specific files and directories
+.vscode/
+.idea/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore sensitive or private information (e.g., API keys)
+secrets.json
+
+# Ignore macOS system files
+.DS_Store
+zsh_history.zsh
+zsh_history.txt

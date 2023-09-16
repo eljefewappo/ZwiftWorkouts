@@ -25,7 +25,7 @@ As you would expect this is another climbing focussed workout. 4 x 10.5 minute c
         <SteadyState Duration="180.00002" Power="0.50449997" pace="1428186484">
             <textevent timeoffset="20" message="You should be feeling well warmed up now, 3 minutes easy and then we hit the first climb."/>
             <textevent timeoffset="140" message="Four climbs coming up, each climb starts at a comfortable effort and ramps up."/>
-            <textevent timeoffset="160" message="Try and stay seated and visualise cresting each climb feeling strong."/>
+            <textevent timeoffset="160" message="Try and stay seated and visualize cresting each climb feeling strong."/>
         </SteadyState>
         <SteadyState Duration="240.00002" Power="0.65449995" pace="1428186484">
             <textevent timeoffset="30" message="The first 4 minutes should be very comfortable."/>

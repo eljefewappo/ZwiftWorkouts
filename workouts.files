@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>Five_by_Five.zwo</name>
+        <time>1694870084</time>
+        <guid>8873</guid>
+        <checksum>249</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Norseman_workout__Wappo.zwo</name>
+        <time>1694870084</time>
+        <guid>5897</guid>
+        <checksum>229</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Eljefes_Kitchen___HIT_Intervals.zwo</name>
         <time>1694600149</time>
         <guid>10350</guid>
@@ -183,9 +197,9 @@
     </custom_file>
     <custom_file>
         <name>Norseman_workout__Geilo.zwo</name>
-        <time>1690543588</time>
-        <guid>28893</guid>
-        <checksum>236</checksum>
+        <time>1694870084</time>
+        <guid>25823</guid>
+        <checksum>229</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

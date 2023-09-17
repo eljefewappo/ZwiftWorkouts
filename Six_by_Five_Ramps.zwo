@@ -1,0 +1,79 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>Six by Five with Ramps</name>
+  <description/>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="Intervals"/>
+  </tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="1" message="Warm up"/>
+      <textevent timeoffset="10" message="This ride may suck"/>
+      <textevent timeoffset="15" message="It could suck a lot"/>
+      <textevent timeoffset="60" message="This ride will have 5 ramps, going from 60% to 165% FTP"/>
+      <textevent timeoffset="60" message="This ride will have 5 ramps, going from 60% to 165% FTP"/>
+    </Warmup>
+    <IntervalsT Repeat="3" OnDuration="20" OffDuration="40" OnPower="1.2" OffPower="0.6" pace="0" Cadence="95" CadenceResting="65">
+      <textevent timeoffset="1" message="3 @ 120% @ 95RPM 20sec ON&#xA;&#xA;3 @ 60% @ 65RPM 40sec OFF"/>
+    </IntervalsT>
+    <Ramp Duration="210" PowerLow="0.45" PowerHigh="0.6" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Here we go, Ramp #1, from 60% FTP - 165% FTP"/>
+    <Ramp Duration="180" PowerLow="0.61" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <Ramp Duration="120" PowerLow="0.76" PowerHigh="0.9" pace="0" Cadence="90"/>
+    <Ramp Duration="60" PowerLow="0.91" PowerHigh="1.05" pace="0" Cadence="95"/>
+    <Ramp Duration="60" PowerLow="1.06" PowerHigh="1.19" pace="0" Cadence="100"/>
+    <Ramp Duration="30" PowerLow="1.2" PowerHigh="1.65" pace="0" Cadence="105"/>
+    </Ramp>
+    <Ramp Duration="210" PowerLow="0.45" PowerHigh="0.6" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Here we go, Ramp #2, from 60% FTP - 165% FTP"/>
+    <Ramp Duration="180" PowerLow="0.61" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <Ramp Duration="120" PowerLow="0.76" PowerHigh="0.9" pace="0" Cadence="90"/>
+    <Ramp Duration="60" PowerLow="0.91" PowerHigh="1.05" pace="0" Cadence="95"/>
+    <Ramp Duration="60" PowerLow="1.06" PowerHigh="1.19" pace="0" Cadence="100"/>
+    <Ramp Duration="30" PowerLow="1.2" PowerHigh="1.65" pace="0" Cadence="105"/>
+    </Ramp>
+    <Ramp Duration="210" PowerLow="0.45" PowerHigh="0.6" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Here we go, Ramp #3, from 60% FTP - 165% FTP"/>
+    <Ramp Duration="180" PowerLow="0.61" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <Ramp Duration="120" PowerLow="0.76" PowerHigh="0.9" pace="0" Cadence="90"/>
+    <Ramp Duration="60" PowerLow="0.91" PowerHigh="1.05" pace="0" Cadence="95"/>
+    <Ramp Duration="60" PowerLow="1.06" PowerHigh="1.19" pace="0" Cadence="100"/>
+    <Ramp Duration="30" PowerLow="1.2" PowerHigh="1.65" pace="0" Cadence="105"/>
+    </Ramp>
+    <SteadyState Duration="120" Power="0.65" pace="0" Cadence="65">
+    <IntervalsT Repeat="5" OnDuration="20" OffDuration="40" OnPower="1.35" OffPower="0.6" pace="0" Cadence="105" CadenceResting="65">
+      <textevent timeoffset="1" message="3 @ 120% @ 95RPM 20sec ON&#xA;&#xA;3 @ 60% @ 65RPM 40sec OFF"/>
+    </IntervalsT>
+    <SteadyState Duration="120" Power="0.65" pace="0" Cadence="65">
+    <Ramp Duration="210" PowerLow="0.45" PowerHigh="0.6" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Here we go, Ramp #4, from 60% FTP - 165% FTP"/>
+    <Ramp Duration="180" PowerLow="0.61" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <Ramp Duration="120" PowerLow="0.76" PowerHigh="0.9" pace="0" Cadence="90"/>
+    <Ramp Duration="60" PowerLow="0.91" PowerHigh="1.05" pace="0" Cadence="95"/>
+    <Ramp Duration="60" PowerLow="1.06" PowerHigh="1.19" pace="0" Cadence="100"/>
+    <Ramp Duration="30" PowerLow="1.2" PowerHigh="1.65" pace="0" Cadence="105"/>
+    </Ramp>
+    <Ramp Duration="210" PowerLow="0.45" PowerHigh="0.6" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Here we go, Ramp #5, from 60% FTP - 165% FTP"/>
+    <Ramp Duration="180" PowerLow="0.61" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <Ramp Duration="120" PowerLow="0.76" PowerHigh="0.9" pace="0" Cadence="90"/>
+    <Ramp Duration="60" PowerLow="0.91" PowerHigh="1.05" pace="0" Cadence="95"/>
+    <Ramp Duration="60" PowerLow="1.06" PowerHigh="1.19" pace="0" Cadence="100"/>
+    <Ramp Duration="30" PowerLow="1.2" PowerHigh="1.65" pace="0" Cadence="105"/> 
+    </Ramp>
+    <Ramp Duration="210" PowerLow="0.45" PowerHigh="0.6" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Here we go, Ramp #6, from 60% FTP - 165% FTP"/>
+    <Ramp Duration="180" PowerLow="0.61" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <Ramp Duration="120" PowerLow="0.76" PowerHigh="0.9" pace="0" Cadence="90"/>
+    <Ramp Duration="60" PowerLow="0.91" PowerHigh="1.05" pace="0" Cadence="95"/>
+    <Ramp Duration="60" PowerLow="1.06" PowerHigh="1.19" pace="0" Cadence="100"/>
+    <Ramp Duration="30" PowerLow="1.2" PowerHigh="1.65" pace="0" Cadence="105"/> 
+    </Ramp>
+    <SteadyState Duration="120" Power="0.65" pace="0" Cadence="65">
+    <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.25" pace="0">
+      <textevent timeoffset="1" message="You did it, enjoy the cool down!"/>
+    </Cooldown>
+  </workout>
+</workout_file>

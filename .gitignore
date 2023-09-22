@@ -22,4 +22,7 @@ secrets.json
 .DS_Store
 zsh_history.zsh
 zsh_history.txt
+
+
+# Ignore Zwift Rides
 FreeRide.zwo

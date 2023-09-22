@@ -1,5 +1,26 @@
 <custom_file_directory>
     <custom_file>
+        <name>FreeRide.zwo</name>
+        <time>1695205957</time>
+        <guid>20813</guid>
+        <checksum>175</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Six_by_Five_Ramps.zwo</name>
+        <time>1694964594</time>
+        <guid>31632</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Five_by_Five_Ramps.zwo</name>
+        <time>1694964594</time>
+        <guid>28168</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Five_by_Five.zwo</name>
         <time>1694870084</time>
         <guid>8873</guid>

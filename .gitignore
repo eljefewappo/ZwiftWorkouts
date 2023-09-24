@@ -4,11 +4,14 @@
 
 # Ignore build directories and their contents
 /build/
+/build/*
 /dist/
+/dist/*
 /node_modules/
+/node_modules/*
 
 # Ignore editor-specific files and directories
-.vscode/
+# .vscode/
 .idea/
 
 # Ignore log files and temporary files
@@ -26,3 +29,6 @@ zsh_history.txt
 
 # Ignore Zwift Rides
 FreeRide.zwo
+.vscode/*
+.vscode/
+settings.json

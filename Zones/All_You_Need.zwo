@@ -1,0 +1,37 @@
+<workout_file>
+  <author>Zwift</author>
+    <name>All you need, Zone 2 and Zone 4</name>
+  <description>This workout is about 1h and 2min long and it will cover Zone 2 at a lower cadence and Zone 4 at higher cadence.<description/>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="295" PowerLow="0.446" PowerHigh="0.75" pace="0"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <IntervalsT Repeat="2" OnDuration="20" OffDuration="65" OnPower="1.212" OffPower="0.5" pace="0" Cadence="100" CadenceResting="70"/>
+    <SteadyState Duration="305" Power="0.605" pace="0" Cadence="85"/>
+    <IntervalsT Repeat="4" OnDuration="30" OffDuration="65" OnPower="1" OffPower="0.5" pace="0" Cadence="95" CadenceResting="85"/>
+    <SteadyState Duration="305" Power="0.605" pace="0" Cadence="85"/>
+    <IntervalsT Repeat="2" OnDuration="20" OffDuration="65" OnPower="1.212" OffPower="0.5" pace="0" Cadence="100" CadenceResting="70"/>
+    <SteadyState Duration="305" Power="0.605" pace="0" Cadence="85"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <SteadyState Duration="125" Power="0.901" pace="0" Cadence="95"/>
+    <SteadyState Duration="65" Power="0.605" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.901" pace="0" Cadence="95"/>
+    <SteadyState Duration="65" Power="0.605" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.901" pace="0" Cadence="95"/>
+    <SteadyState Duration="65" Power="0.605" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.901" pace="0" Cadence="95"/>
+    <SteadyState Duration="65" Power="0.605" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.901" pace="0" Cadence="95"/>
+    <SteadyState Duration="185" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="305" PowerLow="0.914" PowerHigh="1.234" pace="0" Cadence="95"/>
+    <SteadyState Duration="65" Power="0.605" pace="0" Cadence="85"/>
+    <Ramp Duration="305" PowerLow="0.914" PowerHigh="1.234" pace="0" Cadence="95"/>
+    <SteadyState Duration="65" Power="0.605" pace="0" Cadence="85"/>
+    <Ramp Duration="305" PowerLow="0.914" PowerHigh="1.234" pace="0" Cadence="95"/>
+    <SteadyState Duration="185" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="185" PowerLow="0.482" PowerHigh="0.75" pace="0" Cadence="75"/>
+    <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.25" pace="0"/>
+  </workout>
+</workout_file>

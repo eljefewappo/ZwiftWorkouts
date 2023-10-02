@@ -1,5 +1,33 @@
 <custom_file_directory>
     <custom_file>
+        <name>myMicro_Bursts.zwo</name>
+        <time>1696247260</time>
+        <guid>3860</guid>
+        <checksum>13</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myZones/All_You_Need.zwo</name>
+        <time>1696242459</time>
+        <guid>3666</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Anaerobic/30_30sec_Anaerobic__3.zwo</name>
+        <time>1696163753</time>
+        <guid>31879</guid>
+        <checksum>183</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Anaerobic/45_45sec_Anaerobic__1.zwo</name>
+        <time>1696163753</time>
+        <guid>8773</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Pro/Beep__Beep__Beep_.zwo</name>
         <time>1695637561</time>
         <guid>11522</guid>
@@ -60,13 +88,6 @@
         <time>1695570613</time>
         <guid>32407</guid>
         <checksum>101</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Norseman/Norseman_workout__Wappo.zwo</name>
-        <time>1695570613</time>
-        <guid>27843</guid>
-        <checksum>229</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -280,13 +301,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>VO2-Max/VO2_Blast.zwo</name>
-        <time>1695568440</time>
-        <guid>5833</guid>
-        <checksum>71</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>VO2-Max/VO2_Max_3x3.zwo</name>
         <time>1695568440</time>
         <guid>15480</guid>
@@ -308,13 +322,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>VO2-Max/VO2_Blast_Large.zwo</name>
-        <time>1695568440</time>
-        <guid>645</guid>
-        <checksum>71</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>VO2-Max/VO2_Max___4x3_Ramps.zwo</name>
         <time>1695982814</time>
         <guid>2053</guid>
@@ -333,13 +340,6 @@
         <time>1695568440</time>
         <guid>15282</guid>
         <checksum>10</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>VO2-Max/VO2_Blast_Medium.zwo</name>
-        <time>1695568440</time>
-        <guid>25338</guid>
-        <checksum>37</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -730,5 +730,11 @@
         <hash>1228831865</hash>
         <hash>997266760</hash>
         <hash>1637578650</hash>
+        <hash>328550632</hash>
+        <hash>1066269673</hash>
+        <hash>1462743551</hash>
+        <hash>3844517941</hash>
+        <hash>1665525314</hash>
+        <hash>939185729</hash>
     </deleted_files>
 </custom_file_directory>

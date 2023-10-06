@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>myLow_Cadence_Intervals.zwo</name>
+        <time>1696593223</time>
+        <guid>14162</guid>
+        <checksum>77</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myEPOC.zwo</name>
+        <time>1696588314</time>
+        <guid>27226</guid>
+        <checksum>208</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>myOver,_Under_and_Beyond.zwo</name>
         <time>1696413948</time>
         <guid>6866</guid>

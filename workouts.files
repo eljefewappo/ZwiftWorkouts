@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>myCapacity_with_Tempo.zwo</name>
+        <time>1696788262</time>
+        <guid>18241</guid>
+        <checksum>67</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>myLow_Cadence_Intervals.zwo</name>
         <time>1696685648</time>
         <guid>9429</guid>
@@ -8,9 +15,9 @@
     </custom_file>
     <custom_file>
         <name>myEPOC.zwo</name>
-        <time>1696588314</time>
-        <guid>27226</guid>
-        <checksum>208</checksum>
+        <time>1696780696</time>
+        <guid>28811</guid>
+        <checksum>234</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

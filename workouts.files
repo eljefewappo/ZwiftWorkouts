@@ -1,5 +1,89 @@
 <custom_file_directory>
     <custom_file>
+        <name>myMiniWringer.zwo</name>
+        <time>1697458680</time>
+        <guid>13486</guid>
+        <checksum>14</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>my30_30_Anaerobic__1.zwo</name>
+        <time>1697380500</time>
+        <guid>21359</guid>
+        <checksum>254</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myHigh_Intensity_Recovery.zwo</name>
+        <time>1697196082</time>
+        <guid>2007</guid>
+        <checksum>141</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>DemoFile.zwo</name>
+        <time>1696866195</time>
+        <guid>30832</guid>
+        <checksum>93</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>EPOC.zwo</name>
+        <time>1696588314</time>
+        <guid>27226</guid>
+        <checksum>208</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Broken/All_You_Need.zwo</name>
+        <time>1696865753</time>
+        <guid>1630</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Broken/45_45sec_Anaerobic__1.zwo</name>
+        <time>1696865753</time>
+        <guid>28281</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Broken/867-5309_Jenny_45-20.zwo</name>
+        <time>1696865753</time>
+        <guid>25823</guid>
+        <checksum>147</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Broken/867-5309_Jenny_30-30.zwo</name>
+        <time>1696865753</time>
+        <guid>25009</guid>
+        <checksum>115</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Broken/25_palindromes.zwo</name>
+        <time>1696865753</time>
+        <guid>13073</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Broken/867-5309_Jenny_30-60.zwo</name>
+        <time>1696865753</time>
+        <guid>11522</guid>
+        <checksum>185</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Broken/The_Wringer.zwo</name>
+        <time>1696865753</time>
+        <guid>25317</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Broken/FTP_Builder_Wk6,_Day_3.zwo</name>
         <time>1696859427</time>
         <guid>22572</guid>
@@ -84,13 +168,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Intervals/The_Wringer.zwo</name>
-        <time>1696413558</time>
-        <guid>2650</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Intervals/Power_Intervals__1.zwo</name>
         <time>1696413558</time>
         <guid>29053</guid>
@@ -126,24 +203,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myZones/All_You_Need.zwo</name>
-        <time>1696242459</time>
-        <guid>3666</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Anaerobic/30_30sec_Anaerobic__3.zwo</name>
         <time>1696163753</time>
         <guid>31879</guid>
         <checksum>183</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Anaerobic/45_45sec_Anaerobic__1.zwo</name>
-        <time>1696163753</time>
-        <guid>8773</guid>
-        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -301,13 +364,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Jenny/867-5309_Jenny_45-20.zwo</name>
-        <time>1695570613</time>
-        <guid>22572</guid>
-        <checksum>147</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>By_The_Numbers/20_Up_Ass_Kicker.zwo</name>
         <time>1695570613</time>
         <guid>9036</guid>
@@ -350,13 +406,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Jenny/867-5309_Jenny_30-60.zwo</name>
-        <time>1695570613</time>
-        <guid>1630</guid>
-        <checksum>185</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>By_The_Numbers/27_TheHardWay.zwo</name>
         <time>1695570613</time>
         <guid>14106</guid>
@@ -378,24 +427,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>By_The_Numbers/25_palindromes.zwo</name>
-        <time>1695570613</time>
-        <guid>545</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>By_The_Numbers/30_Ups_Big_Finger.zwo</name>
         <time>1695570613</time>
         <guid>8009</guid>
         <checksum>239</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Jenny/867-5309_Jenny_30-30.zwo</name>
-        <time>1695570613</time>
-        <guid>13073</guid>
-        <checksum>115</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -765,5 +800,12 @@
         <hash>805300188</hash>
         <hash>1858064988</hash>
         <hash>645885586</hash>
+        <hash>3897312246</hash>
+        <hash>3102985815</hash>
+        <hash>1523938066</hash>
+        <hash>1964601569</hash>
+        <hash>1291905523</hash>
+        <hash>1166861611</hash>
+        <hash>1118132538</hash>
     </deleted_files>
 </custom_file_directory>

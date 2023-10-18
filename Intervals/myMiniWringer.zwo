@@ -5,6 +5,7 @@
     <sportType>bike</sportType>
     <tags>
         <tag name="RECOMMENDABLE"/>
+        <tag name="Intervals"/>
     </tags>
     <workout>
         <Warmup Duration="480.00003" PowerLow="0.29999998" PowerHigh="1" pace="1428186484"/>

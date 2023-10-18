@@ -1,9 +1,23 @@
 <custom_file_directory>
     <custom_file>
-        <name>myMiniWringer.zwo</name>
-        <time>1697458680</time>
-        <guid>13486</guid>
-        <checksum>14</checksum>
+        <name>Recommendable/myMiniWringer.zwo</name>
+        <time>1697637985</time>
+        <guid>2650</guid>
+        <checksum>152</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/myMiniWringer.zwo</name>
+        <time>1697637985</time>
+        <guid>31156</guid>
+        <checksum>152</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myIntermittent.zwo</name>
+        <time>1697629784</time>
+        <guid>27541</guid>
+        <checksum>97</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -183,9 +197,9 @@
     </custom_file>
     <custom_file>
         <name>Intervals/Tanja_Erath___FTP_Booster_.zwo</name>
-        <time>1696413558</time>
-        <guid>32407</guid>
-        <checksum>63</checksum>
+        <time>1697637985</time>
+        <guid>13619</guid>
+        <checksum>86</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -807,5 +821,7 @@
         <hash>1291905523</hash>
         <hash>1166861611</hash>
         <hash>1118132538</hash>
+        <hash>4086513349</hash>
+        <hash>4148856507</hash>
     </deleted_files>
 </custom_file_directory>

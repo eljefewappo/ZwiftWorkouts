@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>myTime_Trial.zwo</name>
+        <time>1697807714</time>
+        <guid>7076</guid>
+        <checksum>83</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>myHill_Attacks.zwo</name>
-        <time>1697712803</time>
-        <guid>22364</guid>
-        <checksum>228</checksum>
+        <time>1697800726</time>
+        <guid>20534</guid>
+        <checksum>77</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

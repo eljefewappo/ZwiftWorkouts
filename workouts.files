@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zone2_Ramps_and_Some_Spice.zwo</name>
+        <time>1697906201</time>
+        <guid>6186</guid>
+        <checksum>40</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>myTime_Trial.zwo</name>
-        <time>1697807714</time>
-        <guid>7076</guid>
-        <checksum>83</checksum>
+        <time>1697894949</time>
+        <guid>27791</guid>
+        <checksum>41</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -589,9 +596,9 @@
     </custom_file>
     <custom_file>
         <name>Seated___Standing.zwo</name>
-        <time>1691324231</time>
-        <guid>28168</guid>
-        <checksum>132</checksum>
+        <time>1697895942</time>
+        <guid>7314</guid>
+        <checksum>150</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

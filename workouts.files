@@ -1,9 +1,23 @@
 <custom_file_directory>
     <custom_file>
-        <name>Zone2_Ramps_and_Some_Spice.zwo</name>
-        <time>1697906201</time>
-        <guid>6186</guid>
+        <name>Zones/Zone2_Ramps_and_All_Spice_at_the_end.zwo</name>
+        <time>1698060356</time>
+        <guid>322</guid>
+        <checksum>127</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Zone2_Ramps_and_Some_Spice.zwo</name>
+        <time>1698054550</time>
+        <guid>7764</guid>
         <checksum>40</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Kephart+.zwo</name>
+        <time>1698054371</time>
+        <guid>32407</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -844,5 +858,6 @@
         <hash>1118132538</hash>
         <hash>4086513349</hash>
         <hash>4148856507</hash>
+        <hash>921395802</hash>
     </deleted_files>
 </custom_file_directory>

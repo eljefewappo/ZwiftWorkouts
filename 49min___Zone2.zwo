@@ -1,0 +1,50 @@
+<workout_file>
+    <author>E.Wappo [Strokers]</author>
+    <name>49min @ Zone2</name>
+    <description>This a new workout that is created after listening to Peter Attia's podcast he recommends the Lactate Zone 2 is low part of your Zone 3 FTP zone.  I completed an FTP test on 28.10.2023 with a result of 228</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="295" PowerLow="0.35000002" PowerHigh="0.70200002" pace="0">
+            <textevent timeoffset="0" message="Warm up"/>
+            <textevent timeoffset="294" message="Here comes the first ramp"/>
+        </Warmup>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.84600008" pace="0" Cadence="95"/>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.85000002" pace="0" Cadence="95">
+            <textevent timeoffset="6" message="Ramp down"/>
+        </Ramp>
+        <SteadyState Duration="125.00001" Power="0.5" pace="0" Cadence="60">
+            <textevent timeoffset="1" message="That&apos;s the end of block 1"/>
+            <textevent timeoffset="19" message="Relax and easy spin"/>
+        </SteadyState>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.84600008" pace="0" Cadence="95">
+            <textevent timeoffset="5" message="Block 2"/>
+        </Ramp>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.85000002" pace="0" Cadence="95"/>
+        <SteadyState Duration="125.00001" Power="0.5" pace="0" Cadence="60">
+            <textevent timeoffset="124" message="Block 3"/>
+        </SteadyState>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.84600008" pace="0" Cadence="95"/>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.85000002" pace="0" Cadence="95"/>
+        <SteadyState Duration="125.00001" Power="0.5" pace="0" Cadence="60">
+            <textevent timeoffset="118" message="Block 4"/>
+        </SteadyState>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.84600008" pace="0" Cadence="95"/>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.85000002" pace="0" Cadence="95"/>
+        <SteadyState Duration="125.00001" Power="0.5" pace="0" Cadence="60">
+            <textevent timeoffset="112" message="Block 5"/>
+        </SteadyState>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.84600008" pace="0" Cadence="95"/>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.85000002" pace="0" Cadence="95"/>
+        <SteadyState Duration="125.00001" Power="0.5" pace="0" Cadence="60">
+            <textevent timeoffset="106" message="Block 6"/>
+        </SteadyState>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.84600008" pace="0" Cadence="95"/>
+        <Ramp Duration="245.00002" PowerLow="0.70200002" PowerHigh="0.85000002" pace="0" Cadence="95">
+            <textevent timeoffset="219" message="Great work this 49 min of Zone 2"/>
+        </Ramp>
+        <Cooldown Duration="305" PowerLow="0.70200002" PowerHigh="0.44599998" pace="0">
+            <textevent timeoffset="25.705872" message="Cool down and spin easy"/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,151 @@
+<workout_file>
+    <author>Eljefe.Wappo</author>
+    <name>myRampTest</name>
+    <description>How much can you handle? It's time to find out. The Ramp Test will ramp up the power in 20-watt increments every minute until you simply cannot keep going. This test is designed to quickly identify the upper limit of your aerobic capacity and estimate your FTP (functional threshold power). The ramp portion will ideally take 5–20 minutes to complete. It should easy at first, but then get very hard very fast. Stay seated, keep a steady cadence, and keep ramping up until you simply cannot continue. 
+  
+    Note that this test is designed for more experienced and/or heavier riders. For small riders or beginners, try the Ramp Test Lite, which uses a more gradual power ramp to achieve the same results.</description>
+    <sportType>bike</sportType>
+  <tags>
+    <tag name="FTP"/>
+  </tags>
+    <workout>
+        <FreeRide Duration="300" FlatRoad="1">
+            <textevent timeoffset="10" message="Welcome to Zwift&apos;s new Ramp Test. A ramp test uses a short, progressive build to quickly identify the upper limit of your aerobic capacity."/>
+            <textevent timeoffset="22" message="From there, we can make a fairly accurate estimate of your FTP."/>
+            <textevent timeoffset="34" message="This is a maximal effort until exhaustion so every pedal stroke counts."/>
+            <textevent timeoffset="46" message="Aim to hold a cadence of 80-95rpm and to try to be as steady as possible over the course of the test."/>
+            <textevent timeoffset="60" message="You should remain seated during the test, so make sure you find a good comfortable position early on before the difficulty increases too much."/>
+            <textevent timeoffset="85" message="Even if the trainer is taking care of the resistance changes, try to stay as smooth as you can, especially with your cadence."/>
+            <textevent timeoffset="105" message="If your trainer does not support ERG mode, you will have to take care of ramping your power up each step."/>
+            <textevent timeoffset="120" message="Try to stay as smooth as possible with your cadence and to be as steady as you can in terms of power."/>
+            <textevent timeoffset="135" message="Your FTP is based *ONLY* on your best *ONE MINUTE* within the test."/>
+            <textevent timeoffset="150" message="Because of that, every pedal stroke counts. Give it everything you have!"/>
+            <textevent timeoffset="240" message="The ramp test is very easy to begin with. That is by design. It will suddenly become harder."/>
+            <textevent timeoffset="250" message="It is that point where the difficulty really ratchets up where it is most important to dig deep."/>
+            <textevent timeoffset="260" message="You can go longer than you think! Just remember, STAY *SEATED* and stay focused and smooth!"/>
+            <textevent timeoffset="270" message="The test should take somewhere between 10-20 minutes to complete."/>
+            <textevent timeoffset="280" message="The last 3-5 minutes will be what really counts!"/>
+            <textevent timeoffset="290" message="Note: You will not be able to add or subtract time from the test."/>
+        </FreeRide>
+        <SteadyState Duration="60.000004" Power="1" pace="0">
+            <textevent timeoffset="18" message="Into the first minute here. This should be extremely easy."/>
+            <textevent timeoffset="30" message="Just use these early blocks to find your rhythm and position on the bike."/>
+            <textevent timeoffset="42" message="Remember, this is a seated test."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.2" pace="0">
+            <textevent timeoffset="18" message="Stepping it up a bit here. Nice and smooth with both power and cadence."/>
+            <textevent timeoffset="30" message="You should still be super comfortable."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.4" pace="0">
+            <textevent timeoffset="18" message="Find that spot on the saddle that is just right and that good crisp cadence."/>
+            <textevent timeoffset="30" message="The most important thing in these early blocks is consistency."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.6" pace="0">
+            <textevent timeoffset="0" message="Still doing fine? You should be."/>
+            <textevent timeoffset="20" message="This test will go from &quot;I&apos;m fine&quot; to &quot;I&apos;m toast!&quot; pretty quickly!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.8" pace="0">
+            <textevent timeoffset="18" message="Your HR should be drifting steadily upwards. Keep track of how your HR and breathing shifts."/>
+            <textevent timeoffset="30" message="Don&apos;t let your HR get away from your early. Keep your breathing relaxed and steady."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="2" pace="0">
+            <textevent timeoffset="0" message="Staying honest during this stretch is key."/>
+            <textevent timeoffset="12" message="You should be building up some fatigue but also - critically - getting all your systems working."/>
+            <textevent timeoffset="25" message="You want to be producing and clearing lactate."/>
+            <textevent timeoffset="38" message="those processes are very important for getting the most out of yourself in the final minutes."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="2.2" pace="0">
+            <textevent timeoffset="5" message="Really focus on keeping a nice smooth cadence here."/>
+            <textevent timeoffset="18" message="You want each effort to be as smooth as possible to minimize the spikes and dips in your power output."/>
+            <textevent timeoffset="30" message="Spiking power is harder on your legs than steady power. So keep smooth!"/>
+            <textevent timeoffset="42" message="Focus on that smoothness. Keep seated and smooth and quick with your cadence."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="2.4000001" pace="0">
+            <textevent timeoffset="0" message="The tunnel should be starting to darken a bit here. Keep your hands loose on the bars."/>
+            <textevent timeoffset="30" message="Try to stay relaxed and keep the focus in your hips and legs. Don&apos;t let the bike control you."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="2.5999999" pace="0">
+            <textevent timeoffset="18" message="You are well into the tough stuff now. Remember that it is all about your best one minute."/>
+            <textevent timeoffset="30" message="Even another 10 seconds hanging on matters. Keep riding until you simply cannot go another revolution."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="2.8" pace="0">
+            <textevent timeoffset="18" message="Great work. This is a fantastic effort. You are going deep into the well."/>
+            <textevent timeoffset="30" message="But this is not just a great test. It is also a great workout."/>
+            <textevent timeoffset="42" message="You are not just benchmarking yourself, you are also improving."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="3" pace="0">
+            <textevent timeoffset="18" message="At this point, narrow your focus. Cadence and power. That is it. You have more time in you."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="3.2" pace="0">
+            <textevent timeoffset="18" message="Inside the hurt locker now! At this point, keeping your rhythm and smoothness is essential."/>
+            <textevent timeoffset="30" message="You want to minimize the variance and noise and just focus on driving the pedals."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="3.4000001" pace="0">
+            <textevent timeoffset="18" message="Well done. Every minute you push further into this test is awesome. Keep pushing."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="3.5999999" pace="0">
+            <textevent timeoffset="18" message="Great work. Big power on tap now. Keep pressure on the pedals. Hands are still light on the bars."/>
+            <textevent timeoffset="30" message="Driving from the legs and hips. Keep ticking the pedals over."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="3.8" pace="0">
+            <textevent timeoffset="18" message="You CAN make it to the end of this minute. Find a little something extra here."/>
+            <textevent timeoffset="30" message="Nice quick cadence. Focus on that rhythm."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="4" pace="0">
+            <textevent timeoffset="18" message="Do you have another minute in you? Find a way to get it done."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="4.2005" pace="0">
+            <textevent timeoffset="18" message="Up into the rarified air now. This is the stuff of legend!"/>
+            <textevent timeoffset="30" message="Fantastic performance on this. Keep on trucking!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="4.4000001" pace="0">
+            <textevent timeoffset="18" message="Amazing. Another minute? You can do it! Just focus on keeping those pedals turning."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="4.5999999" pace="0">
+            <textevent timeoffset="18" message="Another minute? Absolutely. You are unstoppable! Awesome job."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="4.8000002" pace="0">
+            <textevent timeoffset="18" message="Stepping up into the truly rarified air. Great stuff. Amazing work."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="5" pace="0">
+            <textevent timeoffset="18" message="Keep on going. If you have another minute in you, let&apos;s see it! You got this!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="5.1999998" pace="0">
+            <textevent timeoffset="18" message="Descending into the deepest parts of the well! This is a legendary performance."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="5.4000001" pace="0">
+            <textevent timeoffset="18" message="Is there anything you cannot do? It would appear not. At least on a bicycle..."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="5.5999999" pace="0">
+            <textevent timeoffset="18" message="You are into the level of seriously elite power here. Regardless of your weight, this is super impressive."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="5.8000002" pace="0">
+            <textevent timeoffset="18" message="Incredible. You must have tree trunks for legs and a heart like an elephant."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="6" pace="0">
+            <textevent timeoffset="18" message="Wowza. Are you getting ready to win the Tour? Maybe all three Grand Tours?"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="6.1999998" pace="0">
+            <textevent timeoffset="18" message="Holy moly! If you haven&apos;t won a World Championship yet, you will soon. Chapeau!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="6.4000001" pace="0">
+            <textevent timeoffset="18" message="Last step here. If you can make it through this, there is nothing left for you to do except go win every race there is."/>
+        </SteadyState>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.70000005" pace="0">
+            <textevent timeoffset="10" message="Well done! This is not an easy test. Doing it has double benefit though."/>
+            <textevent timeoffset="25" message="It is a great workout in and of itself. And the more experience you gain, the more effectively you can pace it."/>
+            <textevent timeoffset="40" message="There is a huge mental component to fitness as well."/>
+            <textevent timeoffset="55" message="Being smarter and more effective in how you spend your watts is just as important as actually getting fitter."/>
+            <textevent timeoffset="70" message="Expect a learning curve with this workout. The more often you do it, the better you will get at it."/>
+            <textevent timeoffset="85" message="It also teaches you a great deal about both pacing and the depth of your capacity."/>
+            <textevent timeoffset="110" message="No matter how you did, you gained both fitness and experience."/>
+            <textevent timeoffset="130" message="Take a good long cool down here. This should have tapped you out, so make sure you take the time to relax and cool down."/>
+            <textevent timeoffset="140" message="It will help with recovery."/>
+            <textevent timeoffset="180" message="You can do this test as often as weekly, but shouldn&apos;t do it more often than that."/>
+            <textevent timeoffset="200" message="You should be really proud of this effort. It is not an easy thing to push yourself to the absolute limit. Well done!"/>
+            <textevent timeoffset="220" message="You can keep cooling down through the end of this block and beyond."/>
+            <textevent timeoffset="240" message="This was a big effort, so take the time to bring your HR down and to clear out your system."/>
+            <textevent timeoffset="300" message="Give yourself a break before you do another big effort on the bike as well. Great work!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

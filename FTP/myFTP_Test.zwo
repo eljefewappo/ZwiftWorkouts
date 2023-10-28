@@ -1,0 +1,48 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>myFTP_Test</name>
+  <description>This is the gold standard for calculating your functional threshold power number (FTP). That number will inform every other workout you do, and it'll also show you how your fitness is progressing as time goes on. After a long, easy warmup and a few efforts to get the legs pumping, it's time to give it your all: Go as hard as you can for 20 solid minutes. Go at a pace you can sustain for the entire 20 minutes. Upon saving, you'll be notified if you bumped up your FTP!</description>
+  <sportType>bike</sportType>
+  <tags>
+    <tag name="FTP"/>
+  </tags>
+    <workout>
+        <Warmup Duration="1200" PowerLow="0.30000001" PowerHigh="0.69999999" pace="0">
+            <textevent timeoffset="20" message="Welcome to the FTP test"/>
+            <textevent timeoffset="35" message="Time to get warmed up and"/>
+            <textevent timeoffset="35" message="get your cadence up to 90-100rpm" y="270"/>
+        </Warmup>
+        <SteadyState Duration="20" Power="0.80000001" pace="0"/>
+        <SteadyState Duration="20" Power="1" pace="0"/>
+        <SteadyState Duration="20" Power="1.2" pace="0"/>
+        <SteadyState Duration="20" Power="0.80000001" pace="0"/>
+        <SteadyState Duration="20" Power="1" pace="0"/>
+        <SteadyState Duration="20" Power="1.2" pace="0"/>
+        <SteadyState Duration="20" Power="0.80000001" pace="0"/>
+        <SteadyState Duration="20" Power="1" pace="0"/>
+        <SteadyState Duration="20" Power="1.2" pace="0"/>
+        <SteadyState Duration="300" Power="0.5" pace="0"/>
+        <SteadyState Duration="300" Power="1.1" pace="0"/>
+        <SteadyState Duration="600" Power="0.5" pace="0">
+            <textevent timeoffset="10" message="In 10 minutes the FTP test begins"/>
+            <textevent timeoffset="580" message="Prepare for your max 20 minute effort" duration="19"/>
+            <textevent timeoffset="590" message="Note: You will not be able to add or subtract time from the test."/>
+        </SteadyState>
+        <FreeRide Duration="1200" FlatRoad="1">
+            <textevent timeoffset="10" message="Bring your power up to what you think" duration="20"/>
+            <textevent timeoffset="10" message="you can hold for 20 minutes" duration="20" y="270"/>
+            <textevent timeoffset="300" message="How ya doin?"/>
+            <textevent timeoffset="600" message="Half way done! If it&apos;s feeling easy"/>
+            <textevent timeoffset="600" message="now might be time to add 10 watts." y="270"/>
+            <textevent timeoffset="900" message="5 minutes left!"/>
+            <textevent timeoffset="960" message="4 minutes left. Increase your"/>
+            <textevent timeoffset="960" message="power if you&apos;re feeling strong." y="270"/>
+            <textevent timeoffset="1020" message="3 minutes left"/>
+            <textevent timeoffset="1080" message="2 minutes left"/>
+            <textevent timeoffset="1140" message="1 minute left. Go all in!"/>
+            <textevent timeoffset="1170" message="30 sec. Don&apos;t hold back"/>
+            <textevent timeoffset="1190" message="10 seconds."/>
+        </FreeRide>
+        <Cooldown Duration="600" PowerLow="0.69999999" PowerHigh="0.30000001" pace="0"/>
+    </workout>
+</workout_file>

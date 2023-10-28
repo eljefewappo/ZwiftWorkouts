@@ -1,5 +1,33 @@
 <custom_file_directory>
     <custom_file>
+        <name>myFTP_Test.zwo</name>
+        <time>1698503113</time>
+        <guid>24334</guid>
+        <checksum>244</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRampTest.zwo</name>
+        <time>1698503062</time>
+        <guid>16195</guid>
+        <checksum>68</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myFreeRide.zwo</name>
+        <time>1698495322</time>
+        <guid>15981</guid>
+        <checksum>170</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/40_Min_at_Zone_2.zwo</name>
+        <time>1698401156</time>
+        <guid>28281</guid>
+        <checksum>19</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/Zone2_Ramps_and_All_Spice_at_the_end.zwo</name>
         <time>1698060356</time>
         <guid>322</guid>
@@ -859,5 +887,6 @@
         <hash>4086513349</hash>
         <hash>4148856507</hash>
         <hash>921395802</hash>
+        <hash>1784041183</hash>
     </deleted_files>
 </custom_file_directory>

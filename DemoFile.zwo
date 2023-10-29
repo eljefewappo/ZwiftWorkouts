@@ -1,0 +1,39 @@
+<workout_file>
+    <author>E.Wappo [Strokers]</author>
+    <name>DemoFile</name>
+    <description>Demo file never plan to ride this</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.2545" PowerHigh="0.75449997" pace="0">
+            <textevent timeoffset="296" message="10min Warm Up"/>
+        </Warmup>
+        <SteadyState Duration="300" Power="0.50449997" pace="0">
+            <textevent timeoffset="135" message="Zone 1"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.65449995" pace="0">
+            <textevent timeoffset="130" message="Zone 2"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.81449997" pace="0">
+            <textevent timeoffset="127" message="Zone 3"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.95449996" pace="0">
+            <textevent timeoffset="113" message="Zone 4"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1.0945001" pace="0">
+            <textevent timeoffset="153" message="Zone 5"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="1.2545" pace="0">
+            <textevent timeoffset="134" message="Zone 6"/>
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="85" OnPower="0.75" OffPower="0.5" pace="0">
+            <textevent timeoffset="254" message="Intervals"/>
+        </IntervalsT>
+        <FreeRide Duration="600" FlatRoad="0">
+            <textevent timeoffset="284" message="Free Ride"/>
+        </FreeRide>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.2545" pace="0">
+            <textevent timeoffset="269" message="Cool Down"/>
+        </Cooldown>
+    </workout>
+</workout_file>

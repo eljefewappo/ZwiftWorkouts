@@ -8,8 +8,7 @@
     <tag name="Intervals"/>
   </tags>
   <workout>
-    <Warmup Duration="302" PowerLow="0.5" PowerHigh="0.75" pace="0"/>
-    <IntervalsT Repeat="2" OnDuration="30" OffDuration="60" OnPower="1.2" OffPower="0.5" pace="0" Cadence="100" CadenceResting="80"/>
+    <Warmup Duration="487" PowerLow="0.5" PowerHigh="0.75" pace="0"/>
     <Ramp Duration="302" PowerLow="0.65" PowerHigh="0.8" pace="0" Cadence="60"/>
     <Ramp Duration="302" PowerLow="0.806" PowerHigh="0.656" pace="0" Cadence="60"/>
     <Ramp Duration="302" PowerLow="0.65" PowerHigh="0.8" pace="0" Cadence="70"/>

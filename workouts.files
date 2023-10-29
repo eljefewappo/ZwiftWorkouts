@@ -1,16 +1,30 @@
 <custom_file_directory>
     <custom_file>
-        <name>myFTP_Test.zwo</name>
-        <time>1698503113</time>
-        <guid>24334</guid>
-        <checksum>244</checksum>
+        <name>Zone_2,_with_all_the_spice_at_the_End__1_.zwo</name>
+        <time>1698595089</time>
+        <guid>23570</guid>
+        <checksum>89</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myRampTest.zwo</name>
-        <time>1698503062</time>
-        <guid>16195</guid>
-        <checksum>68</checksum>
+        <name>FTP/myRampTest.zwo</name>
+        <time>1698520550</time>
+        <guid>5897</guid>
+        <checksum>101</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/49min_Zone2.zwo</name>
+        <time>1698594038</time>
+        <guid>25317</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>FTP/myFTP_Test.zwo</name>
+        <time>1698520550</time>
+        <guid>27843</guid>
+        <checksum>85</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -888,5 +902,9 @@
         <hash>4148856507</hash>
         <hash>921395802</hash>
         <hash>1784041183</hash>
+        <hash>616160088</hash>
+        <hash>1369661950</hash>
+        <hash>1402392047</hash>
+        <hash>468270167</hash>
     </deleted_files>
 </custom_file_directory>

@@ -1,9 +1,9 @@
 <custom_file_directory>
     <custom_file>
-        <name>Zone_2,_with_all_the_spice_at_the_End__1_.zwo</name>
-        <time>1698595089</time>
-        <guid>23570</guid>
-        <checksum>89</checksum>
+        <name>Zones/myZone2.zwo</name>
+        <time>1698660842</time>
+        <guid>12997</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -43,16 +43,9 @@
     </custom_file>
     <custom_file>
         <name>Zones/Zone2_Ramps_and_All_Spice_at_the_end.zwo</name>
-        <time>1698060356</time>
-        <guid>322</guid>
-        <checksum>127</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2_Ramps_and_Some_Spice.zwo</name>
-        <time>1698054550</time>
-        <guid>7764</guid>
-        <checksum>40</checksum>
+        <time>1698660842</time>
+        <guid>25317</guid>
+        <checksum>72</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -906,5 +899,6 @@
         <hash>1369661950</hash>
         <hash>1402392047</hash>
         <hash>468270167</hash>
+        <hash>2888183078</hash>
     </deleted_files>
 </custom_file_directory>

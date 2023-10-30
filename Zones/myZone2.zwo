@@ -1,0 +1,59 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>49min</name>
+  <description/>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="295" PowerLow="0.502" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="Warm up"/>
+    </Warmup>
+    <Ramp Duration="245" PowerLow="0.75" PowerHigh="0.85" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Block 1"/>
+    </Ramp>
+    <Ramp Duration="245" PowerLow="0.85" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="130" Power="0.5" pace="0" Cadence="60">
+      <textevent timeoffset="1" message="Spin easy, drink, wipe away the sweat"/>
+    </SteadyState>
+    <Ramp Duration="245" PowerLow="0.75" PowerHigh="0.85" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Block 2"/>
+      <textevent timeoffset="10" message="Ramping up"/>
+    </Ramp>
+    <Ramp Duration="245" PowerLow="0.85" PowerHigh="0.75" pace="0" Cadence="90"/>
+      <textevent timeoffset="10" message="Ramping Down"/>
+    </Ramp>
+    <SteadyState Duration="130" Power="0.5" pace="0" Cadence="60"/>
+      <textevent timeoffset="1" message="Spin easy, drink, wipe away the sweat"/>
+    </SteadyState>
+    <Ramp Duration="245" PowerLow="0.75" PowerHigh="0.85" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Block 3"/>
+    </Ramp>
+    <Ramp Duration="245" PowerLow="0.85" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="130" Power="0.5" pace="0" Cadence="60"/>
+      <textevent timeoffset="1" message="Spin easy, drink, wipe away the sweat"/>
+    </SteadyState>
+    <Ramp Duration="245" PowerLow="0.75" PowerHigh="0.85" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Block 4"/>
+    </Ramp>
+    <Ramp Duration="245" PowerLow="0.85" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="130" Power="0.5" pace="0" Cadence="60"/>
+      <textevent timeoffset="1" message="Spin easy, drink, wipe away the sweat"/>
+    </SteadyState>    
+    <Ramp Duration="245" PowerLow="0.75" PowerHigh="0.85" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Block 5"/>
+    </Ramp>
+    <Ramp Duration="245" PowerLow="0.85" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="130" Power="0.5" pace="0" Cadence="60"/>
+      <textevent timeoffset="1" message="Spin easy, drink, wipe away the sweat"/>
+    </SteadyState>    
+    <Ramp Duration="245" PowerLow="0.75" PowerHigh="0.85" pace="0" Cadence="90">
+      <textevent timeoffset="1" message="Block 6"/>
+    </Ramp>
+    <Ramp Duration="245" PowerLow="0.85" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="130" Power="0.5" pace="0" Cadence="60"/>
+      <textevent timeoffset="1" message="Spin easy, drink, wipe away the sweat"/>
+    </SteadyState>    
+    <Cooldown Duration="295" PowerLow="0.75" PowerHigh="0.498" pace="0"/>
+  </workout>
+</workout_file>

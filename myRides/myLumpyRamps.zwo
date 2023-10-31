@@ -1,0 +1,121 @@
+<workout_file>
+    <author>Matt Rowe (Rowe &amp; King)</author>
+    <name>myLumpyRamps</name>
+    <description>This session aims to replicate the demands of a mountain bike ride / event, by constantly changing the intensity at which we ride at! Not only does the power demand change, but so does your cadence.
+
+Half of the 'ramp up's' are to be completed at a low cadence of 65rpm, whilst the other half are at your chosen cadence. Meanwhile, the 'ramp down's' are to be completed at a more familiar cadence of 85rpm.
+
+The efforts we complete today are typical of a tough mountain bike ride / race, where you could be riding through any sort of terrain that has varying terrain! </description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25449997" PowerHigh="0.75449997" pace="0">
+            <textevent timeoffset="5" message="Hello there, Mountain Bikers and welcome once again to another session within Zwift&apos;s MTB Workout Series! ERG Mode is recommended for this session."/>
+            <textevent timeoffset="80" message="Todays session aims to replicate some of the physical demands of mountain biking."/>
+            <textevent timeoffset="120" message="Today, you will complete 2 blocks, each of which contains some ramp up and ramp downs, to really provide that variable effort."/>
+            <textevent timeoffset="150" message="It&apos;s important to stay composed during the efforts - don&apos;t let your cadence drop too much otherwise you will grind to a halt!"/>
+            <textevent timeoffset="170" message="Aim to sit nice and upright, replicating your body position on a mountain bike. Don&apos;t worry about being aero - it&apos;s all about control and stability!"/>
+            <textevent timeoffset="240" message="To start, it&apos;s a standard 10 minute progressive warm up and 10 second activation sprint to get us in the zone, both physically and mentally."/>
+            <textevent timeoffset="500" message="You should be starting to feel sweaty by now and like you are ready to train?"/>
+            <textevent timeoffset="570" message="Nearing the end of the warm up now - your blood will be nice and warm, ready to supply our muscles with oxygen. "/>
+        </Warmup>
+        <SteadyState Duration="60.000004" Power="0.50449997" pace="0">
+            <textevent timeoffset="12" message="A minute to relax &amp; have drink before a &apos;10 second activation sprint&apos;"/>
+        </SteadyState>
+        <SteadyState Duration="10" Power="1.0944999" pace="0"/>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="0" Cadence="85">
+            <textevent timeoffset="13" message="2 minutes easy before effort 1"/>
+        </SteadyState>
+        <Ramp Duration="120.00001" PowerLow="0.65449995" PowerHigh="0.75449997" pace="0" Cadence="70">
+            <textevent timeoffset="52" message="Here we go, the effort will start to ramp up throughout this first 2 minute block."/>
+            <textevent timeoffset="102" message="At 65rpm, we are forcing our fast twitch fibers to work hard. This is a real strength effort."/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.75450003" PowerHigh="0.85449994" pace="0">
+            <textevent timeoffset="91" message="We continue to ramp the effort up, continuing to build the power. You can hop out of the saddle for a bit if you find that comfortable?"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.75450003" PowerHigh="0.85449994" pace="0" Cadence="90">
+            <textevent timeoffset="68" message="The power now ramps down, this is an easier section of the course maybe? Could be a downhill!"/>
+            <textevent timeoffset="68" message="Let&apos;s consider this a nice fast section of tarmac, where you want to revert to a nice efficient cadence of around 85rpm!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.75450003" PowerHigh="0.85449994" pace="0" Cadence="70">
+            <textevent timeoffset="13.999916" message="We are ramping up again, back at 65rpm. Try and keep your body still."/>
+            <textevent timeoffset="53.999916" message="This could be a technical section - maybe it&apos;s an uphill rock field we have to navigate?"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.85449994" PowerHigh="0.95449996" pace="0">
+            <textevent timeoffset="74" message="You are doing great!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.85449994" PowerHigh="0.95449996" pace="0" Cadence="90">
+            <textevent timeoffset="82" message="We are now in to a field - a nice flat, fast section!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.85449994" PowerHigh="0.95449996" pace="0" Cadence="70">
+            <textevent timeoffset="83" message="At this low cadence, your legs may be burning! Keep focused, stay composed and keep going! This is fantastic."/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.9544999" PowerHigh="1.0544999" pace="0">
+            <textevent timeoffset="109" message="We really are building in effort here! When fatigue sets in, it&apos;s even more important to stay focused - especially when there are drop offs to contend with!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.9544999" PowerHigh="1.0544999" pace="0" Cadence="90">
+            <textevent timeoffset="79" message="We are back on to a fire track... the effort will get slightly easier, but we are still pushing hard!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.9544999" PowerHigh="1.0544999" pace="0">
+            <textevent timeoffset="93.999771" message="The end of the effort is in sight... dig deep now!"/>
+        </Ramp>
+        <Ramp Duration="60.000004" PowerLow="1.0545" PowerHigh="1.1544999" pace="0">
+            <textevent timeoffset="13.999907" message="Final minute! We are ramping up quickly here, as the we tackle the final ascent of the block. It&apos;s super steep...1 min 105% to 115% Ramp up"/>
+            <textevent timeoffset="3.999907" message="This is a real anaerobic effort - so plenty of fast twitch fibre recruitment! This will make a difference!"/>
+        </Ramp>
+        <SteadyState Duration="300" Power="0.40450001" pace="0">
+            <textevent timeoffset="70" message="5 Minutes recovery before block 2"/>
+        </SteadyState>
+        <Ramp Duration="120.00001" PowerLow="0.65449995" PowerHigh="0.75449997" pace="0" Cadence="70">
+            <textevent timeoffset="52" message="Here we go again! The ramp starts and progresses throughout this first 2 minute block at 65rpm."/>
+            <textevent timeoffset="102" message="At 65rpm, we are forcing our fast twitch fibers to work hard. This is a real strength effort."/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.75450003" PowerHigh="0.85449994" pace="0">
+            <textevent timeoffset="31" message="Riding at your own cadence in this block should be comparable to the effort in the first 2 minutes?"/>
+            <textevent timeoffset="91" message="You can hop out of the saddle for a bit if you find that comfortable?"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.75450003" PowerHigh="0.85449994" pace="0" Cadence="90">
+            <textevent timeoffset="18" message="A ramp down in power as we head on to a nice dry field. An opportunity to ride at speed without obstacles!"/>
+            <textevent timeoffset="48" message="It&apos;s quite alien to most cyclists to be changing intensities so frequently - but this is what mountain biking is all about."/>
+            <textevent timeoffset="58" message="Expect the unexpected and be prepared to make a huge effort to climb up a steep technical climb, at any time!"/>
+            <textevent timeoffset="88" message="Let&apos;s consider this a nice fast section of tarmac, where you want to revert to a nice efficient cadence of around 85rpm!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.75450003" PowerHigh="0.85449994" pace="0" Cadence="70">
+            <textevent timeoffset="13.999916" message="We are ramping up again, back at 65rpm. Try and keep your body still."/>
+            <textevent timeoffset="53.999916" message="This could be a technical section - maybe it&apos;s an uphill rock field we have to navigate?"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.85449994" PowerHigh="0.95449996" pace="0">
+            <textevent timeoffset="74" message="You are doing great!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.85449994" PowerHigh="0.95449996" pace="0" Cadence="90">
+            <textevent timeoffset="82" message="We are now in to a field - a nice flat, fast section!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.85449994" PowerHigh="0.95449996" pace="0" Cadence="70">
+            <textevent timeoffset="83" message="At this low cadence, your legs may be burning! Keep focused, stay composed and keep going! This is fantastic."/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.9544999" PowerHigh="1.0544999" pace="0">
+            <textevent timeoffset="109" message="We really are building in effort here! When fatigue sets in, it&apos;s even more important to stay focused - especially when there are drop offs to contend with!"/>
+            <textevent timeoffset="109" message="Stay sat upright, nice and relaxed. You can ride in or out of the saddle here, whatever you feel comfortable doing!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.9544999" PowerHigh="1.0544999" pace="0" Cadence="90">
+            <textevent timeoffset="79" message="We are back on to a fire track... the effort will get slightly easier, but we are still pushing hard!"/>
+        </Ramp>
+        <Ramp Duration="120.00001" PowerLow="0.9544999" PowerHigh="1.0544999" pace="0">
+            <textevent timeoffset="93.999771" message="The end of the effort is in sight... stay sat upright even though there may be tendency for your head to drop!"/>
+            <textevent timeoffset="93.999771" message="You can&apos;t lose focus in mountain biking - every obstacle is potentially a crash!"/>
+        </Ramp>
+        <Ramp Duration="60.000004" PowerLow="1.0545" PowerHigh="1.1544999" pace="0">
+            <textevent timeoffset="9" message="Final minute! We are ramping up quickly here, as the we tackle the final ascent of the block. It&apos;s super steep...1 min 105% to 115% Ramp up"/>
+            <textevent timeoffset="27" message="It&apos;s time to commit here! This hurts I know, but keep your head high and focus ahead of you."/>
+            <textevent timeoffset="49" message="Almost there... fantastic effort! Keep going."/>
+        </Ramp>
+        <Cooldown Duration="360.00003" PowerLow="0.55449998" PowerHigh="0.25450003" pace="0">
+            <textevent timeoffset="15.000085" message="Good work - 5 minutes cool down now."/>
+            <textevent timeoffset="70" message="Good work - today&apos;s session will help you adjust to the specific demands of mountain biking"/>
+            <textevent timeoffset="100.00018" message="Being fast isn&apos;t that important in MTB - it&apos;s more about being strong, powerful and explosive."/>
+            <textevent timeoffset="130" message="Sessions like today really help with your ability to navigate and get over tough technical sections."/>
+            <textevent timeoffset="250" message="Important to refuel after this session - carbs, protein and hydrate!"/>
+            <textevent timeoffset="280" message="Make sure you are getting your IRL Mountain Biking in - those skills are not going to to learn themselves."/>
+        </Cooldown>
+    </workout>
+</workout_file>

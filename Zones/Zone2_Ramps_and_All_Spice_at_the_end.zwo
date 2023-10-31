@@ -9,11 +9,11 @@
     <Warmup Duration="365" PowerLow="0.5" PowerHigh="0.75" pace="0"/>
     <SteadyState Duration="130" Power="0.5" pace="0" Cadence="80"/>
     <Ramp Duration="302" PowerLow="0.65" PowerHigh="0.8" pace="0" Cadence="80"/>
-    <Ramp Duration="302" PowerLow="0.806" PowerHigh="0.656" pace="0" Cadence="80"/>
+    <Ramp Duration="302" PowerLow="0.80" PowerHigh="0.65" pace="0" Cadence="80"/>
     <Ramp Duration="302" PowerLow="0.65" PowerHigh="0.8" pace="0" Cadence="85"/>
-    <Ramp Duration="302" PowerLow="0.806" PowerHigh="0.656" pace="0" Cadence="85"/>
+    <Ramp Duration="302" PowerLow="0.80" PowerHigh="0.65" pace="0" Cadence="85"/>
     <Ramp Duration="302" PowerLow="0.65" PowerHigh="0.8" pace="0" Cadence="90"/>
-    <Ramp Duration="302" PowerLow="0.806" PowerHigh="0.656" pace="0" Cadence="90"/>
+    <Ramp Duration="302" PowerLow="0.80" PowerHigh="0.65" pace="0" Cadence="90"/>
     <Ramp Duration="302" PowerLow="0.65" PowerHigh="0.8" pace="0" Cadence="95"/>
     <SteadyState Duration="130" Power="0.5" pace="0" Cadence="120"/>
     <IntervalsT Repeat="15" OnDuration="20" OffDuration="45" OnPower="1.2" OffPower="0.5" pace="0" Cadence="100" CadenceResting="60"/>

@@ -1,8 +1,8 @@
 <custom_file_directory>
     <custom_file>
-        <name>myFoundations.zwo</name>
-        <time>1698837342</time>
-        <guid>26691</guid>
+        <name>Zones/myFoundations.zwo</name>
+        <time>1698837633</time>
+        <guid>1630</guid>
         <checksum>58</checksum>
         <deleted>false</deleted>
     </custom_file>
@@ -949,5 +949,6 @@
         <hash>3588831144</hash>
         <hash>1591814578</hash>
         <hash>274516991</hash>
+        <hash>3100926530</hash>
     </deleted_files>
 </custom_file_directory>

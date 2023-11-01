@@ -1,9 +1,100 @@
 <custom_file_directory>
-<custom_file>
-        <name>myLumpyRamps.zwo</name>
-        <time>1698753134</time>
-        <guid>32328</guid>
+    <custom_file>
+        <name>myFoundations.zwo</name>
+        <time>1698837342</time>
+        <guid>26691</guid>
+        <checksum>58</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/myQuickRamps.zwo</name>
+        <time>1698832128</time>
+        <guid>12997</guid>
+        <checksum>108</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myLow_Cadence_Intervals.zwo</name>
+        <time>1698831342</time>
+        <guid>15981</guid>
+        <checksum>111</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myOver,_Under_and_Beyond.zwo</name>
+        <time>1698831342</time>
+        <guid>27740</guid>
+        <checksum>5</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myFreeRide.zwo</name>
+        <time>1698831342</time>
+        <guid>17787</guid>
+        <checksum>170</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myTime_Trial.zwo</name>
+        <time>1698831342</time>
+        <guid>7764</guid>
+        <checksum>41</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myCapacity_with_Tempo.zwo</name>
+        <time>1698831342</time>
+        <guid>23449</guid>
+        <checksum>67</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myHigh_Intensity_Recovery.zwo</name>
+        <time>1698831342</time>
+        <guid>3164</guid>
+        <checksum>141</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myLumpyRamps.zwo</name>
+        <time>1698831342</time>
+        <guid>11613</guid>
         <checksum>202</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/my30_30_Anaerobic__1.zwo</name>
+        <time>1698831342</time>
+        <guid>20534</guid>
+        <checksum>254</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myHill_Attacks.zwo</name>
+        <time>1698831342</time>
+        <guid>2711</guid>
+        <checksum>77</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myEPOC.zwo</name>
+        <time>1698831342</time>
+        <guid>1772</guid>
+        <checksum>234</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Quick_Ramps.zwo</name>
+        <time>1698831342</time>
+        <guid>28281</guid>
+        <checksum>0</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myIntermittent.zwo</name>
+        <time>1698831342</time>
+        <guid>7548</guid>
+        <checksum>97</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -119,13 +210,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myHill_Attacks.zwo</name>
-        <time>1698667917</time>
-        <guid>322</guid>
-        <checksum>77</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Big_Gear_SST___3x5.zwo</name>
         <time>1698667917</time>
         <guid>11522</guid>
@@ -134,9 +218,9 @@
     </custom_file>
     <custom_file>
         <name>Zones/Zone2_Ramps_and_All_Spice_at_the_end.zwo</name>
-        <time>1698667917</time>
-        <guid>28281</guid>
-        <checksum>72</checksum>
+        <time>1698831342</time>
+        <guid>11522</guid>
+        <checksum>169</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -308,13 +392,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myEPOC.zwo</name>
-        <time>1698667917</time>
-        <guid>603</guid>
-        <checksum>234</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Kephart+.zwo</name>
         <time>1698667917</time>
         <guid>18884</guid>
@@ -354,20 +431,6 @@
         <time>1698667917</time>
         <guid>21243</guid>
         <checksum>91</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myLow_Cadence_Intervals.zwo</name>
-        <time>1698667917</time>
-        <guid>13619</guid>
-        <checksum>111</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myCapacity_with_Tempo.zwo</name>
-        <time>1698667917</time>
-        <guid>5833</guid>
-        <checksum>67</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -424,13 +487,6 @@
         <time>1698667917</time>
         <guid>30412</guid>
         <checksum>13</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myIntermittent.zwo</name>
-        <time>1698667917</time>
-        <guid>25507</guid>
-        <checksum>97</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -508,13 +564,6 @@
         <time>1698667917</time>
         <guid>16584</guid>
         <checksum>227</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myTime_Trial.zwo</name>
-        <time>1698667917</time>
-        <guid>7863</guid>
-        <checksum>41</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -637,13 +686,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>my30_30_Anaerobic__1.zwo</name>
-        <time>1698667917</time>
-        <guid>1772</guid>
-        <checksum>254</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>FreeRide.zwo</name>
         <time>1698667917</time>
         <guid>15981</guid>
@@ -652,9 +694,9 @@
     </custom_file>
     <custom_file>
         <name>examples/All_The_BuildingBlocks.zwo</name>
-        <time>1698747327</time>
-        <guid>5388</guid>
-        <checksum>6</checksum>
+        <time>1698831342</time>
+        <guid>14899</guid>
+        <checksum>97</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -672,20 +714,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myFreeRide.zwo</name>
-        <time>1698667917</time>
-        <guid>20534</guid>
-        <checksum>170</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myHigh_Intensity_Recovery.zwo</name>
-        <time>1698667917</time>
-        <guid>17787</guid>
-        <checksum>141</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Five_by_Five.zwo</name>
         <time>1698667917</time>
         <guid>3164</guid>
@@ -697,13 +725,6 @@
         <time>1698667917</time>
         <guid>11613</guid>
         <checksum>249</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myOver,_Under_and_Beyond.zwo</name>
-        <time>1698667917</time>
-        <guid>27740</guid>
-        <checksum>5</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -914,5 +935,19 @@
         <hash>4191653732</hash>
         <hash>4279278117</hash>
         <hash>4286771810</hash>
+        <hash>1331788450</hash>
+        <hash>2137182548</hash>
+        <hash>2943635926</hash>
+        <hash>2039685483</hash>
+        <hash>436609870</hash>
+        <hash>3616936400</hash>
+        <hash>641645756</hash>
+        <hash>2195349186</hash>
+        <hash>190254740</hash>
+        <hash>742781994</hash>
+        <hash>3879631951</hash>
+        <hash>3588831144</hash>
+        <hash>1591814578</hash>
+        <hash>274516991</hash>
     </deleted_files>
 </custom_file_directory>

@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/myQuickRampsWithSpice.zwo</name>
+        <time>1698918807</time>
+        <guid>17787</guid>
+        <checksum>9</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/myFoundations.zwo</name>
         <time>1698837633</time>
         <guid>1630</guid>
@@ -81,13 +88,6 @@
         <time>1698831342</time>
         <guid>1772</guid>
         <checksum>234</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Quick_Ramps.zwo</name>
-        <time>1698831342</time>
-        <guid>28281</guid>
-        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -224,24 +224,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Zones/49min_Zone2.zwo</name>
-        <time>1698667917</time>
-        <guid>25317</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Zones/40_Min_at_Zone_2.zwo</name>
         <time>1698667917</time>
         <guid>1630</guid>
         <checksum>19</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/myZone2.zwo</name>
-        <time>1698667917</time>
-        <guid>22572</guid>
-        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -950,5 +936,8 @@
         <hash>1591814578</hash>
         <hash>274516991</hash>
         <hash>3100926530</hash>
+        <hash>3651074265</hash>
+        <hash>2166680814</hash>
+        <hash>3575472004</hash>
     </deleted_files>
 </custom_file_directory>

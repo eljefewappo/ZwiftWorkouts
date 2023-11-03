@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/myTempo_15min___Target_RPM__3__1_.zwo</name>
+        <time>1699007796</time>
+        <guid>3253</guid>
+        <checksum>191</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Long_and_easy.zwo</name>
+        <time>1699007548</time>
+        <guid>22572</guid>
+        <checksum>20</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/myQuickRampsWithSpice.zwo</name>
         <time>1698918807</time>
         <guid>17787</guid>
@@ -939,5 +953,6 @@
         <hash>3651074265</hash>
         <hash>2166680814</hash>
         <hash>3575472004</hash>
+        <hash>1938171175</hash>
     </deleted_files>
 </custom_file_directory>

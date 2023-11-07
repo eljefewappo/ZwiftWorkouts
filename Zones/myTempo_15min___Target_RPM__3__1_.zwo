@@ -5,51 +5,51 @@
     <sportType>bike</sportType>
     <tags/>
     <workout>
-        <Warmup Duration="180" PowerLow="0.44999996" PowerHigh="0.60000002" pace="0">
+        <Warmup Duration="180.00002" PowerLow="0.44999996" PowerHigh="0.60000002" pace="0">
             <textevent timeoffset="30" message="Our warm up gradually ramps up to a 1min Zone 5 effort."/>
         </Warmup>
-        <SteadyState Duration="60" Power="0.6" pace="0"/>
-        <SteadyState Duration="60" Power="0.65" pace="0"/>
-        <SteadyState Duration="60" Power="0.80" pace="0">
+        <SteadyState Duration="60.000004" Power="0.60000002" pace="0"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="0"/>
+        <SteadyState Duration="60.000004" Power="0.81" pace="0">
             <textevent timeoffset="50" message="Ready for the 1min Zone 5 effort."/>
         </SteadyState>
-        <SteadyState Duration="60" Power="1.0" pace="0"/>
-        <SteadyState Duration="120" Power="0.5" pace="0">
+        <SteadyState Duration="60" Power="1.0045" pace="0"/>
+        <SteadyState Duration="120.00001" Power="0.5" pace="0">
             <textevent timeoffset="100" message="To complete the warm up we now perform a 3min threshold effort."/>
         </SteadyState>
-        <SteadyState Duration="180" Power="0.85" pace="0"/>
-        <SteadyState Duration="180" Power="0.5" pace="0">
+        <SteadyState Duration="180.00002" Power="0.89999998" pace="0"/>
+        <SteadyState Duration="180.00002" Power="0.5" pace="0">
             <textevent timeoffset="60" message="Tempo riding is a great way to improve your aerobic efficiency."/>
             <textevent timeoffset="80" message="To focus on muscular endurance, target RPM starts at 75RPM..."/>
             <textevent timeoffset="90" message="and increases by 5RPM every 5min."/>
             <textevent timeoffset="160" message="Remember to aim for the target RPM and let the smart trainer adjust the power."/>
         </SteadyState>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="75">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="80">
             <textevent timeoffset="30" message="Settle into a good position on the bike."/>
             <textevent timeoffset="50" message="Driving the pedals, while relaxing your hands."/>
             <textevent timeoffset="70" message="The power slowly ramps up over the 5min."/>
         </Ramp>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="80">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="85">
             <textevent timeoffset="10" message="Targeting 80RPM this time."/>
             <textevent timeoffset="150" message="Has the change in RPM affected your HR response?"/>
         </Ramp>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="85">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="90">
             <textevent timeoffset="10" message="Targeting 85RPM this time."/>
             <textevent timeoffset="280" message="Note your finishing HR."/>
         </Ramp>
         <SteadyState Duration="120.00001" Power="0.5" pace="0">
             <textevent timeoffset="30" message="A short recovery and then we repeat the effort."/>
         </SteadyState>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="75">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="80">
             <textevent timeoffset="40" message="Settle into a good position on the bike."/>
             <textevent timeoffset="10" message="Target RPM of 75"/>
             <textevent timeoffset="50" message="Driving the pedals, while relaxing your hands."/>
         </Ramp>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="80">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="85">
             <textevent timeoffset="10" message="Targeting 80RPM this time."/>
             <textevent timeoffset="150" message="Has the change in RPM affected your HR response?"/>
         </Ramp>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="85">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="90">
             <textevent timeoffset="10" message="Targeting 85RPM this time."/>
             <textevent timeoffset="280" message="Note your finishing HR."/>
             <textevent timeoffset="290" message="How does it compare to the 1st set?"/>
@@ -57,21 +57,21 @@
         <SteadyState Duration="120.00001" Power="0.5" pace="0">
             <textevent timeoffset="60" message="Into the last set now."/>
         </SteadyState>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="75">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="80">
             <textevent timeoffset="10" message="Target RPM of 75"/>
             <textevent timeoffset="40" message="Settle into a good position on the bike."/>
             <textevent timeoffset="50" message="Driving the pedals, while relaxing your hands."/>
             <textevent timeoffset="60" message="It should feel like pushing a weight."/>
         </Ramp>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="80">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="85">
             <textevent timeoffset="10" message="Targeting 80RPM this time."/>
             <textevent timeoffset="150" message="Has the change in RPM affected your HR response?"/>
         </Ramp>
-        <Ramp Duration="300" PowerLow="0.70" PowerHigh="0.88" pace="0" Cadence="85">
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" pace="0" Cadence="90">
             <textevent timeoffset="10" message="Targeting 85RPM this time."/>
             <textevent timeoffset="280" message="Note your finishing HR."/>
             <textevent timeoffset="290" message="How does it compare to the earlier sets?"/>
         </Ramp>
-        <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.5" pace="0"/>
+        <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.45000002" pace="0"/>
     </workout>
 </workout_file>

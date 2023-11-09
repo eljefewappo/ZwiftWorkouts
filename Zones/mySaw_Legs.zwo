@@ -5,7 +5,9 @@
 
 Additionally, the middle ramp within each block is to be completed at a low cadence, of 65rpm. </description>
     <sportType>bike</sportType>
-    <tags/>
+  <tags>
+    <tag name="Zone 2"/>
+  </tags>
     <workout>
         <Warmup Duration="420.00003" PowerLow="0.43673915" PowerHigh="0.74978262" pace="0">
             <textevent timeoffset="10" message="Welcome to a Saw Legs edition of the Dirt Destroyer!"/>

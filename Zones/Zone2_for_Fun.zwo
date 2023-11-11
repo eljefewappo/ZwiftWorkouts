@@ -1,0 +1,35 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>Zone2 for Fun</name>
+  <description/>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.502" PowerHigh="0.75" pace="0"/>
+    <SteadyState Duration="125" Power="0.653" pace="0" Cadence="60"/>
+    <SteadyState Duration="120" Power="0.753" pace="0" Cadence="70"/>
+    <SteadyState Duration="120" Power="0.799" pace="0" Cadence="80"/>
+    <SteadyState Duration="120" Power="0.853" pace="0" Cadence="85"/>
+    <SteadyState Duration="120" Power="0.552" pace="0" Cadence="55"/>
+    <SteadyState Duration="125" Power="0.653" pace="0" Cadence="65"/>
+    <SteadyState Duration="120" Power="0.755" pace="0" Cadence="75"/>
+    <SteadyState Duration="120" Power="0.799" pace="0" Cadence="80"/>
+    <SteadyState Duration="120" Power="0.847" pace="0" Cadence="90"/>
+    <SteadyState Duration="120" Power="0.552" pace="0" Cadence="55"/>
+    <SteadyState Duration="125" Power="0.653" pace="0" Cadence="65"/>
+    <SteadyState Duration="120" Power="0.755" pace="0" Cadence="75"/>
+    <SteadyState Duration="120" Power="0.803" pace="0" Cadence="80"/>
+    <SteadyState Duration="120" Power="0.851" pace="0" Cadence="90"/>
+    <SteadyState Duration="120" Power="0.552" pace="0" Cadence="55"/>
+    <SteadyState Duration="125" Power="0.653" pace="0" Cadence="65"/>
+    <SteadyState Duration="120" Power="0.751" pace="0" Cadence="75"/>
+    <SteadyState Duration="120" Power="0.803" pace="0" Cadence="80"/>
+    <SteadyState Duration="120" Power="0.851" pace="0" Cadence="90"/>
+    <SteadyState Duration="120" Power="0.552" pace="0" Cadence="55"/>
+    <IntervalsT Repeat="5" OnDuration="240" OffDuration="65" OnPower="0.848" OffPower="0.544" pace="0" Cadence="85" CadenceResting="55"/>
+    <SteadyState Duration="120" Power="0.552" pace="0" Cadence="55"/>
+    <IntervalsT Repeat="10" OnDuration="20" OffDuration="45" OnPower="1.2" OffPower="0.5" pace="0" Cadence="100" CadenceResting="60"/>
+    <Cooldown Duration="305" PowerLow="0.75" PowerHigh="0.498" pace="0"/>
+  </workout>
+</workout_file>

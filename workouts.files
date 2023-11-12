@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/myLow_Cadence_Zone_3_Steps.zwo</name>
+        <time>1699797445</time>
+        <guid>1630</guid>
+        <checksum>176</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/Zone2_for_Fun.zwo</name>
-        <time>1699708808</time>
-        <guid>23300</guid>
-        <checksum>244</checksum>
+        <time>1699790053</time>
+        <guid>25009</guid>
+        <checksum>3</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -992,5 +999,6 @@
         <hash>3543417859</hash>
         <hash>2445726417</hash>
         <hash>597062671</hash>
+        <hash>2800774846</hash>
     </deleted_files>
 </custom_file_directory>

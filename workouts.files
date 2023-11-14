@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/myQuickRamps_65RPM.zwo</name>
+        <time>1699959380</time>
+        <guid>9993</guid>
+        <checksum>171</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/myQuickRamps_Zone2.zwo</name>
+        <time>1699959465</time>
+        <guid>23057</guid>
+        <checksum>17</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/myLow_Cadence_Zone_3_Steps.zwo</name>
         <time>1699797445</time>
         <guid>1630</guid>

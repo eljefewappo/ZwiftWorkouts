@@ -31,7 +31,7 @@
         <Ramp Duration="125" PowerLow="0.63999999" PowerHigh="0.69999999" pace="0" Cadence="65"/>
         <Ramp Duration="125" PowerLow="0.69800001" PowerHigh="0.63800001" pace="0" Cadence="65"/>
         <SteadyState Duration="245" Power="0.5" pace="0" Cadence="65"/>
-        <IntervalsT Repeat="15" OnDuration="20" OffDuration="45" OnPower="1.2" OffPower="0.5" pace="0" Cadence="100" CadenceResting="60"/>
+        <IntervalsT Repeat="15" OnDuration="20" OffDuration="45" OnPower="1.32" OffPower="0.5" pace="0" Cadence="100" CadenceResting="60"/>
         <Cooldown Duration="305" PowerLow="0.69800001" PowerHigh="0.498" pace="0"/>
     </workout>
 </workout_file>

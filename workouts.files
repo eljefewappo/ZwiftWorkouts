@@ -218,9 +218,9 @@
     </custom_file>
     <custom_file>
         <name>Zones/myQuickRamps_Zone2.zwo</name>
-        <time>1700049223</time>
+        <time>1700130362</time>
         <guid>10350</guid>
-        <checksum>225</checksum>
+        <checksum>187</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1014,5 +1014,6 @@
         <hash>4191653732</hash>
         <hash>4279278117</hash>
         <hash>4286771810</hash>
+        <hash>591250189</hash>
     </deleted_files>
 </custom_file_directory>

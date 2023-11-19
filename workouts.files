@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/Zone2_Pwr_and_HR_2.zwo</name>
+        <time>1700311967</time>
+        <guid>25009</guid>
+        <checksum>58</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/Zone2_Pwr_and_HR.zwo</name>
         <time>1700217712</time>
         <guid>8276</guid>

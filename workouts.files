@@ -1,9 +1,23 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/Zone2_1_x_60min_.zwo</name>
+        <time>1700569016</time>
+        <guid>25823</guid>
+        <checksum>24</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Zone2_10x5_.zwo</name>
+        <time>1700563617</time>
+        <guid>25009</guid>
+        <checksum>158</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/Zone2_60min.zwo</name>
-        <time>1700477791</time>
-        <guid>9429</guid>
-        <checksum>106</checksum>
+        <time>1700563448</time>
+        <guid>6184</guid>
+        <checksum>84</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1036,5 +1050,6 @@
         <hash>4279278117</hash>
         <hash>4286771810</hash>
         <hash>591250189</hash>
+        <hash>1289566413</hash>
     </deleted_files>
 </custom_file_directory>

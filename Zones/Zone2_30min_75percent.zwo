@@ -1,0 +1,39 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>Zone2 1 x 630min @ 75%</name>
+  <description>Warm up 10min, then complete. 1 x 630min tempo effort @ 80%. However, vary your cadence by + or - 5rpm every 5min. Cool down 10min.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="600" PowerLow="0.494" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="210.000012" message="A tough session mentally, more than physically today."/>
+      <textevent timeoffset="270.00001599999996" message="Long steady tempo efforts provide a fantastic stimulus for your body."/>
+      <textevent timeoffset="330.00002" message="To force your body to adapt, we need to find it's limit in certain areas."/>
+      <textevent timeoffset="390.000024" message="Because tempo efforts are lower in intensity, to place this system under stress, we need to go long!"/>
+      <textevent timeoffset="450.000028" message="To help the time pass, alternate your cadence from 5rpm above your self selected cadence, to 5rpm below."/>
+      <textevent timeoffset="510.000032" message="Also, adjust your position on the bike from race position to climbing position."/>
+    </Warmup>
+    <SteadyState Duration="180.00002" Power="0.55000001" pace="0"/>
+    <SteadyState Duration="1800" Power="0.75" pace="0" Cadence="80">
+      <textevent timeoffset="60.000040000000126" message="Ride the 1st 5min at your self selected cadence."/>
+      <textevent timeoffset="300.0000400000001" message="Now increase your cadence by 5rpm and move into your race position."/>
+      <textevent timeoffset="600.0000400000001" message="Now decrease your cadence by 10rpm and move into your climbing position."/>
+      <textevent timeoffset="900.0000400000001" message="Now increase your cadence by 10rpm and move into your race position."/>
+      <textevent timeoffset="1200.0000400000001" message="Now decrease your cadence by 5rpm and move into your climbing position."/>
+      <textevent timeoffset="1500.0000400000004" message="Now increase your cadence by 5rpm and move into your race position."/>
+      <textevent timeoffset="1800.0000400000004" message="Now decrease your cadence by 10rpm and move into your climbing position."/>
+      <textevent timeoffset="2100.0000400000004" message="Now increase your cadence by 5rpm and move into your race position."/>
+      <textevent timeoffset="2400.0000400000004" message="Now decrease your cadence by 10rpm and move into your climbing position."/>
+      <textevent timeoffset="1100.0000400000001" message="How is your HR responding to the change in cadence?"/>
+      <textevent timeoffset="2700.0000400000004" message="Now increase your cadence by 5rpm and move into your race position."/>
+      <textevent timeoffset="3000.0000400000004" message="Now decrease your cadence by 10rpm and move into your climbing position."/>
+      <textevent timeoffset="3300.0000400000004" message="Now increase your cadence by 5rpm and move into your race position."/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.55000001" pace="0">
+      <textevent timeoffset="30.00004000000081" message="That was a huge effort!"/>
+      <textevent timeoffset="60.00004000000081" message="There are big gains in fitness from a session like this."/>
+    </SteadyState>
+    <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.494" pace="0"/>
+  </workout>
+</workout_file>

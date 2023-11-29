@@ -1,5 +1,26 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/myQuickRamps_75RPM.zwo</name>
+        <time>1701254830</time>
+        <guid>1630</guid>
+        <checksum>100</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Zone2_30min_75percent.zwo</name>
+        <time>1701081738</time>
+        <guid>14106</guid>
+        <checksum>103</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Zone2_30min_80percent.zwo</name>
+        <time>1701081738</time>
+        <guid>1811</guid>
+        <checksum>136</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/Zone2_60min_75percent.zwo</name>
         <time>1701017698</time>
         <guid>29053</guid>
@@ -263,13 +284,6 @@
         <time>1700049223</time>
         <guid>9606</guid>
         <checksum>80</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/myQuickRamps.zwo</name>
-        <time>1700049223</time>
-        <guid>26683</guid>
-        <checksum>108</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1073,5 +1087,6 @@
         <hash>591250189</hash>
         <hash>1289566413</hash>
         <hash>3622983057</hash>
+        <hash>3809090822</hash>
     </deleted_files>
 </custom_file_directory>

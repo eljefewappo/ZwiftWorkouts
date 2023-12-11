@@ -1,9 +1,72 @@
 <custom_file_directory>
     <custom_file>
-        <name>Zones/myQuickRamps_75RPM.zwo</name>
-        <time>1701254830</time>
-        <guid>1630</guid>
-        <checksum>100</checksum>
+        <name>Zones/Random_Zone2.zwo</name>
+        <time>1702291024</time>
+        <guid>19922</guid>
+        <checksum>182</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/myQuickRamps_75-100_at_90RPM.zwo</name>
+        <time>1702130120</time>
+        <guid>9429</guid>
+        <checksum>21</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/myQuickRamps_75-85_at_90RPM.zwo</name>
+        <time>1702129811</time>
+        <guid>8276</guid>
+        <checksum>203</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/myQuickRamps_65-80_at_65RPM.zwo</name>
+        <time>1702129811</time>
+        <guid>6184</guid>
+        <checksum>128</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/myQuickRamps_90RPM.zwo</name>
+        <time>1701946955</time>
+        <guid>9606</guid>
+        <checksum>213</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/newZone2.zwo</name>
+        <time>1701773879</time>
+        <guid>2650</guid>
+        <checksum>161</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>New_Workout.zwo</name>
+        <time>1701688741</time>
+        <guid>8563</guid>
+        <checksum>137</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Openers__FreeRide_.zwo</name>
+        <time>1701688102</time>
+        <guid>30486</guid>
+        <checksum>97</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/60min_at_Zone_2.zwo</name>
+        <time>1701616014</time>
+        <guid>12997</guid>
+        <checksum>14</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/myFoundations_70-75RPM.zwo</name>
+        <time>1701427612</time>
+        <guid>9036</guid>
+        <checksum>233</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -32,13 +95,6 @@
         <time>1701017698</time>
         <guid>9606</guid>
         <checksum>12</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myQuickRamps_65rpm__1_.zwo</name>
-        <time>1700823091</time>
-        <guid>6663</guid>
-        <checksum>28</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -221,13 +277,6 @@
         <time>1700049223</time>
         <guid>1630</guid>
         <checksum>176</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/myQuickRamps_65RPM.zwo</name>
-        <time>1700049223</time>
-        <guid>22572</guid>
-        <checksum>171</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -736,9 +785,9 @@
     </custom_file>
     <custom_file>
         <name>FreeRide.zwo</name>
-        <time>1700049223</time>
-        <guid>20534</guid>
-        <checksum>175</checksum>
+        <time>1701687577</time>
+        <guid>23770</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1088,5 +1137,9 @@
         <hash>1289566413</hash>
         <hash>3622983057</hash>
         <hash>3809090822</hash>
+        <hash>550315656</hash>
+        <hash>2682893098</hash>
+        <hash>530437349</hash>
+        <hash>669435938</hash>
     </deleted_files>
 </custom_file_directory>

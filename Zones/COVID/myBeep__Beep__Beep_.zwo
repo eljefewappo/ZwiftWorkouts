@@ -1,0 +1,93 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>myBeep! Beep! Beep!</name>
+  <description>This workout is focused on rebuilding cardio post covid.  The goal will be somewhere between 75-85 RPM's for 3-minutes at a time. 
+  At the end of each set there will be a :30 second rev up where you will try and increase power by increasing your RPM's.
+  
+  We will go through each set 4 times.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <SteadyState Duration="30.000002" Power="0.34999999" pace="0">
+      <textevent timeoffset="0" message="Welcome to Beep! Beep! Beep!. Let's start the warm up, keep your cadence comfortable here."/>
+    </SteadyState>
+    <SteadyState Duration="30.000002" Power="0.40000001" pace="0">
+      <textevent timeoffset="0" message="Nothing to say"/>
+    </SteadyState>
+    <SteadyState Duration="30.000002" Power="0.44999999" pace="0">
+      <textevent timeoffset="0" message="Nothing to say"/>
+    </SteadyState>
+    <SteadyState Duration="30.000002" Power="0.5" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Nothing to say. "/>
+    </SteadyState>
+    <SteadyState Duration="45.000004" Power="0.55000001" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Nothing to say. "/>
+    </SteadyState>
+    <SteadyState Duration="45.000004" Power="0.60000002" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Keep an eye on your heart rate - you should not be anywhere near your max."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.64999998" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="It is vital that your core body temperature doesn't get too high. Make sure you have a fan blasting and keep hydrated."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.69999999" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Listen to your body, and don't worry if you need to lower the bias during these workouts to complete."/>
+    </SteadyState>
+    <SteadyState Duration="90.000008" Power="0.55000001" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Todays ride is focused on gaining strength through pedaling at 60-70 RPMs"/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.80000001" pace="0" Cadence="65">
+      <textevent timeoffset="0" message="Let's do this! The first part of each effort will be longer in duration."/>
+    </SteadyState>
+    <SteadyState Duration="30" Power="1.05" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Keep the resistance the same (or click up a gear if needed) and REV up your cadence for :30 seconds. "/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.55000001" pace="0" Cadence="85">
+      <textevent timeoffset="0.0000019999999949504854" message="Nice Work!"/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.80000001" pace="0" Cadence="65">
+      <textevent timeoffset="0.0000019999999949504854" message="The goal is muscular strength during this session rather than a high power and cardio output."/>
+    </SteadyState>
+    <SteadyState Duration="30.000002" Power="1.05" pace="0" Cadence="85">
+      <textevent timeoffset="0.0000019999999949504854" message="REV REV REV"/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.55000001" pace="0" Cadence="85">
+      <textevent timeoffset="0.0000019999999949504854" message="2nd set complete which means we are 1/2 way there!"/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.80000001" pace="0" Cadence="65">
+      <textevent timeoffset="0.0000019999999949504854" message="During these efforts you want to focus on having a smooth pedal stroke vs. choppy in style."/>
+    </SteadyState>
+    <SteadyState Duration="30" Power="1.05" pace="0" Cadence="85">
+      <textevent timeoffset="0.0000019999999949504854" message="What can you get your RPM's up to in :30 seconds?"/>
+    </SteadyState>
+    <SteadyState Duration="60" Power="0.55000001" pace="0" Cadence="85">
+      <textevent timeoffset="0.000003999999989900971" message="Remember to hydrate."/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.80000001" pace="0" Cadence="65">
+      <textevent timeoffset="0.000007999999979801942" message="An important note, during strength workouts you want to stay seated the entire duration of each effort. "/>
+    </SteadyState>
+    <SteadyState Duration="30.000002" Power="1.05" pace="0" Cadence="85">
+      <textevent timeoffset="0.000007999999979801942" message="Go Go Go! Staying seated forces recruitment of glute, quad, and hamstring muscles."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.55000001" pace="0">
+      <textevent timeoffset="0.000007999999979801942" message="Way to finish strong. "/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.80000001" pace="0" Cadence="65">
+      <textevent timeoffset="0.000007999999979801942" message="Good work! Beep! Beep! Beep! complete."/>
+      <textevent timeoffset="60.00001199999997" message="Remember, the key to fitness is consistency - little and often."/>
+      <textevent timeoffset="120.00001599999996" message="You should not have felt excessively hot during today's workout. "/>
+    </SteadyState>
+    <SteadyState Duration="30" Power="1.05" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="It's vital that your core body temperature doesn't get too high during pregnancy. "/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.55000001" pace="0">
+      <textevent timeoffset="30.00000399999999" message="See you on the next workout - Dani and Kristin "/>
+    </SteadyState>
+    <SteadyState Duration="180.00002" Power="0.80000001" pace="0" Cadence="65"/>
+    <SteadyState Duration="35" Power="1.045" pace="0"/>
+    <SteadyState Duration="60.000004" Power="0.55000001" pace="0"/>
+    <SteadyState Duration="180.00002" Power="0.80000001" pace="0" Cadence="65"/>
+    <SteadyState Duration="35" Power="1.045" pace="0"/>
+    <Cooldown Duration="310" PowerLow="0.638" PowerHigh="0.25" pace="0"/>
+  </workout>
+</workout_file>

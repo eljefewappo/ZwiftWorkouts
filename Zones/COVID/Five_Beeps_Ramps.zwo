@@ -1,0 +1,56 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>Ramp Beeps by Nine</name>
+  <description>This workout is focused on rebuilding cardio post covid.  The goal will be somewhere between 75-85 RPM's for 3-minutes at a time. 
+  At the end of each set there will be a :30 second rev up where you will try and increase power by increasing your RPM's.
+  
+  We will go through each set 4 times.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <SteadyState Duration="30.000002" Power="0.34999999" pace="0">
+      <textevent timeoffset="0" message="Welcome to Beep! Beep! Beep!. Let's start the warm up, keep your cadence comfortable here."/>
+    </SteadyState>
+    <SteadyState Duration="30.000002" Power="0.40000001" pace="0">
+      <textevent timeoffset="0" message="Nothing to say"/>
+    </SteadyState>
+    <SteadyState Duration="30.000002" Power="0.44999999" pace="0">
+      <textevent timeoffset="0" message="Nothing to say"/>
+    </SteadyState>
+    <SteadyState Duration="30.000002" Power="0.5" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Nothing to say. "/>
+    </SteadyState>
+    <SteadyState Duration="45.000004" Power="0.55000001" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Nothing to say. "/>
+    </SteadyState>
+    <SteadyState Duration="45.000004" Power="0.60000002" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Keep an eye on your heart rate - you should not be anywhere near your max."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.64999998" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="It is vital that your core body temperature doesn't get too high. Make sure you have a fan blasting and keep hydrated."/>
+    </SteadyState>
+    <SteadyState Duration="60.000004" Power="0.69999999" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Listen to your body, and don't worry if you need to lower the bias during these workouts to complete."/>
+    </SteadyState>
+    <SteadyState Duration="90.000008" Power="0.55000001" pace="0" Cadence="85">
+      <textevent timeoffset="0" message="Todays ride is focused on gaining strength through pedaling at 60-70 RPMs"/>
+    </SteadyState>
+    <Ramp Duration="185" PowerLow="0.70" PowerHigh="0.85" pace="0" Cadence="80"/>
+    <SteadyState Duration="30" Power="1.10" pace="0" Cadence="85"/>
+    <SteadyState Duration="90" Power="0.55" pace="0" Cadence="75"/>
+    <Ramp Duration="185" PowerLow="0.70" PowerHigh="0.85" pace="0" Cadence="80"/>
+    <SteadyState Duration="30" Power="1.10" pace="0" Cadence="85"/>
+    <SteadyState Duration="90" Power="0.55" pace="0" Cadence="75"/>
+    <Ramp Duration="185" PowerLow="0.70" PowerHigh="0.85" pace="0" Cadence="80"/>
+    <SteadyState Duration="30" Power="1.10" pace="0" Cadence="85"/>
+    <SteadyState Duration="90" Power="0.55" pace="0" Cadence="75"/>
+    <Ramp Duration="185" PowerLow="0.70" PowerHigh="0.85" pace="0" Cadence="80"/>
+    <SteadyState Duration="30" Power="1.10" pace="0" Cadence="85"/>
+    <SteadyState Duration="90" Power="0.55" pace="0" Cadence="75"/>
+    <Ramp Duration="185" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="80"/>
+    <SteadyState Duration="30" Power="1.10" pace="0" Cadence="85"/>
+    <SteadyState Duration="90" Power="0.55" pace="0" Cadence="75"/>
+    <Cooldown Duration="310" PowerLow="0.75" PowerHigh="0.5" pace="0"/>
+  </workout>
+</workout_file>

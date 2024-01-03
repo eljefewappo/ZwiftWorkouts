@@ -1,6 +1,6 @@
 <workout_file>
   <author>Eljefe.Wappo</author>
-  <name>Random Zone 2</name>
+  <name>Random Cadence Zone 2</name>
   <description>Random Zone 2</description>
   <sportType>bike</sportType>
   <durationType>time</durationType>
@@ -16,7 +16,7 @@
     <SteadyState Duration="125" Power="0.596" pace="0"/>
     <SteadyState Duration="305" Power="0.953" pace="0" Cadence="70"/>
     <SteadyState Duration="125" Power="0.596" pace="0"/>
-    <SteadyState Duration="305" Power="0.953" pace="0" Cadence="70"/>
+    <SteadyState Duration="305" Power="0.80" pace="0" Cadence="72"/>
     <SteadyState Duration="125" Power="0.596" pace="0"/>
     <SteadyState Duration="305" Power="0.803" pace="0" Cadence="80"/>
     <SteadyState Duration="125" Power="0.596" pace="0"/>

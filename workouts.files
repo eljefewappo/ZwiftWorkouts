@@ -1,9 +1,86 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/COVID/Five_Beeps.zwo</name>
+        <time>1704122562</time>
+        <guid>17975</guid>
+        <checksum>82</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/COVID/Five_Beeps_Ramps.zwo</name>
+        <time>1704122562</time>
+        <guid>23614</guid>
+        <checksum>2</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myAC_Maintenance__3.zwo</name>
+        <time>1704040400</time>
+        <guid>27594</guid>
+        <checksum>26</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/COVID/myBeep__Beep__Beep_.zwo</name>
+        <time>1704036381</time>
+        <guid>31156</guid>
+        <checksum>194</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/COVID/Nine_Beeps.zwo</name>
+        <time>1704036381</time>
+        <guid>21243</guid>
+        <checksum>100</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/COVID/Nine_Beeps_Ramps.zwo</name>
+        <time>1704036569</time>
+        <guid>25338</guid>
+        <checksum>230</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myMcCarthy_Special.zwo</name>
+        <time>1703768730</time>
+        <guid>2748</guid>
+        <checksum>219</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Random_90percent_Ramps_Zone2.zwo</name>
+        <time>1703344316</time>
+        <guid>28281</guid>
+        <checksum>55</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Random_90percent_Zone2.zwo</name>
+        <time>1703344316</time>
+        <guid>545</guid>
+        <checksum>201</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Random_95percent_Zone2.zwo</name>
+        <time>1702465510</time>
+        <guid>29053</guid>
+        <checksum>162</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/Random_Cadence_Zone2.zwo</name>
+        <time>1702379640</time>
+        <guid>23655</guid>
+        <checksum>209</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/Random_Zone2.zwo</name>
-        <time>1702291024</time>
-        <guid>19922</guid>
-        <checksum>182</checksum>
+        <time>1702379640</time>
+        <guid>25338</guid>
+        <checksum>15</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1141,5 +1218,6 @@
         <hash>2682893098</hash>
         <hash>530437349</hash>
         <hash>669435938</hash>
+        <hash>2765718766</hash>
     </deleted_files>
 </custom_file_directory>

@@ -1,0 +1,13 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>newZone2</name>
+  <description>newZone2</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="365" PowerLow="0.35" PowerHigh="0.75" pace="0"/>
+    <SteadyState Duration="3605" Power="0.763" pace="0" Cadence="88"/>
+    <Cooldown Duration="420" PowerLow="0.75" PowerHigh="0.35" pace="0"/>
+  </workout>
+</workout_file>

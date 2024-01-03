@@ -1,0 +1,31 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>Random 2x2.05 Zone 2</name>
+  <description>Random 90% Zone 2.  This was almost perfect power:cadence ratio.  The last few minutes of 90% pushed HR &gt; 136BPM</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="450" PowerLow="0.498" PowerHigh="0.75" pace="0"/>
+    <SteadyState Duration="105" Power="0.544" pace="0"/>
+    <SteadyState Duration="155" Power="0.952" pace="0" Cadence="90"/>
+    <SteadyState Duration="155" Power="0.9" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.596" pace="0"/>
+    <SteadyState Duration="155" Power="0.952" pace="0" Cadence="90"/>
+    <SteadyState Duration="155" Power="0.9" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.596" pace="0"/>
+    <SteadyState Duration="155" Power="0.952" pace="0" Cadence="90"/>
+    <SteadyState Duration="155" Power="0.9" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.596" pace="0"/>
+    <SteadyState Duration="155" Power="0.952" pace="0" Cadence="90"/>
+    <SteadyState Duration="155" Power="0.9" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.596" pace="0"/>
+    <SteadyState Duration="155" Power="0.952" pace="0" Cadence="90"/>
+    <SteadyState Duration="155" Power="0.852" pace="0" Cadence="85"/>
+    <SteadyState Duration="125" Power="0.596" pace="0"/>
+    <SteadyState Duration="155" Power="0.952" pace="0" Cadence="90"/>
+    <SteadyState Duration="155" Power="0.852" pace="0" Cadence="85"/>
+    <SteadyState Duration="105" Power="0.552" pace="0"/>
+    <Cooldown Duration="450" PowerLow="0.75" PowerHigh="0.498" pace="0"/>
+  </workout>
+</workout_file>

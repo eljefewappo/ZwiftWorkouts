@@ -1,0 +1,47 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>myQuickRamps 75%-100% @ 90RPM</name>
+  <description>myQuickRamps 75%-100% @ 90RPM</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="305" PowerLow="0.498" PowerHigh="0.75" pace="0"/>
+            <textevent timeoffset="0" message="Welcome back, this one could hurt..."/>    
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <SteadyState Duration="125" Power="0.80" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="1.0" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="125" PowerLow="0.75" PowerHigh="0.99400002" pace="0" Cadence="90"/>
+    <Ramp Duration="125" PowerLow="1.0" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="125" PowerLow="0.75" PowerHigh="0.99400002" pace="0" Cadence="90"/>
+    <Ramp Duration="125" PowerLow="1.0" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <SteadyState Duration="155" Power="0.80" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="1.0" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="125" PowerLow="0.75" PowerHigh="0.99400002" pace="0" Cadence="90"/>
+    <Ramp Duration="125" PowerLow="1.0" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="125" PowerLow="0.75" PowerHigh="0.99400002" pace="0" Cadence="90"/>
+    <Ramp Duration="125" PowerLow="1.0" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <SteadyState Duration="130" Power="0.80" pace="0" Cadence="90"/>
+    <SteadyState Duration="95" Power="1.0" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="125" PowerLow="0.75" PowerHigh="0.99400002" pace="0" Cadence="90"/>
+    <Ramp Duration="125" PowerLow="1.0" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="60" PowerLow="0.75" PowerHigh="0.99400002" pace="0" Cadence="90"/>
+    <Ramp Duration="60" PowerLow="1.0" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <SteadyState Duration="70" Power="0.80" pace="0" Cadence="90"/>
+    <SteadyState Duration="95" Power="1.0" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <Ramp Duration="60" PowerLow="0.75" PowerHigh="0.99400002" pace="0" Cadence="90"/>
+    <Ramp Duration="60" PowerLow="1.0" PowerHigh="0.75" pace="0" Cadence="90"/>
+    <SteadyState Duration="65" Power="0.5" pace="0" Cadence="75"/>
+    <Cooldown Duration="305" PowerLow="0.75" PowerHigh="0.498" pace="0"/>
+  </workout>
+</workout_file>

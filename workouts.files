@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/COVID/Six_Beeps_Ramps_50-50.zwo</name>
+        <time>1704454193</time>
+        <guid>13619</guid>
+        <checksum>176</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/COVID/Six_Beeps_Ramps.zwo</name>
         <time>1704365388</time>
         <guid>31156</guid>

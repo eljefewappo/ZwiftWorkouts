@@ -1,9 +1,37 @@
 <custom_file_directory>
     <custom_file>
+        <name>Zones/COVID/Six_Small_Beeps_Ramps_@95%.zwo</name>
+        <time>1705248715</time>
+        <guid>30832</guid>
+        <checksum>210</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/COVID/Six_Beeps_Ramps_@95%.zwo</name>
+        <time>1705242351</time>
+        <guid>15480</guid>
+        <checksum>242</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/COVID/Seven_Beeps_Ramps_50-50.zwo</name>
+        <time>1705058984</time>
+        <guid>25338</guid>
+        <checksum>76</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/COVID/Eight_Beeps_Ramps_50-50.zwo</name>
+        <time>1704551470</time>
+        <guid>15480</guid>
+        <checksum>246</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/COVID/Six_Beeps_Ramps_50-50.zwo</name>
-        <time>1704454193</time>
-        <guid>13619</guid>
-        <checksum>176</checksum>
+        <time>1704971702</time>
+        <guid>26896</guid>
+        <checksum>146</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1233,5 +1261,6 @@
         <hash>530437349</hash>
         <hash>669435938</hash>
         <hash>2765718766</hash>
+        <hash>1959712476</hash>
     </deleted_files>
 </custom_file_directory>

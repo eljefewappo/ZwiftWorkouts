@@ -1,0 +1,49 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>mySix Small Beeps Ramp @95%</name>
+  <description>This workout is the third focused on rebuilding cardio post covid.  The goal will be somewhere between 70-95 RPM's for 3-minutes at a time. 
+  We will go through each set 6 times.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="305" PowerLow="0.3" PowerHigh="0.75" pace="0">
+      <textevent timeoffset="0" message="10 min warm up split into two 5min ramps"/>
+    </Warmup>
+    <Ramp Duration="305" PowerLow="0.5" PowerHigh="0.95" pace="0">
+      <textevent timeoffset="64" message="Ramp two"/>
+    </Ramp>
+    <SteadyState Duration="125" Power="0.55000001" pace="0" Cadence="85"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="15" Power="1.1" pace="0" Cadence="95"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="15" Power="1.1" pace="0" Cadence="95"/>
+    <SteadyState Duration="125" Power="0.55" pace="0" Cadence="70"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="18" Power="1.1" pace="0" Cadence="95"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="18" Power="1.1" pace="0" Cadence="95"/>
+    <SteadyState Duration="125" Power="0.55" pace="0" Cadence="70"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="20" Power="1.1" pace="0" Cadence="95"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="20" Power="1.1" pace="0" Cadence="95"/>
+    <SteadyState Duration="125" Power="0.55" pace="0" Cadence="70"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="15" Power="1.1" pace="0" Cadence="95"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="15" Power="1.1" pace="0" Cadence="95"/>
+    <SteadyState Duration="125" Power="0.55" pace="0" Cadence="70"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="18" Power="1.1" pace="0" Cadence="95"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="18" Power="1.1" pace="0" Cadence="95"/>
+    <SteadyState Duration="125" Power="0.55" pace="0" Cadence="70"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="20" Power="1.1" pace="0" Cadence="95"/>
+    <Ramp Duration="95" PowerLow="0.85" PowerHigh="0.95" pace="0" Cadence="90"/>
+    <SteadyState Duration="20" Power="1.1" pace="0" Cadence="95"/>
+    <SteadyState Duration="95" Power="0.55" pace="0" Cadence="70"/>
+    <Cooldown Duration="310" PowerLow="0.65" PowerHigh="0.5" pace="0"/>
+  </workout>
+</workout_file>

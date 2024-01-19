@@ -5,7 +5,9 @@
   We will go through each set 6 times.</description>
   <sportType>bike</sportType>
   <durationType>time</durationType>
-  <tags/>
+  <tags>
+    <tag name="Under 60min"/>
+  </tags>
   <workout>
     <Warmup Duration="305" PowerLow="0.3" PowerHigh="0.75" pace="0">
       <textevent timeoffset="0" message="10 min warm up split into two 5min ramps"/>

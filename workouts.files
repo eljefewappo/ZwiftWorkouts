@@ -1,8 +1,22 @@
 <custom_file_directory>
     <custom_file>
-        <name>Zones/COVID/Six_Small_Beeps_Ramps_@95%.zwo</name>
-        <time>1705248715</time>
-        <guid>30832</guid>
+        <name>TheProFiles/The_Carapaz__1_.zwo</name>
+        <time>1705667013</time>
+        <guid>30878</guid>
+        <checksum>218</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>GravelGrinder/myTurn_Up_The_AC__2x4x2min_.zwo</name>
+        <time>1705663069</time>
+        <guid>2905</guid>
+        <checksum>73</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/COVID/mySix_Small_Beeps_Ramps_@95%.zwo</name>
+        <time>1705487070</time>
+        <guid>6441</guid>
         <checksum>210</checksum>
         <deleted>false</deleted>
     </custom_file>
@@ -1262,5 +1276,6 @@
         <hash>669435938</hash>
         <hash>2765718766</hash>
         <hash>1959712476</hash>
+        <hash>2864794036</hash>
     </deleted_files>
 </custom_file_directory>

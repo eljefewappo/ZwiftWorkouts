@@ -1,16 +1,16 @@
 <custom_file_directory>
     <custom_file>
-        <name>VO2-Max/VO2_Over_Unders.zwo</name>
-        <time>1706006785</time>
-        <guid>2811</guid>
-        <checksum>147</checksum>
+        <name>FTP/FTP_Short_Blocks.zwo</name>
+        <time>1706271256</time>
+        <guid>9774</guid>
+        <checksum>135</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>VO2-Max/3_3_2min_VO2max_.zwo</name>
-        <time>1706006785</time>
-        <guid>11098</guid>
-        <checksum>12</checksum>
+        <name>VO2-Max/VO2_Over_Unders_.zwo</name>
+        <time>1706179605</time>
+        <guid>23303</guid>
+        <checksum>53</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -21,17 +21,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>The_Carapaz__1_.zwo</name>
+        <name>Pro/The_Carapaz.zwo</name>
         <time>1705667013</time>
         <guid>30878</guid>
         <checksum>218</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>TheProFiles/The_Carapaz__1_.zwo</name>
-        <time>1705853115</time>
-        <guid>10277</guid>
-        <checksum>225</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -889,13 +882,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>VO2-Max/Peak_VO2_Intervals_Medio.zwo</name>
-        <time>1700049223</time>
-        <guid>4745</guid>
-        <checksum>14</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>VO2-Max/VO2_Max___5*4x4__40_20_.zwo</name>
         <time>1700049223</time>
         <guid>29237</guid>
@@ -1307,5 +1293,8 @@
         <hash>2864794036</hash>
         <hash>2418947254</hash>
         <hash>485411385</hash>
+        <hash>3688926393</hash>
+        <hash>4150011243</hash>
+        <hash>395013814</hash>
     </deleted_files>
 </custom_file_directory>

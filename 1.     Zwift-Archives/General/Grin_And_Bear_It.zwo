@@ -1,0 +1,23 @@
+<workout_file>
+  <author>Eljefe.Wappo</author>
+  <name>Grin And Bear It</name>
+  <description>Put on your spelunking helmet, because we're going deep into the pain cave. A series of short, hard efforts will wear you down, before a long mega-effort pushes you to the limit. The only way through is to grin and bear it.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags>
+    <tag name="Under 60min"/>
+    <tag name="No Comments"/>
+  </tags>
+  <workout>
+    <Warmup Duration="305" PowerLow="0.502" PowerHigh="0.75" pace="0" Cadence="85"/>
+    <Ramp Duration="125" PowerLow="0.746" PowerHigh="0.902" pace="0" Cadence="95"/>
+    <Ramp Duration="65" PowerLow="0.902" PowerHigh="0.994" pace="0" Cadence="100"/>
+    <SteadyState Duration="140" Power="0.5" pace="0" Cadence="85"/>
+    <IntervalsT Repeat="10" OnDuration="30" OffDuration="30" OnPower="1.052" OffPower="0.5" pace="0" Cadence="95" CadenceResting="85"/>
+    <SteadyState Duration="135" Power="0.5" pace="0" Cadence="85"/>
+    <IntervalsT Repeat="10" OnDuration="30" OffDuration="30" OnPower="1.084" OffPower="0.5" pace="0" Cadence="95" CadenceResting="85"/>
+    <SteadyState Duration="135" Power="0.5" pace="0" Cadence="85"/>
+    <SteadyState Duration="300" Power="1.101" pace="0" Cadence="90"/>
+    <Cooldown Duration="295" PowerLow="0.75" PowerHigh="0.494" pace="0"/>
+  </workout>
+</workout_file>

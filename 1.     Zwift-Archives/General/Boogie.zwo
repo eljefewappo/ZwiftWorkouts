@@ -1,0 +1,94 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>Boogie</name>
+    <description>A Zwift race start specific workout with 40/20s followed by 10min at zone 4.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Under 60min"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480.00003" PowerLow="0.49999997" PowerHigh="0.79999995" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Welcome to this week&apos;s race start workout!"/>
+            <textevent timeoffset="10" message="Let&apos;s get started with a warmup and get into things today."/>
+            <textevent timeoffset="240" message="All right, let&apos;s chat about the plan for today."/>
+            <textevent timeoffset="250" message="We have a specific workout today geared towards Zwift race starts."/>
+            <textevent timeoffset="260" message="Which of course feature a very hard effort off the line."/>
+            <textevent timeoffset="270" message="Followed by hard, but sustainable effort afterwards."/>
+            <textevent timeoffset="280" message="Today&apos;s workout takes that just a step further with multiple start intervals."/>
+            <textevent timeoffset="290" message="Followed by a 10min effort at zone 4."/>
+            <textevent timeoffset="300" message="So, today will be a challenge no doubt, but I know you can handle it!"/>
+            <textevent timeoffset="310" message="Let&apos;s carry on with today&apos;s warmup."/>
+            <textevent timeoffset="450" message="Next up, let&apos;s do a couple of fast cadence efforts to wake up the legs a bit more."/>
+            <textevent timeoffset="470" message="Aim for 110+ RPM next."/>
+        </Warmup>
+        <IntervalsT Repeat="2" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.1" OffPower="0.55000001" pace="0" Cadence="110" CadenceResting="85">
+            <textevent timeoffset="0" message="GO GO GO!"/>
+            <textevent timeoffset="30" message="Great effort, nice and easy now here."/>
+            <textevent timeoffset="60" message="PUSH IT!"/>
+            <textevent timeoffset="90" message="Excellent work! You should feel nice and warmed up now."/>
+            <textevent timeoffset="100" message="We&apos;ll take a couple minutes easy before starting our main set today."/>
+        </IntervalsT>
+        <SteadyState Duration="120.00001" Power="0.5" pace="0" Cadence="85">
+            <textevent timeoffset="30" message="Breathe...nice and easy here."/>
+            <textevent timeoffset="60" message="In 1min, we have 5 reps of 30sec at zone 6, with 30sec easy."/>
+            <textevent timeoffset="90" message="Then, we&apos;ll settle into 10min at zone 4."/>
+            <textevent timeoffset="110" message="All right, time to boogie, baby!"/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="40" OffDuration="20" OnPower="1.2" OffPower="0.55000001" pace="0">
+            <textevent timeoffset="0" message="UP UP UP! Start off hard and keep the power on!"/>
+            <textevent timeoffset="40" message="Great work! Take some deep breaths again and breathe..."/>
+            <textevent timeoffset="60" message="GO GO GO!"/>
+            <textevent timeoffset="100" message="Easy...Stay in control during these."/>
+            <textevent timeoffset="120" message="#3 of 5, keep the pressure on!"/>
+            <textevent timeoffset="160" message="Easy now, just 2 more left."/>
+            <textevent timeoffset="180" message="HIT IT!"/>
+            <textevent timeoffset="240" message="C&apos;mon! Last one! GO GO GO!"/>
+            <textevent timeoffset="280" message="Nice! Now get ready for 10min at zone 4."/>
+        </IntervalsT>
+        <SteadyState Duration="600" Power="0.92000002" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Settle into this effort now and keep your cadence ~90 RPM."/>
+            <textevent timeoffset="60" message="Work on your recovery under pressure here."/>
+            <textevent timeoffset="70" message="Even though this is challenging for you, you could push harder if you wanted to."/>
+            <textevent timeoffset="180" message="Great effort here! Remember to drink frequently today."/>
+            <textevent timeoffset="360" message="We&apos;re more than halfway through now! You got this!"/>
+            <textevent timeoffset="480" message="Don&apos;t let your cadence drop now, keep strong!"/>
+            <textevent timeoffset="540" message="Final minute! You got it!"/>
+            <textevent timeoffset="590" message="Push all the way to the arch!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.55000001" pace="0" Cadence="85">
+            <textevent timeoffset="0" message="Woo! That was great! You really showed your merit there."/>
+            <textevent timeoffset="10" message="We&apos;ll take 5min nice and easy now, then repeat that again."/>
+            <textevent timeoffset="20" message="Enjoy the rest and we&apos;ll catch up with 1min to go."/>
+            <textevent timeoffset="240" message="Hopefully you&apos;re feeling somewhat recovered from the 1st interval."/>
+            <textevent timeoffset="250" message="Up next we&apos;re going to repeat that same effort again."/>
+            <textevent timeoffset="260" message="Shake out the upper body a bit and get ready to put some work in again!"/>
+            <textevent timeoffset="290" message="All right, get ready for a big surge in effort."/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="40" OffDuration="20" OnPower="1.2" OffPower="0.55000001" pace="0">
+            <textevent timeoffset="0" message="GO GO GO! Get off the line quickly now!"/>
+            <textevent timeoffset="40" message="Great work. Take a few deep breaths here."/>
+            <textevent timeoffset="60" message="UP UP UP! C&apos;mon!"/>
+            <textevent timeoffset="120" message="BIG EFFORT!"/>
+            <textevent timeoffset="180" message="2nd to last one, GO GO!"/>
+            <textevent timeoffset="240" message="This is it! DIG FOR IT!"/>
+            <textevent timeoffset="280" message="GREAT work! Take a few deep breaths and get ready for some zone 4."/>
+        </IntervalsT>
+        <SteadyState Duration="600" Power="0.92000002" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="All right, settle into this effort quickly now."/>
+            <textevent timeoffset="60" message="Breathe, relax, keep recovering from those efforts while still working."/>
+            <textevent timeoffset="120" message="Great work so far! Release the tension in the shoulders."/>
+            <textevent timeoffset="240" message="Make sure you&apos;re keeping the cadence up here!"/>
+            <textevent timeoffset="250" message="Fight the urge to drop it as you fatigue."/>
+            <textevent timeoffset="360" message="More than halfway through this! C&apos;mon you got this!"/>
+            <textevent timeoffset="480" message="Just 2min remain and we&apos;re done! GO GO GO!"/>
+            <textevent timeoffset="540" message="Final minute! Don&apos;t let up now!"/>
+            <textevent timeoffset="570" message="PUSH! GET TO THE ARCH!"/>
+            <textevent timeoffset="590" message="GO GO GO!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.55000001" pace="0">
+            <textevent timeoffset="0" message="Nice effort today! Hopefully you&apos;re feeling more confident with those type of efforts."/>
+            <textevent timeoffset="10" message="We&apos;ll take 5min to cooldown now, then we&apos;re DONE :-)"/>
+            <textevent timeoffset="20" message="See you next time!"/>
+        </SteadyState>
+    </workout>
+</workout_file>

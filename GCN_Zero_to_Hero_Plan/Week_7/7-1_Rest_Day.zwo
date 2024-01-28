@@ -1,0 +1,14 @@
+<workout_file>
+    <uniqueId>fc22d80a-8d9f-4cdb-8371-42f267aa6f43</uniqueId>
+    <legacyIdHash>2431848008</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 7 - Testing Week.1 - MON: Rest Day</name>
+    <description>Enjoy your rest day!</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 7 - Testing Week</subcategory>
+    <tags />
+    <workout>
+        <RestDay />
+    </workout>
+</workout_file>

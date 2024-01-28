@@ -1,0 +1,14 @@
+<workout_file>
+    <uniqueId>5555dd76-35ac-4cc1-a042-37d271872358</uniqueId>
+    <legacyIdHash>310853800</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 5 - Recovery.1 - MON: Rest Day</name>
+    <description>Enjoy your rest day!</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 5 - Recovery</subcategory>
+    <tags />
+    <workout>
+        <RestDay />
+    </workout>
+</workout_file>

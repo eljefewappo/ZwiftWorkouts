@@ -1,0 +1,14 @@
+<workout_file>
+    <uniqueId>d956c5e4-518d-44c3-8496-7b9e0e3efe71</uniqueId>
+    <legacyIdHash>240169657</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 2.1 - MON: Rest Day</name>
+    <description>Enjoy your rest day!</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 2</subcategory>
+    <tags />
+    <workout>
+        <RestDay />
+    </workout>
+</workout_file>

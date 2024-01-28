@@ -1,0 +1,128 @@
+<workout_file>
+    <uniqueId>bb8fd7ac-dc21-4e21-a253-d64a2a5c92bf</uniqueId>
+    <legacyIdHash>2120430758</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 2.4 - Climbing Adaption</name>
+    <categoryOverride>Climbing</categoryOverride>
+    <description>Steady tempo efforts are great, but by incorporating 30sec high-intensity efforts into them, you will improve your body&apos;s ability to work aerobically for longer periods of time. This helps the body adapt to the natural surges in climbing around hairpin corners or even following the increased pace after an attack. Today&apos;s sessions consists of 2 x 16min tempo efforts with a 30sec surge every 3.5min.</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 2</subcategory>
+    <tags />
+    <workout>
+        <SteadyState Duration="180.00002" Power="0.5" Cadence="85">
+            <textevent timeoffset="0" message="Welcome to Climbing Adaptation! Let&apos;s get started with a few minutes easy at a comfortable cadence." locIndex="1" />
+            <textevent timeoffset="10" message="Steady as you go here as we ease into the day." locIndex="2" />
+            <textevent timeoffset="120" message="In 1min, we&apos;ll do a few hard, but short efforts at high cadence." locIndex="3" />
+            <textevent timeoffset="130" message="These efforts helps warm up the muscles a bit more." locIndex="4" />
+            <textevent timeoffset="140" message="But, make sure you spin the gear up before the interval so the trainer doesn&apos;t get bogged down." locIndex="5" />
+            <textevent timeoffset="170" message="Okay, start spinning the legs up to ~100 RPM!" locIndex="6" />
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="10" OffDuration="50" OnPower="1.5044999" OffPower="0.50449997" Cadence="100" CadenceResting="90">
+            <textevent timeoffset="0" message="GO GO GO!" locIndex="7" />
+            <textevent timeoffset="10" message="Excellent! Bring the power and cadence down now and let&apos;s spin the legs out." locIndex="8" />
+            <textevent timeoffset="20" message="We&apos;ll repeat that 3 more times." locIndex="9" />
+            <textevent timeoffset="50" message="Start spinning the gear up again." locIndex="10" />
+            <textevent timeoffset="60" message="CRUSH IT!" locIndex="11" />
+            <textevent timeoffset="70" message="Great work, 1 more to go." locIndex="12" />
+            <textevent timeoffset="120" message="UP UP UP!" locIndex="13" />
+        </IntervalsT>
+        <Ramp Duration="180.00002" PowerLow="0.60000002" PowerHigh="0.75" Cadence="85">
+            <textevent timeoffset="0" message="Nicely done! Let&apos;s continue the warm up with some zone 2 work now." locIndex="14" />
+            <textevent timeoffset="10" message="Keep your cadence comfortable here and keep getting those legs ready to go!" locIndex="15" />
+            <textevent timeoffset="120" message="1min to go here, then we&apos;ll rest again." locIndex="16" />
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="0.5" Cadence="85">
+            <textevent timeoffset="0" message="Awesome work! That&apos;s it for today&apos;s warm up. Let&apos;s take it easy now before we begin the main set." locIndex="17" />
+            <textevent timeoffset="30" message="Let&apos;s also chat about the plan for today." locIndex="18" />
+            <textevent timeoffset="40" message="We have 2 sets of tempo ramp efforts, but with a kicker of a 30sec hard effort before each effort." locIndex="19" />
+            <textevent timeoffset="50" message="Steady Tempo efforts are great. But by incorporating 30 second high intensity efforts into them, you will improve your body&apos;s ability to work aerobically for long periods." locIndex="20" />
+            <textevent timeoffset="60" message="This helps the body adapt to the natural surges in climbing around hairpin corners or even following the increased pace from an attack." locIndex="21" />
+            <textevent timeoffset="70" message="Today&apos;s sessions consists of 2 x 16 minute tempo efforts with a 30 second surge every 3.5 minutes." locIndex="22" />
+            <textevent timeoffset="150" message="All right, 30sec and we&apos;re ON! I want a high cadence for the surge efforts of 100+ RPM." locIndex="23" />
+            <textevent timeoffset="160" message="And a comfortable cadence of ~90 RPM for the tempo work in between." locIndex="24" />
+            <textevent timeoffset="170" message="Start spinning the legs up here!" locIndex="25" />
+        </SteadyState>
+        <Ramp Duration="30.000002" PowerLow="1.0599999" PowerHigh="1.2" Cadence="100">
+            <textevent timeoffset="0" message="ATTACK!" locIndex="26" />
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.76449996" PowerHigh="0.90449995" Cadence="90">
+            <textevent timeoffset="0" message="Excellent! Now we&apos;ll do a quick ramp through tempo zone. Push through the burn in your legs!" locIndex="27" />
+            <textevent timeoffset="120" message="Keep the cadence up as we continue to work through tempo zone, stay focused!" locIndex="28" />
+            <textevent timeoffset="180" message="In 30sec, we&apos;re back up and surging again!" locIndex="29" />
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1.0599999" PowerHigh="1.2" Cadence="100">
+            <textevent timeoffset="0" message="GO GO GO!" locIndex="30" />
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75999999" PowerHigh="0.89999998" Cadence="90">
+            <textevent timeoffset="0" message="Beautiful! Settle back down into tempo zone again quickly now." locIndex="31" />
+            <textevent timeoffset="60" message="These will become progressively more challenging as the interval goes on, but you&apos;re STRONG! You can this." locIndex="32" />
+            <textevent timeoffset="180" message="30sec and we&apos;re making another attack effort, get ready!" locIndex="33" />
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1.0599999" PowerHigh="1.2" Cadence="100">
+            <textevent timeoffset="0" message="PUSH IT!" locIndex="34" />
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75999999" PowerHigh="0.89999998" Cadence="90">
+            <textevent timeoffset="0" message="Awesome work so far, you&apos;re really pushing yourself today and Unlocking your strong." locIndex="35" />
+            <textevent timeoffset="10" message="We have 1 more surge effort to get through, stay focused now!" locIndex="36" />
+            <textevent timeoffset="150" message="60sec and we&apos;re making another go for it!" locIndex="37" />
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1.0599999" PowerHigh="1.2" Cadence="100">
+            <textevent timeoffset="0" message="GIVE IT YOUR ALL!" locIndex="38" />
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75999999" PowerHigh="0.89999998" Cadence="90">
+            <textevent timeoffset="0" message="Awesome work! Hang on for these last 3.5min now, FIGHT!" locIndex="39" />
+            <textevent timeoffset="120" message="You&apos;re almost there, dig deep now and Unlock more fitness!" locIndex="40" />
+            <textevent timeoffset="200" message="ALL THE WAY TO THE ARCH!" locIndex="41" />
+        </Ramp>
+        <SteadyState Duration="300" Power="0.5" Cadence="85">
+            <textevent timeoffset="0" message="Phew! That&apos;s 1 down and 1 more to go. Those are tough, but so good for aerobic capacity training." locIndex="42" />
+            <textevent timeoffset="10" message="We&apos;ll take a 5min rest now, then repeat once more." locIndex="43" />
+            <textevent timeoffset="20" message="We&apos;ll catch up with 1min to go :-)" locIndex="44" />
+            <textevent timeoffset="30" message="Use this time to take some deep breaths and a few sips of fluid." locIndex="45" />
+            <textevent timeoffset="240" message="All right, hopefully you&apos;re feeling relatively recovered by now and ready to CRUSH this finale." locIndex="46" />
+            <textevent timeoffset="250" message="We&apos;ll repeat that same process again with a hard surge effort followed by a tempo ramp effort." locIndex="47" />
+            <textevent timeoffset="290" message="Let&apos;s spin the legs up again and get ready for a hard effort!" locIndex="48" />
+        </SteadyState>
+        <Ramp Duration="30.000002" PowerLow="1.0599999" PowerHigh="1.2" Cadence="100">
+            <textevent timeoffset="0" message="UP UP UP!" locIndex="49" />
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75999999" PowerHigh="0.89999998" Cadence="90">
+            <textevent timeoffset="0" message="Okay, you know the drill now! Right back to tempo and keep the cadence up here." locIndex="50" />
+            <textevent timeoffset="120" message="Keep the shoulders relaxed, elbows bent, and light grip on the bars, you got this!" locIndex="51" />
+            <textevent timeoffset="180" message="We&apos;re putting in another hard effort in 30sec!" locIndex="52" />
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1.0599999" PowerHigh="1.2" Cadence="100">
+            <textevent timeoffset="0" message="PUSH IT!" locIndex="53" />
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75999999" PowerHigh="0.89999998" Cadence="90">
+            <textevent timeoffset="0" message="C&apos;mon! Let&apos;s fight to the end of this!" locIndex="54" />
+            <textevent timeoffset="120" message="DIG DIG DIG! Keep ramping the power up through tempo." locIndex="55" />
+            <textevent timeoffset="200" message="Get ready to SURGE!" locIndex="56" />
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1.0599999" PowerHigh="1.2" Cadence="100">
+            <textevent timeoffset="0" message="UNLOCK YOUR STRONG!" locIndex="57" />
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75999999" PowerHigh="0.89999998" Cadence="90">
+            <textevent timeoffset="0" message="Yes! That was your best one yet! We have just 1 more surge effort remaining, YOU GOT IT!" locIndex="58" />
+            <textevent timeoffset="90" message="Shake out the tension in your upper body, stay relaxed and focused on the target." locIndex="59" />
+            <textevent timeoffset="180" message="30sec to go, then we have our final attack effort!" locIndex="60" />
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1.0599999" PowerHigh="1.2" Cadence="100">
+            <textevent timeoffset="0" message="DIG DIG DIG!" locIndex="61" />
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75999999" PowerHigh="0.89999998" Cadence="90">
+            <textevent timeoffset="0" message="Phew! Nicely done! Hang on now and let&apos;s finish this last 3.5min STRONG!" locIndex="62" />
+            <textevent timeoffset="120" message="Just 1.5min to go and we&apos;re done! ." locIndex="63" />
+            <textevent timeoffset="200" message="PUSH FOR THE ARCH!" locIndex="64" />
+        </Ramp>
+        <Cooldown Duration="180" PowerLow="0.69999999" PowerHigh="0.44999999">
+            <textevent timeoffset="0" message="Way to get that workout done! That&apos;s not an easy one." locIndex="65" />
+            <textevent timeoffset="10" message="We&apos;ll spend 5min reducing the effort now and cooling down." locIndex="66" />
+            <textevent timeoffset="60" message="Continue to slowly lower the power and return to baseline again." locIndex="67" />
+            <textevent timeoffset="120" message="Exceptional work again today! Way to push yourself and unlock more fast!" locIndex="68" />
+            <textevent timeoffset="150" message="Good luck with the remaining Zero to Hero workouts." locIndex="69" />
+            <textevent timeoffset="170" message="Ride On!" locIndex="70" />
+        </Cooldown>
+    </workout>
+</workout_file>

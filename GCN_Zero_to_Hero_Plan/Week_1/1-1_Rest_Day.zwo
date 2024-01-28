@@ -1,0 +1,14 @@
+<workout_file>
+    <uniqueId>36f73abf-5448-4798-98b5-c52fca4a359b</uniqueId>
+    <legacyIdHash>3441351465</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 1 - Initial Testing.1 - MON: Rest Day // READ ME</name>
+    <description>Welcome to the Zero to Hero training plan! This is perfect for starting your training in the winter indoors then moving it outdoors once the weather improves. After his wowful effort during the Zwift Racing League in November 2020 GCN Presenter Conor Dunne tries to get race fit again. Join him in his journey and let&apos;s get fitter together as a community!</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 1 - Initial Testing</subcategory>
+    <tags />
+    <workout>
+        <RestDay />
+    </workout>
+</workout_file>

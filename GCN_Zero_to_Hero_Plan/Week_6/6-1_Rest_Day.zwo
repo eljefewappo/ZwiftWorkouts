@@ -1,0 +1,14 @@
+<workout_file>
+    <uniqueId>0678651a-6af0-4dc9-b8d4-46de26903e5c</uniqueId>
+    <legacyIdHash>3519621432</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 6 - Race Specific Intensity.1 - MON: Rest Day</name>
+    <description>Enjoy your rest day!</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 6 - Race Specific Intensity</subcategory>
+    <tags />
+    <workout>
+        <RestDay />
+    </workout>
+</workout_file>

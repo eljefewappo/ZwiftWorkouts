@@ -1,0 +1,130 @@
+<workout_file>
+    <uniqueId>365c9fc9-080c-4f25-85e0-49857fee00f8</uniqueId>
+    <legacyIdHash>1901586092</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 7 - Testing Week.4 - Climb Approach</name>
+    <categoryOverride>Climbing</categoryOverride>
+    <description>Today&apos;s training is set up to mimic the real life scenery that takes place in racing when there is a climb approaching. Initially there is a large surge in speed for positioning into the bottom of the climb. Then, typically a small lull in pace as your team takes control of the throttle. After it has lined out, you typically are sitting right on threshold waiting for the first brave person to attack. Make sure you can follow the attack today!</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 7 - Testing Week</subcategory>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.39450002" PowerHigh="0.95449996" Cadence="85">
+            <textevent timeoffset="0" message="Welcome to Climb Approach! Let&apos;s get rolling with a 10min warm up before we hit the slopes today." locIndex="1" />
+            <textevent timeoffset="10" message="Make sure you have your fan, fluids, and towel all set and keep your cadence comfortable here." locIndex="2" />
+            <textevent timeoffset="180" message="3min in so far, just keep easing into the day and keep the upper body relaxed." locIndex="3" />
+            <textevent timeoffset="300" message="All right, there&apos;s halfway through the warm up. Let&apos;s take a moment and chat about the plan for today." locIndex="4" />
+            <textevent timeoffset="310" message="Today is a training exercise that is set up to mimic the real life scenery that takes place in racing when there is a climb approaching." locIndex="5" />
+            <textevent timeoffset="320" message="Initially, there is a large surge in speed for positioning into the bottom of the climb." locIndex="6" />
+            <textevent timeoffset="330" message="Then, typically a small lull in pace as your team takes control of the throttle." locIndex="7" />
+            <textevent timeoffset="340" message="After it has lined out you typically are sitting right on threshold waiting for the first brave person to attack." locIndex="8" />
+            <textevent timeoffset="350" message="Make sure you can follow the attack! (hint hint)." locIndex="9" />
+            <textevent timeoffset="360" message="We have 3 climbs planned for today with each climb itself being more intense than the last." locIndex="10" />
+            <textevent timeoffset="370" message="And each one will start and finish with a hard surge effort." locIndex="11" />
+            <textevent timeoffset="380" message="Let&apos;s carry on with today&apos;s warm up :-)" locIndex="12" />
+            <textevent timeoffset="540" message="1min to go here, then we&apos;ll bring it down easy for a bit." locIndex="13" />
+        </Warmup>
+        <SteadyState Duration="110.00001" Power="0.50449997" Cadence="85">
+            <textevent timeoffset="0" message="All right, let&apos;s take it easy for a bit, then we&apos;ll move onto an activation sprint." locIndex="14" />
+            <textevent timeoffset="80" message="In 30sec, get ready for a big surge in effort at 100 RPM!" locIndex="15" />
+        </SteadyState>
+        <SteadyState Duration="10" Power="1.25" Cadence="100">
+            <textevent timeoffset="0" message="GO GO GO." locIndex="16" />
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.50449997" Cadence="85">
+            <textevent timeoffset="0" message="Nice work! Those legs should be feeling ready to go and you should have a good sweat on." locIndex="17" />
+            <textevent timeoffset="10" message="We&apos;ll take a few minutes easy here, then start our 1st climb of the day." locIndex="18" />
+            <textevent timeoffset="20" message="Take a few deep breaths and have a drink." locIndex="19" />
+            <textevent timeoffset="120" message="Coming up in 1min, we have our 1st climb of the day." locIndex="20" />
+            <textevent timeoffset="130" message="Remember, these will start and end with a hard surge effort, with zone 4 work for 5min between." locIndex="21" />
+            <textevent timeoffset="140" message="Expect these to be a challenge, but you got it!" locIndex="22" />
+            <textevent timeoffset="170" message="Get ready! Time to Unlock your strong! Cadence up to 100 RPM." locIndex="23" />
+        </SteadyState>
+        <SteadyState Duration="30" Power="1.2045" Cadence="100">
+            <textevent timeoffset="01" message="The surge into the climb! Keep the cadence up here!" locIndex="24" />
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="0.50449997">
+            <textevent timeoffset="0" message="Quick recovery, then we&apos;ll settle into zone 4." locIndex="25" />
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.90449995" Cadence="75">
+            <textevent timeoffset="0" message="Okay, here we go, let&apos;s sit at threshold for a bit now as your team takes control." locIndex="26" />
+            <textevent timeoffset="10" message="Keep your cadence a bit lower to mimic a steeper gradient, and get ready for any attacks!" locIndex="27" />
+            <textevent timeoffset="60" message="Nice work so far! Settle into this pace and push through the burn in your legs." locIndex="28" />
+            <textevent timeoffset="150" message="There&apos;s halfway! All is quiet in this group still...maybe a little bit too quiet." locIndex="29" />
+            <textevent timeoffset="240" message="Coming up in 1min is a crucial part of the climb where the road steepens a bit." locIndex="30" />
+            <textevent timeoffset="250" message="Get ready to stand up, drop the cadence a bit further to 70 RPM, and CRUSH IT!" locIndex="31" />
+            <textevent timeoffset="290" message="Get ready to stand up!" locIndex="32" />
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.3045" Cadence="70">
+            <textevent timeoffset="0" message="CHASE THAT MOVE!" locIndex="33" />
+            <textevent timeoffset="10" message="C&apos;mon! Don&apos;t let them get away!" locIndex="34" />
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.50449997" Cadence="85">
+            <textevent timeoffset="0" message="Phew, great effort. You made it over with the lead group" locIndex="35" />
+            <textevent timeoffset="10" message="Let&apos;s take it easy down this descent, have a drink, and stick in the wheels." locIndex="36" />
+            <textevent timeoffset="20" message="We&apos;ll catch up with 1min to go." locIndex="37" />
+            <textevent timeoffset="240" message="All right, we&apos;re almost to the bottom of this climb now and the teams are starting to come to the front again." locIndex="38" />
+            <textevent timeoffset="250" message="Get ready for a hard start again to our 2nd climb today." locIndex="39" />
+            <textevent timeoffset="290" message="Aim for 100 RPM to start, let&apos;s go!" locIndex="40" />
+        </SteadyState>
+        <SteadyState Duration="30" Power="1.2" Cadence="100">
+            <textevent timeoffset="0" message="GO GO GO!" locIndex="41" />
+            <textevent timeoffset="20" message="Good positioning!" locIndex="42" />
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="0.50449997">
+            <textevent timeoffset="0" message="Easy now as the group slows." locIndex="43" />
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.92449993" Cadence="75">
+            <textevent timeoffset="0" message="Let your team control the pace again, you&apos;re just sitting in the wheels saving your energy." locIndex="44" />
+            <textevent timeoffset="60" message="Watch for any attacks! The road will steepen again towards the end." locIndex="45" />
+            <textevent timeoffset="150" message="You&apos;re doing GREAT here and the team is all intact still, just keep tapping out this steady rhythm." locIndex="46" />
+            <textevent timeoffset="240" message="Okay, just up ahead the road turns left and we hit a STEEP wall." locIndex="47" />
+            <textevent timeoffset="250" message="Prepare to drop your cadence again and stand up to get to the summit." locIndex="48" />
+            <textevent timeoffset="290" message="Drop your cadence down to 70 RPM and get ready to stand." locIndex="49" />
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.3" Cadence="100">
+            <textevent timeoffset="0" message="HANG ON TO IT!" locIndex="50" />
+            <textevent timeoffset="20" message="Almost to the top, DIG DIG DIG!" locIndex="51" />
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.5" Cadence="85">
+            <textevent timeoffset="0" message="YEAH! Way to go, you made it over again in the lead pack, but your team was decimated by that last climb." locIndex="52" />
+            <textevent timeoffset="10" message="So, it&apos;s up to you to secure this race win!" locIndex="53" />
+            <textevent timeoffset="20" message="Use this 5min rest break well and prepare yourself to really push on the finale!" locIndex="54" />
+            <textevent timeoffset="30" message="We&apos;ll catch up again with 1min to go." locIndex="55" />
+            <textevent timeoffset="240" message="Almost to the final climb of the day and the group is down to just the strongest of the race." locIndex="56" />
+            <textevent timeoffset="250" message="Expect this final climb to a bit harder as we climb up to the finish!" locIndex="57" />
+            <textevent timeoffset="290" message="Here comes the initial surge to the climb, let&apos;s get that cadence up again to 100 RPM!" locIndex="58" />
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.4" Cadence="100">
+            <textevent timeoffset="0" message="NAIL THIS! You need to stay with this group!" locIndex="59" />
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="0.50449997">
+            <textevent timeoffset="0" message="Excellent! Very quick breather again here, then we&apos;ll smash it." locIndex="60" />
+        </SteadyState>
+        <SteadyState Duration="300" Power="1" Cadence="75">
+            <textevent timeoffset="0" message="Okay, this is it! 5min of climbing then we have the final sprint to the line." locIndex="61" />
+            <textevent timeoffset="10" message="You can do this! Don&apos;t let your team down who worked so hard for you over the 1st and 2nd climbs." locIndex="62" />
+            <textevent timeoffset="60" message="Settle down and keep relaxed. This should feel challenging, but this is when you Unlock your all!" locIndex="63" />
+            <textevent timeoffset="120" message="Steady as you go, keep it up!" locIndex="64" />
+            <textevent timeoffset="240" message="Last minute of this climb, then we&apos;ll blast to the finish!" locIndex="65" />
+            <textevent timeoffset="250" message="One of the climbers is known for going early, so keep an eye on them!" locIndex="66" />
+            <textevent timeoffset="290" message="Uh oh, attack from the left side, let&apos;s chase it!" locIndex="67" />
+        </SteadyState>
+        <SteadyState Duration="60" Power="1.3" Cadence="70">
+            <textevent timeoffset="0" message="UP UP UP! Get on that wheel!" locIndex="68" />
+            <textevent timeoffset="20" message="Steady! You&apos;re dropping the rest of the field!" locIndex="69" />
+            <textevent timeoffset="40" message="They&apos;re starting to crack, keep the pressure on and this race is YOURS!" locIndex="70" />
+            <textevent timeoffset="50" message="ALL THE WAY TO THE LINE!" locIndex="71" />
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow=".6" PowerHigh=".4" Cadence="85">
+            <textevent timeoffset="0" message="WOOT WOOT! You did it! Way to take the win for your team!" locIndex="72" />
+            <textevent timeoffset="10" message="That&apos;s a fun workout and very specific to the demands of a short climb day." locIndex="73" />
+            <textevent timeoffset="150" message="Continue to slowly lower the power and return to baseline again." locIndex="74" />
+            <textevent timeoffset="240" message="Exceptional work again today! Way to push yourself and Unlock more fast!" locIndex="75" />
+            <textevent timeoffset="270" message="I hope you enjoyed this Zero to Hero series, stay tuned for more!" locIndex="76" />
+            <textevent timeoffset="290" message="Ride On!" locIndex="77" />
+        </Cooldown>
+    </workout>
+</workout_file>

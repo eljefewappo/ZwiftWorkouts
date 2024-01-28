@@ -1,0 +1,141 @@
+<workout_file>
+    <uniqueId>feaca6ab-60a2-4bf2-87eb-a6c424f154d9</uniqueId>
+    <legacyIdHash>2818945798</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 7 - Testing Week.2 - FTP Test (20 min)</name>
+    <description>This is it! Let&apos;s see how you&apos;ve improved over the past weeks. We&apos;re going to be performing a 20min version of the FTP test today. After the test, Zwift will tell you if your FTP has improved. Good luck!</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 7 - Testing Week</subcategory>
+    <tags />
+    <workout>
+        <Warmup Duration="600" PowerLow="0.40" PowerHigh="0.75">
+            <textevent timeoffset="0" message="Welcome, friend! Today is an important day for you and the finale of the Pebble Pounder - an FTP test!" locIndex="1" />
+            <textevent timeoffset="10" message="Before we get to the festivities though, we&apos;re going to get a nice 10 minute warm up in." locIndex="2" />
+            <textevent timeoffset="20" message="During the warm up, I want you to of course get your legs ready, but also get your mind ready." locIndex="3" />
+            <textevent timeoffset="30" message="The mind tends to be the thing that &apos;breaks&apos; 1st during an FTP test, so it is crucial you&apos;re in the right headspace here." locIndex="4" />
+            <textevent timeoffset="180" message="3 minutes into it, start to slowly bring up your cadence to ~95 RPM if you&apos;re not already there." locIndex="5" />
+            <textevent timeoffset="300" message="And 5 minutes into our warm up. The intensity should still feel quite light here, and your legs should be over 90 RPM." locIndex="6" />
+            <textevent timeoffset="310" message="Here&apos;s what I want you to repeat to yourself over next 10 minutes &apos;I am strong, tenacious, and rigorous&apos;." locIndex="7" />
+            <textevent timeoffset="320" message="This test is going to ask a lot of you, but staying strong throughout." locIndex="8" />
+            <textevent timeoffset="330" message="Being tenacious during the latter half (not giving up)." locIndex="9" />
+            <textevent timeoffset="340" message="And maintaining a sense of vigor (a cause for suffering) will get you to the finish!" locIndex="10" />
+            <textevent timeoffset="350" message="You&apos;ve worked hard and done the training, all that&apos;s left to do today is perform." locIndex="11" />
+            <textevent timeoffset="380" message="Strong, tenacious, and rigorous! Believe it!" locIndex="12" />
+            <textevent timeoffset="540" message="Coming up next we&apos;re going to perform some progressive efforts to &apos;open&apos; the legs&apos;." locIndex="13" />
+            <textevent timeoffset="550" message="We will be doing 3x 20 seconds at zone 3, zone 5, and zone 6 while increasing our cadence alongside it." locIndex="14" />
+            <textevent timeoffset="560" message="Cadence will start off comfortably at 90, then go up to 100, then 110+ RPM for the final 20 seconds at zone 6." locIndex="15" />
+            <textevent timeoffset="570" message="I&apos;ll give you reminders of all these, so you can put the pen and paper away." locIndex="16" />
+            <textevent timeoffset="590" message="All right, in 10 seconds, power up to Zone 3, cadence at 90 RPM. Let&apos;s get those legs to work a little harder here." locIndex="17" />
+        </Warmup>
+        <SteadyState Duration="20" Power="0.90">
+            <textevent timeoffset="0" message="Power UP, cadence comfortable." locIndex="18" />
+            <textevent timeoffset="10" message="In 10 seconds, power is going up again, cadence up to 100 RPM." locIndex="19" />
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.1">
+            <textevent timeoffset="0" message="Get those legs moving a bit quicker here." locIndex="20" />
+            <textevent timeoffset="10" message="1 more step up in power, cadence at 110+ RPM or as fast as you can go witout bouncing in the saddle!" locIndex="21" />
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.3">
+            <textevent timeoffset="0" message="HUP HUP HUP!!" locIndex="22" />
+            <textevent timeoffset="10" message="10 more seconds!! Then we&apos;re reducing back down again." locIndex="23" />
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.90">
+            <textevent timeoffset="0" message="Excellent work! Reduce that power again and slow the legs down to 90 RPM. We&apos;re repeating that twice more." locIndex="24" />
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.1">
+            <textevent timeoffset="0" message="100 RPM!" locIndex="25" />
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.3045">
+            <textevent timeoffset="0" message="110+ RPM!! FAST FEET!!" locIndex="26" />
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.90">
+            <textevent timeoffset="0" message="Back down 1 last timeBreathe90 RPM." locIndex="27" />
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.1">
+            <textevent timeoffset="0" message="100 RPM again, c&apos;mon now!" locIndex="28" />
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.3">
+            <textevent timeoffset="0" message="GO GO GO!!" locIndex="29" />
+        </SteadyState>
+        <SteadyState Duration="180" Power="0.6">
+            <textevent timeoffset="0" message="Beautiful work! You should be at a nice sweat by now and are ready for the work that lies ahead." locIndex="30" />
+            <textevent timeoffset="10" message="We&apos;re going to take a full 3 minute recovery here, breathe and relax." locIndex="31" />
+            <textevent timeoffset="30" message="Make sure you&apos;re sipping fluids frequently as you recover. Keeping cool and hydrated and keys to success when training indoors." locIndex="32" />
+            <textevent timeoffset="60" message="Coming up next, we have a 5 minute Blow out effort at 110% FTP." locIndex="33" />
+            <textevent timeoffset="70" message="The purpose of this effort is to decrease your anaerobic contribution during the 20 minute FTP test." locIndex="34" />
+            <textevent timeoffset="80" message="By doing so, you will ideally receive a better estimation of what your FTP is." locIndex="35" />
+            <textevent timeoffset="90" message="If you&apos;ve never done this hard effort before an FTP test, expect the FTP test to feel A LOT harder, but more on that later." locIndex="36" />
+            <textevent timeoffset="120" message="1 more minute before the hard effort. Take some deep breaths here, get ready to dip your toe into the lactate pool." locIndex="37" />
+            <textevent timeoffset="130" message="lactate is of no match for a strong, tenacious, and rigorous athlete though, right?" locIndex="38" />
+            <textevent timeoffset="170" message="Keep your cadence above 90 RPM ideally here, expect this to start off feeling easy, and finish really hard!" locIndex="39" />
+        </SteadyState>
+        <SteadyState Duration="300" Power="1.1">
+            <textevent timeoffset="0" message="Let&apos;s go! DO NOT overpace it here to start with. Just stick to the target wattage as close you can." locIndex="40" />
+            <textevent timeoffset="10" message="Pacing is something CRUCIAL to an FTP test, so this 1st effort is a great way to start." locIndex="41" />
+            <textevent timeoffset="60" message="1 minute into it. Settle down from here on out. Find the cadence that feel right and stick with it." locIndex="42" />
+            <textevent timeoffset="120" message="BOOM! 2 minutes down. The legs will start to feel a little heavier in a bit, DON&apos;T let that slow you down!" locIndex="43" />
+            <textevent timeoffset="150" message="Halfway done here! Now we start counting the time downLet&apos;s go!" locIndex="44" />
+            <textevent timeoffset="180" message="2 minutes to go. Squeeze the energy out of those legs. Keep your shoulders down, elbow relaxed, light grip on the bars" locIndex="45" />
+            <textevent timeoffset="190" message="YOU ARE IN CONTROL!" locIndex="46" />
+            <textevent timeoffset="240" message="STRONG, TENACIOUS, RIGOROUS - GO GO GO!" locIndex="47" />
+            <textevent timeoffset="270" message="30 seconds to go! Empty the tanks!!" locIndex="48" />
+            <textevent timeoffset="290" message="10 seconds! Hold it all the way to the line!" locIndex="49" />
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.6">
+            <textevent timeoffset="0" message="Phew! Way to get that done. Take it way down and recover now" locIndex="50" />
+            <textevent timeoffset="10" message="This is a full 5 minute recovery, plenty of time to rest up from that last effort." locIndex="51" />
+            <textevent timeoffset="60" message="Breathe. Relax. Recover. Make sure you are continuing to drink." locIndex="52" />
+            <textevent timeoffset="120" message="Really focus on your headspace from here on out. Know you are stronger than you were." locIndex="53" />
+            <textevent timeoffset="180" message="In 2 minutes, our FTP test begins! The absolute key with these is to NOT go out too fast." locIndex="54" />
+            <textevent timeoffset="190" message="You are going to feel amazing, have adrenaline coursing through your veins, and be stoked to start it." locIndex="55" />
+            <textevent timeoffset="200" message="Make sure you keep a lid on your effort! The 1st 5 minutes should feel hard for sure, but also sustainable." locIndex="56" />
+            <textevent timeoffset="210" message="We will then take inventory and decide if we should push harder or notMore coaching to come during the test!" locIndex="57" />
+            <textevent timeoffset="270" message="30 seconds. Deep breath, YOU CAN DO THIS!" locIndex="58" />
+            <textevent timeoffset="290" message="Here we go. DO NOT START OFF TOO HARD!" locIndex="59" />
+        </SteadyState>
+        <FreeRide Duration="1200" FlatRoad="1" ftptest="1">
+            <textevent timeoffset="0" message="Bring the power up gradually here. If you have a goal wattage in mind, start off just below it and settle in." locIndex="60" />
+            <textevent timeoffset="10" message="Don&apos;t join the &apos;overpacers club&apos; today, that would make Coach too sad." locIndex="61" />
+            <textevent timeoffset="20" message="Strong!" locIndex="62" />
+            <textevent timeoffset="30" message="Tenacious!" locIndex="63" />
+            <textevent timeoffset="40" message="Rigorous!" locIndex="64" />
+            <textevent timeoffset="60" message="1 minute in here. Keep the wattage steady and your effort capped still. Stay STRONG and ignore that urge to blast off!" locIndex="65" />
+            <textevent timeoffset="120" message="2 minutes. Now you&apos;re starting to find your groove. Smooth out that pedal stroke and relax your upper body." locIndex="66" />
+            <textevent timeoffset="180" message="Stay within yourself. You&apos;re still going to be feeling awesome here, but don&apos;t let this fleeting feeling fool you!" locIndex="67" />
+            <textevent timeoffset="190" message="Like my use of alliteration there? Thought so :-)" locIndex="68" />
+            <textevent timeoffset="200" message="FOCUS UP! This is an FTP test, no fun allowed." locIndex="69" />
+            <textevent timeoffset="300" message="5 minutes into this, 1/4 of the way done! Take a moment here, and focus on how you&apos;re feeling." locIndex="70" />
+            <textevent timeoffset="310" message="Feeling good? Up the power just a tad. Feeling bad? Stay here. Not sure? Stay here." locIndex="71" />
+            <textevent timeoffset="320" message="This test is still in its early days, pace yourself and don&apos;t be a hero!" locIndex="72" />
+            <textevent timeoffset="420" message="Fun fact, Bradley Wiggins maintained 440w for 60 MINUTES during his Hour Record attempt!" locIndex="73" />
+            <textevent timeoffset="430" message="So, you can keep it going for another 13 minutes! This is when the test starts to change and feel a bit less &apos;fun&apos;." locIndex="74" />
+            <textevent timeoffset="440" message="Remember your motto here. Staying TENACIOUS will carry you through. We haven&apos;t got to the rigorous portion yet." locIndex="75" />
+            <textevent timeoffset="600" message="Halfway through this! Take a moment again and decide how you&apos;re feeling." locIndex="76" />
+            <textevent timeoffset="610" message="And again, if you&apos;re still feeling relatively good, up the wattage a little bit more. Otherwise, hang on!" locIndex="77" />
+            <textevent timeoffset="620" message="Now we start to count down to the finish!!" locIndex="78" />
+            <textevent timeoffset="720" message="8 minutes to go! Now the RIGORS of this test start to appear. YOU CAN DO THIS!" locIndex="79" />
+            <textevent timeoffset="840" message="Another fun fact, most professional cyclists can maintain over 6 w/kg for 20 minutes!" locIndex="80" />
+            <textevent timeoffset="850" message="And 6 minutes is all you have left today! Make it happen!!" locIndex="81" />
+            <textevent timeoffset="900" message="Final 5 minutes of this test! We are now 3/4 of the way through and on the home stretch." locIndex="82" />
+            <textevent timeoffset="910" message="Take inventory again and up the power once more if you can. If you&apos;ve gone out too hard, HANG ON!!" locIndex="83" />
+            <textevent timeoffset="960" message="4 minutes to go!! By far the worst part of the test starts now. MAKE IT HAPPEN HERE!" locIndex="84" />
+            <textevent timeoffset="970" message="Dig deep and &apos;embrace the suck&apos;!" locIndex="85" />
+            <textevent timeoffset="1020" message="3 minutes left! Give me MORE POWER here! Even if it&apos;s just a little bit more. DIG DIG DIG!!" locIndex="86" />
+            <textevent timeoffset="1080" message="Final 2 minutes of this test! THIS IS IT!! POWER!!!" locIndex="87" />
+            <textevent timeoffset="1110" message="STRONG, TENACIOUS, RIGOROUS! Give me more power!" locIndex="88" />
+            <textevent timeoffset="1140" message="This is it, you can see the arch in front of you now. PUSH ALL THE WAY TO IT!" locIndex="89" />
+            <textevent timeoffset="1170" message="EMPTY THE TANKS!! EVERYTHING LEFT GETTING TO THAT ARCH." locIndex="90" />
+            <textevent timeoffset="1190" message="UP UP UP!!" locIndex="91" />
+        </FreeRide>
+        <Cooldown Duration="300" PowerLow="0.65" PowerHigh="0.45">
+            <textevent timeoffset="0" message="YOU DID IT!! You should be proud of yourself for pushing through and digging deep." locIndex="92" />
+            <textevent timeoffset="10" message="We&apos;re done with the test (yippee!) and are just going to spend some time cooling down now." locIndex="93" />
+            <textevent timeoffset="20" message="At the end of the cool down, Zwift will let you know if your FTP has improved." locIndex="94" />
+            <textevent timeoffset="30" message="Try not to reduce the cool down today, your legs will thank you." locIndex="95" />
+            <textevent timeoffset="40" message="Cheapeau, my friend! I hope you enjoyed this plan and saw an improvement in your fitness." locIndex="96" />
+            <textevent timeoffset="50" message="And, most importantly, feel ready to TACKLE a gravel grinder in the future!" locIndex="97" />
+            <textevent timeoffset="60" message="Thank you for all your hard work these past 6 weeks. Coach is over and out :-)" locIndex="98" />
+        </Cooldown>
+    </workout>
+</workout_file>

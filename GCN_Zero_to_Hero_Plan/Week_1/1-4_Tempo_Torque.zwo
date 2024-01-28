@@ -1,0 +1,108 @@
+<workout_file>
+    <uniqueId>d66c83cc-ff35-44b2-ab5a-59cfddfd7108</uniqueId>
+    <legacyIdHash>2639399051</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 1 - Initial Testing.4 - Tempo Torque</name>
+    <description>Today&apos;s session is all about pedaling technique and building efficiency in your pedal stroke. We&apos;ll break today&apos;s 15min efforts into 3 x 5min. The 1st and 3rd 5min is to be done at 80 RPM, but the middle 5min interval is to be done at 60 RPM. By pedaling slower we engage all our muscles throughout the pedal stroke.This teaches us a neuromuscular pathway that over time becomes stronger, more efficient, and second nature.</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 1 - Initial Testing</subcategory>
+    <tags />
+    <workout>
+        <Warmup Duration="180.00002" PowerLow="0.44999996" PowerHigh="0.60000002" Cadence="85">
+            <textevent timeoffset="0" message="Welcome to Tempo Torque! Let&apos;s get stuck in today and start with a warm up." locIndex="1" />
+            <textevent timeoffset="10" message="We&apos;ll start with a nice and easy 3min ramp at a comfortable cadence." locIndex="2" />
+            <textevent timeoffset="20" message="Then, move into some higher cadence work." locIndex="3" />
+            <textevent timeoffset="120" message="Good work so far. In 1min, we&apos;re increasing to 90 RPM." locIndex="4" />
+            <textevent timeoffset="170" message="All right, bring your leg speed up just a bit higher." locIndex="5" />
+        </Warmup>
+        <SteadyState Duration="60.000004" Power="0.60000002" Cadence="90">
+            <textevent timeoffset="0" message="We&apos;ll increase our cadence by 5 RPM each minute now." locIndex="6" />
+            <textevent timeoffset="50" message="Prepare for 95 RPM next." locIndex="7" />
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.64999998" Cadence="95">
+            <textevent timeoffset="0" message="Keep your form solid here - no bouncing or lurching back and forth on the saddle." locIndex="8" />
+            <textevent timeoffset="50" message="We&apos;ll move up to 100 RPM next." locIndex="9" />
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.81" Cadence="100">
+            <textevent timeoffset="0" message="Getting quick now! Stick with it and get those legs warmed up!" locIndex="10" />
+            <textevent timeoffset="50" message="We&apos;ll cap this off with a HARD effort at 105 RPM." locIndex="11" />
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.09" Cadence="105">
+            <textevent timeoffset="0" message="GO GO GO!" locIndex="12" />
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.5" Cadence="85">
+            <textevent timeoffset="0" message="Excellent! Bring the cadence back to something more comfortable..." locIndex="13" />
+            <textevent timeoffset="10" message="and let&apos;s take a moment to chat about today&apos;s workout." locIndex="14" />
+            <textevent timeoffset="20" message="The name says it all really - &apos;Tempo Torque&apos; - which is all about working at Tempo..." locIndex="15" />
+            <textevent timeoffset="30" message="or zone 3, and including some higher torque work at 60 RPM." locIndex="16" />
+            <textevent timeoffset="40" message="The intervals themselves are 3, 5min, ramp efforts." locIndex="17" />
+            <textevent timeoffset="50" message="With the 1st and 3rd interval being at 80 RPM and the middle at 60 RPM." locIndex="18" />
+            <textevent timeoffset="60" message="So, a 60 RPM sandwich between 2 80 RPM intervals :-)" locIndex="19" />
+            <textevent timeoffset="70" message="And today is all about improving your pedaling technique and building efficiency in your pedal stroke." locIndex="20" />
+            <textevent timeoffset="80" message="By pedaling slower we engage all our muscles throughout the pedal stroke." locIndex="21" />
+            <textevent timeoffset="90" message="This teaches us a neuromuscular pathway that over time becomes stronger, more efficient and second nature." locIndex="22" />
+            <textevent timeoffset="100" message="Let&apos;s take a little more time easy before we begin the main set." locIndex="23" />
+            <textevent timeoffset="150" message="Okay, in 30sec we&apos;re on. Remember, we start and end at 80 RPM, with the middle interval being at 60 RPM." locIndex="24" />
+        </SteadyState>
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" Cadence="80">
+            <textevent timeoffset="0" message="Here we go! We&apos;ll ramp up all the way through zone 3 with these." locIndex="25" />
+            <textevent timeoffset="10" message="Remember to keep your cadence around 80 RPM here and let&apos;s settle in." locIndex="26" />
+            <textevent timeoffset="120" message="As the power ramps up, don&apos;t lose your form. Keep your hips nice and stable." locIndex="27" />
+            <textevent timeoffset="150" message="Halfway! Keep it up here!" locIndex="28" />
+            <textevent timeoffset="240" message="In 1min, we&apos;re going to drop the cadence to 60 RPM and really work on that pedal stroke." locIndex="29" />
+            <textevent timeoffset="250" message="The power will drop back down again to start the interval." locIndex="30" />
+            <textevent timeoffset="290" message="Okay, start lowering the cadence down slightly..." locIndex="31" />
+        </Ramp>
+        <Ramp Duration="300" PowerLow="0.76449996" PowerHigh="0.89449996" Cadence="60">
+            <textevent timeoffset="0" message="and let&apos;s get locked into this high torque interval." locIndex="32" />
+            <textevent timeoffset="10" message="Repeat: push, scrape, pull, and kick here and try to work the entire pedal stroke." locIndex="33" />
+            <textevent timeoffset="20" message="You&apos;ll naturally favor the &apos;push&apos; and &apos;pull&apos; portions, but it&apos;s still beneficial..." locIndex="34" />
+            <textevent timeoffset="30" message="to work on the &apos;scrape&apos; and &apos;kick&apos; portions, especially if you are relatively new to the sport." locIndex="35" />
+            <textevent timeoffset="120" message="Great work here! You can stand up for a moment here and there if needed, but try to keep seated most of the time today." locIndex="36" />
+            <textevent timeoffset="240" message="1min to go for this middle interval, then we&apos;ll bring the cadence back up to 80 RPM." locIndex="37" />
+            <textevent timeoffset="290" message="You made it! Start bringing the cadence back up to 80 RPM again." locIndex="38" />
+        </Ramp>
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" Cadence="80">
+            <textevent timeoffset="0" message="Let&apos;s finish this last interval of the 1st set STRONG! Get to it!" locIndex="39" />
+            <textevent timeoffset="120" message="You should feel like using the full pedal stroke is easier after that middle interval..." locIndex="40" />
+            <textevent timeoffset="130" message="which is due to the neuromuscular pathway that over time becomes stronger, more efficient and second nature." locIndex="41" />
+            <textevent timeoffset="180" message="2min to go here! The power will continue to ramp up steadily." locIndex="42" />
+            <textevent timeoffset="270" message="Finish these final 30sec STRONG, then we&apos;ll take a quick rest." locIndex="43" />
+        </Ramp>
+        <SteadyState Duration="120.00001" Power="0.5" Cadence="85">
+            <textevent timeoffset="0" message="Nice! That&apos;s 1 down and 1 to go. We&apos;ll take 2min easy between sets today." locIndex="44" />
+            <textevent timeoffset="10" message="Take some deep breaths and a couple sips of fluid here." locIndex="45" />
+            <textevent timeoffset="90" message="In 30sec, we&apos;re back on again. We&apos;re starting off at 80 RPM :-)" locIndex="46" />
+        </SteadyState>
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" Cadence="80">
+            <textevent timeoffset="0" message="Okay, let&apos;s get into rep #2! Same process as #1 here." locIndex="47" />
+            <textevent timeoffset="10" message="Keep the cadence smooth and steady and aim for consistency over the next 15min." locIndex="48" />
+            <textevent timeoffset="120" message="Good work so far! Keep the shoulders relaxed, elbows bent slightly, and a light grip on the bars." locIndex="49" />
+            <textevent timeoffset="240" message="In 1min, we&apos;ll reduce our cadence to 60 RPM again." locIndex="50" />
+            <textevent timeoffset="290" message="Start bringing the cadence down now." locIndex="51" />
+        </Ramp>
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" Cadence="60">
+            <textevent timeoffset="0" message="Okay, let&apos;s focus on the push, scrape, pull, and kick of your pedal stroke again." locIndex="52" />
+            <textevent timeoffset="60" message="You may stand up as needed, but try to keep seated for the majority of the time today." locIndex="53" />
+            <textevent timeoffset="150" message="That&apos;s halfway! Feeling a bit of fatigue in the legs at this point is totally normal." locIndex="54" />
+            <textevent timeoffset="160" message="Keep pushing through!" locIndex="55" />
+            <textevent timeoffset="240" message="Last minute, then we&apos;ll bring the cadence back up again to 80 RPM." locIndex="56" />
+        </Ramp>
+        <Ramp Duration="300" PowerLow="0.75999999" PowerHigh="0.88999999" Cadence="80">
+            <textevent timeoffset="0" message="Nice! You made it through the high torque work again, my friend!" locIndex="57" />
+            <textevent timeoffset="10" message="Let&apos;s settle into 80 RPM for the last 5min of this 2nd interval." locIndex="58" />
+            <textevent timeoffset="120" message="Does your pedal stroke feel smoother from that low cadence work?" locIndex="59" />
+            <textevent timeoffset="130" message="Hopefully, you&apos;re feeling like you&apos;re able to engage a larger percentage of the stroke." locIndex="60" />
+            <textevent timeoffset="240" message="Final minute here, finish this STRONG!" locIndex="61" />
+        </Ramp>
+        <Cooldown Duration="300" PowerLow="0.75449997" PowerHigh="0.45450002" Cadence="85">
+            <textevent timeoffset="0" message="Excellent work! That&apos;s Tempo Torque done and dusted." locIndex="62" />
+            <textevent timeoffset="10" message="We&apos;ll spend 5min reducing the effort now and cooling down." locIndex="63" />
+            <textevent timeoffset="150" message="Continue to slowly lower the power and return to baseline again." locIndex="64" />
+            <textevent timeoffset="240" message="Exceptional work again today! Way to push yourself and unlock more fast!" locIndex="65" />
+            <textevent timeoffset="270" message="Good luck with the remaining Zero to Hero workouts." locIndex="66" />
+            <textevent timeoffset="290" message="Ride On!" locIndex="67" />
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,14 @@
+<workout_file>
+    <uniqueId>7089ea58-0243-42fe-a362-8cb11d99f8cf</uniqueId>
+    <legacyIdHash>704892791</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 2.7 - Free Ride</name>
+    <description>Just ENJOY today. You have two options. Either just ride around the amazing Worlds on Zwift or join in a Zwift group ride of some description. The goal is to aim for 90min of endurance riding. Ride on feel today at a 3-5/10 perceived exertion level (RPE).</description>
+    <sportType>bike</sportType>
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 2</subcategory>
+    <tags />
+    <workout>
+        <FreeRide Duration="5400" FlatRoad="1" />
+    </workout>
+</workout_file>

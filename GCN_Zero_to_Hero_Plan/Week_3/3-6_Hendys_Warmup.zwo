@@ -1,0 +1,89 @@
+<workout_file>
+    <uniqueId>baa60dea-7208-413c-bf0d-367f324089cf</uniqueId>
+    <legacyIdHash>126237790</legacyIdHash>
+    <author>Shayne Gaffney</author>
+    <name>Week 3.6 - Race Day!</name>
+    <description>Let&apos;s get in some intensity today! Do this 20min warm up then hop into a Zwift race. Make sure you leave about 5min to get into the pre-race pen to get a spot close to the front!</description>
+    <sportType>bike</sportType>
+    <tags />
+    <category>GCN Zero to Hero Plan</category>
+    <subcategory>Week 3</subcategory>
+    <workout>
+        <Warmup Duration="120" PowerHigh="0.55" PowerLow="0.35">
+            <textevent distoffset="0" message="Welcome to Coach Hendy&apos;s Perfect Race Warmup!" locIndex="1" />
+            <textevent distoffset="10" message="Let&apos;s start off real light and easy and just ease into things here." locIndex="2" />
+            <textevent distoffset="20" message="Aim to keep your cadence in the 85-95 RPM range here." locIndex="3" />
+            <textevent timeoffset="30" message="Also, be sure you have all of your essentials handy: Fluids, fuel, fan, and towel." locIndex="4" />
+            <textevent timeoffset="40" message="A lot of science has gone into the warmup aspect of performance." locIndex="5" />
+            <textevent timeoffset="50" message="Physiologically you only need 7 mins of warmup to prime the muscles before competition." locIndex="6" />
+            <textevent timeoffset="60" message="Today is of course longer than just 7 mins, but you&apos;ll be feeling ready to rock nonetheless!" locIndex="7" />
+            <textevent timeoffset="70" message="This warmup is designed to take you up to FTP and then activate the muscles with a short PCr acceleration." locIndex="8" />
+            <textevent timeoffset="80" message="PCr stands for &apos;phosphocreatine&apos; and is AKA as the &apos;sprint&apos; energy system." locIndex="9" />
+            <textevent timeoffset="90" message="And we all know how important the start to any Zwift race is since it usually starts with a sprint effort." locIndex="10" />
+            <textevent timeoffset="100" message="As we ride, it is important to concentrate on a nice smooth pedaling action." locIndex="11" />
+            <textevent timeoffset="110" message="The ramp is going to be broken down into 1min intervals and will bring us up to threshold." locIndex="12" />
+        </Warmup>
+        <SteadyState Duration="60" Power="0.6">
+            <textevent timeoffset="0" message="All right, really easy to start with. Aim to keep your cadence consistent in that 85-95 RPM range here." locIndex="13" />
+            <textevent timeoffset="50" message="Up next, we&apos;re going to bring it up to Zone 2." locIndex="14" />
+        </SteadyState>
+        <SteadyState Duration="60" Power="0.65">
+            <textevent timeoffset="0" message="Just a little more effort now, same cadence." locIndex="15" />
+            <textevent timeoffset="50" message="Get ready for a little more intensity in 10sec..." locIndex="16" />
+        </SteadyState>
+        <SteadyState Duration="60" Power="0.7">
+            <textevent timeoffset="0" message="Lift the effort up even more here, but this still should feel comfortable." locIndex="17" />
+            <textevent timeoffset="50" message="Make sure you&apos;re keeping your cadence steady and not letting it drop as the power increases." locIndex="18" />
+        </SteadyState>
+        <SteadyState Duration="60" Power="0.75">
+            <textevent timeoffset="0" message="Lift that power again here. Now&apos;s a good time to take a sip of fluid as well." locIndex="19" />
+            <textevent timeoffset="50" message="All right, next we&apos;re moving up to Zone 3. I also want you to lift your cadence to 95+ RPM." locIndex="20" />
+        </SteadyState>
+        <SteadyState Duration="60" Power="0.8">
+            <textevent timeoffset="0" message="Zone 3 now and 95+ RPM! Starting to feel like work now :-)" locIndex="21" />
+            <textevent timeoffset="50" message="Get ready to step it up again in 10, 9, 8..." locIndex="22" />
+        </SteadyState>
+        <SteadyState Duration="60" Power="0.85">
+            <textevent timeoffset="0" message="85% FTP here! Keep that cadence nice and smooth and at 95+ RPM!" locIndex="23" />
+            <textevent timeoffset="50" message="90% FTP coming up!" locIndex="24" />
+        </SteadyState>
+        <SteadyState Duration="60" Power="0.9">
+            <textevent timeoffset="0" message="Bring it up! Keep that cadence here!" locIndex="25" />
+            <textevent timeoffset="30" message="30sec, then we&apos;re heading up to threshold for 2min!" locIndex="26" />
+            <textevent timeoffset="40" message="As we head to threshold you should be starting to feel a little bit sweaty." locIndex="27" />
+            <textevent timeoffset="50" message="Okay, in 10 sec we&apos;re heading to Zone 4 and at 100 RPM! Really get those legs spinning!" locIndex="28" />
+        </SteadyState>
+        <SteadyState Duration="120" Power="1">
+            <textevent timeoffset="0" message="GO GO GO! Bring it right up to FTP and get your legs spinning just a bit faster." locIndex="29" />
+            <textevent timeoffset="30" message="Make sure you&apos;re not bouncing in that saddle and keeping your upper body relaxed. Aim to keep things smooth." locIndex="30" />
+            <textevent timeoffset="60" message="1min to go here, then we&apos;ll recover. Keep it up!!" locIndex="31" />
+            <textevent timeoffset="90" message="Don&apos;t let your cadence drop off now! GO GO GO!" locIndex="32" />
+            <textevent timeoffset="110" message="Keep pushing all the way to the arch!" locIndex="33" />
+        </SteadyState>
+        <SteadyState Duration="120" Power="0.6">
+            <textevent distoffset="0" message="Excellent! That&apos;s it for the 1st half of the warmup. Now, take it really easy for a couple of minutes." locIndex="34" />
+            <textevent distoffset="10" message="Next, we&apos;re going to do some sprints to activate your PCr (phosphocreatine) system." locIndex="35" />
+            <textevent distoffset="50" message="Take a few deep breaths and a sip of fluid here. You should be at a nice sweat by now." locIndex="36" />
+            <textevent distoffset="60" message="Get ready for the activation acceleration." locIndex="37" />
+            <textevent distoffset="70" message="The idea is to prep the muscle via post activation potentiation." locIndex="38" />
+            <textevent distoffset="80" message="Which is a fancy way of saying increase the strength of nerve impulses." locIndex="39" />
+            <textevent distoffset="90" message="Since these are short, it&apos;s best to do them with ERG turned off." locIndex="40" />
+            <textevent timeoffset="100" message="You can control this from your keyboard (up arrow), or the Zwift Companion app." locIndex="41" />
+            <textevent timeoffset="110" message="Ready? I want you to stay seated for these and give it a nice hard surge for 8sec!" locIndex="42" />
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="8" OnPower="1.4" OffDuration="102" OffPower="0.55">
+            <textevent timeoffset="0" message="GO GO GO!! FULL GAS!" locIndex="43" />
+            <textevent timeoffset="10" message="Excellent work, now bring the power way down and spin easy for a little bit. We do that 3 more times." locIndex="44" />
+            <textevent timeoffset="110" message="Ready for another surge? Remember, stay seated and drive those pedals!" locIndex="45" />
+            <textevent timeoffset="120" message="UP UP UP!! DRIVE IT!" locIndex="46" />
+            <textevent timeoffset="130" message="Excellent work! Take it easy again for a couple of minutes." locIndex="47" />
+            <textevent timeoffset="140" message="You should really feel your glutes and thighs working with these activation surges." locIndex="48" />
+            <textevent timeoffset="230" message="Ready for #3? Same deal as the 1st 2...Get ready!" locIndex="49" />
+            <textevent timeoffset="240" message="PUSH IT!! GO GO GO!" locIndex="50" />
+            <textevent timeoffset="250" message="Awesome work! Just 1 more to go! You should feel like you&apos;re firing on all cylinders now." locIndex="51" />
+            <textevent timeoffset="350" message="This is the finale...Make this one just as good as the 1st! Ready?" locIndex="52" />
+            <textevent timeoffset="360" message="GO GO GO!! DRIVE IT HOME!" locIndex="53" />
+            <textevent timeoffset="370" message="Awesome work! Now, let&apos;s take a few mins easy and then you can start your race! Good luck!" locIndex="54" />
+        </IntervalsT>
+    </workout>
+</workout_file>

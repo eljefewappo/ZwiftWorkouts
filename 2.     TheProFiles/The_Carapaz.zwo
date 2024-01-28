@@ -1,0 +1,157 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>The Carapaz</name>
+    <description>Richard Carapaz, current Olympic Road Race Champion and the 2019 Giro d'Italia winner, can fly uphill in the blink of an eye. Climbers like Richard have an uncanny ability to attack and recover, seemingly with ease. Today's workout will improve your ability to do exactly that!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="ineos2021"/>
+        <tag name="Under"/>
+        <tag name="60min"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480.00003" PowerLow="0.5" PowerHigh="0.75" pace="0">
+            <textevent timeoffset="0" message="Welcome to the INEOS Grenadiers Virtual Training Camp!"/>
+            <textevent timeoffset="10" message="Let&apos;s get started with an easy warm-up. Keep your cadence comfortable."/>
+            <textevent timeoffset="60" message="The INEOS Grenadiers is one of the world&apos;s most successful cycling teams."/>
+            <textevent timeoffset="70" message="The team has a thirst for a good challenge and a pioneering spirit that allows them to keep pushing themselves and the wider sport of cycling forward."/>
+            <textevent timeoffset="120" message="The INEOS Grenadiers Virtual Training Camp gives Zwifters a taste of the training these riders undertake in preparation for their season."/>
+            <textevent timeoffset="130" message="Each workout features a team rider and is tailored to what they would do in their own training."/>
+            <textevent timeoffset="140" message="Today&apos;s workout features Richard Carapaz, current Olympic Road Race Champion and the 2019 Giro d&apos;Italia winner."/>
+            <textevent timeoffset="150" message="Richard says &apos;Follow my 52 minute workout where you&apos;ll test your already fatigued muscles by completing longer intervals, followed by short and sharp ones.&apos;"/>
+            <textevent timeoffset="180" message="Climbers like Richard have an uncanny ability to attack and recover, seemingly with ease."/>
+            <textevent timeoffset="190" message="Today&apos;s workout will improve your ability to do exactly that."/>
+            <textevent timeoffset="240" message="Halfway through the warm-up here, keep easing into the day."/>
+            <textevent timeoffset="420" message="Coming up in 1min, we&apos;ll do two leg primers."/>
+            <textevent timeoffset="430" message="Primers help ensure the legs are awake before the main set begins."/>
+            <textevent timeoffset="470" message="Alright, get ready for a hard surge in effort next!"/>
+        </Warmup>
+        <IntervalsT Repeat="2" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.15" OffPower="0.55000001" pace="0">
+            <textevent timeoffset="0" message="GO GO GO!"/>
+            <textevent timeoffset="15" message="Keep driving it!"/>
+            <textevent timeoffset="30" message="Great work! Let&apos;s take a short break here, then we&apos;ll repeat that once more."/>
+            <textevent timeoffset="60" message="UP UP!"/>
+            <textevent timeoffset="90" message="Nice one! That&apos;s it for the warm-up."/>
+            <textevent timeoffset="100" message="Let&apos;s take it easy for a bit, then we&apos;ll start the main set."/>
+        </IntervalsT>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="0">
+            <textevent timeoffset="30" message="Today&apos;s intervals will be a challenge, but they&apos;re great for improving your ability to recover under pressure."/>
+            <textevent timeoffset="40" message="Most of the day will be spent at Zone 3, but we&apos;ll throw in a hard surge effort every 3min."/>
+            <textevent timeoffset="50" message="The surge effort will load up the legs and challenge you, especially afterward trying to recover afterward."/>
+            <textevent timeoffset="60" message="This is the type of workout that Richard excels at and is something he&apos;d practice during training camps."/>
+            <textevent timeoffset="110" message="Okay, starting off at Zone 3, keep your cadence comfortable..."/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Here we go! Let&apos;s lull you into a false sense of security before we crush you! (kidding!)"/>
+            <textevent timeoffset="60" message="Steady now. Find a cadence that feels comfortable and sustainable."/>
+            <textevent timeoffset="150" message="In 30sec, we&apos;ll do our first surge effort. You can do them seated or standing, your call."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="Pick it up! C&apos;mon!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.2" pace="0">
+            <textevent timeoffset="0" message="Even more now! Load up those legs!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Good! Now the workout really starts. Take deep breaths here and recover as best you can under pressure."/>
+            <textevent timeoffset="60" message="Lower your heart rate and get your breathing under control."/>
+            <textevent timeoffset="150" message="Get ready to surge again in 30sec!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="PUSH IT!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.2" pace="0">
+            <textevent timeoffset="0" message="UP UP!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Great effort so far! Bring it down again and let&apos;s recover here."/>
+            <textevent timeoffset="60" message="Breathe...relax and let go of the tension in your upper body."/>
+            <textevent timeoffset="120" message="You can do this! Only two more surge efforts left for this first set."/>
+            <textevent timeoffset="170" message="Let&apos;s make it happen here!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="DRIVE THIS!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.2" pace="0">
+            <textevent timeoffset="0" message="DON&apos;T LET UP!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="YEAH! Only one more surge to go, then we&apos;ll take a long recovery. Get there!"/>
+            <textevent timeoffset="90" message="Stay with me here! You can do this, believe in yourself!"/>
+            <textevent timeoffset="170" message="Ready? Final surge coming in hot!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="DIG FOR IT!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.2" pace="0">
+            <textevent timeoffset="5" message="GET TO THE ARCH!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.55000001" pace="0">
+            <textevent timeoffset="0" message="Great work! That&apos;s one down and one more to go."/>
+            <textevent timeoffset="10" message="We&apos;ll take 5min at an easy pace between these sets to let you recover."/>
+            <textevent timeoffset="20" message="Use this time to have a drink and towel off. You&apos;ve earned it."/>
+            <textevent timeoffset="60" message="Richard loves training on Zwift because of &apos;how you can adapt it to your specific training plan and goals.&apos;"/>
+            <textevent timeoffset="70" message="&apos;Whether you need a hard endurance ride, short sharp intervals or a fun social ride, Zwifr has something for everyone!&apos;"/>
+            <textevent timeoffset="120" message="Carapaz won the 2019 Giro d&apos;Italia, becoming the first Ecuadorian rider to win the race."/>
+            <textevent timeoffset="180" message="He&apos;s also the first cyclist in history to have both an Olympic gold medal and a podium in all three great tours."/>
+            <textevent timeoffset="240" message="He is nicknamed &apos;La Locomotora&apos; (The Locomotive), and this workout suits that nickname well :-)"/>
+            <textevent timeoffset="270" message="Alright! In 30sec, we&apos;re back on again so get ready to go!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="You know the drill, back to steady tempo here."/>
+            <textevent timeoffset="60" message="Steady now. Find a cadence that feels comfortable and sustainable."/>
+            <textevent timeoffset="150" message="Gear up for another surge effort, remember you can do them seated or standing."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="Pick it up! C&apos;mon!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.2" pace="0">
+            <textevent timeoffset="0" message="Even more now! Load up those legs!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Amazing work! Recover here now, you got it."/>
+            <textevent timeoffset="60" message="Lower your heart rate and get your breathing under control."/>
+            <textevent timeoffset="150" message="Get ready to surge again in 30sec!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="PUSH IT!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.2" pace="0">
+            <textevent timeoffset="0" message="UP UP!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Great effort so far! Bring it down again and recover here."/>
+            <textevent timeoffset="60" message="Breathe...relax and let go of the tension in your upper body."/>
+            <textevent timeoffset="120" message="Sip those fluids here, 1min to go before we&apos;re back on!"/>
+            <textevent timeoffset="170" message="Make Richard proud here!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="DRIVE THIS!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.2" pace="0">
+            <textevent timeoffset="0" message="DON&apos;T LET UP!"/>
+        </SteadyState>
+        <SteadyState Duration="180.00002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="YEAH! Only one more surge to go and we&apos;ll cool down. Get there!"/>
+            <textevent timeoffset="90" message="Stay with me here! You can do this, believe in your ability!"/>
+            <textevent timeoffset="170" message="Ready? Final surge coming in hot!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="DIG FOR IT!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.2" pace="0">
+            <textevent timeoffset="5" message="GET TO THE ARCH!"/>
+        </SteadyState>
+        <Cooldown Duration="300" PowerLow="0.55000001" PowerHigh="0.34999996" pace="0">
+            <textevent timeoffset="0" message="Woo! Amazing work there, my friend."/>
+            <textevent timeoffset="10" message="We&apos;ll take some time to cool down now. You&apos;ve earned it!"/>
+            <textevent timeoffset="30" message="Richard&apos;s recovery tip: &apos;It&apos;s important to recover from indoor training as you would any other session.&apos;"/>
+            <textevent timeoffset="40" message="&apos;Gentle stretching and foam rolling followed by a hearty meal can really set you up for the next day.&apos;"/>
+            <textevent timeoffset="60" message="Deep breaths here, get yourself back to baseline again."/>
+            <textevent timeoffset="120" message="Be sure to check out the other INEOS Grenadiers Training Camp Workouts."/>
+            <textevent timeoffset="130" message="They&apos;re all available on-demand and will fit any intensity you&apos;re looking for."/>
+            <textevent timeoffset="240" message="Final minute of the day here, thank you for your hard work today!"/>
+            <textevent timeoffset="250" message="I hope you enjoyed the workout and will come back for more soon."/>
+            <textevent timeoffset="290" message="Until next time, Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

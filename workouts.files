@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>Intervals/Power_Intervals.zwo</name>
+        <time>1706458121</time>
+        <guid>21950</guid>
+        <checksum>96</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>2.     TheProFiles/The_Carapaz.zwo</name>
+        <time>1706452749</time>
+        <guid>13538</guid>
+        <checksum>114</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Kephart+.zwo</name>
         <time>1700049223</time>
         <guid>645</guid>
@@ -778,9 +792,9 @@
     </custom_file>
     <custom_file>
         <name>VO2-Max/Escalating_3min_VO2max.zwo</name>
-        <time>1706452153</time>
-        <guid>28844</guid>
-        <checksum>137</checksum>
+        <time>1706453152</time>
+        <guid>13313</guid>
+        <checksum>43</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

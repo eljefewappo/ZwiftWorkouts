@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>Intervals/myTabata.zwo</name>
+        <time>1707302079</time>
+        <guid>32246</guid>
+        <checksum>103</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myFlash_Burn.zwo</name>
+        <time>1707051692</time>
+        <guid>5443</guid>
+        <checksum>101</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Zones/Zone3/Zone_3_Climbing_Adaptions.zwo</name>
         <time>1706975706</time>
         <guid>11000</guid>
@@ -109,13 +123,6 @@
         <time>1706458121</time>
         <guid>21950</guid>
         <checksum>96</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>2.     TheProFiles/The_Carapaz__1_.zwo</name>
-        <time>1706452749</time>
-        <guid>13538</guid>
-        <checksum>114</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1593,5 +1600,7 @@
         <hash>411559398</hash>
         <hash>2379753644</hash>
         <hash>3329001192</hash>
+        <hash>1878931428</hash>
+        <hash>2825878195</hash>
     </deleted_files>
 </custom_file_directory>

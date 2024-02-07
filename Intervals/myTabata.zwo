@@ -1,0 +1,83 @@
+<workout_file>
+    <author>British Cycling</author>
+    <name> myTabata</name>
+    <description>The original High Intensity Interval Training (HIIT) protocol and a perfect test of your ability to go hard, recover briefly (very briefly) and go again. Nail this workout and you can be confident that you'll be able to cope with any flurry of attacks that will undoubtedly be launched early on during the race.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.34999996" PowerHigh="0.55000001" pace="0" Cadence="95">
+            <textevent timeoffset="0" message="Welcome to Session 12 of the British Cycling 6-Week Training Plan."/>
+            <textevent timeoffset="30" message="Tabata is a simple but massively effective HIIT session."/>
+            <textevent timeoffset="45" message="It&apos;s comprised of 4 min blocks broken into 20 sec hard and 10 sec recovery."/>
+            <textevent timeoffset="55" message="You&apos;ll do three blocks with 5 min recoveries."/>
+            <textevent timeoffset="60" message="First though is the British Cycling 20 min warm-up."/>
+            <textevent timeoffset="90" message="Like all of our riders, you&apos;ll use it before every session."/>
+            <textevent timeoffset="120" message="It&apos;ll prepare you physically and mentally for the workout."/>
+            <textevent timeoffset="180" message="Really focus on hitting the cadence targets."/>
+        </Warmup>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="0" Cadence="95">
+            <textevent timeoffset="0" message="Up your cadence slightly."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.64999998" pace="0" Cadence="100">
+            <textevent timeoffset="0" message="Up it again."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.75" pace="0" Cadence="105">
+            <textevent timeoffset="0" message="Another notch up."/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="0.85000002" pace="0" Cadence="110">
+            <textevent timeoffset="0" message="Keep it smooth."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.89999998" pace="0" Cadence="125">
+            <textevent timeoffset="0" message="Hold that high cadence, no bouncing in the saddle."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.44999999" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Spin easy, grab a drink and get ready for some rev outs."/>
+            <textevent timeoffset="60" message="First rev out in 60 sec. It&apos;s 6 sec of maximum spinning."/>
+            <textevent timeoffset="110" message="Ready in 10 sec, keep it fast and fluid."/>
+        </SteadyState>
+        <SteadyState Duration="6.0000005" Power="1.05" pace="0" Cadence="150">
+            <textevent timeoffset="0" message="Max Rev Out!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.44999999" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Ease up!"/>
+            <textevent timeoffset="50" message="Rev out number two in 10 sec."/>
+        </SteadyState>
+        <SteadyState Duration="6.0000005" Power="1.05" pace="0" Cadence="150">
+            <textevent timeoffset="0" message="Max Rev Out!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.44999999" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Ease up!"/>
+            <textevent timeoffset="50" message="Final Rev Out in 10 sec. See if you can set a high cadence PB."/>
+        </SteadyState>
+        <SteadyState Duration="6.0000005" Power="1.05" pace="0" Cadence="150">
+            <textevent timeoffset="0" message="Max Rev Out!"/>
+        </SteadyState>
+        <SteadyState Duration="162.00002" Power="0.44999999" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Ease up!"/>
+            <textevent timeoffset="12" message="Spin easy, grab a drink, towel off and get ready for your first effort."/>
+            <textevent timeoffset="132" message="Get ready for your first effort."/>
+            <textevent timeoffset="147" message="Just one surge this time but it&apos;s straight from the gun."/>
+        </SteadyState>
+        <IntervalsT Repeat="8" OnDuration="20" OffDuration="10" OnPower="1.4" OffPower="0.44999999" pace="0" Cadence="110" CadenceResting="90">
+            <textevent timeoffset="0" message="Go!"/>
+            <textevent timeoffset="230" message="Recover."/>
+        </IntervalsT>
+        <SteadyState Duration="290" Power="0.44999999" pace="0" Cadence="80">
+            <textevent timeoffset="260" message="Get ready for your second block."/>
+            <textevent timeoffset="280" message="Alternate seated and standing accelerations for this block."/>
+        </SteadyState>
+        <IntervalsT Repeat="8" OnDuration="20" OffDuration="10" OnPower="1.4" OffPower="0.44999999" pace="0" Cadence="110" CadenceResting="90">
+            <textevent timeoffset="0" message="Go!"/>
+            <textevent timeoffset="230" message="Easy."/>
+        </IntervalsT>
+        <SteadyState Duration="290" Power="0.44999999" pace="0" Cadence="80">
+            <textevent timeoffset="260" message="Final block coming up."/>
+            <textevent timeoffset="280" message="All seated accelerations this time."/>
+        </SteadyState>
+        <IntervalsT Repeat="8" OnDuration="20" OffDuration="10" OnPower="1.4" OffPower="0.44999999" pace="0" Cadence="110" CadenceResting="90">
+            <textevent timeoffset="0" message="Go!"/>
+            <textevent timeoffset="230" message="Cool down. Nice work today!"/>
+        </IntervalsT>
+        <Cooldown Duration="290" PowerLow="0.55000001" PowerHigh="0.34999996" pace="0" Cadence="85"/>
+    </workout>
+</workout_file>

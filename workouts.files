@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>2.     TheProFiles/myThomas.zwo</name>
+        <time>1707823125</time>
+        <guid>23601</guid>
+        <checksum>207</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/myWild_Iris.zwo</name>
+        <time>1707820302</time>
+        <guid>20707</guid>
+        <checksum>117</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Intervals/myTabata.zwo</name>
         <time>1707302079</time>
         <guid>32246</guid>

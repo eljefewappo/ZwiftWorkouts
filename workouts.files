@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>Intervals/myFlash_Burn.zwo</name>
+        <time>1708085496</time>
+        <guid>29351</guid>
+        <checksum>101</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>2.     TheProFiles/myThomas.zwo</name>
         <time>1707823125</time>
         <guid>23601</guid>
@@ -18,13 +25,6 @@
         <time>1707302079</time>
         <guid>32246</guid>
         <checksum>103</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myFlash_Burn.zwo</name>
-        <time>1707051692</time>
-        <guid>5443</guid>
-        <checksum>101</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -130,13 +130,6 @@
         <time>1706696839</time>
         <guid>26896</guid>
         <checksum>158</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Power_Intervals__1__1_.zwo</name>
-        <time>1706458121</time>
-        <guid>21950</guid>
-        <checksum>96</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1616,5 +1609,11 @@
         <hash>3329001192</hash>
         <hash>1878931428</hash>
         <hash>2825878195</hash>
+        <hash>2601034378</hash>
+        <hash>2433777079</hash>
+        <hash>834580931</hash>
+        <hash>318970715</hash>
+        <hash>221144247</hash>
+        <hash>2866863806</hash>
     </deleted_files>
 </custom_file_directory>

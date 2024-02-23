@@ -1,5 +1,47 @@
 <custom_file_directory>
     <custom_file>
+        <name>Intervals/my3_3_2min_VO2max.zwo</name>
+        <time>1708691137</time>
+        <guid>27277</guid>
+        <checksum>200</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/myCalorie_Crush.zwo</name>
+        <time>1708688852</time>
+        <guid>13538</guid>
+        <checksum>12</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/myTurn_Up_The_AC__2x4x2min_.zwo</name>
+        <time>1708428353</time>
+        <guid>7764</guid>
+        <checksum>143</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/myMicrobursts_10_20_30.zwo</name>
+        <time>1708182867</time>
+        <guid>9391</guid>
+        <checksum>153</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/myFlash_Burn_1.zwo</name>
+        <time>1708085496</time>
+        <guid>21198</guid>
+        <checksum>101</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/Power_Intervals__1__1_.zwo</name>
+        <time>1708427521</time>
+        <guid>13564</guid>
+        <checksum>2</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Intervals/myFlash_Burn.zwo</name>
         <time>1708085496</time>
         <guid>29351</guid>
@@ -130,13 +172,6 @@
         <time>1706696839</time>
         <guid>26896</guid>
         <checksum>158</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Intervals/Power_Intervals.zwo</name>
-        <time>1706458121</time>
-        <guid>21950</guid>
-        <checksum>96</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1615,5 +1650,10 @@
         <hash>318970715</hash>
         <hash>221144247</hash>
         <hash>2866863806</hash>
+        <hash>503479288</hash>
+        <hash>2628093812</hash>
+        <hash>2012049091</hash>
+        <hash>4184975569</hash>
+        <hash>1811694094</hash>
     </deleted_files>
 </custom_file_directory>

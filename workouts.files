@@ -1,23 +1,72 @@
 <custom_file_directory>
     <custom_file>
-        <name>Intervals/my3_3_2min_VO2max.zwo</name>
-        <time>1708691137</time>
-        <guid>27277</guid>
-        <checksum>200</checksum>
+        <name>mySevens.zwo</name>
+        <time>1710844138</time>
+        <guid>12953</guid>
+        <checksum>230</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Intervals/myCalorie_Crush.zwo</name>
-        <time>1708688852</time>
-        <guid>13538</guid>
-        <checksum>12</checksum>
+        <name>myFun_is_Staying_Cool.zwo</name>
+        <time>1710844058</time>
+        <guid>20461</guid>
+        <checksum>244</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Intervals/myTurn_Up_The_AC__2x4x2min_.zwo</name>
-        <time>1708428353</time>
-        <guid>7764</guid>
-        <checksum>143</checksum>
+        <name>myBig_Gear_SST___2x10.zwo</name>
+        <time>1710412157</time>
+        <guid>30122</guid>
+        <checksum>30</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>mCrit_City_Downtown_Dolphin.zwo</name>
+        <time>1710240233</time>
+        <guid>28341</guid>
+        <checksum>90</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myOver_Under_s_4x_4min.zwo</name>
+        <time>1710240183</time>
+        <guid>23303</guid>
+        <checksum>250</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>VO2-Max/myVO2_Max___4x3_Ramps.zwo</name>
+        <time>1710077059</time>
+        <guid>24052</guid>
+        <checksum>131</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myFinish_Focus.zwo</name>
+        <time>1708874989</time>
+        <guid>14952</guid>
+        <checksum>206</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myWaveRider.zwo</name>
+        <time>1708875143</time>
+        <guid>6784</guid>
+        <checksum>23</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myInstant_Inferno.zwo</name>
+        <time>1709639715</time>
+        <guid>971</guid>
+        <checksum>209</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myWeek_5___Recovery.4___Sweet_Spot_2.zwo</name>
+        <time>1709033345</time>
+        <guid>5743</guid>
+        <checksum>16</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -25,27 +74,6 @@
         <time>1708182867</time>
         <guid>9391</guid>
         <checksum>153</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Intervals/myFlash_Burn_1.zwo</name>
-        <time>1708085496</time>
-        <guid>21198</guid>
-        <checksum>101</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Intervals/Power_Intervals__1__1_.zwo</name>
-        <time>1708427521</time>
-        <guid>13564</guid>
-        <checksum>2</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Intervals/myFlash_Burn.zwo</name>
-        <time>1708085496</time>
-        <guid>29351</guid>
-        <checksum>101</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -70,129 +98,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Zones/Zone3/Zone_3_Climbing_Adaptions.zwo</name>
-        <time>1706975706</time>
-        <guid>11000</guid>
-        <checksum>231</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Strength_Tempo__2.zwo</name>
-        <time>1706782998</time>
-        <guid>23614</guid>
-        <checksum>166</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_Pwr_and_HR_2.zwo</name>
-        <time>1706696839</time>
-        <guid>29527</guid>
-        <checksum>58</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_60min_75percent.zwo</name>
-        <time>1706696839</time>
-        <guid>30832</guid>
-        <checksum>205</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_Pwr_and_HR.zwo</name>
-        <time>1706696839</time>
-        <guid>30023</guid>
-        <checksum>101</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_30min_75percent.zwo</name>
-        <time>1706696839</time>
-        <guid>17978</guid>
-        <checksum>103</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_Jumps_and_Spice_at_the_end.zwo</name>
-        <time>1706696839</time>
-        <guid>31625</guid>
-        <checksum>204</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_45min_On.zwo</name>
-        <time>1706696839</time>
-        <guid>27450</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_Ramps_and_All_Spice_at_the_end.zwo</name>
-        <time>1706696839</time>
-        <guid>28844</guid>
-        <checksum>158</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Tempo_15min___Target_RPM__1.zwo</name>
-        <time>1706696839</time>
-        <guid>7493</guid>
-        <checksum>183</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_30min_80percent.zwo</name>
-        <time>1706696839</time>
-        <guid>1057</guid>
-        <checksum>136</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_60min.zwo</name>
-        <time>1706696839</time>
-        <guid>32301</guid>
-        <checksum>84</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_60min_80percent.zwo</name>
-        <time>1706696839</time>
-        <guid>16379</guid>
-        <checksum>12</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_for_Fun.zwo</name>
-        <time>1706696839</time>
-        <guid>6037</guid>
-        <checksum>80</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Zones/Zone2/Zone2_10x5_.zwo</name>
-        <time>1706696839</time>
-        <guid>26896</guid>
-        <checksum>158</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>2.     TheProFiles/The_Carapaz.zwo</name>
         <time>1706452749</time>
         <guid>13538</guid>
         <checksum>114</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Kephart+.zwo</name>
-        <time>1700049223</time>
-        <guid>645</guid>
-        <checksum>0</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>FreeRide.zwo</name>
-        <time>1701687577</time>
-        <guid>23770</guid>
-        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -645,9 +554,9 @@
     </custom_file>
     <custom_file>
         <name>Recommendable/myMiniWringer.zwo</name>
-        <time>1706452153</time>
-        <guid>19293</guid>
-        <checksum>152</checksum>
+        <time>1709929974</time>
+        <guid>8873</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -872,13 +781,6 @@
         <time>1706452153</time>
         <guid>27450</guid>
         <checksum>118</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>VO2-Max/Escalating_3min_VO2max.zwo</name>
-        <time>1706453152</time>
-        <guid>13313</guid>
-        <checksum>43</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1655,5 +1557,30 @@
         <hash>2012049091</hash>
         <hash>4184975569</hash>
         <hash>1811694094</hash>
+        <hash>2425173896</hash>
+        <hash>3391593718</hash>
+        <hash>718702373</hash>
+        <hash>2456047512</hash>
+        <hash>2721000918</hash>
+        <hash>4166479500</hash>
+        <hash>3753275542</hash>
+        <hash>1396787269</hash>
+        <hash>392840922</hash>
+        <hash>3327400815</hash>
+        <hash>147235245</hash>
+        <hash>1276890595</hash>
+        <hash>434555526</hash>
+        <hash>308205742</hash>
+        <hash>1389723633</hash>
+        <hash>1972487490</hash>
+        <hash>1754692213</hash>
+        <hash>1864827634</hash>
+        <hash>1690676314</hash>
+        <hash>2816890459</hash>
+        <hash>1408526288</hash>
+        <hash>2919945137</hash>
+        <hash>2721070437</hash>
+        <hash>4214337280</hash>
+        <hash>3083583829</hash>
     </deleted_files>
 </custom_file_directory>

@@ -1,4 +1,8 @@
 # zwift
+![GitHub Release](https://img.shields.io/github/v/release/eljefewappo/ZwiftWorkouts) ![GitHub commits since latest release (branch)](https://img.shields.io/github/commits-since/eljefewappo/Zwiftworkouts/latest/main)
+
+
+
 Eljefe's workouts for the Zwift 
 
 

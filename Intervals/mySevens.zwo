@@ -5,6 +5,7 @@
     <sportType>bike</sportType>
     <tags>
         <tag name="RECOMMENDABLE"/>
+        <tag name="Under 30"/>
     </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.75" pace="0" Cadence="80">

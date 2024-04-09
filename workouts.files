@@ -7,9 +7,9 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>mySevens.zwo</name>
-        <time>1710844138</time>
-        <guid>12953</guid>
+        <name>Intervals/mySevens.zwo</name>
+        <time>1712661929</time>
+        <guid>31879</guid>
         <checksum>230</checksum>
         <deleted>false</deleted>
     </custom_file>
@@ -393,9 +393,9 @@
     </custom_file>
     <custom_file>
         <name>Zones/COVID/Five_Beeps.zwo</name>
-        <time>1706452153</time>
-        <guid>21243</guid>
-        <checksum>82</checksum>
+        <time>1712658503</time>
+        <guid>603</guid>
+        <checksum>135</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1589,5 +1589,6 @@
         <hash>2721070437</hash>
         <hash>4214337280</hash>
         <hash>3083583829</hash>
+        <hash>3283933665</hash>
     </deleted_files>
 </custom_file_directory>

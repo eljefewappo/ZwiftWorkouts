@@ -4,6 +4,8 @@
     <description>If you are looking for a focused and effective workout, look no further. This workout will help you improve your capacity to recover quickly after hard efforts, conserving energy and also being able to attack hard and maintain to the finishline. This workout is one of Luca Vergallito's favorite workouts to prepare for his race. Go get it!</description>
     <sportType>bike</sportType>
     <tags>
+        <tag name="Under 60min"/>
+        <tag name="Interval"/>    
         <tag name="WOTW"/>
     </tags>
     <workout>

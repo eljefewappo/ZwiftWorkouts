@@ -6,6 +6,9 @@
     <tags>
         <tag name="Zwift"/>
         <tag name="Academy"/>
+        <tag name="Under 90min"/>
+        <tag name="Interval"/>
+    </tags>
     </tags>
     <workout>
         <Warmup Duration="180.00002" PowerLow="0.44999993" PowerHigh="0.60000002" pace="1428186484">

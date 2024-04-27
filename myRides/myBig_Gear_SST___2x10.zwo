@@ -3,7 +3,10 @@
     <name>myBig Gear SST - 2x10</name>
     <description>Today, we're going to be continuing our progressive build of time spent at SST, as well as further improve your ability to sustain low cadence for a longer duration. Let's CRUSH it today!</description>
     <sportType>bike</sportType>
-    <tags/>
+    <tags>
+        <tag name="Under 60min"/>
+        <tag name="Interval"/>
+    </tags>
     <workout>
         <Warmup Duration="300" PowerLow="0.39999998" PowerHigh="0.75" pace="0">
             <textevent timeoffset="0" message="Welcome back to the Pebble Pounder! I&apos;m stoked you&apos;re here!"/>

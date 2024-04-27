@@ -3,7 +3,10 @@
     <name>myEPOC</name>
     <description>EPOC stand for 'Excess Post-Exercise Oxygen Consumption', and is how much work it takes after exercise to return your body to normal resting level. This type of interval sessions 'costs' a lot of energy. After training the calories you burn to recover are quite large. This also has a great benefit to your power profiles.</description>
     <sportType>bike</sportType>
-    <tags/>
+    <tags>
+        <tag name="Under 60min"/>
+        <tag name="Interval"/>
+    </tags>
     <workout>
         <Warmup Duration="600" PowerLow="0.44999999" PowerHigh="0.94999999" pace="1428186484" Cadence="90">
             <textevent timeoffset="0" message="Welcome to EPOC, or Excess Post-Exercise Oxygen Consumption."/>

@@ -7,7 +7,10 @@ By completing short efforts above threshold you are able to accumulate more time
 
 The short recovery periods also increase oxygen uptake. Particularly towards the end of the set!</description>
     <sportType>bike</sportType>
-    <tags/>
+    <tags>
+        <tag name="Under 60min"/>
+        <tag name="Interval"/>
+    </tags>
     <workout>
         <SteadyState Duration="180.00002" Power="0.5" pace="1428186484">
             <textevent timeoffset="30" message="The key to today&apos;s session is in the time spent above threshold, along with the short recovery period."/>

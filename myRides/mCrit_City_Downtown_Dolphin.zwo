@@ -3,7 +3,10 @@
     <name>mCrit City Downtown Dolphin</name>
     <description>A race simulation on Crit City Downtown Dolphin where you'll tackle 10 laps of the course.</description>
     <sportType>bike</sportType>
-    <tags/>
+    <tags>
+        <tag name="Under 60min"/>
+        <tag name="Interval"/>
+    </tags>
     <workout>
         <Warmup Duration="420.00003" PowerLow="0.34999996" PowerHigh="0.55000001" pace="0">
             <textevent timeoffset="0" message="Welcome to the Crit City Downtown Dolphin race simulation!"/>

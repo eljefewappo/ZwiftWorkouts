@@ -6,6 +6,9 @@
   <durationType>time</durationType>
   <tags>
     <tag name="Free Ride"/>
+    <tag name="Under 30min"/>
+    <tag name="Interval"/>
+  </tags>    
   </tags>
   <workout>
     <Warmup Duration="152" PowerLow="0.25" PowerHigh="0.75" pace="0"/>

@@ -1,5 +1,68 @@
 <custom_file_directory>
     <custom_file>
+        <name>myOrange_Unicorn_Lite.zwo</name>
+        <time>1714230774</time>
+        <guid>17758</guid>
+        <checksum>3</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myHairpin_Wizard.zwo</name>
+        <time>1714230701</time>
+        <guid>609</guid>
+        <checksum>24</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myStrength_Builder.zwo</name>
+        <time>1714230561</time>
+        <guid>26343</guid>
+        <checksum>99</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>my20_40_s.zwo</name>
+        <time>1714227253</time>
+        <guid>97</guid>
+        <checksum>116</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>14._myThrough_Highs_and_Lows.zwo</name>
+        <time>1713953196</time>
+        <guid>6301</guid>
+        <checksum>145</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myFlash_Burn.zwo</name>
+        <time>1713950519</time>
+        <guid>2117</guid>
+        <checksum>101</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myInterval_Power_Play_1.zwo</name>
+        <time>1713709333</time>
+        <guid>19495</guid>
+        <checksum>3</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myInterval_Power_Play.zwo</name>
+        <time>1713708862</time>
+        <guid>25173</guid>
+        <checksum>3</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myBrisk_Burn.zwo</name>
+        <time>1712832250</time>
+        <guid>14821</guid>
+        <checksum>145</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>myElevate_and_Escalate.zwo</name>
         <time>1712053745</time>
         <guid>4550</guid>
@@ -8,9 +71,9 @@
     </custom_file>
     <custom_file>
         <name>Intervals/mySevens.zwo</name>
-        <time>1712661929</time>
-        <guid>31879</guid>
-        <checksum>230</checksum>
+        <time>1712832084</time>
+        <guid>31632</guid>
+        <checksum>70</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

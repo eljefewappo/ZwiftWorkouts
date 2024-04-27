@@ -1,0 +1,79 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>myFun is Staying Cool</name>
+    <description>Anna van der Breggen is arguably one of the most versatile riders of her generation. She excels by staying cool when others crumble under pressure. So, what better way to challenge your ability to embrace your inner Anna van der Breggen by doing some over/unders! Over/unders are great for improving your ability to surge hard again and again but not recovering fully in between. A perfect workout for one-day classics and stage race specialists - like Anna!</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="500.00003" PowerLow="0.5" PowerHigh="0.7511251" pace="0">
+            <textevent timeoffset="0" message="Hello and welcome to a Fun is Fast workout inspired by Anna van der Breggen!"/>
+            <textevent timeoffset="10" message="Fun is Fast showcases our heroes - Anna van der Breggen, Geraint Thomas and Mathieu van der Poel."/>
+            <textevent timeoffset="40" message="Let&apos;s get stuck in here and start with a progressive warm up working through the zones."/>
+            <textevent timeoffset="50" message="Keep your cadence comfortable and make sure you have your fan, fluids, and towel handy!"/>
+            <textevent timeoffset="150" message="Great work so far! Let&apos;s take a moment and chat about the plan for today."/>
+            <textevent timeoffset="160" message="Our inspiration today, as you know, is Anna van der Breggen."/>
+            <textevent timeoffset="170" message="She&apos;s arguably one of the most versatile riders of her generation..."/>
+            <textevent timeoffset="180" message="and excels by staying cool when others crumble under pressure.."/>
+            <textevent timeoffset="190" message="So, what better way to challenge your ability to embrace your inner Anna van der Breggen by doing some over/unders!"/>
+            <textevent timeoffset="200" message="Over/unders are great for improving your ability to surge hard again and again but not recovering fully in between."/>
+            <textevent timeoffset="210" message="A perfect workout for one-day classics, TT events, and stage race specialists - like Anna!"/>
+            <textevent timeoffset="220" message="Let&apos;s carry on with the warmup."/>
+            <textevent timeoffset="440" message="1min to go for the warmup, then we&apos;ll rest for a bit before beginning the main set."/>
+        </Warmup>
+        <SteadyState Duration="60.000004" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="All right, coming up in 1min is our 1st interval set."/>
+            <textevent timeoffset="10" message="This consists of 1min at zone 5, with 1min at zone 4, 5 times."/>
+            <textevent timeoffset="20" message="This is the kind of interval workout that feels &apos;easy&apos; when you start, but will end nasty!"/>
+            <textevent timeoffset="30" message="So, be prepared to dig deep and work hard, but that&apos;s why you&apos;re here today after all."/>
+            <textevent timeoffset="40" message="Know you can finish this workout, and be confident in your abilities, and embrace your inner Anna!"/>
+            <textevent timeoffset="50" message="Here we go! Interval #1 is just ahead!"/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="60.000004" OffDuration="60.000004" OnPower="1.176125" OffPower="0.95112503" pace="0">
+            <textevent timeoffset="0" message="Let&apos;s do it! Starting off with the &apos;over&apos;."/>
+            <textevent timeoffset="60" message="Great! Now lower the effort a bit for the &apos;under&apos;."/>
+            <textevent timeoffset="120" message="UP UP UP!"/>
+            <textevent timeoffset="180" message="Stay relaxed. Learn to recover under pressure here. Make Anna proud!"/>
+            <textevent timeoffset="240" message="PUSH YOURSELF! GET STRONGER HERE!"/>
+            <textevent timeoffset="360" message="YOU CAN DO THIS!"/>
+            <textevent timeoffset="420" message="Amazing effort so far today, keep it going!"/>
+            <textevent timeoffset="480" message="LAST OVER! GO GO GO!"/>
+            <textevent timeoffset="540" message="Perfect! Now, just hang on for this final minute."/>
+        </IntervalsT>
+        <SteadyState Duration="420.00003" Power="0.50612497" pace="0">
+            <textevent timeoffset="0" message="Phew! That one burns a bit!"/>
+            <textevent timeoffset="10" message="Let&apos;s take a nice long recovery now before tackling the finale!"/>
+            <textevent timeoffset="20" message="Deep breaths, have a drink, and shake things out a bit."/>
+            <textevent timeoffset="60" message="Anna is a Dutch professional road bicycle racer, who currently rides for UCI Women&apos;s WorldTeam SD Worx."/>
+            <textevent timeoffset="120" message="She has won the Giro d&apos;Italia Femminile on three occasions."/>
+            <textevent timeoffset="130" message="And  in 2018, and 2020, she won the women&apos;s road race and TT at the UCI World Championships."/>
+            <textevent timeoffset="180" message="Anna is also a trained nurse, having graduated from nursing school in 2012."/>
+            <textevent timeoffset="240" message="Her other hobbies include the piano and she enjoys painting and knitting."/>
+            <textevent timeoffset="390" message="Okay, the finale is just ahead now. This time we have 30sec over and 30sec under, 10 times."/>
+            <textevent timeoffset="400" message="With the over being even more intense than the 1st set. Get ready to put the work in!"/>
+        </SteadyState>
+        <IntervalsT Repeat="10" OnDuration="30.000002" OffDuration="30.000002" OnPower="1.251125" OffPower="0.87612504" pace="0">
+            <textevent timeoffset="0" message="GO GO GO!"/>
+            <textevent timeoffset="30" message="These recoveries will go quick, use them well."/>
+            <textevent timeoffset="60" message="UP UP UP!"/>
+            <textevent timeoffset="120" message="PUSH YOURSELF!"/>
+            <textevent timeoffset="150" message="Breathe here. Don&apos;t get out of control during the overs."/>
+            <textevent timeoffset="180" message="STICK WITH IT."/>
+            <textevent timeoffset="240" message="YOU CAN DO THIS!"/>
+            <textevent timeoffset="270" message="Great job! We&apos;re getting through this interval now!"/>
+            <textevent timeoffset="300" message="HALFWAY!"/>
+            <textevent timeoffset="360" message="4 TO GO!"/>
+            <textevent timeoffset="420" message="3 MORE LEFT!"/>
+            <textevent timeoffset="480" message="2 MORE!"/>
+            <textevent timeoffset="540" message="THIS IS IT!"/>
+            <textevent timeoffset="570" message="HANG ON NOW!"/>
+        </IntervalsT>
+        <Cooldown Duration="300" PowerLow="0.62612498" PowerHigh="0.25112498" pace="0">
+            <textevent timeoffset="0" message="Ouch! Anna would be proud of that effort! Let&apos;s cool down for 5min now."/>
+            <textevent timeoffset="30" message="We&apos;ll gradually lower the intensity down. Keep your cadence comfortable."/>
+            <textevent timeoffset="60" message="Thank you so much for working hard today and digging deep."/>
+            <textevent timeoffset="240" message="Last minute here and we&apos;re DONE!"/>
+            <textevent timeoffset="250" message="Great effort again today, you should be proud of it!"/>
+            <textevent timeoffset="290" message="Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

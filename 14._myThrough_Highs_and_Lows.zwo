@@ -1,0 +1,217 @@
+<workout_file>
+    <author>Kristin Armstrong</author>
+    <name>14. myThrough Highs and Lows</name>
+    <description>Welcome to 'Through Highs and Lows'! Today's all about high-intensity microbursts - short but powerful efforts that are super effective and fun. These bursts are great for keeping your speed and power output sharp. Let's see some progress and enjoy the ride!</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="120.00001" Power="0.55000001" pace="0">
+            <textevent timeoffset="0" message="Hey there, welcome to Through Highs and Lows!"/>
+            <textevent timeoffset="10" message="Kristin Armstrong here, ready to take you through a fun one."/>
+            <textevent timeoffset="20" message="Today, we&apos;ll experience a dynamic range of intensities."/>
+            <textevent timeoffset="30" message="Our goal? Challenge our fast-twitch muscles and boost cardio."/>
+            <textevent timeoffset="40" message="We&apos;re diving into HIIT - High-Intensity Interval Training, perfect for a quick heart rate boost."/>
+            <textevent timeoffset="50" message="First up, let&apos;s warm up and talk about today&apos;s plan..."/>
+            <textevent timeoffset="60" message="We&apos;re tackling 3 sets of 15 x 15-second intense bursts."/>
+            <textevent timeoffset="70" message="These short bursts are not only effective but also keep your mind engaged."/>
+            <textevent timeoffset="80" message="By incorporating these intervals, we efficiently work out our bodies."/>
+            <textevent timeoffset="90" message="HIIT is fantastic for reducing body fat, building strength, endurance, and overall health."/>
+            <textevent timeoffset="100" message="Congrats for joining in today - your effort will pay off!"/>
+            <textevent timeoffset="110" message="Make sure to keep your water bottle and fan close - it&apos;s going to get heated!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Let&apos;s continue warming up, and setting our intention for this session."/>
+            <textevent timeoffset="10" message="What&apos;s one word that will motivate you through these high-intensity intervals?"/>
+            <textevent timeoffset="30" message="Do you have your word of the day yet? "/>
+            <textevent timeoffset="40" message="Great, keep it in mind as you tackle these sprints!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.75" pace="0">
+            <textevent timeoffset="0" message="We&apos;re gradually increasing our power now."/>
+            <textevent timeoffset="10" message="Take a moment to check your form..."/>
+            <textevent timeoffset="20" message="Deep breath in..."/>
+            <textevent timeoffset="30" message="And as you exhale, relax those shoulders and engage your core."/>
+            <textevent timeoffset="40" message="Maintaining this posture will boost our efficiency during the sprints."/>
+            <textevent timeoffset="50" message="Fantastic! Let&apos;s ramp up the intensity again."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Keep up the excellent form!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.94999999" pace="0">
+            <textevent timeoffset="0" message="One more ramp-up before our brief recovery."/>
+        </SteadyState>
+        <SteadyState Duration="35" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="Quick break time."/>
+            <textevent timeoffset="10" message="Catch your breath and hydrate."/>
+            <textevent timeoffset="20" message="Up next, prepare for a burst out of the saddle."/>
+        </SteadyState>
+        <SteadyState Duration="10" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="Ready? Up, up, up! Focus on a smooth pedal stroke."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="Great job! These sprints are waking up our muscles."/>
+        </SteadyState>
+        <SteadyState Duration="10" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="Engage your core to boost power."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="And relax."/>
+        </SteadyState>
+        <SteadyState Duration="10" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="Up, up, up!"/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="Superb effort! Let&apos;s enjoy a 90-second recovery."/>
+            <textevent timeoffset="30" message="Remember, today&apos;s session includes three sets of 15 x 15 seconds on, and 15 seconds off."/>
+            <textevent timeoffset="80" message="Get set! Showtime at the next arch!"/>
+        </SteadyState>
+        <IntervalsT Repeat="7" OnDuration="15.000001" OffDuration="15.000001" OnPower="1.41" OffPower="0.5" pace="0">
+            <textevent timeoffset="0" message="Here we go! Stay seated for this entire first set."/>
+            <textevent timeoffset="15" message="And relax..."/>
+            <textevent timeoffset="30" message="Drive through those pedals!"/>
+            <textevent timeoffset="45" message="And breathe..."/>
+            <textevent timeoffset="60" message="Up, up, up!"/>
+            <textevent timeoffset="75" message="Breathe again..."/>
+            <textevent timeoffset="90" message="Get up there! You&apos;ve got this."/>
+            <textevent timeoffset="105" message="And relax..."/>
+            <textevent timeoffset="120" message="Here we go again!"/>
+            <textevent timeoffset="135" message="Relax again..."/>
+            <textevent timeoffset="150" message="You&apos;re doing great!"/>
+            <textevent timeoffset="165" message="Relax your shoulders now..."/>
+            <textevent timeoffset="180" message="Up, up, up again!"/>
+            <textevent timeoffset="195" message="And relax!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="8" OnDuration="15.000001" OffDuration="15.000001" OnPower="1.41" OffPower="0.5" pace="0">
+            <textevent timeoffset="0" message="Here we go! Stay seated for this round."/>
+            <textevent timeoffset="15" message="And relax..."/>
+            <textevent timeoffset="30" message="Drive through those pedals!"/>
+            <textevent timeoffset="45" message="Breathe..."/>
+            <textevent timeoffset="60" message="Up, up, up!"/>
+            <textevent timeoffset="75" message="Breathe again..."/>
+            <textevent timeoffset="90" message="Get up there! You can do it."/>
+            <textevent timeoffset="105" message="And relax..."/>
+            <textevent timeoffset="120" message="Here we go once more!"/>
+            <textevent timeoffset="135" message="Relax again..."/>
+            <textevent timeoffset="150" message="You&apos;ve got this!"/>
+            <textevent timeoffset="165" message="Relax those shoulders..."/>
+            <textevent timeoffset="180" message="Up, up, up!"/>
+            <textevent timeoffset="195" message="And relax!"/>
+            <textevent timeoffset="210" message="Last burst of this set! Make it count."/>
+            <textevent timeoffset="225" message="Fantastic work!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="You&apos;re doing amazing!"/>
+            <textevent timeoffset="10" message="Enjoy this well-deserved recovery."/>
+            <textevent timeoffset="20" message="Working at high intensity helps burn calories effectively."/>
+            <textevent timeoffset="30" message="Feeling your breathing rate slowing down?"/>
+            <textevent timeoffset="40" message="Good, breathe in through your nose, out through your mouth."/>
+            <textevent timeoffset="50" message="Exhale, letting tension roll off your shoulders."/>
+            <textevent timeoffset="60" message="Bring your shoulders away from your ears, and point your elbows down."/>
+            <textevent timeoffset="70" message="Next, exhale, and engage your core."/>
+            <textevent timeoffset="80" message="Perfect form! We&apos;re ready for the next set."/>
+            <textevent timeoffset="130" message="Let&apos;s get back into attack mode."/>
+            <textevent timeoffset="140" message="Next set, we&apos;re out of the saddle."/>
+            <textevent timeoffset="150" message="During these intervals, keep your weight off the handlebars and maintain a smooth pedal stroke."/>
+            <textevent timeoffset="170" message="Here we go! It&apos;s showtime again! Let&apos;s do this!"/>
+        </SteadyState>
+        <IntervalsT Repeat="7" OnDuration="15.000001" OffDuration="15.000001" OnPower="1.41" OffPower="0.5" pace="0">
+            <textevent timeoffset="0" message="First burst out of the saddle!"/>
+            <textevent timeoffset="15" message="Take it easy, then gear up."/>
+            <textevent timeoffset="30" message="Get up! You&apos;re doing fantastic!"/>
+            <textevent timeoffset="45" message="Good..."/>
+            <textevent timeoffset="60" message="Up, up, up!"/>
+            <textevent timeoffset="75" message="Breathe..."/>
+            <textevent timeoffset="90" message="You&apos;re crushing it!"/>
+            <textevent timeoffset="105" message="Breathe..."/>
+            <textevent timeoffset="120" message="Drive through your pedals again!"/>
+            <textevent timeoffset="135" message="Breathe again..."/>
+            <textevent timeoffset="150" message="Go, go, go!"/>
+            <textevent timeoffset="165" message="You&apos;re doing wonderfully!"/>
+            <textevent timeoffset="180" message="Go for it!"/>
+            <textevent timeoffset="195" message="And back down."/>
+        </IntervalsT>
+        <IntervalsT Repeat="8" OnDuration="15.000001" OffDuration="15.000001" OnPower="1.41" OffPower="0.5" pace="0">
+            <textevent timeoffset="0" message="Big standing power. Every second is crucial. "/>
+            <textevent timeoffset="15" message="Ease off..."/>
+            <textevent timeoffset="30" message="Up, up, up!"/>
+            <textevent timeoffset="45" message="Ease off..."/>
+            <textevent timeoffset="60" message="Drive hard."/>
+            <textevent timeoffset="75" message="Remember to breathe."/>
+            <textevent timeoffset="90" message="Up, up, up again!"/>
+            <textevent timeoffset="105" message="Nice work!"/>
+            <textevent timeoffset="120" message="Show your strength!"/>
+            <textevent timeoffset="135" message="You&apos;re doing great!"/>
+            <textevent timeoffset="150" message="GET it again!"/>
+            <textevent timeoffset="165" message="Amazing effort!"/>
+            <textevent timeoffset="180" message="Stay positive!"/>
+            <textevent timeoffset="195" message="Ease off..."/>
+            <textevent timeoffset="210" message="Up again! Last burst here!"/>
+            <textevent timeoffset="225" message="And recover..."/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="That was INCREDIBLE!"/>
+            <textevent timeoffset="10" message="You&apos;re rocking this workout!"/>
+            <textevent timeoffset="20" message="Remember to stay hydrated."/>
+            <textevent timeoffset="30" message="Riders often overlook fueling for short rides."/>
+            <textevent timeoffset="40" message="It&apos;s so important to fuel your body for daily demands."/>
+            <textevent timeoffset="60" message="Staying hydrated helps to regulate body temperature, prevent injury, and maintain your energy levels."/>
+            <textevent timeoffset="70" message="How are you feeling now?"/>
+            <textevent timeoffset="80" message="Is your breathing rate coming back down?"/>
+            <textevent timeoffset="90" message="Control your breathing with slow inhales and exhales."/>
+            <textevent timeoffset="100" message="How was your form in the last set?"/>
+            <textevent timeoffset="110" message="Keep your core strong and shoulders relaxed."/>
+            <textevent timeoffset="120" message="Now, keep pedaling in perfect posture."/>
+            <textevent timeoffset="130" message="As you exhale, relax your shoulders and engage your core."/>
+            <textevent timeoffset="140" message="Excellent, maintain this posture for the microbursts coming up soon."/>
+            <textevent timeoffset="150" message="Next challenge: alternate between standing and sitting."/>
+            <textevent timeoffset="160" message="Let&apos;s try to stand on the odds, and sit on the evens"/>
+            <textevent timeoffset="170" message="Let&apos;s get ready for the first burst, starting standing."/>
+        </SteadyState>
+        <IntervalsT Repeat="7" OnDuration="15.000001" OffDuration="15.000001" OnPower="1.41" OffPower="0.5" pace="0">
+            <textevent timeoffset="0" message="Rise up! Focus on one effort at a time."/>
+            <textevent timeoffset="15" message="And relax..."/>
+            <textevent timeoffset="30" message="Now seated. Drive through those pedals."/>
+            <textevent timeoffset="45" message="Good job, now breathe."/>
+            <textevent timeoffset="60" message="Stand up! Push hard!!"/>
+            <textevent timeoffset="75" message="Breathe..."/>
+            <textevent timeoffset="90" message="Seated driving."/>
+            <textevent timeoffset="105" message="And breathe."/>
+            <textevent timeoffset="120" message="Now rise up your saddle again."/>
+            <textevent timeoffset="135" message="And breathe again."/>
+            <textevent timeoffset="150" message="Stand up again!"/>
+            <textevent timeoffset="165" message="Breathe again..."/>
+            <textevent timeoffset="180" message="Stay seated. You&apos;re doing fantastic!"/>
+            <textevent timeoffset="195" message="And breathe."/>
+        </IntervalsT>
+        <IntervalsT Repeat="8" OnDuration="15.000001" OffDuration="15.000001" OnPower="1.41" OffPower="0.5" pace="0">
+            <textevent timeoffset="0" message="Drive while standing."/>
+            <textevent timeoffset="15" message="And recover."/>
+            <textevent timeoffset="30" message="Drive seated now."/>
+            <textevent timeoffset="45" message="Adjust, deep breath!"/>
+            <textevent timeoffset="60" message="Up, up, up!"/>
+            <textevent timeoffset="75" message="And breathe."/>
+            <textevent timeoffset="90" message="Seated now. Almost at the finish line - keep going!"/>
+            <textevent timeoffset="105" message="And breathe."/>
+            <textevent timeoffset="120" message="Standing. This is where the transformation happens!"/>
+            <textevent timeoffset="135" message="And relax..."/>
+            <textevent timeoffset="150" message="Seated. Push through, empty the tank!"/>
+            <textevent timeoffset="165" message="Deep breath..."/>
+            <textevent timeoffset="180" message="Standing. Let the power carry you."/>
+            <textevent timeoffset="195" message="Breathe, only one more!"/>
+            <textevent timeoffset="210" message="Give your all! Last effort!"/>
+            <textevent timeoffset="225" message="AND recover..."/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="WOW! What an incredible workout!"/>
+            <textevent timeoffset="10" message="You were outstanding!"/>
+            <textevent timeoffset="20" message="Congratulations on conquering today&apos;s session!"/>
+            <textevent timeoffset="30" message="Enjoy this recovery - you&apos;ve earned it!"/>
+            <textevent timeoffset="50" message="Before you finish, think about your goals for the week."/>
+            <textevent timeoffset="60" message="Remember, celebrating every success, big or small, is crucial."/>
+            <textevent timeoffset="70" message="If you enjoyed this workout, go check out the rest of the Fitness Jumpstart series."/>
+            <textevent timeoffset="80" message="Each workout is about 40 to 45 minutes— short, sweet, and sometimes spicy."/>
+            <textevent timeoffset="90" message="Make sure you refuel well after today&apos;s session. Recovery is as important as the workout itself."/>
+            <textevent timeoffset="100" message="Until next time!"/>
+            <textevent timeoffset="110" message="Ride On."/>
+        </SteadyState>
+    </workout>
+</workout_file>

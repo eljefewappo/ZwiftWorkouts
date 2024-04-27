@@ -1,0 +1,101 @@
+<workout_file>
+    <author>D.Rowe (Rowe&amp;King)</author>
+    <name>my20-40's</name>
+    <description>This workout really gets your Type II (Fast Twitch) muscle fibers firing, by completing 20 x 20-second sprint efforts. There are huge gains to be made through sprint training, even if your target event doesn't involve sprinting - you will love being more powerful and explosive on the bike.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Under 60min"/>
+        <tag name="Interval"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.39999998" PowerHigh="1.05" pace="0">
+            <textevent timeoffset="10" message="Welcome to 20-40&apos;s"/>
+            <textevent timeoffset="25" message="This workout is part of the PowerUp Prep series designed by Dani Rowe and Kristin Armstrong"/>
+            <textevent timeoffset="40" message="This series is designed to build your fitness and prepare you for a more intense training program"/>
+            <textevent timeoffset="50" message="by providing you with 12 weeks of 30-45 minute structured workouts"/>
+            <textevent timeoffset="80" message="This workout series assumes a low level of current fitness - maybe you are starting out training, getting back on your bike after giving birth or maybe it&apos;s your return from injury"/>
+            <textevent timeoffset="160" message="The key to training and improving is consistency - 30 minutes is infinitely better than nothing"/>
+            <textevent timeoffset="210" message="It&apos;s helpful if you have a heart rate monitor, to keep track of how your heart rate responds to efforts week to week"/>
+            <textevent timeoffset="230" message="Following a structured training plan like this keeps you accountable and hopefully helps you remain focused on your goals"/>
+            <textevent timeoffset="250" message="Listen to your body, and don&apos;t worry if you need to lower the bias during todays workout to complete"/>
+            <textevent timeoffset="280" message="Most importantly - enjoy!"/>
+        </Warmup>
+        <SteadyState Duration="120.00001" Power="0.5" pace="0">
+            <textevent timeoffset="13" message="2 minutes easy before we get started"/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="20" OffDuration="40" OnPower="1.6" OffPower="0.40000001" pace="0">
+            <textevent timeoffset="1" message="Here we go!!! UP UP UP "/>
+            <textevent timeoffset="25" message="And relax - these rest periods go quickly!"/>
+            <textevent timeoffset="61" message="GO GO GO!"/>
+            <textevent timeoffset="85" message="Breathe!"/>
+            <textevent timeoffset="121" message="Let&apos;s do this! Aim to hit your target power as soon as possible"/>
+            <textevent timeoffset="145" message="Keep drinking"/>
+            <textevent timeoffset="181" message="2 efforts to go - you can do this!"/>
+            <textevent timeoffset="205" message="Enjoy this part - recover is key to enable you to go hard during the 20 second efforts!"/>
+            <textevent timeoffset="241" message="Last effort - get stuck in!"/>
+            <textevent timeoffset="265" message="Fantastic work - one block down, 3 to go!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.5" pace="0">
+            <textevent timeoffset="30" message="A longer rest period to reset and get your head round 3 more blocks "/>
+            <textevent timeoffset="100" message="This was my favorite session when training for the Olympics in 2012 (Dani) "/>
+            <textevent timeoffset="130" message="It is a firm favorite amongst the professionals"/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="20" OffDuration="40" OnPower="1.6" OffPower="0.40000001" pace="0">
+            <textevent timeoffset="1" message="Here we go again!"/>
+            <textevent timeoffset="25" message="Recovery time"/>
+            <textevent timeoffset="0" message="Smash it!"/>
+            <textevent timeoffset="85" message="Try varying your hand position during the efforts between your hoods and drop part of your handle bars "/>
+            <textevent timeoffset="121" message="GO GO GO! All the way from start to finish"/>
+            <textevent timeoffset="145" message="Find a comfortable cadence for the recovery periods - whatever works for you"/>
+            <textevent timeoffset="181" message="Nearly there - you&apos;ve got this!"/>
+            <textevent timeoffset="205" message="One big effort to go before a long rest!"/>
+            <textevent timeoffset="241" message="UP UP UP! BIG PUSH NOW!"/>
+            <textevent timeoffset="265" message="Nice work! "/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.50999999" pace="0">
+            <textevent timeoffset="10" message="Half way through these 20/40 efforts"/>
+            <textevent timeoffset="60" message="How do you feel? "/>
+            <textevent timeoffset="100" message="If you need to lower your bias in order to complete the workout - that&apos;s fine!"/>
+            <textevent timeoffset="140" message="These sessions don&apos;t get easier, you just get faster!"/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="20" OffDuration="40" OnPower="1.6" OffPower="0.40000001" pace="0">
+            <textevent timeoffset="1" message="3rd set! Think of the gains!"/>
+            <textevent timeoffset="25" message="Good job "/>
+            <textevent timeoffset="61" message="That rest went fast! Let&apos;s go again! "/>
+            <textevent timeoffset="85" message="Make sure you start pedaling harder just before the next effort starts - this will prevent you getting bogged down"/>
+            <textevent timeoffset="121" message="GO GO GO! "/>
+            <textevent timeoffset="145" message="2 efforts to go - that&apos;s only 40 seconds of hard work left in this block "/>
+            <textevent timeoffset="181" message="The end is in sight - keep pushing"/>
+            <textevent timeoffset="205" message="1 effort to go.. really go for it from start to finish"/>
+            <textevent timeoffset="241" message="Everything you&apos;ve got now! "/>
+            <textevent timeoffset="265" message="Another block complete!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.5" pace="0">
+            <textevent timeoffset="10" message="Chance to recover - use it wisely! Control your breathing as quickly as you can"/>
+            <textevent timeoffset="60" message="One block to go - this is most important "/>
+            <textevent timeoffset="120" message="Remember to stay composed and keep thinking of your technique throughout "/>
+            <textevent timeoffset="160" message="5 efforts and that will be the hard work done! Think how amazing you will feel! "/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="20" OffDuration="40" OnPower="1.6" OffPower="0.40000001" pace="0">
+            <textevent timeoffset="1" message="Here we go "/>
+            <textevent timeoffset="25" message="1 down 4 to go!! "/>
+            <textevent timeoffset="61" message="UP UP UP! GO GO GO! "/>
+            <textevent timeoffset="85" message="Fantastic work! The end really is in sight now!"/>
+            <textevent timeoffset="121" message="Get on top of the gear as soon as you can! "/>
+            <textevent timeoffset="145" message="2 efforts to go! If you need to get out of the saddle, that&apos;s fine "/>
+            <textevent timeoffset="181" message="Less than 40 seconds of total effort remaining"/>
+            <textevent timeoffset="205" message="The last rest - I hope you&apos;re smiling! "/>
+            <textevent timeoffset="241" message="Let&apos;s finish on a high!! Last big push - time to make magic happen!"/>
+            <textevent timeoffset="265" message="You smashed it!!"/>
+        </IntervalsT>
+        <Cooldown Duration="300" PowerLow="0.69999999" PowerHigh="0.40000004" pace="0">
+            <textevent timeoffset="20" message="Good work - that&apos;s 20-40&apos;s complete!"/>
+            <textevent timeoffset="90" message="Remember, the key to fitness is consistency - try and ride your bike often"/>
+            <textevent timeoffset="140" message="If you cruised through today&apos;s workout, you may fancy doing a little extra riding?"/>
+            <textevent timeoffset="155" message="Some extra volume on top of these short, but structured workouts can help improve your endurance and fitness"/>
+            <textevent timeoffset="220" message="If you struggled with today&apos;s workout - I suggest you think about adjusting the bias slightly?"/>
+            <textevent timeoffset="240" message="A 2 or 3% adjustment can make all the difference - we are looking for these workouts to be ‘tough but achievable&apos;"/>
+            <textevent timeoffset="290" message="See you on the next Workout - Dani and Kristin"/>
+        </Cooldown>
+    </workout>
+</workout_file>

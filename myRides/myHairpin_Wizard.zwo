@@ -1,0 +1,109 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>myHairpin Wizard</name>
+    <description>Steady tempo efforts are great, but by incorporating 30sec high-intensity efforts into them, you will improve your body's ability to work aerobically for longer periods of time. This helps the body adapt to the natural surges in climbing around hairpin corners. Today's sessions consists of 2 x 16min tempo efforts with a 30sec surge every 3.5min.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="ZST23"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480.00003" PowerLow="0.5" PowerHigh="0.75" pace="0">
+            <textevent timeoffset="0" message="Hello and welcome to Hairpin Wizard."/>
+            <textevent timeoffset="10" message="Master this workout and you will gain wizard like abilities when encountering your next hairpin corner."/>
+            <textevent timeoffset="40" message="Let&apos;s begin the day with a progressive warm up."/>
+            <textevent timeoffset="50" message="Keep your cadence comfortable and make sure you have your fan, fluids, and towel handy!"/>
+            <textevent timeoffset="150" message="Great work so far! Let&apos;s take a moment and chat about what&apos;s on tap for today."/>
+            <textevent timeoffset="160" message="Our intention today, as you know, is to master hairpin corners."/>
+            <textevent timeoffset="170" message="Improving your climbing ability can be tied to a number of different factors..."/>
+            <textevent timeoffset="180" message="Power to weight ratio is the most important, so improving your power or FTP will get you up the mountain faster."/>
+            <textevent timeoffset="200" message="Other factors to consider are pedaling technique, equipment choice and pacing strategies."/>
+            <textevent timeoffset="210" message="Pedaling technique or cadence when climbing varies based on the individual, but typically riders average between 60-80rpms."/>
+            <textevent timeoffset="220" message="More experienced and highly trained cyclists can hold a higher cadence of 90-100rpms when climbing."/>
+            <textevent timeoffset="240" message="Bike choice is key for climbing. A lighter bike with climbing wheels can save you significant time up the mountain."/>
+            <textevent timeoffset="260" message="Finally, pacing is a key component often overlooked when climbing, but very important to getting to the top of any hill."/>
+            <textevent timeoffset="250" message="The general rule of thumb when climbing is to start conservatively and gradually build your effort as the climb progresses."/>
+            <textevent timeoffset="260" message="You want to be at your strongest in the final 3rd of the climb."/>
+            <textevent timeoffset="300" message="Today&apos;s workout combines a progressive ramp effort with 30 second surges in power."/>
+            <textevent timeoffset="310" message="The ramp effort mimics climbing at tempo pace."/>
+            <textevent timeoffset="320" message="The 30 second surges are the hairpin corners."/>
+            <textevent timeoffset="330" message="Tempo riding will improve your body&apos;s ability to work aerobically for longer periods of time."/>
+            <textevent timeoffset="340" message="The surges during the climb around the hairpin corners will spike your Heart rate and increase lactic acid."/>
+            <textevent timeoffset="350" message="Your mission is to improve your bodies ability to clear lactate while holding a tempo effort."/>
+            <textevent timeoffset="360" message="Let&apos;s carry on with the warm up."/>
+            <textevent timeoffset="420" message="1min to go for the warmup, then we&apos;ll rest for a bit before beginning the main set."/>
+        </Warmup>
+        <SteadyState Duration="120.00001" Power="0.5" pace="0" Cadence="85">
+            <textevent timeoffset="0" message="Awesome work! That&apos;s it for today&apos;s warm up. Let&apos;s take it easy now before we begin the main set."/>
+            <textevent timeoffset="90" message="All right, 30sec and we&apos;re ON! I want a high cadence for the surge efforts of 100+ RPM."/>
+            <textevent timeoffset="100" message="And a comfortable cadence of ~90 RPM for the tempo work in between."/>
+            <textevent timeoffset="110" message="Start spinning the legs up here!"/>
+        </SteadyState>
+        <Ramp Duration="30.000002" PowerLow="1" PowerHigh="1.2" pace="0" Cadence="105">
+            <textevent timeoffset="0" message="GO GO GO!"/>
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75" PowerHigh="0.88" pace="0" Cadence="95">
+            <textevent timeoffset="0" message="Beautiful! Settle back down into tempo zone quickly now."/>
+            <textevent timeoffset="60" message="These will become progressively more challenging as the interval goes on, but you&apos;re STRONG! You can do this."/>
+            <textevent timeoffset="180" message="30sec and we&apos;re making another push around the hairpin corner, get ready!"/>
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1" PowerHigh="1.2" pace="0" Cadence="105">
+            <textevent timeoffset="0" message="PUSH IT!"/>
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75" PowerHigh="0.88" pace="0" Cadence="95">
+            <textevent timeoffset="0" message="Awesome work so far, you&apos;re really pushing yourself today."/>
+            <textevent timeoffset="10" message="We have 1 more corner coming up, stay focused now!"/>
+            <textevent timeoffset="150" message="60sec and we&apos;re making another go for it!"/>
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1" PowerHigh="1.2" pace="0" Cadence="105">
+            <textevent timeoffset="0" message="GIVE IT YOUR ALL!"/>
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75" PowerHigh="0.88" pace="0" Cadence="95">
+            <textevent timeoffset="0" message="Awesome work! Hang on for these last 3.5min now, FIGHT!"/>
+            <textevent timeoffset="120" message="You&apos;re almost there, dig deep!"/>
+            <textevent timeoffset="200" message="ALL THE WAY TO THE ARCH!"/>
+        </Ramp>
+        <SteadyState Duration="300" Power="0.5" pace="0" Cadence="85">
+            <textevent timeoffset="0" message="Phew! That&apos;s 1 down and 1 more to go. Those are tough, but so good for aerobic capacity training."/>
+            <textevent timeoffset="10" message="We&apos;ll take a 5min rest now, then repeat once more."/>
+            <textevent timeoffset="20" message="We&apos;ll catch up with 1min to go :-)"/>
+            <textevent timeoffset="30" message="Use this time to take some deep breaths and a few sips of fluid."/>
+            <textevent timeoffset="240" message="All right, hopefully you&apos;re feeling relatively recovered by now and ready to CRUSH this finale."/>
+            <textevent timeoffset="250" message="We&apos;ll repeat that same process again with a hard surge effort followed by a tempo ramp effort."/>
+            <textevent timeoffset="290" message="Let&apos;s spin the legs up and get ready for a hard effort!"/>
+        </SteadyState>
+        <Ramp Duration="30.000002" PowerLow="1" PowerHigh="1.2" pace="0" Cadence="105">
+            <textevent timeoffset="0" message="PUSH IT!"/>
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75" PowerHigh="0.88" pace="0" Cadence="95">
+            <textevent timeoffset="0" message="C&apos;mon! Embrace your inner mountain goat and fight to the end of this!"/>
+            <textevent timeoffset="120" message="DIG DIG DIG! Keep ramping the power up through this tempo effort."/>
+            <textevent timeoffset="200" message="Get ready to SURGE!"/>
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1" PowerHigh="1.2" pace="0" Cadence="105">
+            <textevent timeoffset="0" message="POWER!"/>
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75" PowerHigh="0.88" pace="0" Cadence="95">
+            <textevent timeoffset="0" message="Yes! That was your best one yet! We have just 1 more hairpin corner remaining, YOU GOT IT!"/>
+            <textevent timeoffset="90" message="Shake out the tension in your upper body, stay relaxed and focused on the target."/>
+            <textevent timeoffset="180" message="30sec to go, then we have our final attack effort!"/>
+        </Ramp>
+        <Ramp Duration="30.000002" PowerLow="1" PowerHigh="1.2" pace="0" Cadence="105">
+            <textevent timeoffset="0" message="DIG DIG DIG!"/>
+        </Ramp>
+        <Ramp Duration="210.00002" PowerLow="0.75" PowerHigh="0.88" pace="0" Cadence="95">
+            <textevent timeoffset="0" message="Phew! Nicely done! Hang on now and let&apos;s finish this last 3.5min STRONG!"/>
+            <textevent timeoffset="120" message="Just 1.5min to go and we&apos;re done! ."/>
+            <textevent timeoffset="200" message="PUSH FOR THE ARCH!"/>
+        </Ramp>
+        <Cooldown Duration="300" PowerLow="0.69" PowerHigh="0.44" pace="0">
+            <textevent timeoffset="0" message="Great job! Let&apos;s cool down for 5min now."/>
+            <textevent timeoffset="30" message="We&apos;ll gradually lower the intensity down. Keep your cadence comfortable."/>
+            <textevent timeoffset="60" message="Thank you so much for working hard today and digging deep."/>
+            <textevent timeoffset="70" message="Workouts like this will make a huge difference climbing performance."/>
+            <textevent timeoffset="80" message="Even one structured workout per week on Zwift can improve your fitness and make your outdoor riding more enjoyable."/>
+            <textevent timeoffset="240" message="Last minute here and we&apos;re DONE!"/>
+            <textevent timeoffset="250" message="Great effort again today, you should be proud of it!"/>
+            <textevent timeoffset="290" message="Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

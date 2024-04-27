@@ -1,0 +1,59 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>myElevate and Escalate</name>
+    <description>Get ready for a thrilling 35-minute ride with us! We're hitting virtual hills to ramp up your strength and stamina. It's all about fun climbs and feeling great with each summit we reach. Let's tackle these hills together and enjoy every moment!</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.5" PowerHigh="0.70000005" pace="0" Cadence="85">
+            <textevent timeoffset="0" message="Welcome to our Progressive Climb! Let&apos;s start with a warm-up. Easy spinning to get us going."/>
+            <textevent timeoffset="60" message="Feel your legs warming up, getting ready for our climb."/>
+            <textevent timeoffset="120" message="Keep the pace light and steady. We&apos;re just getting started."/>
+            <textevent timeoffset="180" message="Starting to feel good? Let&apos;s keep this momentum as we gear up for the climb."/>
+            <textevent timeoffset="240" message="Warm-up is almost done. Get ready for a gradual but challenging ascent!"/>
+        </Warmup>
+        <Ramp Duration="300" PowerLow="0.70000005" PowerHigh="0.75" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Starting our climb now. Let&apos;s increase our effort slightly."/>
+            <textevent timeoffset="60" message="Feel the gradient changing? Keep a steady cadence as we go up."/>
+            <textevent timeoffset="120" message="You&apos;re doing great. Let&apos;s push a little harder, feel that burn."/>
+            <textevent timeoffset="180" message="We&apos;re climbing well. Keep focused on your breathing."/>
+            <textevent timeoffset="240" message="Almost at the top of this section. Stay strong and push through!"/>
+        </Ramp>
+        <Ramp Duration="300" PowerLow="0.75" PowerHigh="0.79999995" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Onto the next part of our climb. Let&apos;s up the intensity."/>
+            <textevent timeoffset="60" message="Keep pushing, you&apos;re climbing brilliantly. Feel that power in your legs."/>
+            <textevent timeoffset="120" message="Maintain your rhythm, we&apos;re conquering this hill together."/>
+            <textevent timeoffset="180" message="Fantastic effort! We&apos;re making great progress on this climb."/>
+            <textevent timeoffset="240" message="Keep it up! Almost at the next checkpoint. You&apos;re doing amazing!"/>
+        </Ramp>
+        <Ramp Duration="300" PowerLow="0.80000007" PowerHigh="0.85000002" pace="0" Cadence="85">
+            <textevent timeoffset="0" message="We&apos;re not done yet! Let&apos;s take it up a notch. Feel the climb getting steeper."/>
+            <textevent timeoffset="60" message="You&apos;re pushing brilliantly! Keep that cadence strong and steady."/>
+            <textevent timeoffset="120" message="We&apos;re riding through this challenge together. Stay with me, keep climbing."/>
+            <textevent timeoffset="180" message="Your effort is paying off. We&apos;re reaching new heights together!"/>
+            <textevent timeoffset="240" message="Almost at the top of this ramp. Push through, you can do it!"/>
+        </Ramp>
+        <Ramp Duration="300" PowerLow="0.83000004" PowerHigh="0.89999998" pace="0" Cadence="85">
+            <textevent timeoffset="0" message="Onto our next ramp! It&apos;s tough, but so are we. Let&apos;s keep climbing."/>
+            <textevent timeoffset="60" message="Amazing resilience! Your strength is shining through each pedal stroke."/>
+            <textevent timeoffset="120" message="We&apos;re climbing higher and higher. Keep up this fantastic energy."/>
+            <textevent timeoffset="180" message="Embrace the burn. It&apos;s the feeling of getting stronger and fitter."/>
+            <textevent timeoffset="240" message="Just a bit more to conquer this ramp. You&apos;ve got all it takes!"/>
+        </Ramp>
+        <Ramp Duration="300" PowerLow="0.86000001" PowerHigh="0.94999993" pace="0" Cadence="80">
+            <textevent timeoffset="0" message="This is it, our final push! The peak is in sight. Let&apos;s power to the top."/>
+            <textevent timeoffset="60" message="Unleash everything you&apos;ve got left. You&apos;re almost at the summit!"/>
+            <textevent timeoffset="120" message="We&apos;re climbing this together, every step of the way. Strong and steady!"/>
+            <textevent timeoffset="180" message="Can you feel that? That&apos;s success waiting for us at the top!"/>
+            <textevent timeoffset="240" message="Last few strokes! Make them count. The top is just ahead!"/>
+        </Ramp>
+        <Cooldown Duration="300" PowerLow="0.70000005" PowerHigh="0.5" pace="0">
+            <textevent timeoffset="0" message="Superb climbing! Now it&apos;s time to cool down and enjoy the descent."/>
+            <textevent timeoffset="60" message="Let&apos;s take it easy, allowing our heart rate to come down gradually."/>
+            <textevent timeoffset="120" message="Spin those legs lightly. You&apos;ve worked hard and deserve this cool down."/>
+            <textevent timeoffset="180" message="Reflect on the climb we just tackled. You should be proud of your effort!"/>
+            <textevent timeoffset="240" message="Workout complete! Fantastic job on the climb today. You&apos;re getting stronger!"/>
+            <textevent timeoffset="290" message="Until next time, Ride On."/>
+        </Cooldown>
+    </workout>
+</workout_file>

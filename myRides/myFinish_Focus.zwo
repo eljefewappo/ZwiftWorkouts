@@ -1,0 +1,72 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>myFinish Focus</name>
+    <description>If you are looking for a focused and effective workout, look no further. This workout will help you improve your capacity to recover quickly after hard efforts, conserving energy and also being able to attack hard and maintain to the finishline. This workout is one of Luca Vergallito's favorite workouts to prepare for his race. Go get it!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="WOTW"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.25449997" PowerHigh="0.75449997" pace="0">
+            <textevent timeoffset="0" message="Hello and welcome to Finish Focus. If you are looking for a focused and effective workout, you found it!"/>
+            <textevent timeoffset="20" message="It is designed to improve your ability to recover quickly after hard efforts."/>
+            <textevent timeoffset="40" message="It is one of Luca Vergallito&apos;s favorite workouts to prepare for races."/>
+            <textevent timeoffset="60" message="Luca is a pro cycling legend from Italy and has picked this workout just for you."/>
+            <textevent timeoffset="80" message="Get in your rhythm as we keep warming up."/>
+            <textevent timeoffset="100" message="After this 5 minute ramp, we&apos;ll go into some zone 2 intervals to get your heart pumping."/>
+            <textevent timeoffset="120" message="The main set is 4 x 5 minute ramps with a 3 minute recovery in between."/>
+            <textevent timeoffset="140" message="Remember, we are focused on our ability to recover between hard efforts."/>
+            <textevent timeoffset="150" message="Good technique helps to conserve your energy."/>
+            <textevent timeoffset="160" message="Make sure to keep your shoulders relaxed and core strong throughout the workout."/>
+            <textevent timeoffset="250" message="You should start feeling your muscles warming up by about now. Keep it up!"/>
+        </Warmup>
+        <IntervalsT Repeat="3" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.75449997" OffPower="0.50449997" pace="0" Cadence="110" CadenceResting="80">
+            <textevent timeoffset="0" message="Here we go! Keep your shoulders relaxed and core strong."/>
+        </IntervalsT>
+        <Ramp Duration="300" PowerLow="1.0044999" PowerHigh="1.2045" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="It&apos;s showtime now!"/>
+            <textevent timeoffset="10" message="Stay focused, keep your rhythm."/>
+            <textevent timeoffset="250" message="You&apos;re doing great. Stay focused until the arch!"/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="0.65449995" pace="0">
+            <textevent timeoffset="0" message="Great work! Let&apos;s recover now."/>
+            <textevent timeoffset="10" message="Maintain smooth stroke and solid technique."/>
+        </SteadyState>
+        <Ramp Duration="300" PowerLow="1.0044999" PowerHigh="1.2045" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Here we go! "/>
+            <textevent timeoffset="10" message="It&apos;s time to shine!"/>
+            <textevent timeoffset="20" message="On your next exhale, relax your shoulders and contract your core."/>
+            <textevent timeoffset="250" message="You&apos;re doing fantastic. Keep up the pace!"/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="0.65449995" pace="0">
+            <textevent timeoffset="0" message="Nice work!"/>
+            <textevent timeoffset="10" message="Now, focus on your breathing. In through your nose and out through your mouth."/>
+        </SteadyState>
+        <Ramp Duration="300" PowerLow="1.0044999" PowerHigh="1.2045" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Let&apos;s get it!"/>
+            <textevent timeoffset="10" message="One stroke at a time. Stay focused!"/>
+            <textevent timeoffset="180" message="You&apos;re doing great. Keep it up, until the arch!"/>
+            <textevent timeoffset="280" message="Almost there. Next up, we recover."/>
+        </Ramp>
+        <SteadyState Duration="180.00002" Power="0.65449995" pace="0">
+            <textevent timeoffset="0" message="Awesome work!"/>
+            <textevent timeoffset="10" message="Now, let&apos;s breathe."/>
+            <textevent timeoffset="20" message="Just like that, there&apos;s only one more effort left."/>
+            <textevent timeoffset="170" message="Okay, let&apos;s get ready for showtime."/>
+        </SteadyState>
+        <Ramp Duration="300" PowerLow="1.0044999" PowerHigh="1.2045" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="YES! It&apos;s SHOWTIME! This is our last effort."/>
+            <textevent timeoffset="10" message="Keep a smooth stroke, relaxed shoulers and strong core."/>
+            <textevent timeoffset="260" message="Nice work! Finish strong!"/>
+        </Ramp>
+        <Cooldown Duration="540" PowerLow="0.75449997" PowerHigh="0.25449997" pace="0">
+            <textevent timeoffset="0" message="YES! Fantastic work!"/>
+            <textevent timeoffset="10" message="You&apos;re a champ!"/>
+            <textevent timeoffset="20" message="Keep up the cadence to recover properly."/>
+            <textevent timeoffset="60" message="Enjoy the rest of this well deserved recovery."/>
+            <textevent timeoffset="70" message="Hope to see you next time for another Workout of the Week."/>
+            <textevent timeoffset="510" message="See you next time!"/>
+            <textevent timeoffset="525" message="Ride On."/>
+        </Cooldown>
+    </workout>
+</workout_file>

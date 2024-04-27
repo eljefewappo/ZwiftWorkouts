@@ -1,0 +1,51 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name>myInterval Power Play</name>
+    <description>Ready for a fun 30-minute ride? We're going to tackle some power intervals together, it's the perfect way to boost your endurance and build strength, one pedal stroke at a time. Don't worry, I'll be with you every step of the way, guiding you through each surge and recovery. Let's turn up the energy and enjoy the ride!</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="360.00003" PowerLow="0.5" PowerHigh="0.70000005" pace="0" Cadence="85">
+            <textevent timeoffset="0" message="Welcome! Ready to ride? Let&apos;s start with a gentle warm-up. "/>
+            <textevent timeoffset="30" message="Keep it steady and light. Warming up is key for a great workout."/>
+            <textevent timeoffset="60" message="Today, we have a classic interval workout to burn some energy quickly."/>
+            <textevent timeoffset="120" message="Feel your muscles loosening up. You&apos;re doing great!"/>
+            <textevent timeoffset="180" message="Almost done with the warm-up. Get set mentally for the workout ahead."/>
+            <textevent timeoffset="240" message="We have 1 minute to go before we begin the work."/>
+            <textevent timeoffset="290" message="Ready for the challenge? Let&apos;s do this!"/>
+        </Warmup>
+        <IntervalsT Repeat="10" OnDuration="60.000004" OffDuration="60.000004" OnPower="1.03" OffPower="0.5" pace="0" Cadence="90" CadenceResting="80">
+            <textevent timeoffset="0" message="Okay ready for our first power interval? Let&apos;s hit it hard right now!"/>
+            <textevent timeoffset="60" message="And that&apos;s our first one done! Time to ease off and catch our breath. Great work!"/>
+            <textevent timeoffset="120" message="Ready for round two? Let&apos;s bring that energy back up! Go, go, go!"/>
+            <textevent timeoffset="180" message="Superb effort! Now let&apos;s slow it down for a bit. You&apos;ve earned this recovery time."/>
+            <textevent timeoffset="240" message="Brace yourselves for the next push. Ready to jump back in? Here we go!"/>
+            <textevent timeoffset="300" message="Halfway through! Let&apos;s take it down a notch, catch our breath and prepare for the next one."/>
+            <textevent timeoffset="360" message="Let&apos;s ramp it up again! Steady and strong, here comes another power minute."/>
+            <textevent timeoffset="420" message="And ease off now. These recovery periods are golden. You&apos;re doing brilliantly!"/>
+            <textevent timeoffset="480" message="Get ready to surge once more. Let&apos;s keep up the great work. And off we go!"/>
+            <textevent timeoffset="540" message="Another great push! Time to wind down, breathe, and relax."/>
+            <textevent timeoffset="600" message="Gearing up for our next interval. Let&apos;s keep that energy high."/>
+            <textevent timeoffset="660" message="Now, let&apos;s enjoy this recovery. Slow down and breathe."/>
+            <textevent timeoffset="720" message="We&apos;re not done yet! Ready for another strong push? Let&apos;s dive right in!"/>
+            <textevent timeoffset="750" message="You might start feeling the intensity in your legs. That&apos;s when you know you are driving for success."/>
+            <textevent timeoffset="780" message="Fantastic! Let&apos;s drop the pace for a bit. Breathe and recover."/>
+            <textevent timeoffset="840" message="Let&apos;s gear up for the next interval. And here we go!"/>
+            <textevent timeoffset="900" message="Now it&apos;s time for a quick breather. Slow and steady."/>
+            <textevent timeoffset="960" message="Alright, let&apos;s push again. We&apos;re almost at the end. Let&apos;s do this!"/>
+            <textevent timeoffset="1020" message="Take a moment to relax now. You&apos;re doing an amazing job!"/>
+            <textevent timeoffset="1080" message="Here&apos;s our final effort. Let&apos;s make it count!"/>
+            <textevent timeoffset="1110" message="GO GO GO! That&apos;s our last interval! Almost there!"/>
+            <textevent timeoffset="1140" message="That was incredible! Now let&apos;s wind down. You&apos;ve really outdone yourself."/>
+        </IntervalsT>
+        <Cooldown Duration="300" PowerLow="0.5" PowerHigh="0.39999998" pace="0">
+            <textevent timeoffset="0" message="Amazing effort! Time to cool down."/>
+            <textevent timeoffset="30" message="Just like that, you&apos;ve completed a classic interval workout, an effective workout to burn calories."/>
+            <textevent timeoffset="60" message="Let your heart rate come down gradually."/>
+            <textevent timeoffset="120" message="Keep spinning lightly. You&apos;ve done awesome today!"/>
+            <textevent timeoffset="180" message="Almost at the end. Reflect on your amazing work."/>
+            <textevent timeoffset="240" message="Be proud of your efforts today!"/>
+            <textevent timeoffset="290" message="Until next time, Ride On."/>
+        </Cooldown>
+    </workout>
+</workout_file>

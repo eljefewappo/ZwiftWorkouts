@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
-        <name>myWild_Iris.zwo</name>
-        <time>1714473288</time>
-        <guid>8121</guid>
-        <checksum>117</checksum>
+        <name>Under 30/myWild_Iris.zwo</name>
+        <time>1714476426</time>
+        <guid>27791</guid>
+        <checksum>86</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/14._myThrough_Highs_and_Lows.zwo</name>
+        <time>1714476057</time>
+        <guid>19293</guid>
+        <checksum>145</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -35,7 +42,7 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myRides/mCrit_City_Downtown_Dolphin.zwo</name>
+        <name>myRides/myCrit_City_Downtown_Dolphin.zwo</name>
         <time>1714473008</time>
         <guid>30832</guid>
         <checksum>56</checksum>
@@ -137,13 +144,6 @@
         <time>1714231182</time>
         <guid>16379</guid>
         <checksum>209</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>14._myThrough_Highs_and_Lows.zwo</name>
-        <time>1713953196</time>
-        <guid>6301</guid>
-        <checksum>145</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1685,5 +1685,8 @@
         <hash>994223434</hash>
         <hash>688119660</hash>
         <hash>993244569</hash>
+        <hash>82195337</hash>
+        <hash>3221119003</hash>
+        <hash>2751847802</hash>
     </deleted_files>
 </custom_file_directory>

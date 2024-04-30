@@ -1,16 +1,23 @@
 <custom_file_directory>
     <custom_file>
+        <name>myWild_Iris.zwo</name>
+        <time>1714473288</time>
+        <guid>8121</guid>
+        <checksum>117</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>myRides/myFinish_Focus.zwo</name>
-        <time>1714231182</time>
+        <time>1714473008</time>
         <guid>26896</guid>
-        <checksum>206</checksum>
+        <checksum>95</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>myRides/myElevate_and_Escalate.zwo</name>
-        <time>1714231182</time>
+        <time>1714473008</time>
         <guid>6037</guid>
-        <checksum>167</checksum>
+        <checksum>133</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -22,9 +29,9 @@
     </custom_file>
     <custom_file>
         <name>myRides/mCrit_City_Downtown_Dolphin.zwo</name>
-        <time>1714231182</time>
+        <time>1714473008</time>
         <guid>30832</guid>
-        <checksum>90</checksum>
+        <checksum>56</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -36,16 +43,16 @@
     </custom_file>
     <custom_file>
         <name>myRides/myBig_Gear_SST___2x10.zwo</name>
-        <time>1714231182</time>
+        <time>1714473008</time>
         <guid>32213</guid>
-        <checksum>30</checksum>
+        <checksum>252</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>myRides/myBrisk_Burn.zwo</name>
-        <time>1714231182</time>
+        <time>1714473008</time>
         <guid>9726</guid>
-        <checksum>145</checksum>
+        <checksum>114</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -106,9 +113,9 @@
     </custom_file>
     <custom_file>
         <name>myRides/myFlash_Burn.zwo</name>
-        <time>1714231182</time>
+        <time>1714473008</time>
         <guid>27973</guid>
-        <checksum>101</checksum>
+        <checksum>70</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -932,9 +939,9 @@
     </custom_file>
     <custom_file>
         <name>myRides/myEPOC.zwo</name>
-        <time>1706452153</time>
-        <guid>11192</guid>
-        <checksum>234</checksum>
+        <time>1714473008</time>
+        <guid>1057</guid>
+        <checksum>200</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -946,9 +953,9 @@
     </custom_file>
     <custom_file>
         <name>myRides/myCapacity_with_Tempo.zwo</name>
-        <time>1706452153</time>
-        <guid>19420</guid>
-        <checksum>67</checksum>
+        <time>1714473008</time>
+        <guid>11192</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -967,16 +974,16 @@
     </custom_file>
     <custom_file>
         <name>myRides/my30_30_Anaerobic__1.zwo</name>
-        <time>1706452153</time>
-        <guid>21054</guid>
-        <checksum>254</checksum>
+        <time>1714473008</time>
+        <guid>2811</guid>
+        <checksum>220</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>myRides/myFreeRide.zwo</name>
-        <time>1706452153</time>
-        <guid>14821</guid>
-        <checksum>170</checksum>
+        <time>1714473008</time>
+        <guid>11098</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

@@ -3,7 +3,10 @@
     <name>myWild Iris</name>
     <description>Short and sweet workout that challenges your spirit. This workout is great for time crunched athletes looking for an efficient session.</description>
     <sportType>bike</sportType>
-    <tags/>
+    <tags>
+        <tag name="Under 30min"/>
+        <tag name="Interval"/>
+    </tags>
     <workout>
         <Warmup Duration="180.00002" PowerLow="0.69999993" PowerHigh="0.88" pace="0">
             <textevent timeoffset="0" message="Welcome to Wild Iris."/>

@@ -1,5 +1,26 @@
 <custom_file_directory>
     <custom_file>
+        <name>myRides/myMicro_Wave.zwo</name>
+        <time>1714646557</time>
+        <guid>4188</guid>
+        <checksum>220</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/mCrit_City_Downtown_Dolphin.zwo</name>
+        <time>1714473008</time>
+        <guid>30832</guid>
+        <checksum>56</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 60/myCrit_City_Downtown_Dolphin.zwo</name>
+        <time>1714646557</time>
+        <guid>13395</guid>
+        <checksum>56</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Under 30/myWild_Iris.zwo</name>
         <time>1714476426</time>
         <guid>27791</guid>

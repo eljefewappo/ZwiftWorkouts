@@ -1,23 +1,30 @@
 <custom_file_directory>
     <custom_file>
-        <name>myRides/myMini_Micro_Wave.zwo</name>
-        <time>1714646557</time>
-        <guid>4188</guid>
-        <checksum>220</checksum>
+        <name>Under 30/myBrisk_Burn.zwo</name>
+        <time>1715079175</time>
+        <guid>16630</guid>
+        <checksum>145</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myRides/mCrit_City_Downtown_Dolphin.zwo</name>
-        <time>1714473008</time>
-        <guid>30832</guid>
-        <checksum>56</checksum>
+        <name>Intervals/myBrisk_Burn.zwo</name>
+        <time>1715079175</time>
+        <guid>16630</guid>
+        <checksum>145</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myMini_Micro_Wave.zwo</name>
+        <time>1714649363</time>
+        <guid>13486</guid>
+        <checksum>47</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Under 60/myCrit_City_Downtown_Dolphin.zwo</name>
-        <time>1714646557</time>
-        <guid>13395</guid>
-        <checksum>56</checksum>
+        <time>1714649363</time>
+        <guid>9233</guid>
+        <checksum>0</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1709,5 +1716,7 @@
         <hash>82195337</hash>
         <hash>3221119003</hash>
         <hash>2751847802</hash>
+        <hash>177383866</hash>
+        <hash>3690696470</hash>
     </deleted_files>
 </custom_file_directory>

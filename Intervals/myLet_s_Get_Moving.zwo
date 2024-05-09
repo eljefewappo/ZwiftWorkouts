@@ -1,0 +1,185 @@
+<workout_file>
+    <author>Kristin Armstrong</author>
+    <name>myLet's Get Moving</name>
+    <description>Hey there, welcome to 'Let's Get Moving' with Coach Kristin! This is your first stop in the Fitness Jumpstart series. We're going to get those legs moving and hearts pumping, while also clueing you in on some smart goal-setting tips. Today's plan? Three sets of six-minute intervals, gradually upping the power every 30 seconds in Zones 3 and 4. It's all about fun and building endurance!</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="60.000004" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="Hey there, welcome to Let&apos;s Get Moving!"/>
+            <textevent timeoffset="10" message="Kristin Armstrong here, ready to lead you through our workout today."/>
+            <textevent timeoffset="20" message="This workout was designed as the first workout of the Fitness Jumpstart with Coach Kristin series. "/>
+            <textevent timeoffset="30" message="Whether you intend to complete the series or simply looking for an efficient workout, this workout is for you!"/>
+            <textevent timeoffset="40" message="Today is an efficient endurance workout to get the legs moving and heart pumping."/>
+            <textevent timeoffset="50" message="Kudos for focusing on YOU and your health! We&apos;re going to have a blast."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.56" pace="0">
+            <textevent timeoffset="0" message="If you are doing this workout as part of the series, you are not alone."/>
+            <textevent timeoffset="10" message="People join this series for all sorts of reasons..."/>
+            <textevent timeoffset="20" message="To get back into structured riding, shed some pounds, set and smash a goal, stay accountable, or boost fitness..."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.63" pace="0">
+            <textevent timeoffset="0" message="Okay, as we keep warming up, let&apos;s chat about the plan for today..."/>
+            <textevent timeoffset="10" message="Today&apos;s main event is 3 sets of 6-minute power ramp-ups."/>
+            <textevent timeoffset="20" message="We&apos;ll be gradually increasing your power output."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.69" pace="0">
+            <textevent timeoffset="0" message="Remember, the key here is to have a blast while training. "/>
+            <textevent timeoffset="10" message="When you&apos;re having fun, sticking with it is much easier. "/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.75" pace="0">
+            <textevent timeoffset="0" message="Last ramp! Keep it chill and focus on a smooth pedal stroke."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.55000001" pace="0">
+            <textevent timeoffset="0" message="Take a quick breather before we dive into the next part of today&apos;s warm-up."/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="30.000002" OffDuration="30.000002" OnPower="0.64999998" OffPower="0.88999999" pace="0">
+            <textevent timeoffset="0" message="Get ready! We&apos;re staying seated and changing pace every 30 seconds, starting at a basic endurance level. "/>
+            <textevent timeoffset="30" message="Now let&apos;s ramp up to Zone 3 Tempo."/>
+            <textevent timeoffset="45" message="On a Rate of Perceived Exertion (RPE) scale of 1-10, Zone 3 should feel like a solid 5-6. "/>
+            <textevent timeoffset="60" message="Ready for another round?"/>
+            <textevent timeoffset="150" message="Keep pushing through these intervals!"/>
+            <textevent timeoffset="210" message="Check-in time: How are you feeling? You should be pretty warmed up and ready to take it up a notch!"/>
+            <textevent timeoffset="270" message="We&apos;re wrapping up the warm-up soon. A short recovery is coming up next."/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.55000001" OffPower="0.55000001" pace="0" OverUnder="1">
+            <textevent timeoffset="0" message="Time to ease off a bit. Feel free to get out of the saddle to stretch your legs."/>
+            <textevent timeoffset="10" message="Make sure your water bottle is within arm&apos;s reach and your fan (or fans!) is turned on. "/>
+        </IntervalsT>
+        <SteadyState Duration="30.000002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Let&apos;s go!"/>
+            <textevent timeoffset="20" message="It&apos;s easy to overlook form when cycling. Just like in strength training, good form means more power output."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.86000001" pace="0">
+            <textevent timeoffset="0" message="This means keeping your shoulders and elbows relaxed, breathing easy, and engaging your core to keep your lower back neutral."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.88" pace="0">
+            <textevent timeoffset="0" message="Focus on even pressure throughout the pedal stroke. Make sure to use your glutes and hamstrings too."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.88999999" pace="0">
+            <textevent timeoffset="0" message="How are you doing? All good so far?"/>
+            <textevent timeoffset="10" message="Awesome! We&apos;re going to keep ramping it up. You&apos;re doing fantastic!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.89999998" pace="0">
+            <textevent timeoffset="0" message="Great effort! Picture yourself powering up a hill. Stay strong!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.91000003" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.93000001" pace="0">
+            <textevent timeoffset="0" message="Fantastic effort! Keep those shoulders loose and your core engaged!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.94" pace="0">
+            <textevent timeoffset="0" message="If you haven&apos;t measured your current FTP yet, let&apos;s make that a priority after today&apos;s ride."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.94999999" pace="0">
+            <textevent timeoffset="20" message="The right FTP ensures every workout matches your fitness level."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.95999998" pace="0">
+            <textevent timeoffset="0" message="The final four ramps are coming up! How are you feeling? Are you keeping good form?"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.98000002" pace="0">
+            <textevent timeoffset="0" message="Loving the effort! Hang in there. A recovery block is just ahead."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.99000001" pace="0">
+            <textevent timeoffset="0" message="For the next 30 seconds, you&apos;ll hit 100% of your FTP. This should feel like a 7 or 8 out of 10 effort."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Nice! Let&apos;s take three minutes to return to basic endurance, where your RPE should be between 2 and 4."/>
+            <textevent timeoffset="10" message="This means that you should be back into a pace where you could keep a conversation for hours."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Are you starting to feel your heart rate slowing down a bit?"/>
+            <textevent timeoffset="10" message="Take some time to control your breath and enjoy this recovery."/>
+            <textevent timeoffset="40" message="What&apos;s your plan for the next ramp-up? Any tweaks to make from your first set?"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Last minute of downtime. Hydrate, stretch a bit and do a quick form check before the next set."/>
+            <textevent timeoffset="10" message="Are you keeping your core strong and shoulders relaxed?"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Here we go again, ramping up every 30 seconds, increasing power with each step."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.86000001" pace="0">
+            <textevent timeoffset="0" message="How well do you know the Zwift Companion (ZC) App?"/>
+            <textevent timeoffset="10" message="The ZC app has some neat tricks that can really enhance your workout."/>
+            <textevent timeoffset="20" message="One cool feature is the bias adjustment, marked with a plus or minus sign."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.88999999" pace="0">
+            <textevent timeoffset="0" message="Feeling strong? Hit the plus to add more watts for the rest of your session."/>
+            <textevent timeoffset="10" message="If today&apos;s a bit tougher, hit the minus to ease the power requirements."/>
+            <textevent timeoffset="20" message="Using this feature can be a hint that it&apos;s time to retest your FTP."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.89999998" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.91000003" pace="0">
+            <textevent timeoffset="0" message="You&apos;re doing great!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.93000001" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.94" pace="0">
+            <textevent timeoffset="0" message="Quick form check! Are you relaxed, breathing well, with loose shoulders and elbows?"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.94999999" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.95999998" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.98000002" pace="0">
+            <textevent timeoffset="0" message="You got this! Two more ramps until we reach your FTP."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.99000001" pace="0">
+            <textevent timeoffset="0" message="Final Ramp! Push through these last 30 seconds before our next breather."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="How&apos;s it going? Keeping control of each increase? Feel like you can handle a little more?"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="When working at or below your threshold, you should feel in charge, even as it gets tougher."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Last minute of recovery. Get ready to roll, both physically and mentally. Stay focused!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Got any goals for the next 8 weeks? How about for the year?"/>
+            <textevent timeoffset="10" message="Setting goals is key - they keep us accountable and on track."/>
+            <textevent timeoffset="20" message="When thinking about goals, don&apos;t just focus on the endgame or a specific number."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.86000001" pace="0">
+            <textevent timeoffset="0" message="Sure, those outcome goals are great but don&apos;t forget about process goals."/>
+            <textevent timeoffset="10" message="Process goals are the small, everyday steps you take to reach your big goals."/>
+            <textevent timeoffset="20" message="Think of them as mini-milestones, showing how far you&apos;ve come and what you&apos;ve already achieved."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.88" pace="0">
+            <textevent timeoffset="0" message="They&apos;re the game plan you follow. They&apos;re HOW you reach the goal you&apos;re working towards."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.88999999" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.89999998" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.91000003" pace="0">
+            <textevent timeoffset="0" message="Over the next few weeks, try jotting down your big goals and the process steps you want to take to get there."/>
+            <textevent timeoffset="10" message="It might be as simple as adding one more activity to your week."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.93000001" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.94" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.94999999" pace="0"/>
+        <SteadyState Duration="30.000002" Power="0.95999998" pace="0">
+            <textevent timeoffset="0" message="Awesome work today! Ready for the final ramps? "/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.98000002" pace="0">
+            <textevent timeoffset="0" message="How are you feeling? Good to be back at it?"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="0.99000001" pace="0">
+            <textevent timeoffset="0" message="Last ramp! Let&apos;s make every second count."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Congratulations on acing this session! You deserve this recovery."/>
+            <textevent timeoffset="20" message="If you are looking for a bonus challenge this week, try completing a 40-to-45 minutes endurance ride. "/>
+            <textevent timeoffset="30" message="A perfect way to do that would be to find your perfect Robopacer to ride with."/>
+            <textevent timeoffset="40" message="Settle in with a RoboPacer that gives you a comfortable pace for a solid 40-to-45-minute ride."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="We&apos;re wrapping up the cool-down."/>
+            <textevent timeoffset="10" message="Before hopping off, take some time to set your intention for the week."/>
+            <textevent timeoffset="20" message="If you liked this workout, check out the rest of Fitness Jumpstart in your Workout Library."/>
+            <textevent timeoffset="30" message="Each workout is 40 to 45 minutes - short and sweet, some spicier than others."/>
+            <textevent timeoffset="40" message="Congrats on showing up today and getting better!"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Have a fantastic rest of your day! Remember, recovery is key - stay hydrated and fuel up."/>
+            <textevent timeoffset="10" message="Ride On and see you next time!"/>
+        </SteadyState>
+    </workout>
+</workout_file>

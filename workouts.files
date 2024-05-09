@@ -1,16 +1,37 @@
 <custom_file_directory>
     <custom_file>
+        <name>Intervals/myLet_s_Get_Moving.zwo</name>
+        <time>1715251274</time>
+        <guid>31632</guid>
+        <checksum>129</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Intervals/myLittle_Bear.zwo</name>
+        <time>1715251274</time>
+        <guid>21240</guid>
+        <checksum>52</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Zones/myBrisk_Burn.zwo</name>
+        <time>1715250852</time>
+        <guid>1772</guid>
+        <checksum>151</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Under 30/myBrisk_Burn.zwo</name>
-        <time>1715079175</time>
-        <guid>16630</guid>
-        <checksum>145</checksum>
+        <time>1715250852</time>
+        <guid>21734</guid>
+        <checksum>151</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Intervals/myBrisk_Burn.zwo</name>
-        <time>1715079175</time>
-        <guid>16630</guid>
-        <checksum>145</checksum>
+        <time>1715250852</time>
+        <guid>19245</guid>
+        <checksum>151</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1719,5 +1740,7 @@
         <hash>177383866</hash>
         <hash>3690696470</hash>
         <hash>3562343387</hash>
+        <hash>1367496413</hash>
+        <hash>3718840922</hash>
     </deleted_files>
 </custom_file_directory>

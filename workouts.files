@@ -1,5 +1,33 @@
 <custom_file_directory>
     <custom_file>
+        <name>Under 30/myHeat_Wave.zwo</name>
+        <time>1715684376</time>
+        <guid>20534</guid>
+        <checksum>247</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myHeat_Wave_two.zwo</name>
+        <time>1715684540</time>
+        <guid>12660</guid>
+        <checksum>120</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myHeat_Wave_two.zwo</name>
+        <time>1715684540</time>
+        <guid>20310</guid>
+        <checksum>120</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myRides/myHeat_Wave.zwo</name>
+        <time>1715684376</time>
+        <guid>10362</guid>
+        <checksum>247</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Intervals/myLet_s_Get_Moving.zwo</name>
         <time>1715251274</time>
         <guid>31632</guid>
@@ -1742,5 +1770,6 @@
         <hash>3562343387</hash>
         <hash>1367496413</hash>
         <hash>3718840922</hash>
+        <hash>1185905098</hash>
     </deleted_files>
 </custom_file_directory>

@@ -1,1 +1,100 @@
-/Users/zwift/Work/ZwiftWorkouts/myRides/myHeat_Wave.zwo
+<workout_file>
+    <author>Sean Jefferson</author>
+    <name>myHeat Wave</name>
+    <description>This workout gets hot in waves. Slather on your sunscreen and let's see if you can handle the heat! This workout is great for time crunched athletes looking for an efficient session.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Under 30"/>
+        <tag name="Zone 2"/>
+    </tags>
+    <workout>
+        <Warmup Duration="120.00001" PowerLow="0.64999998" PowerHigh="0.69999993" pace="0">
+            <textevent timeoffset="0" message="Welcome to the Heat Wave."/>
+            <textevent timeoffset="10" message="It&apos;s not always hot in Watopia, but sometimes, during certain times of the year, it can get toasty."/>
+            <textevent timeoffset="20" message="Looks like today is one of those days."/>
+            <textevent timeoffset="30" message="Keep a bottle of water nearby for refreshment."/>
+            <textevent timeoffset="60" message="Find a comfortable cadence and continue warming up."/>
+            <textevent timeoffset="70" message="Today&apos;s session is a set of intervals followed by a ramp. The ramp effort is supposed to be the &apos;heat wave&apos; for this session."/>
+            <textevent timeoffset="80" message="Once you get through the ramp, you will find a little shade to cool off."/>
+        </Warmup>
+        <IntervalsT Repeat="4" OnDuration="40" OffDuration="30.000002" OnPower="0.88" OffPower="0.74000001" pace="0" OverUnder="1">
+            <textevent timeoffset="0" message="Spin up those legs!"/>
+            <textevent timeoffset="10" message="This round of intervals is 4x 40sec on, 30sec off."/>
+            <textevent timeoffset="40" message="Nice work, slowly pull back the effort."/>
+            <textevent timeoffset="50" message="It&apos;s not a total recovery. Keep a little pressure on the pedals."/>
+            <textevent timeoffset="70" message="Back on it!"/>
+            <textevent timeoffset="80" message="Find a comfortable cadence, I suggest 85-95 RPM&apos;s."/>
+            <textevent timeoffset="110" message="Ease off the gas."/>
+            <textevent timeoffset="120" message="Now is a great time to drink!"/>
+            <textevent timeoffset="140" message="And here we go again!"/>
+            <textevent timeoffset="160" message="Looking good so far!"/>
+            <textevent timeoffset="180" message="Settle back down."/>
+            <textevent timeoffset="210" message="Last effort in this round."/>
+            <textevent timeoffset="220" message="Punch up the power."/>
+            <textevent timeoffset="250" message="Nice Job, cool down quickly!"/>
+            <textevent timeoffset="270" message="Heat wave rolling in next!"/>
+        </IntervalsT>
+        <Ramp Duration="90.000008" PowerLow="0.89999998" PowerHigh="1" pace="0">
+            <textevent timeoffset="0" message="Try and stay calm to start, it&apos;s hot, but nothing you can&apos;t handle."/>
+            <textevent timeoffset="30" message="Temperature&apos;s risin&apos;."/>
+            <textevent timeoffset="60" message="Stay with it! You&apos;ve got this."/>
+            <textevent timeoffset="80" message="Almost there, push through the line."/>
+        </Ramp>
+        <SteadyState Duration="40" Power="0.69999999" pace="0">
+            <textevent timeoffset="0" message="Find some shade and cool off."/>
+            <textevent timeoffset="10" message="A cool drink will help."/>
+            <textevent timeoffset="30" message="Another round of intervals coming up."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="40" OffDuration="20" OnPower="0.88" OffPower="0.74000001" pace="0" OverUnder="1">
+            <textevent timeoffset="0" message="Pick it up!"/>
+            <textevent timeoffset="10" message="This time the rest is only 20sec."/>
+            <textevent timeoffset="20" message="Keep your wits about you."/>
+            <textevent timeoffset="40" message="Short rest."/>
+            <textevent timeoffset="60" message="Yep, we&apos;re back on it."/>
+            <textevent timeoffset="80" message="Has the sweat started pouring?"/>
+            <textevent timeoffset="90" message="If you have a towel, quickly wipe it away and get back to work."/>
+            <textevent timeoffset="100" message="Pull it back, float on those pedals."/>
+            <textevent timeoffset="120" message="Last effort, keep it smooth"/>
+            <textevent timeoffset="140" message="Looking strong."/>
+            <textevent timeoffset="160" message="Nicely done."/>
+            <textevent timeoffset="170" message="Another heat wave approaching!"/>
+        </IntervalsT>
+        <Ramp Duration="90.000008" PowerLow="0.89999998" PowerHigh="1.05" pace="0">
+            <textevent timeoffset="0" message="Whew! This heat is stifling."/>
+            <textevent timeoffset="10" message="And it&apos;s only going to get hotter."/>
+            <textevent timeoffset="30" message="If you thought the last wave was hot, this one is going to be even hotter!"/>
+            <textevent timeoffset="60" message="It&apos;s building, even the birds are starting to hide."/>
+            <textevent timeoffset="80" message="Sunscreen isn&apos;t gonna help you now!"/>
+        </Ramp>
+        <SteadyState Duration="40" Power="0.69999999" pace="0">
+            <textevent timeoffset="0" message="Liquid, I need liquid."/>
+            <textevent timeoffset="20" message="Where is a cool breeze when you need it."/>
+            <textevent timeoffset="30" message="Time to face the heat again."/>
+        </SteadyState>
+        <IntervalsT Repeat="2" OnDuration="40" OffDuration="10" OnPower="0.88" OffPower="0.74000001" pace="0" OverUnder="1">
+            <textevent timeoffset="0" message="Back to steady intervals."/>
+            <textevent timeoffset="10" message="We lost another 10sec from the recovery, we are down to only 10sec rest now."/>
+            <textevent timeoffset="20" message="Good thing is we only have 2 reps."/>
+            <textevent timeoffset="40" message="Slow your feet down, ease off the effort and grab a drink."/>
+            <textevent timeoffset="50" message="Fire it up!"/>
+            <textevent timeoffset="60" message="Feels like a nice spring day, but it&apos;s not gonna last."/>
+            <textevent timeoffset="90" message="Very short recovery, the heat wave is upon us!"/>
+        </IntervalsT>
+        <Ramp Duration="90.000008" PowerLow="0.91999996" PowerHigh="1.1" pace="0">
+            <textevent timeoffset="0" message="It feels like July in Fuego Flats."/>
+            <textevent timeoffset="10" message="Where is that hidden oasis when you need it."/>
+            <textevent timeoffset="30" message="Keep it up, you&apos;re looking great!"/>
+            <textevent timeoffset="60" message="Last 30 seconds, the kitchen isn&apos;t just hot, it&apos;s engulfed in flames."/>
+            <textevent timeoffset="80" message="Last scorching 10sec push!"/>
+        </Ramp>
+        <Cooldown Duration="120.00001" PowerLow="0.69999993" PowerHigh="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Nicely done!"/>
+            <textevent timeoffset="10" message="Grab a drink, cool down, and let the cool wind blow through your hair."/>
+            <textevent timeoffset="30" message="As always take a few minutes to spin your legs."/>
+            <textevent timeoffset="40" message="It will help you recover from this workout quicker."/>
+            <textevent timeoffset="60" message="Alright, that&apos;s about it for today."/>
+            <textevent timeoffset="70" message="I hope to see you again soon!"/>
+            <textevent timeoffset="100" message="Ride On."/>
+        </Cooldown>
+    </workout>
+</workout_file>

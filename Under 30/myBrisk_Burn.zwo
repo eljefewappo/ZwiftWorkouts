@@ -1,0 +1,103 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>myBrisk Burn</name>
+    <description>Every journey starts with a single step, and we'll start this fitness journey with a 16min workout. The only focus for you today is to have fun working through the power zones! We'll start with a quick warm-up, then get into the workout intervals, which feature various lengths and intensities. All aboard the train going down the fast track to fitness!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Under 30min"/>
+        <tag name="Interval"/>
+    </tags>
+    <workout>
+        <Warmup Duration="120.00001" PowerLow="0.64999998" PowerHigh="0.80000007" pace="0">
+            <textevent timeoffset="0" message="Welcome to Brisk Burn."/>
+            <textevent timeoffset="10" message="This is a short session with lots of pace changes."/>
+            <textevent timeoffset="30" message="Let&apos;s begin by settling into a nice steady rhythm."/>
+            <textevent timeoffset="40" message="Start your music and let&apos;s chase some power."/>
+            <textevent timeoffset="100" message="Up next we have 3 x 40 seconds on, with 20 seconds off."/>
+            <textevent timeoffset="110" message="Let&apos;s Go!"/>
+        </Warmup>
+        <IntervalsT Repeat="3" OnDuration="40" OffDuration="20" OnPower="0.88" OffPower="0.72000003" pace="0">
+            <textevent timeoffset="0" message="Push, Push, Push."/>
+            <textevent timeoffset="10" message="You&apos;ve got this."/>
+            <textevent timeoffset="40" message="Ease off."/>
+            <textevent timeoffset="60" message="Back on the effort."/>
+            <textevent timeoffset="70" message="Keep pressing!"/>
+            <textevent timeoffset="100" message="Back off again."/>
+            <textevent timeoffset="110" message="Grab a quick drink."/>
+            <textevent timeoffset="120" message="Up, up, up!"/>
+            <textevent timeoffset="130" message="Last effort in this set."/>
+            <textevent timeoffset="140" message="Nice smooth pedal stroke."/>
+            <textevent timeoffset="160" message="Nice work, back to recovery."/>
+        </IntervalsT>
+        <SteadyState Duration="60.000004" Power="0.77999997" pace="0" Cadence="80">
+            <textevent timeoffset="0" message="Slow it down."/>
+            <textevent timeoffset="10" message="Find a steady cadence."/>
+            <textevent timeoffset="20" message="Feel the tension in your legs."/>
+            <textevent timeoffset="30" message="Slow breath out, deep breath in."/>
+            <textevent timeoffset="40" message="Round 2 coming soon."/>
+            <textevent timeoffset="50" message="Next up is 3 x 30 seconds on, 30 off."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="30.000002" OffDuration="30.000002" OnPower="0.91999996" OffPower="0.72000003" pace="0">
+            <textevent timeoffset="0" message="Back on it!"/>
+            <textevent timeoffset="10" message="Little higher effort."/>
+            <textevent timeoffset="30" message="Take it back down."/>
+            <textevent timeoffset="60" message="Find the power and settle in."/>
+            <textevent timeoffset="70" message="Looking great so far!"/>
+            <textevent timeoffset="90" message="Ease off the pedals."/>
+            <textevent timeoffset="100" message="Take in a few deep breaths."/>
+            <textevent timeoffset="120" message="Up, up, up!"/>
+            <textevent timeoffset="130" message="Settle in quickly."/>
+            <textevent timeoffset="140" message="Last effort in this set."/>
+            <textevent timeoffset="150" message="Off the power."/>
+            <textevent timeoffset="160" message="Nice work."/>
+        </IntervalsT>
+        <SteadyState Duration="60.000004" Power="0.77999997" pace="0" Cadence="80">
+            <textevent timeoffset="0" message="Slow it down. Find a steady rhythm."/>
+            <textevent timeoffset="10" message="Nice smooth circles."/>
+            <textevent timeoffset="30" message="Grab a quick drink."/>
+            <textevent timeoffset="40" message="Can you guess what&apos;s next?"/>
+            <textevent timeoffset="50" message="That&apos;s right 3 x 20 seconds on, 40 off."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="20" OffDuration="40" OnPower="0.95999992" OffPower="0.72000003" pace="0">
+            <textevent timeoffset="0" message="Let&apos;s Go!"/>
+            <textevent timeoffset="10" message="Up, up, up."/>
+            <textevent timeoffset="20" message="Ease off."/>
+            <textevent timeoffset="30" message="Nice deep breath to help recover."/>
+            <textevent timeoffset="60" message="Up, up, up."/>
+            <textevent timeoffset="70" message="You&apos;ve got this!"/>
+            <textevent timeoffset="80" message="Nice work, back down the effort."/>
+            <textevent timeoffset="90" message="One more effort in this round."/>
+            <textevent timeoffset="120" message="Dig in!"/>
+            <textevent timeoffset="130" message="Fast feet!"/>
+            <textevent timeoffset="140" message="Back down the effort."/>
+            <textevent timeoffset="150" message="We are going right into 3 x 10 seconds on, 50 seconds off to finish the session."/>
+            <textevent timeoffset="170" message="I want to see what you&apos;ve got."/>
+        </IntervalsT>
+        <SteadyState Duration="10" Power="1.25" pace="0">
+            <textevent timeoffset="0" message="Let&apos;s Go!"/>
+        </SteadyState>
+        <SteadyState Duration="50.000004" Power="0.72000003" pace="0">
+            <textevent timeoffset="0" message="Great job, but I think you&apos;ve got more in the tank."/>
+            <textevent timeoffset="30" message="You can do these out of the saddle too."/>
+            <textevent timeoffset="40" message="Big effort in 10, 9, 8....."/>
+        </SteadyState>
+        <SteadyState Duration="10" Power="1.25" pace="0">
+            <textevent timeoffset="0" message="Give it your all!"/>
+        </SteadyState>
+        <SteadyState Duration="50.000004" Power="0.72000003" pace="0">
+            <textevent timeoffset="0" message="Fantastic job, but I still think there is more to give."/>
+            <textevent timeoffset="10" message="You&apos;ve got one more chance to show me."/>
+            <textevent timeoffset="40" message="This is your time to shine, let&apos;s see what you&apos;ve got!"/>
+        </SteadyState>
+        <SteadyState Duration="10" Power="1.25" pace="0">
+            <textevent timeoffset="0" message="Go, go, go!"/>
+        </SteadyState>
+        <Cooldown Duration="50.000004" PowerLow="0.69999993" PowerHigh="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Now that was impressive."/>
+            <textevent timeoffset="10" message="I knew you could do it."/>
+            <textevent timeoffset="20" message="Settle down, spin those legs, and grab a drink."/>
+            <textevent timeoffset="30" message="Great work today."/>
+            <textevent timeoffset="40" message="See you soon. Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

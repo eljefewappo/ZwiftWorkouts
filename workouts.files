@@ -1,5 +1,54 @@
 <custom_file_directory>
     <custom_file>
+        <name>Under 30/myPower_Surge__Lite_.zwo</name>
+        <time>1716041329</time>
+        <guid>2320</guid>
+        <checksum>174</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myShort_Mix.zwo</name>
+        <time>1716041329</time>
+        <guid>27901</guid>
+        <checksum>148</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/my8.5_Minutes_Of_Pain.zwo</name>
+        <time>1716041329</time>
+        <guid>4745</guid>
+        <checksum>212</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myCalorie_Crush.zwo</name>
+        <time>1716041329</time>
+        <guid>1772</guid>
+        <checksum>60</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myInterval_Power_Play.zwo</name>
+        <time>1716040845</time>
+        <guid>2711</guid>
+        <checksum>3</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myOrange_Unicorn_Lite.zwo</name>
+        <time>1716040845</time>
+        <guid>14899</guid>
+        <checksum>3</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myFlash_Burn.zwo</name>
+        <time>1716040845</time>
+        <guid>31951</guid>
+        <checksum>70</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Under 30/myWaveRider.zwo</name>
         <time>1716039640</time>
         <guid>2320</guid>
@@ -147,13 +196,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myRides/myOrange_Unicorn_Lite.zwo</name>
-        <time>1714231182</time>
-        <guid>12660</guid>
-        <checksum>3</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>myRides/myOver_Under_s_4x_4min.zwo</name>
         <time>1714231182</time>
         <guid>7117</guid>
@@ -179,27 +221,6 @@
         <time>1714231182</time>
         <guid>19420</guid>
         <checksum>244</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myRides/myInterval_Power_Play_1.zwo</name>
-        <time>1714231182</time>
-        <guid>13486</guid>
-        <checksum>3</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myRides/myFlash_Burn.zwo</name>
-        <time>1714473008</time>
-        <guid>27973</guid>
-        <checksum>70</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myRides/myInterval_Power_Play.zwo</name>
-        <time>1714231182</time>
-        <guid>14399</guid>
-        <checksum>3</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1753,5 +1774,13 @@
         <hash>2320424037</hash>
         <hash>1680469538</hash>
         <hash>2678678976</hash>
+        <hash>533816776</hash>
+        <hash>4228339586</hash>
+        <hash>98373875</hash>
+        <hash>3693713319</hash>
+        <hash>2506014415</hash>
+        <hash>2464926046</hash>
+        <hash>1460665071</hash>
+        <hash>3851016789</hash>
     </deleted_files>
 </custom_file_directory>

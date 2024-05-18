@@ -1,0 +1,127 @@
+<workout_file>
+    <author>Chris Opie</author>
+    <name>my8.5 Minutes Of Pain</name>
+    <description>
+This session is about maximizing your Vo2 Max. Your maximum ability to process oxygen for aerobic exercise.
+
+These workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="180.00002" PowerLow="0.34999996" PowerHigh="0.55000001" pace="0">
+            <textevent timeoffset="0" message="Welcome to Le Col Training With Legends. I&apos;m Sarah Storey."/>
+            <textevent timeoffset="15" message="This is 8.5 minutes of Vo2 Training."/>
+            <textevent timeoffset="35" message="For the full experience of training with me, head to lecol.cc for my coaching video."/>
+            <textevent timeoffset="60" message="3 minutes total roll in here, enough to prepare us for the short efforts."/>
+            <textevent timeoffset="80" message="Gently increase your cadence as we close in on these efforts."/>
+            <textevent timeoffset="100" message="Are you watching the Training With Legends Video?"/>
+            <textevent timeoffset="120" message="The recovery increases with the duration of the effort."/>
+            <textevent timeoffset="140" message="This session will help boost your Vo2 capacity"/>
+            <textevent timeoffset="160" message="Short and sharp to start with. 20 seconds."/>
+        </Warmup>
+        <SteadyState Duration="30.000002" Power="1.3" pace="0">
+            <textevent timeoffset="0" message="Let&apos;s go. 30 seconds of Vo2 effort."/>
+            <textevent timeoffset="20" message="All the way to the end now."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.44999999" pace="0">
+            <textevent timeoffset="0" message="Good job, these first efforts are almost a continuation of the warm up."/>
+            <textevent timeoffset="30" message="There is no need to hold anything back on these efforts."/>
+            <textevent timeoffset="45" message="Ride right at the top of the intensity, but recover well in between."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.3" pace="0">
+            <textevent timeoffset="0" message="Big surge again now, power through the entire pedal stroke."/>
+            <textevent timeoffset="20" message="10 seconds to go."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.44999999" pace="0">
+            <textevent timeoffset="0" message="Another breather. Feeling warm yet?"/>
+            <textevent timeoffset="25" message="How are these efforts for you? You&apos;ll know about them by the end, I promise."/>
+            <textevent timeoffset="45" message="15 seconds of recovery left, time to get ready for more."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.3" pace="0">
+            <textevent timeoffset="0" message="Final 30 second effort, power on, big acceleration."/>
+            <textevent timeoffset="20" message="Push right to the final second here, it all counts."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.44999999" pace="0">
+            <textevent timeoffset="0" message="Recovery now. Try and find a comfortable position on the bike."/>
+            <textevent timeoffset="25" message="This is as good a time to drink."/>
+            <textevent timeoffset="45" message="Double length now for this set. 60 seconds on 90 seconds off."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.25" pace="0">
+            <textevent timeoffset="0" message="Same as before, power all the way around the pedal stroke."/>
+            <textevent timeoffset="25" message="Nice and smooth, keeping the power on all the way."/>
+            <textevent timeoffset="45" message="Great job, 15 seconds to go."/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="0.44999999" pace="0">
+            <textevent timeoffset="0" message="Enjoy this longer recovery now. You&apos;re going to need it."/>
+            <textevent timeoffset="30" message="Feeling good? You&apos;re definitely going to be warmed up by now."/>
+            <textevent timeoffset="55" message="If your fan isn&apos;t on max by now, maybe it should be?"/>
+            <textevent timeoffset="75" message="15 seconds to the effort. Time to find your focus."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.25" pace="0">
+            <textevent timeoffset="0" message="Pace this one, 60 seconds to go!"/>
+            <textevent timeoffset="20" message="Keep it smooth, good linear power will help now."/>
+            <textevent timeoffset="40" message="20 seconds to go, you&apos;ve got this under control."/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="0.44999999" pace="0">
+            <textevent timeoffset="0" message="Good job, we&apos;re still in it."/>
+            <textevent timeoffset="25" message="Find that calm and focussed place to help push through these next efforts."/>
+            <textevent timeoffset="55" message="Remember to breathe deep, pedal smooth and hydrate, it all helps."/>
+            <textevent timeoffset="70" message="20 seconds to the effort. Are you ready?"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="1.25" pace="0">
+            <textevent timeoffset="0" message="Here we go, last one in this set now."/>
+            <textevent timeoffset="20" message="Really good going. Don&apos;t let the effort get away from you here."/>
+            <textevent timeoffset="40" message="Pedal, pedal, pedal now. All the way to the end, that final second is everything."/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="0.44999999" pace="0">
+            <textevent timeoffset="0" message="OK! Nice work so far. This is the grand finale, the big three at the end."/>
+            <textevent timeoffset="25" message="Enjoy this recovery first though, recharge your energy systems slightly."/>
+            <textevent timeoffset="55" message="We are going to have to dig deep for these now."/>
+            <textevent timeoffset="75" message="Longer and high intensity. Cling on in there, believe in your ability."/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="1.23" pace="0">
+            <textevent timeoffset="0" message="GO! Pace this as before."/>
+            <textevent timeoffset="25" message="Aim to finish each effort as well as you started it."/>
+            <textevent timeoffset="55" message="Dedicate all you have to these 3 efforts now."/>
+            <textevent timeoffset="75" message="15 seconds to go."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.44999999" pace="0">
+            <textevent timeoffset="0" message="Well deserved recovery now. Don&apos;t stop pedaling!"/>
+            <textevent timeoffset="25" message="Just two efforts to go. This is going to really push us now, but that&apos;s why we&apos;re here."/>
+            <textevent timeoffset="55" message="These longer recoveries will help ready us for the longer interval."/>
+            <textevent timeoffset="80" message="The more you can recover, the harder you&apos;ll be able to go."/>
+            <textevent timeoffset="100" message="Time to focus."/>
+            <textevent timeoffset="110" message="10 seconds."/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="1.23" pace="0">
+            <textevent timeoffset="0" message="GO! Penultimate effort."/>
+            <textevent timeoffset="20" message="Good pacing now, no need to empty the tank too soon."/>
+            <textevent timeoffset="45" message="Half way. You can do this."/>
+            <textevent timeoffset="70" message="20 seconds to go. Keep squeezing this all the way."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.44999999" pace="0">
+            <textevent timeoffset="0" message="Final recovery now."/>
+            <textevent timeoffset="30" message="Really force those breaths, reoxygenate your system."/>
+            <textevent timeoffset="60" message="Ready for one last effort?"/>
+            <textevent timeoffset="90" message="This is going to require mental toughness as well as physical resilience, you can do it."/>
+            <textevent timeoffset="115" message="One last effort. Good Luck!"/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" Power="1.23" pace="0">
+            <textevent timeoffset="0" message="90 seconds starts now."/>
+            <textevent timeoffset="20" message="Force this all the way now, concentrate on the effort."/>
+            <textevent timeoffset="45" message="Keep this pace up, that&apos;s half way. "/>
+            <textevent timeoffset="60" message="30 seconds to go, now is the time to fight for it."/>
+            <textevent timeoffset="80" message="10 seconds. Power on to the end."/>
+        </SteadyState>
+        <Cooldown Duration="180.00002" PowerLow="0.55000001" PowerHigh="0.34999996" pace="0">
+            <textevent timeoffset="0" message="You&apos;ve made it! Great riding. That is a tough one."/>
+            <textevent timeoffset="30" message="Thank you for riding with us today, did you use the lecol.cc Training With Legends Video?"/>
+            <textevent timeoffset="60" message="Vo2 sessions are a great way to improve your fitness."/>
+            <textevent timeoffset="80" message="Recovery is everything now, rehydration and refuelling."/>
+            <textevent timeoffset="100" message="Join me again soon for one of my other workouts."/>
+            <textevent timeoffset="120" message="Or you can chose more sessions from our Riding With Legends folder."/>
+            <textevent timeoffset="140" message="Thank you for training with me today, I enjoyed that session."/>
+            <textevent timeoffset="160" message="See you again soon."/>
+        </Cooldown>
+    </workout>
+</workout_file>

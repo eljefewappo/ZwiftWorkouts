@@ -1,0 +1,197 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>myCalorie Crush</name>
+    <description>Workout of the week this week feature's one of Zwift's most popular workouts! This workout gives you short intervals for a fun and effective workout to get your calorie burn of the day out of the way!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="EljefeWappo"/>
+    </tags>
+    <workout>
+        <Warmup Duration="180.00002" PowerLow="0.64999998" PowerHigh="0.75" pace="0" Cadence="100">
+            <textevent timeoffset="0" message="Welcome to Calorie Crush."/>
+            <textevent timeoffset="10" message="Yep, that&apos;s right we&apos;re here today to crush some calories."/>
+            <textevent timeoffset="20" message="We&apos;ve got a short warm up, so let&apos;s get you ready to go."/>
+            <textevent timeoffset="30" message="Bottle nearby? Fan on? Towel within reach?"/>
+            <textevent timeoffset="40" message="Great! Now find a quick pedal stroke and watch those power changes as they increase and try to keep up!"/>
+            <textevent timeoffset="100" message="Today&apos;s workout is 5 rounds of 3 minute blocks."/>
+            <textevent timeoffset="110" message="Each 3 minute block is broken into 9 x 20 second pace changes."/>
+            <textevent timeoffset="120" message="The pattern is steady, push, recover. It will make sense when we get into it."/>
+            <textevent timeoffset="130" message="I will be here to guide you, just follow along."/>
+            <textevent timeoffset="160" message="First 3 min block is coming up."/>
+            <textevent timeoffset="170" message="Let&apos;s see what you&apos;ve got!"/>
+        </Warmup>
+        <SteadyState Duration="20" Power="0.89999998" pace="0">
+            <textevent timeoffset="0" message="Steady effort"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1" pace="0">
+            <textevent timeoffset="0" message="Push effort"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.75" pace="0">
+            <textevent timeoffset="0" message="Recover"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.94999999" pace="0">
+            <textevent timeoffset="0" message="Back to that steady effort."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="Push it!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.80000001" pace="0">
+            <textevent timeoffset="0" message="Settle down."/>
+            <textevent timeoffset="10" message="One more time through."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.98000002" pace="0">
+            <textevent timeoffset="0" message="You&apos;ve got this!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="Go! Go! Go!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Nice work, you have an easy 60 seconds coming up next."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Great job! Does the steady, push, recover pattern make sense?"/>
+            <textevent timeoffset="10" message="Good. That&apos;s 1 round done, 4 to go."/>
+            <textevent timeoffset="30" message="Grab a drink and towel off."/>
+            <textevent timeoffset="40" message="Next round coming up soon."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.89999998" pace="0">
+            <textevent timeoffset="0" message="Nice and steady"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1" pace="0">
+            <textevent timeoffset="0" message="Push."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.75" pace="0">
+            <textevent timeoffset="0" message="Recover."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.94999999" pace="0">
+            <textevent timeoffset="0" message="You&apos;ve got the hang of it now."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="Turn up the heat!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.80000001" pace="0">
+            <textevent timeoffset="0" message="Easy now."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.98000002" pace="0">
+            <textevent timeoffset="0" message="Back on it."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="Send it!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Hang in there."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Incredible effort."/>
+            <textevent timeoffset="10" message="2 rounds down, 3 to go!"/>
+            <textevent timeoffset="20" message="You&apos;re crushing it so far."/>
+            <textevent timeoffset="30" message="Let&apos;s keep it going."/>
+            <textevent timeoffset="50" message="3rd round coming up fast."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.89999998" pace="0">
+            <textevent timeoffset="0" message="Keep it controlled."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1" pace="0">
+            <textevent timeoffset="0" message="Power on those pedals."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.75" pace="0">
+            <textevent timeoffset="0" message="Back to easy."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.94999999" pace="0">
+            <textevent timeoffset="0" message="Bring it back up."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="Push, Push, Push."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.80000001" pace="0">
+            <textevent timeoffset="0" message="Settle down."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.98000002" pace="0">
+            <textevent timeoffset="0" message="Back to it!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="Get after it."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Keep it steady."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Amazing effort."/>
+            <textevent timeoffset="10" message="You&apos;ve got 2 more rounds."/>
+            <textevent timeoffset="20" message="You can do this! Believe in yourself."/>
+            <textevent timeoffset="30" message="Quick drink of water."/>
+            <textevent timeoffset="50" message="Wipe that sweat away and let&apos;s get back to it."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.89999998" pace="0">
+            <textevent timeoffset="0" message="You know the drill, steady effort to start."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1" pace="0">
+            <textevent timeoffset="0" message="Lift the pace."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.75" pace="0">
+            <textevent timeoffset="0" message="Back to recovery."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.94999999" pace="0">
+            <textevent timeoffset="0" message="Time to dig in."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="Let&apos;s get it!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.80000001" pace="0">
+            <textevent timeoffset="0" message="Light effort."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.98000002" pace="0">
+            <textevent timeoffset="0" message="It&apos;s your time to shine!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="BIG EFFORT!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Hang on, almost there."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Wow, that was impressive!"/>
+            <textevent timeoffset="10" message="Guess what? We only have one round left."/>
+            <textevent timeoffset="20" message="You can do it."/>
+            <textevent timeoffset="30" message="Stay positive, you&apos;re crushing it."/>
+            <textevent timeoffset="40" message="Let&apos;s finish this thing."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.89999998" pace="0">
+            <textevent timeoffset="0" message="Nice and steady."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1" pace="0">
+            <textevent timeoffset="0" message="Dig in."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.75" pace="0">
+            <textevent timeoffset="0" message="Nice work, short recovery."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.94999999" pace="0">
+            <textevent timeoffset="0" message="Back on it."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.05" pace="0">
+            <textevent timeoffset="0" message="Push, push, push!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.80000001" pace="0">
+            <textevent timeoffset="0" message="Hang on, you can do it!."/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.98000002" pace="0">
+            <textevent timeoffset="0" message="Here we go!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="Dig, dig, dig!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.85000002" pace="0">
+            <textevent timeoffset="0" message="Don&apos;t let up now!"/>
+        </SteadyState>
+        <Cooldown Duration="180.00002" PowerLow="0.75" PowerHigh="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Keep spinning, keep moving, keep breathing."/>
+            <textevent timeoffset="10" message="That was impressive! I knew you were good, but that was great!"/>
+            <textevent timeoffset="20" message="Take the next few minutes to spin down, rehydrate and pat yourself on the back because you crushed that workout."/>
+            <textevent timeoffset="120" message="I hope you enjoyed today&apos;s workout."/>
+            <textevent timeoffset="130" message="There&apos;s more where that came from, be sure to check out the rest of our fitness workouts."/>
+            <textevent timeoffset="160" message="Have a great day."/>
+            <textevent timeoffset="170" message="Ride On!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

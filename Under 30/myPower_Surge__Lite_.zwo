@@ -1,0 +1,80 @@
+<workout_file>
+    <author>Shayne Gaffney</author>
+    <name> myPower Surge [Lite]</name>
+    <description>Boost your endurance with a mix of steady sweet spot efforts and short, high-intensity power surges in this session. This workout is designed to enhance your ability to handle changes in intensity, critical for preparing to ride outdoors.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="EljefeWappo"/>
+    </tags>
+    <workout>
+        <Warmup Duration="240.00002" PowerLow="0.5" PowerHigh="0.70000005" pace="0" Cadence="90">
+            <textevent timeoffset="0" message="Welcome to Power Surge, the fourth workout of Spring Training 2024!"/>
+            <textevent timeoffset="10" message="Spring Training is designed to help you boost your capacity and endurance for your longer outdoor rides."/>
+            <textevent timeoffset="30" message="Today, our goal is to build strength by tackling intensity changes."/>
+            <textevent timeoffset="60" message="Start to focus on your breathing, preparing for the intervals ahead."/>
+            <textevent timeoffset="80" message="On your next exhale - relax your shoulders and contract your core."/>
+            <textevent timeoffset="90" message="That&apos;s great form! Now, make sure you keep this form and a smooth pedal stroke until the end of the workout."/>
+            <textevent timeoffset="120" message="You&apos;re doing well. Keep building up the intensity as we approach the main set."/>
+            <textevent timeoffset="150" message="Warm-up almost complete. Let&apos;s get ready for the first power surge interval."/>
+            <textevent timeoffset="200" message="We&apos;ll tackle 2 blocks, alternating between 30 seconds sprints and 2 minute sweet spot efforts."/>
+            <textevent timeoffset="220" message="Get ready, the first interval is coming at the next arch!"/>
+        </Warmup>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.88999999" OffPower="1.05" pace="0" Cadence="90" CadenceResting="100">
+            <textevent timeoffset="0" message="Here we go!"/>
+            <textevent timeoffset="20" message="Steady sweet spot pace to begin with."/>
+            <textevent timeoffset="30" message="Keep a steady rhythm. Focus on maintaining a consistent effort."/>
+            <textevent timeoffset="110" message="You&apos;re doing great. Prepare for the first surge coming up soon."/>
+            <textevent timeoffset="120" message="Surge time! Increase your power for the next 30 seconds. Push hard!"/>
+            <textevent timeoffset="150" message="Awesome surge! Now, ease back to the sweet spot intensity."/>
+            <textevent timeoffset="160" message="Here you should feel at about 6 out of 10 intensity level."/>
+            <textevent timeoffset="170" message="You might start breathing heavily, but you should feel like you could hold a conversation."/>
+            <textevent timeoffset="200" message="Stay focused. Keep your effort steady and strong."/>
+            <textevent timeoffset="240" message="Another surge is coming up. Get ready to ramp up the intensity."/>
+            <textevent timeoffset="270" message="Here we go! Surge now! Push your limits for the next 30 seconds."/>
+            <textevent timeoffset="300" message="Well done! Return to your sweet spot pace. Stay steady."/>
+            <textevent timeoffset="330" message="Maintain this effort. Up next, another power surge."/>
+            <textevent timeoffset="350" message="The fatigue might be creeping in, but you got the mental strength to keep pushing until the end!"/>
+            <textevent timeoffset="360" message="You&apos;re building mental and physical strength."/>
+            <textevent timeoffset="380" message="You&apos;re doing fantastic. Prepare for one more surge ahead."/>
+            <textevent timeoffset="400" message="Remember, relax your shoulders and contract your core. A good posture will help you generate power."/>
+            <textevent timeoffset="410" message="Last surge coming up! Let&apos;s make this one count. Go for it!"/>
+            <textevent timeoffset="420" message="Go Go Go! You got this!"/>
+        </IntervalsT>
+        <SteadyState Duration="180.00002" Power="0.5" pace="0" Cadence="85">
+            <textevent timeoffset="0" message="Excellent work! Time for a short rest. Reduce your power and catch your breath."/>
+            <textevent timeoffset="60" message="Grab a sip. Hydration is key to maximize the effectiveness of your workout!"/>
+            <textevent timeoffset="120" message="1 more minute easy, then we&apos;re heading into our second sweet spot interval."/>
+        </SteadyState>
+        <IntervalsT Repeat="3" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.88999999" OffPower="1.05" pace="0" Cadence="90" CadenceResting="100">
+            <textevent timeoffset="0" message="Into our second set. Start with a steady sweet spot pace."/>
+            <textevent timeoffset="30" message="Keep your rhythm consistent. Focus on your form."/>
+            <textevent timeoffset="40" message="As you exhale, relax your shoulders and contract your core. That&apos;s great form!"/>
+            <textevent timeoffset="60" message="You&apos;re doing great. Maintain this steady effort."/>
+            <textevent timeoffset="110" message="Okay, get ready to increase your power. Start pedaling slightly faster."/>
+            <textevent timeoffset="120" message="Increase your power now!"/>
+            <textevent timeoffset="150" message="Surge complete. Great work! Return to sweet spot intensity."/>
+            <textevent timeoffset="170" message="Stabilize at sweet spot. Let&apos;s keep this pace steady."/>
+            <textevent timeoffset="190" message="Continue with a smooth, consistent effort."/>
+            <textevent timeoffset="240" message="Prepare for the next surge. Start putting slightly more pressure on your pedals."/>
+            <textevent timeoffset="270" message="Up Up Up! You got this!"/>
+            <textevent timeoffset="300" message="Surge done. Ease back into your sweet spot rhythm."/>
+            <textevent timeoffset="320" message="Maintain sweet spot. Stay focused and controlled."/>
+            <textevent timeoffset="360" message="Keep this effort steady. You&apos;re building great endurance."/>
+            <textevent timeoffset="400" message="Last surge coming up! Let&apos;s make this one count. Go for it!"/>
+            <textevent timeoffset="420" message="Increase your power now! Go Go Go!"/>
+        </IntervalsT>
+        <Cooldown Duration="240.00002" PowerLow="0.70000005" PowerHigh="0.5" pace="0">
+            <textevent timeoffset="0" message="Amazing work today! Let&apos;s start our cooldown. Reduce the effort and start to relax."/>
+            <textevent timeoffset="30" message="Breathe deeply and let your heart rate gradually come down."/>
+            <textevent timeoffset="50" message="You&apos;ve done a great job with those power surges. Now take this time for yourself."/>
+            <textevent timeoffset="70" message="These are classic intervals to build strength and endurance, and prepare for longer rides."/>
+            <textevent timeoffset="100" message="Remember, Spring Training workouts are a great complement to your outdoor training."/>
+            <textevent timeoffset="120" message="A good complement to this workout is an easy outdoor ride for at least 90 minutes to give you another endurance boost."/>
+            <textevent timeoffset="150" message="If you are doing this workout as part of Spring Training, go check out our next workout, Endurance Ascent."/>
+            <textevent timeoffset="160" message="With Endurance Ascent, we&apos;ll enhance our climbing ability with hill climb simulations."/>
+            <textevent timeoffset="180" message="Workout almost complete! You&apos;ve built endurance and power beautifully. Well done!"/>
+            <textevent timeoffset="220" message="Until next time. Ride On."/>
+        </Cooldown>
+    </workout>
+</workout_file>

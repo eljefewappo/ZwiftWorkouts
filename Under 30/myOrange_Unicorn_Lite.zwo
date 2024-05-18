@@ -5,22 +5,22 @@
     <sportType>bike</sportType>
     <tags/>
     <workout>
-        <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.75" pace="0">
+        <Warmup Duration="270" PowerLow="0.25" PowerHigh="0.75" pace="0">
             <textevent timeoffset="0" message="Welcome!  Let&apos;s get those legs spinning...keep your cadence 85-95 RPM."/>
             <textevent timeoffset="15" message="Throughout this workout, also focus on keeping your shoulders relaxed, elbows bent slightly, and a light grip on the bars."/>
             <textevent timeoffset="120" message="2 minutes in, bring up that cadence more if you aren&apos;t at 95 RPM yet."/>
-            <textevent timeoffset="150" message="Halfway through the warm up, let&apos;s talk a bit about today&apos;s workout."/>
-            <textevent timeoffset="160" message="We are going to be doing 1 over/under interval set..."/>
-            <textevent timeoffset="170" message="...The under portion will be at 85% FTP, and the over portion is at 105% FTP..."/>
-            <textevent timeoffset="180" message="...We will be doing 2 minutes under, 30 seconds over, 6 times, for a total of 15 minutes per interval..."/>
-            <textevent timeoffset="190" message="...The goal of today is to spend 30 minutes close to Threshold to really challenge your aerobic system and improve it!"/>
-            <textevent timeoffset="200" message="Expect it to start off &quot;easy&quot; and then become progressively more challenging as the fatigue sets in..."/>
-            <textevent timeoffset="210" message="...Fatigue won&apos;t stop you though, will it?  #mentalpower"/>
-            <textevent timeoffset="220" message="Rest?  Oh sure, 2 minutes between intervals."/>
-            <textevent timeoffset="240" message="One more minute.  We are going to start with 3 primers first..."/>
-            <textevent timeoffset="250" message="...Primers help ready the legs further for the work ahead..."/>
-            <textevent timeoffset="260" message="...The first one is at 95 RPM."/>
-            <textevent timeoffset="290" message="Ready?"/>
+            <textevent timeoffset="130" message="Halfway through the warm up, let&apos;s talk a bit about today&apos;s workout."/>
+            <textevent timeoffset="140" message="We are going to be doing 1 over/under interval set..."/>
+            <textevent timeoffset="150" message="...The under portion will be at 85% FTP, and the over portion is at 105% FTP..."/>
+            <textevent timeoffset="160" message="...We will be doing 2 minutes under, 30 seconds over, 6 times, for a total of 15 minutes per interval..."/>
+            <textevent timeoffset="170" message="...The goal of today is to spend 30 minutes close to Threshold to really challenge your aerobic system and improve it!"/>
+            <textevent timeoffset="180" message="Expect it to start off &quot;easy&quot; and then become progressively more challenging as the fatigue sets in..."/>
+            <textevent timeoffset="190" message="...Fatigue won&apos;t stop you though, will it?  #mentalpower"/>
+            <textevent timeoffset="200" message="Rest?  Oh sure, 2 minutes between intervals."/>
+            <textevent timeoffset="210" message="One more minute.  We are going to start with 3 primers first..."/>
+            <textevent timeoffset="220" message="...Primers help ready the legs further for the work ahead..."/>
+            <textevent timeoffset="230" message="...The first one is at 95 RPM."/>
+            <textevent timeoffset="270" message="Ready?"/>
         </Warmup>
         <SteadyState Duration="60.000004" Power="0.80000001" pace="0" Cadence="95">
             <textevent timeoffset="0" message="Bring up the effort a bit."/>

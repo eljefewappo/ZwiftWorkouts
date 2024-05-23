@@ -1,5 +1,19 @@
 <custom_file_directory>
     <custom_file>
+        <name>Under 30/myDepleting_Workout.zwo</name>
+        <time>1716462928</time>
+        <guid>12548</guid>
+        <checksum>225</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myJon_s_Short_Mix.zwo</name>
+        <time>1716462908</time>
+        <guid>13134</guid>
+        <checksum>111</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Under 30/myPower_Surge__Lite_.zwo</name>
         <time>1716041329</time>
         <guid>2320</guid>
@@ -1782,5 +1796,7 @@
         <hash>2464926046</hash>
         <hash>1460665071</hash>
         <hash>3851016789</hash>
+        <hash>2961233130</hash>
+        <hash>582720855</hash>
     </deleted_files>
 </custom_file_directory>

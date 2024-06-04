@@ -38,14 +38,14 @@
             <textevent timeoffset="1110" message="GO GO GO! That&apos;s our last interval! Almost there!"/>
             <textevent timeoffset="1140" message="That was incredible! Now let&apos;s wind down. You&apos;ve really outdone yourself."/>
         </IntervalsT>
-        <Cooldown Duration="300" PowerLow="0.5" PowerHigh="0.39999998" pace="0">
+        <Cooldown Duration="240" PowerLow="0.5" PowerHigh="0.39999998" pace="0">
             <textevent timeoffset="0" message="Amazing effort! Time to cool down."/>
             <textevent timeoffset="30" message="Just like that, you&apos;ve completed a classic interval workout, an effective workout to burn calories."/>
             <textevent timeoffset="60" message="Let your heart rate come down gradually."/>
-            <textevent timeoffset="120" message="Keep spinning lightly. You&apos;ve done awesome today!"/>
-            <textevent timeoffset="180" message="Almost at the end. Reflect on your amazing work."/>
-            <textevent timeoffset="240" message="Be proud of your efforts today!"/>
-            <textevent timeoffset="290" message="Until next time, Ride On."/>
+            <textevent timeoffset="90" message="Keep spinning lightly. You&apos;ve done awesome today!"/>
+            <textevent timeoffset="120" message="Almost at the end. Reflect on your amazing work."/>
+            <textevent timeoffset="180" message="Be proud of your efforts today!"/>
+            <textevent timeoffset="220" message="Until next time, Ride On."/>
         </Cooldown>
     </workout>
 </workout_file>

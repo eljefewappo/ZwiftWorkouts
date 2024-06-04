@@ -77,7 +77,7 @@
             <textevent timeoffset="750" message="Excellent work!  Sit back down again, spin at a comfortable cadence for the rest of the interval."/>
             <textevent timeoffset="870" message="Last over of for today, keep it up!"/>
         </IntervalsT>
-        <Cooldown Duration="180.00002" PowerLow="0.75" PowerHigh="0.25" pace="0">
+        <Cooldown Duration="120.00002" PowerLow="0.75" PowerHigh="0.25" pace="0">
             <textevent timeoffset="0" message="Done and dusted!  Excellent job!"/>
             <textevent timeoffset="10" message="You should be proud of yourself for completing that one, I know I am of you."/>
             <textevent timeoffset="20" message="Now, spin easy and cool down for a few :-)"/>

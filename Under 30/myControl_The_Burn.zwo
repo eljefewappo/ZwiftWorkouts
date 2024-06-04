@@ -1,0 +1,94 @@
+<workout_file>
+    <author>Sean Jefferson</author>
+    <name>myControl The Burn</name>
+    <description>Control The Burn starts easy and builds slowly. Beware it gets hot! Can you stand the heat! This workout is great for time crunched athletes looking for an efficient session.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="180.00002" PowerLow="0.64999998" PowerHigh="0.80000007" pace="0">
+            <textevent timeoffset="0" message="Welcome to Control The Burn!"/>
+            <textevent timeoffset="10" message="Let&apos;s start off with a comfortable cadence and follow along with the pace changes as you start to loosen up."/>
+            <textevent timeoffset="20" message="This workout starts controlled but heats up quick, be prepared!"/>
+            <textevent timeoffset="30" message="Keep a water bottle nearby, it helps to extinguish any flare ups :-)"/>
+            <textevent timeoffset="60" message="Nice work, starting to warm up?"/>
+            <textevent timeoffset="70" message="Great! A warm body is a loose body. We want your legs, lungs, and heart all working together."/>
+            <textevent timeoffset="120" message="Final minute - stay with the effort!"/>
+        </Warmup>
+        <SteadyState Duration="20" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Light on the pedals, find a few easy breaths."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.80000001" pace="0">
+            <textevent timeoffset="0" message="Now we get to work!"/>
+            <textevent timeoffset="10" message="The pattern for today is a steady effort followed by a ramp effort."/>
+            <textevent timeoffset="20" message="There is a 20sec easy spin between every interval."/>
+            <textevent timeoffset="30" message="Let&apos;s dig in."/>
+            <textevent timeoffset="60" message="Keep the heat steady, there is plenty of time to unleash it at the end of the session."/>
+            <textevent timeoffset="90" message="Quick drink of water."/>
+            <textevent timeoffset="110" message="Nice work, finish it up!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Cool it down."/>
+        </SteadyState>
+        <Ramp Duration="120.00001" PowerLow="0.82000005" PowerHigh="0.88" pace="0">
+            <textevent timeoffset="0" message="Here we go! First ramp of the day."/>
+            <textevent timeoffset="10" message="Stay controlled to start!"/>
+            <textevent timeoffset="30" message="The heat will jump quickly."/>
+            <textevent timeoffset="60" message="You&apos;re smoldering! Where there is smoke there is fire."/>
+            <textevent timeoffset="70" message="Keep it contained."/>
+            <textevent timeoffset="100" message="Keep pushing!"/>
+            <textevent timeoffset="110" message="Small reprieve coming up."/>
+        </Ramp>
+        <SteadyState Duration="20" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Water tamps down fire, now is a good time to take a few sips."/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" Power="0.89999998" pace="0">
+            <textevent timeoffset="0" message="Back to work."/>
+            <textevent timeoffset="10" message="These efforts only get harder from here on out!"/>
+            <textevent timeoffset="30" message="Control it!"/>
+            <textevent timeoffset="50" message="Keep it up!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="The recoveries will feel shorter and shorter as we continue on."/>
+            <textevent timeoffset="10" message="Try and grab a quick drink between each rep."/>
+        </SteadyState>
+        <Ramp Duration="90.000008" PowerLow="0.92000008" PowerHigh="0.98000002" pace="0">
+            <textevent timeoffset="0" message="Now we&apos;re cooking!"/>
+            <textevent timeoffset="30" message="Watch for the pace changes."/>
+            <textevent timeoffset="40" message="It&apos;s a small build. Stay focused."/>
+            <textevent timeoffset="60" message="Nice job, keep pressing!"/>
+            <textevent timeoffset="80" message="Keep those feet moving!"/>
+        </Ramp>
+        <SteadyState Duration="20" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="We are entering the belly of the beast!"/>
+            <textevent timeoffset="10" message="Stay sharp out there."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.02" pace="0">
+            <textevent timeoffset="0" message="We are past the boiling point now!"/>
+            <textevent timeoffset="10" message="It&apos;s getting hot, maybe even scalding!"/>
+        </SteadyState>
+        <SteadyState Duration="20" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Where is the air conditioner? Turn it way up!"/>
+        </SteadyState>
+        <Ramp Duration="60.000004" PowerLow="1.04" PowerHigh="1.0799999" pace="0">
+            <textevent timeoffset="0" message="The flames are loose now!"/>
+            <textevent timeoffset="10" message="It&apos;s out of control."/>
+            <textevent timeoffset="30" message="Duck and weave though the flames."/>
+            <textevent timeoffset="50" message="Small clearing up ahead!"/>
+        </Ramp>
+        <SteadyState Duration="20" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Whew, it&apos;s getting hectic out there."/>
+            <textevent timeoffset="10" message="Final push! Coming up!"/>
+        </SteadyState>
+        <SteadyState Duration="15.000001" Power="1.1" pace="0">
+            <textevent timeoffset="0" message="Feed the beast! Give it all you&apos;ve got!"/>
+        </SteadyState>
+        <Cooldown Duration="105.00001" PowerLow="0.69999993" PowerHigh="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Nice work!"/>
+            <textevent timeoffset="10" message="Drink some cool water and put those legs on ice."/>
+            <textevent timeoffset="30" message="Catch your breath and let your heart rate drop a few beats before jumping off the bike. "/>
+            <textevent timeoffset="40" message="It&apos;s always better to take a few minutes of easy spinning to help settle your legs down."/>
+            <textevent timeoffset="60" message="Great effort today! See you again soon."/>
+            <textevent timeoffset="90" message="Ride On."/>
+        </Cooldown>
+    </workout>
+</workout_file>

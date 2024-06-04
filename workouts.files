@@ -1,5 +1,54 @@
 <custom_file_directory>
     <custom_file>
+        <name>Under 30/myLactate_Shuttle_Short.zwo</name>
+        <time>1717499954</time>
+        <guid>29237</guid>
+        <checksum>118</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myUnder_Over.zwo</name>
+        <time>1717499583</time>
+        <guid>16198</guid>
+        <checksum>133</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/my2_by_2.zwo</name>
+        <time>1717499583</time>
+        <guid>3094</guid>
+        <checksum>179</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myKnife_edge.zwo</name>
+        <time>1717499583</time>
+        <guid>3696</guid>
+        <checksum>33</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myLavender_Unicorn.zwo</name>
+        <time>1717499583</time>
+        <guid>27332</guid>
+        <checksum>234</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myControl_The_Burn.zwo</name>
+        <time>1717499583</time>
+        <guid>32133</guid>
+        <checksum>85</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Under 30/myWeekend_Tune_Up.zwo</name>
+        <time>1717499188</time>
+        <guid>32381</guid>
+        <checksum>177</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Under 30/myDepleting_Workout.zwo</name>
         <time>1716462928</time>
         <guid>12548</guid>
@@ -43,16 +92,16 @@
     </custom_file>
     <custom_file>
         <name>Under 30/myInterval_Power_Play.zwo</name>
-        <time>1716040845</time>
-        <guid>2711</guid>
-        <checksum>3</checksum>
+        <time>1717499860</time>
+        <guid>6770</guid>
+        <checksum>52</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Under 30/myOrange_Unicorn_Lite.zwo</name>
-        <time>1716046757</time>
-        <guid>14903</guid>
-        <checksum>6</checksum>
+        <time>1717499078</time>
+        <guid>32113</guid>
+        <checksum>12</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1798,5 +1847,12 @@
         <hash>3851016789</hash>
         <hash>2961233130</hash>
         <hash>582720855</hash>
+        <hash>3773500469</hash>
+        <hash>1829685292</hash>
+        <hash>2371168184</hash>
+        <hash>214090818</hash>
+        <hash>3355668691</hash>
+        <hash>3405646993</hash>
+        <hash>2089777671</hash>
     </deleted_files>
 </custom_file_directory>

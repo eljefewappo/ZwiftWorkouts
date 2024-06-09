@@ -1,65 +1,170 @@
 <custom_file_directory>
     <custom_file>
-        <name>Under 60/myCrit_City_Downtown_Dolphin.zwo</name>
-        <time>1714646557</time>
-        <guid>13395</guid>
-        <checksum>56</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 - 60min/myGrin_And_Bear_It.zwo</name>
-        <time>1717942128</time>
-        <guid>1302</guid>
-        <checksum>170</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myWild_Iris.zwo</name>
-        <time>1717943090</time>
-        <guid>27901</guid>
+        <name>30 Min or Less Workouts/myWild_Iris.zwo</name>
+        <time>1717943613</time>
+        <guid>25601</guid>
         <checksum>86</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>30 Min or less/myJon_s_Short_Mix.zwo</name>
-        <time>1717943090</time>
-        <guid>21240</guid>
-        <checksum>111</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myOrange_Unicorn_Lite.zwo</name>
-        <time>1717943090</time>
-        <guid>4745</guid>
-        <checksum>12</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myWaveRider.zwo</name>
-        <time>1717943090</time>
-        <guid>14250</guid>
+        <name>30 Min or Less Workouts/myWaveRider.zwo</name>
+        <time>1717943613</time>
+        <guid>19245</guid>
         <checksum>23</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>30 Min or less/myLavender_Unicorn.zwo</name>
-        <time>1717943090</time>
-        <guid>30290</guid>
+        <name>30 Min or Less Workouts/myWeekend_Tune_Up.zwo</name>
+        <time>1717943613</time>
+        <guid>3170</guid>
+        <checksum>177</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myCalorie_Crush.zwo</name>
+        <time>1717943613</time>
+        <guid>21296</guid>
+        <checksum>60</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myPower_Surge__Lite_.zwo</name>
+        <time>1717943613</time>
+        <guid>25855</guid>
+        <checksum>174</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myShort_Mix.zwo</name>
+        <time>1717943613</time>
+        <guid>12672</guid>
+        <checksum>148</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myMini_Micro_Wave.zwo</name>
+        <time>1717943613</time>
+        <guid>10362</guid>
+        <checksum>47</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myBrisk_Burn.zwo</name>
+        <time>1717943613</time>
+        <guid>21465</guid>
+        <checksum>114</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myInstant_Inferno.zwo</name>
+        <time>1717943613</time>
+        <guid>14399</guid>
+        <checksum>209</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myHeat_Wave.zwo</name>
+        <time>1717943613</time>
+        <guid>28529</guid>
+        <checksum>247</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myUnder_Over.zwo</name>
+        <time>1717943613</time>
+        <guid>17562</guid>
+        <checksum>133</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myControl_The_Burn.zwo</name>
+        <time>1717943613</time>
+        <guid>18016</guid>
+        <checksum>85</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myLavender_Unicorn.zwo</name>
+        <time>1717943613</time>
+        <guid>10557</guid>
         <checksum>234</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>30 Min or less/myDepleting_Workout.zwo</name>
-        <time>1717943090</time>
-        <guid>20310</guid>
+        <name>30 Min or Less Workouts/myDepleting_Workout.zwo</name>
+        <time>1717943613</time>
+        <guid>26470</guid>
         <checksum>225</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>30 Min or less/myControl_The_Burn.zwo</name>
-        <time>1717943090</time>
-        <guid>29237</guid>
-        <checksum>85</checksum>
+        <name>30 Min or Less Workouts/myInterval_Power_Play.zwo</name>
+        <time>1717943613</time>
+        <guid>14903</guid>
+        <checksum>52</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myJon_s_Short_Mix.zwo</name>
+        <time>1717943613</time>
+        <guid>13486</guid>
+        <checksum>111</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myOrange_Unicorn_Lite.zwo</name>
+        <time>1717943613</time>
+        <guid>6685</guid>
+        <checksum>12</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myLactate_Shuttle_Short.zwo</name>
+        <time>1717943613</time>
+        <guid>27791</guid>
+        <checksum>118</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/mySevens.zwo</name>
+        <time>1717943613</time>
+        <guid>32213</guid>
+        <checksum>70</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myLittle_Bear.zwo</name>
+        <time>1717943613</time>
+        <guid>21102</guid>
+        <checksum>52</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myKnife_edge.zwo</name>
+        <time>1717943613</time>
+        <guid>6336</guid>
+        <checksum>33</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/my2_by_2.zwo</name>
+        <time>1717943613</time>
+        <guid>22364</guid>
+        <checksum>179</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/myFlash_Burn.zwo</name>
+        <time>1717943613</time>
+        <guid>27541</guid>
+        <checksum>70</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 Min or Less Workouts/my8.5_Minutes_Of_Pain.zwo</name>
+        <time>1717943613</time>
+        <guid>21734</guid>
+        <checksum>212</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -70,129 +175,10 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>30 Min or less/myShort_Mix.zwo</name>
-        <time>1717943090</time>
-        <guid>3666</guid>
-        <checksum>148</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/my8.5_Minutes_Of_Pain.zwo</name>
-        <time>1717943090</time>
-        <guid>26498</guid>
-        <checksum>212</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>30 - 60 Min Workouts/myCrit_City_Downtown_Dolphin.zwo</name>
         <time>1717943090</time>
         <guid>8773</guid>
         <checksum>56</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myLittle_Bear.zwo</name>
-        <time>1717943090</time>
-        <guid>19293</guid>
-        <checksum>52</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myInterval_Power_Play.zwo</name>
-        <time>1717943090</time>
-        <guid>7764</guid>
-        <checksum>52</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/mySevens.zwo</name>
-        <time>1717943090</time>
-        <guid>16584</guid>
-        <checksum>70</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myUnder_Over.zwo</name>
-        <time>1717943090</time>
-        <guid>15981</guid>
-        <checksum>133</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myHeat_Wave.zwo</name>
-        <time>1717943090</time>
-        <guid>7548</guid>
-        <checksum>247</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/my2_by_2.zwo</name>
-        <time>1717943090</time>
-        <guid>2320</guid>
-        <checksum>179</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myBrisk_Burn.zwo</name>
-        <time>1717943090</time>
-        <guid>11167</guid>
-        <checksum>114</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myCalorie_Crush.zwo</name>
-        <time>1717943090</time>
-        <guid>2711</guid>
-        <checksum>60</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myPower_Surge__Lite_.zwo</name>
-        <time>1717943090</time>
-        <guid>31632</guid>
-        <checksum>174</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myMini_Micro_Wave.zwo</name>
-        <time>1717943090</time>
-        <guid>23449</guid>
-        <checksum>47</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myWeekend_Tune_Up.zwo</name>
-        <time>1717943090</time>
-        <guid>1772</guid>
-        <checksum>177</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myKnife_edge.zwo</name>
-        <time>1717943090</time>
-        <guid>31951</guid>
-        <checksum>33</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myLactate_Shuttle_Short.zwo</name>
-        <time>1717943090</time>
-        <guid>1048</guid>
-        <checksum>118</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myFlash_Burn.zwo</name>
-        <time>1717943090</time>
-        <guid>14899</guid>
-        <checksum>70</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>30 Min or less/myInstant_Inferno.zwo</name>
-        <time>1717943090</time>
-        <guid>7863</guid>
-        <checksum>209</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1902,5 +1888,31 @@
         <hash>2562891676</hash>
         <hash>424349616</hash>
         <hash>2292646085</hash>
+        <hash>1038751491</hash>
+        <hash>633802157</hash>
+        <hash>3777343260</hash>
+        <hash>2593045691</hash>
+        <hash>1816470507</hash>
+        <hash>1315799146</hash>
+        <hash>3160951447</hash>
+        <hash>4188328347</hash>
+        <hash>3847948304</hash>
+        <hash>436351590</hash>
+        <hash>2314222883</hash>
+        <hash>1558789437</hash>
+        <hash>653821315</hash>
+        <hash>3212876494</hash>
+        <hash>3245547468</hash>
+        <hash>2625498313</hash>
+        <hash>3178859212</hash>
+        <hash>1127332387</hash>
+        <hash>2775849036</hash>
+        <hash>3276119306</hash>
+        <hash>3118424396</hash>
+        <hash>3321316518</hash>
+        <hash>2771859850</hash>
+        <hash>3683245544</hash>
+        <hash>848635586</hash>
+        <hash>2585377382</hash>
     </deleted_files>
 </custom_file_directory>

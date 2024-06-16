@@ -1,9 +1,16 @@
 <custom_file_directory>
     <custom_file>
-        <name>30 - 60 Min Workouts/myRamp_Beeps_by_Five.zwo</name>
+        <name>myRamp_Beeps_by_Five.zwo</name>
         <time>1718554440</time>
         <guid>25684</guid>
         <checksum>131</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 - 60 Min Workouts/myRamp_Beeps_by_Five.zwo</name>
+        <time>1718555358</time>
+        <guid>31879</guid>
+        <checksum>174</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>

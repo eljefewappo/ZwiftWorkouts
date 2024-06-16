@@ -1,5 +1,33 @@
 <custom_file_directory>
     <custom_file>
+        <name>30 - 60 Min Workouts/myRamp_Beeps_by_Five.zwo</name>
+        <time>1718554440</time>
+        <guid>25684</guid>
+        <checksum>131</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myHalvfems_Lite.zwo</name>
+        <time>1718554408</time>
+        <guid>17350</guid>
+        <checksum>201</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>myPyramids.zwo</name>
+        <time>1718551232</time>
+        <guid>18798</guid>
+        <checksum>164</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Georgia_Simmerling___myTeam_Pursuit.zwo</name>
+        <time>1718101664</time>
+        <guid>18973</guid>
+        <checksum>219</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>30 Min or Less Workouts/myWild_Iris.zwo</name>
         <time>1717943613</time>
         <guid>25601</guid>
@@ -169,9 +197,9 @@
     </custom_file>
     <custom_file>
         <name>30 - 60 Min Workouts/myGrin_And_Bear_It.zwo</name>
-        <time>1717943090</time>
+        <time>1717948025</time>
         <guid>31879</guid>
-        <checksum>170</checksum>
+        <checksum>81</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1914,5 +1942,6 @@
         <hash>3683245544</hash>
         <hash>848635586</hash>
         <hash>2585377382</hash>
+        <hash>2644687092</hash>
     </deleted_files>
 </custom_file_directory>

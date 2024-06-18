@@ -1,15 +1,29 @@
 <custom_file_directory>
     <custom_file>
-        <name>myNino_Schurter___Punchy_Climbs.zwo</name>
-        <time>1718709721</time>
-        <guid>2916</guid>
+        <name>30 - 60 Min Workouts/myPyramids.zwo</name>
+        <time>1718710159</time>
+        <guid>31879</guid>
+        <checksum>164</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 - 60 Min Workouts/Georgia_Simmerling___myTeam_Pursuit.zwo</name>
+        <time>1718710034</time>
+        <guid>20310</guid>
+        <checksum>219</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>30 - 60 Min Workouts/Nino_Schurter___myPunchy_Climbs.zwo</name>
+        <time>1718710034</time>
+        <guid>26498</guid>
         <checksum>159</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>myOver_Under_s_12___10.zwo</name>
-        <time>1718709680</time>
-        <guid>27350</guid>
+        <name>30 - 60 Min Workouts/myOver_Under_s_12___10.zwo</name>
+        <time>1718710034</time>
+        <guid>27901</guid>
         <checksum>54</checksum>
         <deleted>false</deleted>
     </custom_file>
@@ -25,20 +39,6 @@
         <time>1718555358</time>
         <guid>31879</guid>
         <checksum>174</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>myPyramids.zwo</name>
-        <time>1718551232</time>
-        <guid>18798</guid>
-        <checksum>164</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Georgia_Simmerling___myTeam_Pursuit.zwo</name>
-        <time>1718101664</time>
-        <guid>18973</guid>
-        <checksum>219</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1960,5 +1960,9 @@
         <hash>3057973009</hash>
         <hash>1855874154</hash>
         <hash>916565398</hash>
+        <hash>309213604</hash>
+        <hash>2844935194</hash>
+        <hash>3405646091</hash>
+        <hash>848727454</hash>
     </deleted_files>
 </custom_file_directory>

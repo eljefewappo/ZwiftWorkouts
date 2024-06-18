@@ -1,0 +1,87 @@
+<workout_file>
+    <author>Kristin Armstrong</author>
+    <name>myOver Under's 12 + 10</name>
+    <description>This session includes Under Overs. This is the same as what we call Over Under other than you begin with an effort under your FTP (100%). There are two blocks. The first block includes 1 minute efforts at 75% of your FTP alternating with efforts at 115% of your FTP. Enjoy the 4 minute recovery before hitting the last set of Under Overs which include 2 minutes at 75% of your FTP followed by :30 seconds at 115%. The total duration of the first set is 12-mintues and second set is 10-minutes. This session is a great fitness builder while keeping your mind from losing focus!</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="120.00001" Power="0.60000002" pace="0">
+            <textevent timeoffset="0" message="Welcome to Over Under 12 + 10! We&apos;ll start today with a warm up. Keep your cadence comfortable here."/>
+            <textevent timeoffset="110" message="We&apos;ll move up into zone 2 next."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.69999999" pace="0">
+            <textevent timeoffset="1" message="Keep relaxed here, we&apos;re just easing into the day."/>
+            <textevent timeoffset="60" message="This workout is the same as what we call Over Under&apos;s other than you begin with an effort under your FTP (100%) rather than over. "/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.80000001" pace="0">
+            <textevent timeoffset="0" message="Great effort so far, let&apos;s move up into zone 3 now."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.89999998" pace="0">
+            <textevent timeoffset="0" message="It&apos;s important to have a solid block of warming up building throughout to ensure our body is nice and warmed up for todays session."/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="Let&apos;s make sure to have everything set before GO time.  Water, Fan, Towel-- set!"/>
+            <textevent timeoffset="10" message="Let&apos;s also chat for a moment about the plan for today."/>
+            <textevent timeoffset="20" message="We&apos;ll tackle 2 sets of Over Unders today with the 1st being 12min in duration, and the 2nd set being 10min in duration."/>
+            <textevent timeoffset="30" message="The 1st block includes 1 minute efforts at 75% of your FTP alternating with efforts at 115% of your FTP."/>
+            <textevent timeoffset="40" message="The 2nd set of Under Overs include 2 minutes at 75% of your FTP followed by :30 seconds at 115%."/>
+            <textevent timeoffset="50" message="So, expect the 1st interval set to feel a lot more difficult relative to the 2nd :-)"/>
+            <textevent timeoffset="60" message="Take a couple deep breaths and have a drink as we prepare to tackle it!"/>
+            <textevent timeoffset="110" message="Here we go!"/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Find 75% FTP and settle in for 1-minute. "/>
+            <textevent timeoffset="60" message="It&apos;s time to pick it up a few notches.  This may feel like a big jump at first. "/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Nice and steady here, try to keep cadence high and stay relaxed."/>
+            <textevent timeoffset="10" message="And if you can&apos;t hit the Under power, you can always lower your FTP bias."/>
+            <textevent timeoffset="60" message="PICK IT UP!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Back to zone 2 again here. Breathe..."/>
+            <textevent timeoffset="60" message="HIT IT! Stay focused now!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Stay Strong, we are over the half way mark. "/>
+            <textevent timeoffset="60" message="GO GO GO! "/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="You are doing so great today! Lower the power back down again."/>
+            <textevent timeoffset="60" message="UP UP UP!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Last one of Set #1!"/>
+            <textevent timeoffset="60" message="Nice work - 12 minutes down!"/>
+        </IntervalsT>
+        <SteadyState Duration="240.00002" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="Enjoy and embrace recovery time! Easy pedaling here. "/>
+            <textevent timeoffset="60" message="Make sure you&apos;re sipping those fluids during the recovery."/>
+            <textevent timeoffset="180" message="Okay, in 1min we&apos;re back on again. Remember, this time the Over will be 30sec long."/>
+            <textevent timeoffset="230" message="Here we go!"/>
+        </SteadyState>
+        <IntervalsT Repeat="1" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Second and final set of the day! Settle in at 75% of your FTP. "/>
+            <textevent timeoffset="120" message="Pick it up!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Excellent work! That&apos;s the 1st one checked off."/>
+            <textevent timeoffset="120" message="GO GO GO!"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Less than 5 minutes of work!"/>
+            <textevent timeoffset="120" message="UP UP UP"/>
+        </IntervalsT>
+        <IntervalsT Repeat="1" OnDuration="120.00001" OffDuration="30.000002" OnPower="0.75" OffPower="1.15" pace="0">
+            <textevent timeoffset="0" message="Refocus and get there!"/>
+            <textevent timeoffset="120" message="Standing or Sitting? Your choice."/>
+        </IntervalsT>
+        <SteadyState Duration="240.00002" Power="0.5" pace="0">
+            <textevent timeoffset="0" message="Congrats on a great and solid session!"/>
+            <textevent timeoffset="10" message="Let&apos;s start our cool down now."/>
+            <textevent timeoffset="60" message="Take care of yourself by hydrating and refueling so you feel recovered and ready to go again for your next session!"/>
+            <textevent timeoffset="90" message="Take a few more deep breaths here as we continue to return to baseline."/>
+            <textevent timeoffset="170" message="See you on the next workout - Dani and Kristin."/>
+        </SteadyState>
+    </workout>
+</workout_file>

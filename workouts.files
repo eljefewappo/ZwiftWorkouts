@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>30 - 60 Min Workouts/myInterval_Power_Play.zwo</name>
+        <time>1720697424</time>
+        <guid>21359</guid>
+        <checksum>3</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>30 - 60 Min Workouts/myPyramids.zwo</name>
         <time>1718710159</time>
         <guid>31879</guid>
@@ -176,9 +183,9 @@
     </custom_file>
     <custom_file>
         <name>30 Min or Less Workouts/myLittle_Bear.zwo</name>
-        <time>1717943613</time>
-        <guid>21102</guid>
-        <checksum>52</checksum>
+        <time>1720697424</time>
+        <guid>26134</guid>
+        <checksum>60</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1964,5 +1971,6 @@
         <hash>2844935194</hash>
         <hash>3405646091</hash>
         <hash>848727454</hash>
+        <hash>1538884964</hash>
     </deleted_files>
 </custom_file_directory>
